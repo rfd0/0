@@ -23,6 +23,8 @@ https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/chunklist_w187
 https://almaaref.arvanlive.ir/hls/almaarefch/almaarefch_720/index.m3u8
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRFdzIm5WWOWMmvsqBFE4nBt6KZfB2TYBsUzjnA=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" group-title="IRAQ",AlMaaref2
 https://almaaref.arvanlive.ir/hls/almaarefch/almaarefch.m3u8
+#EXTINF:-1 tvg-id="AlMaarefTV.kw" tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="Religious",Al Maaref (360p)
+https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" tvg-country="IR" tvg-url="" group-title="IRAQ",ch4teen1 HD
 http://ch14.tv/live/ch4teen1/playlist.m3u8
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" tvg-country="IR" tvg-url="" group-title="IRAQ",ch4teen twitch
@@ -73,12 +75,16 @@ https://nl.saoutalaqila.tv/hls2/saoutalaqila_high.m3u8
 https://nl.saoutalaqila.tv/hls2/saoutalaqila_low.m3u8
 #EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://duachannel.com/wp-content/uploads/2023/08/Dua-Tv-Logo.png" tvg-country="IR" tvg-url="" group-title="IRAQ",قناة الدعاء
 https://live.ishiacloud.com/hls/fec3fb16-b9bd-44b1-ae9b-a1e4e91c84fc_720p.m3u8
-#EXTINF:-1 tvg-id="DuaChannel.iq",Dua Channel (720p)
+#EXTINF:-1 tvg-id="DuaChannel.iq" tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="Undefined",Dua Channel (720p)
 https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
 #EXTINF:-1 tvg-id="DuaChannel.iq",Al Mahdi
 https://stream.al-mahdi.tv/hls/1234.m3u8
 #EXTINF:0  tvg-language="Arabic" tvg-logo="https://imamhussein2.tv/wp-content/uploads/2019/08/logowhite-1.png" tvg-country="IR" tvg-url="" tvg-id="ext" group-title="IRAQ",Imam Hussein TV 2
 https://ak.imamhussein.live/imhtv2live/imhtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Alquran.iq" tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Religious",Alquran (1080p)
+https://ktv.imamhussain.org/stream/hls/ch1.m3u8
+#EXTINF:-1 tvg-id="AlNaeemTV.iq" tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="Undefined",Al-Naeem TV (576p)
+https://nl2.livekadeh.com/hls2/alnaeem.m3u8
 #EXTINF:0  tvg-language="Arabic" tvg-logo="https://play-lh.googleusercontent.com/tzr6B3xjOC64qwFtZ3aukl2xN4GdU_oZsgi0W7b_VH8zrskGOuDxJxT-cOCRQnfS44o" tvg-country="IR" tvg-url="" tvg-id="ext" group-title="IRAQ",الموسوي
 https://cdn3.wowza.com/5/aEtqbDdJeWFiL1lG/live2/myStream/chunklist.m3u8
 #EXTINF:0  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" tvg-id="ext" group-title="IRAQ",الامام الرضا
