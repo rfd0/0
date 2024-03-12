@@ -1,6 +1,31 @@
 #EXTM3U
+#EXTM3U
+#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" tvg-country="IR" tvg-url="" group-title="IRAQ",Imam Ali TV
+http://95.216.180.111:1935/live/120/playlist.m3u8
+#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" tvg-country="IR" tvg-url="" group-title="IRAQ",Imam Ali2
+http://95.216.180.111:1935/live/120/index.m3u8
+#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" tvg-country="IR" tvg-url="" group-title="IRAQ",Imam Ali3
+http://95.216.180.111:1935/live/120/chunklist.m3u8
+#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="IRAQ",Karbala
+http://95.216.180.111:1935/live/45/index.m3u8
+#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="IRAQ",Karbala2
+http://95.216.180.111:1935/live/45/playlist.m3u8
+#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="IRAQ",Karbala3
+http://95.216.180.111:1935/live/45/chunklist.m3u8
+#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="IRAQ",Karbala Quran
+https://ktvlive.online/stream/hls/ch1.m3u8
+#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRFdzIm5WWOWMmvsqBFE4nBt6KZfB2TYBsUzjnA=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" group-title="IRAQ",المعارف
+http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist_w748681898_b446000.m3u8
+#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRFdzIm5WWOWMmvsqBFE4nBt6KZfB2TYBsUzjnA=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" group-title="IRAQ",المعارف2
+https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/chunklist_w1875078440_b446000.m3u8
+#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRFdzIm5WWOWMmvsqBFE4nBt6KZfB2TYBsUzjnA=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" group-title="IRAQ",AlMaaref
+https://almaaref.arvanlive.ir/hls/almaarefch/almaarefch_720/index.m3u8
+#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRFdzIm5WWOWMmvsqBFE4nBt6KZfB2TYBsUzjnA=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" group-title="IRAQ",AlMaaref2
+https://almaaref.arvanlive.ir/hls/almaarefch/almaarefch.m3u8
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" tvg-country="IR" tvg-url="" group-title="IRAQ",ch4teen1 HD
 http://ch14.tv/live/ch4teen1/playlist.m3u8
+#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" tvg-country="IR" tvg-url="" group-title="IRAQ",ch4teen twitch
+https://video-weaver.sea02.hls.ttvnw.net/v1/playlist/Cp8F9WXpoIKQm1amnQSjI7HI1rruDr85nz-BNPZbDMign3g0XF4Kuk0eJPHNjOurQvEaLnVYvVwyb6mKLqxh1Mu8r6a1LdawqWawn27EYBXEbUsoD6f-CRlb1OIsfokT_tV8sh9GNtHSsH2e1UxsGeGY4nqcvT9yYlZyLMSILZJvERcXs57jPXirKa5in_Xr30bbr98OGbfh61zgHdcxqR0jU_lnm-dbi9rggRdjY3f5VY8hjQJaEvgn4kq3zRvADqS815wonVACu3WjtNdum1i4C9aYmLTwBd_FxPeq4oq4y_FksKF3upYgQjTC0-dyYktNlbILA4cCF6AVjDC5AlLy9tvter7h15kyTpXY6pYtpFhkEa5TzuYill9-JbGd34qqlU58_C5_2KXVadCa4GUMQnXJULbKRTjID5DZizSKk46C-4YQoGOEfcRnwjXlfckOQx0G2d2dxbOMSW-rOAnogc4idp6W36JX61pKs7VUFCHDsuECkF9WVkVjgzTqUszk2wCZjsNSuZGU0WNP3lt357RPnPyOoL_0H3CRpQUKJFz846b7kEHqWrTAluwBPZ9jjKyVwROFEl-e1PpXWyjV1tdfk70f6D8n6yLWJokZmNhO8ETG5TVJpFo3_55-HMyn8RvNiPnuUulp2IFSJtbdPJmR2KsxC-vgDPvY9zSG2mXdKjSod8oO3ehc__JnSGb-L5jnGjG4BjguWPOGxIOdXswfoQ6QuBVHrQrZbCIKycrd6_qM3otf0PY7Z4rCSqsspLCK7IdhtLGTn7qpmYW4IT81HbVgcsb68M_LEq0IOHeiaSiks_NO63tV0SIjgK62Mlqg5uYCDQDkJYX9olj4trjKKBN-JYz7bdN1cyjaniyS0Yej9Z0bvWtbHs-2BHUaDClnsM7hXszl7R80rCABKgl1cy13ZXN0LTIw9gg.m3u8
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" tvg-country="IR" tvg-url="" group-title="IRAQ",ch4teen live1 HD
 http://ch14.tv/live/ch4teenlive1/playlist.m3u8
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" tvg-country="IR" tvg-url="" group-title="IRAQ",ch4teen live2 HD
@@ -39,22 +64,28 @@ http://ch14.tv:80/live/ch4teenclip/playlist.m3u8
 http://ch14.tv:80/live/ch4teenquran/playlist.m3u8
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" tvg-country="IR" tvg-url="" group-title="IRAQ",ch4teen Documentary
 http://ch14.tv:80/live/ch4teendoc/playlist.m3u8
-#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="IRAQ",Karbala
-http://95.216.180.111:1935/live/45/index.m3u8
-#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRFdzIm5WWOWMmvsqBFE4nBt6KZfB2TYBsUzjnA=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" group-title="IRAQ",المعارف
-http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist_w748681898_b446000.m3u8
+#EXTINF:-1 tvg-id="iq",Al Shaaer Twitch
+https://usher.ttvnw.net/api/channel/hls/alshaaertv.m3u8?acmb=e30%3D&allow_source=true&browser_family=chrome&browser_version=122.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=4186896&platform=web&play_session_id=255f7589c8d9086f91f05f4c95ba1a31&player_backend=mediaplayer&player_version=1.26.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=02d966025a2d51c64ef4f00fb364f63563e06a1b&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22alshaaertv%22%2C%22channel_id%22%3A692300889%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22c80db926fb769cc7%22%2C%22expires%22%3A1710252872%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2250.34.39.122%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
 #EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url=""group-title="IRAQ",صوت العقيلة
 https://nl.saoutalaqila.tv/hls2/saoutalaqila_high.m3u8
+#EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url=""group-title="IRAQ",صوت العقيلة 2
+https://nl.saoutalaqila.tv/hls2/saoutalaqila_low.m3u8
 #EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://duachannel.com/wp-content/uploads/2023/08/Dua-Tv-Logo.png" tvg-country="IR" tvg-url="" group-title="IRAQ",قناة الدعاء
 https://live.ishiacloud.com/hls/fec3fb16-b9bd-44b1-ae9b-a1e4e91c84fc_720p.m3u8
 #EXTINF:-1 tvg-id="DuaChannel.iq",Dua Channel (720p)
 https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
+#EXTINF:-1 tvg-id="DuaChannel.iq",Al Mahdi
+https://stream.al-mahdi.tv/hls/1234.m3u8
 #EXTINF:0  tvg-language="Arabic" tvg-logo="https://imamhussein2.tv/wp-content/uploads/2019/08/logowhite-1.png" tvg-country="IR" tvg-url="" tvg-id="ext" group-title="IRAQ",Imam Hussein TV 2
 https://ak.imamhussein.live/imhtv2live/imhtv2.smil/playlist.m3u8
 #EXTINF:0  tvg-language="Arabic" tvg-logo="https://play-lh.googleusercontent.com/tzr6B3xjOC64qwFtZ3aukl2xN4GdU_oZsgi0W7b_VH8zrskGOuDxJxT-cOCRQnfS44o" tvg-country="IR" tvg-url="" tvg-id="ext" group-title="IRAQ",الموسوي
 https://cdn3.wowza.com/5/aEtqbDdJeWFiL1lG/live2/myStream/chunklist.m3u8
 #EXTINF:0  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" tvg-id="ext" group-title="IRAQ",الامام الرضا
 https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
+#EXTINF:0  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" tvg-id="ext" group-title="IRAQ",AlIman
+https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
+#EXTINF:0  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" tvg-id="ext" group-title="IRAQ",AlThaqalain
+http://77.36.160.164:1935/live4/thaghalayn/chunklist_w148808995.m3u8
 #EXTINF:0  tvg-language="Arabic" tvg-logo="https://aramland.com/wp-content/uploads/2023/08/Picsart_23-08-18_14-29-50-286.jpg" tvg-country="IR" tvg-url="" tvg-id="ext" group-title="IRAQ",2 الانوار
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/7f3fd725a2684c459974d80790b97ec7/chunklist_b2592000.m3u8?p=79&s=1706293190&e=1706293310&h=8c1a9f79bceecb8486e59b11267e2ad0
 #EXTINF:-1 tvg-id="AlAnwar2.iq",Al Anwar 2
