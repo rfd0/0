@@ -19,8 +19,6 @@ http://zentv.info:8080/Zoro/00009/94984
 http://mitvpro.live:25461/02027179303557/2143672303/115250
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="IRAQ",Karbala Quran
 https://ktvlive.online/stream/hls/ch1.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |IQ| AL QURAIN
-http://mitvpro.live:25461/02027179303557/2143672303/115262
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRFdzIm5WWOWMmvsqBFE4nBt6KZfB2TYBsUzjnA=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" group-title="IRAQ",المعارف
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist_w748681898_b446000.m3u8
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRFdzIm5WWOWMmvsqBFE4nBt6KZfB2TYBsUzjnA=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" group-title="IRAQ",المعارف2
