@@ -83,25 +83,25 @@ https://nl.saoutalaqila.tv/hls2/saoutalaqila_high.m3u8
 https://nl.saoutalaqila.tv/hls2/saoutalaqila_low.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |IQ| SAOUT AL AQILA
 http://mitvpro.live:25461/02027179303557/2143672303/192918
-#EXTINF:-1 saoutalaqila
+#EXTINF:-1 tvg-id="iq",saoutalaqila
 https://nl2.livekadeh.com/hls2/saoutalaqila.m3u8
-#EXTINF:-1 saoutalaqila_high
+#EXTINF:-1 tvg-id="iq",saoutalaqila_high
 https://nl2.livekadeh.com/hls2/saoutalaqila_high.m3u8
-#EXTINF:-1 saoutalaqila_mid
+#EXTINF:-1 tvg-id="iq",saoutalaqila_mid
 https://nl2.livekadeh.com/hls2/saoutalaqila_mid.m3u8
-#EXTINF:-1 saoutalaqila_low
+#EXTINF:-1 tvg-id="iq",saoutalaqila_low
 https://nl2.livekadeh.com/hls2/saoutalaqila_low.m3u8
-#EXTINF:-1 saoutalaqila_src
+#EXTINF:-1 tvg-id="iq",saoutalaqila_src
 https://nl2.livekadeh.com/hls2/saoutalaqila_src.m3u8
-#EXTINF:-1 Bayyinat
+#EXTINF:-1 tvg-id="iq",Bayyinat
 https://nl2.livekadeh.com/hls2/Bayyinat.m3u8
-#EXTINF:-1 Bayyinat_high
+#EXTINF:-1 tvg-id="iq",Bayyinat_high
 https://nl2.livekadeh.com/hls2/Bayyinat_high.m3u8
-#EXTINF:-1 Bayyinat_mid
+#EXTINF:-1 tvg-id="iq",Bayyinat_mid
 https://nl2.livekadeh.com/hls2/Bayyinat_mid.m3u8
-#EXTINF:-1 Bayyinat_low
+#EXTINF:-1 tvg-id="iq",Bayyinat_low
 https://nl2.livekadeh.com/hls2/Bayyinat_low.m3u8
-#EXTINF:-1 Bayyinat_src
+#EXTINF:-1 tvg-id="iq",Bayyinat_src
 https://nl2.livekadeh.com/hls2/Bayyinat_src.m3u8
 #EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://duachannel.com/wp-content/uploads/2023/08/Dua-Tv-Logo.png" tvg-country="IR" tvg-url="" group-title="IRAQ",قناة الدعاء
 https://live.ishiacloud.com/hls/fec3fb16-b9bd-44b1-ae9b-a1e4e91c84fc_720p.m3u8
@@ -163,25 +163,25 @@ http://mitvpro.live:25461/02027179303557/2143672303/115257
 https://ir14.livekadeh.com/hls2/alwilayah_tv.m3u8
 #EXTINF:-1 tvg-id="Al Wilayah TV.iq", Al Wilayah 2
 https://alwilayah.tv/cdn/alwilayah_tv-manifest.m3u8
-#EXTINF:-1 alwilayah_tv
+#EXTINF:-1 tvg-id="iq",alwilayah_tv
 https://nl2.livekadeh.com/hls2/alwilayah_tv.m3u8
-#EXTINF:-1 alwilayah_tv_high
+#EXTINF:-1 tvg-id="iq",alwilayah_tv_high
 https://nl2.livekadeh.com/hls2/alwilayah_tv_high.m3u8
-#EXTINF:-1 alwilayah_tv_mid
+#EXTINF:-1 tvg-id="iq",alwilayah_tv_mid
 https://nl2.livekadeh.com/hls2/alwilayah_tv_mid.m3u8
-#EXTINF:-1 alwilayah_tv_low
+#EXTINF:-1 tvg-id="iq",alwilayah_tv_low
 https://nl2.livekadeh.com/hls2/alwilayah_tv_low.m3u8
-#EXTINF:-1 alwilayah_tv_src
+#EXTINF:-1 tvg-id="iq",alwilayah_tv_src
 https://nl2.livekadeh.com/hls2/alwilayah_tv_src.m3u8
-#EXTINF:-1 iraqitv USA
+#EXTINF:-1 tvg-id="iq",iraqitv USA
 https://nl2.livekadeh.com/hls2/iraqitv.m3u8
-#EXTINF:-1 iraqitv_high USA
+#EXTINF:-1 tvg-id="iq",iraqitv_high USA
 https://nl2.livekadeh.com/hls2/iraqitv_high.m3u8
-#EXTINF:-1 iraqitv_mid USA
+#EXTINF:-1 tvg-id="iq",iraqitv_mid USA
 https://nl2.livekadeh.com/hls2/iraqitv_mid.m3u8
-#EXTINF:-1 iraqitv_low USA
+#EXTINF:-1 tvg-id="iq",iraqitv_low USA
 https://nl2.livekadeh.com/hls2/iraqitv_low.m3u8
-#EXTINF:-1 iraqitv_src USA
+#EXTINF:-1 tvg-id="iq",iraqitv_src USA
 https://nl2.livekadeh.com/hls2/iraqitv_src.m3u8
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/5xdGpN0CtDcQp61QvZZcpWEwaWEbyZDInd63SQ4SkB393oVDRIuudls3Fr_LKeCAqLhSyaTf_k8=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" group-title="IRAQ",قائم
 http://cdn37.live247stream.com/qaim/tv/playlist.m3u8
@@ -195,27 +195,27 @@ http://abalfadhl.tv/live1.htm
 http://mitvpro.live:25461/02027179303557/2143672303/115240
 #EXTINF:0  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/8h4QqMlSLeFpH-cdAtJLAsG0j3yeYkoSGSKhsQHp_tA2ZWOsd2BmGGbQN8rpz-p4Y7Pb_2rziA=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" tvg-id="ext" group-title="IRAQ",الزهراء
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
-#EXTINF:-1 velayattv
+#EXTINF:-1 tvg-id="iq",velayattv
 https://nl2.livekadeh.com/hls2/velayattv.m3u8
-#EXTINF:-1 velayattv_high
+#EXTINF:-1 tvg-id="iq",velayattv_high
 https://nl2.livekadeh.com/hls2/velayattv_high.m3u8
-#EXTINF:-1 velayattv_mid
+#EXTINF:-1 tvg-id="iq",velayattv_mid
 https://nl2.livekadeh.com/hls2/velayattv_mid.m3u8
-#EXTINF:-1 velayattv_low
+#EXTINF:-1 tvg-id="iq",velayattv_low
 https://nl2.livekadeh.com/hls2/velayattv_low.m3u8
-#EXTINF:-1 velayattv_src
+#EXTINF:-1 tvg-id="iq",velayattv_src
 https://nl2.livekadeh.com/hls2/velayattv_src.m3u8
-#EXTINF:-1 valiasr
+#EXTINF:-1 tvg-id="iq",valiasr
 https://nl2.livekadeh.com/hls2/valiasr.m3u8
-#EXTINF:-1 vilayet
+#EXTINF:-1 tvg-id="iq",vilayet
 https://nl2.livekadeh.com/hls2/vilayet.m3u8
-#EXTINF:-1 vilayet_high
+#EXTINF:-1 tvg-id="iq",vilayet_high
 https://nl2.livekadeh.com/hls2/vilayet_high.m3u8
-#EXTINF:-1 vilayet_mid
+#EXTINF:-1 tvg-id="iq",vilayet_mid
 https://nl2.livekadeh.com/hls2/vilayet_mid.m3u8
-#EXTINF:-1 vilayet_low
+#EXTINF:-1 tvg-id="iq",vilayet_low
 https://nl2.livekadeh.com/hls2/vilayet_low.m3u8
-#EXTINF:-1 vilayet_src
+#EXTINF:-1 tvg-id="iq",vilayet_src
 https://nl2.livekadeh.com/hls2/vilayet_src.m3u8
 #EXTINF:-1 tvg-id="iFilm Arabic.iq", iFilm Arabic
 https://cdnlive.presstv.ir/cdnlive/smil:ifilmarcdn.smil/playlist.m3u8
@@ -249,7 +249,6 @@ https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8?checkedby:ahlakid.
 http://mitvpro.live:25461/02027179303557/2143672303/115261
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |IQ| AL Masala
 http://mitvpro.live:25461/02027179303557/2143672303/115263
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |IQ| AL IRAQIA SPORT
 http://mitvpro.live:25461/02027179303557/2143672303/115229
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |IQ| AL RABIAA SPORT HD
