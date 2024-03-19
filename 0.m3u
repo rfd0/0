@@ -15,7 +15,7 @@ http://95.216.180.111:1935/live/45/index.m3u8
 http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Karbala Quran" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="Karbala",Karbala Quran
 https://ktvlive.online/stream/hls/ch1.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="AlKafeet TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/iq-alkafeel-tv-2729-300x225.jpg" group-title="Karbala",Al Kafeel TV
+#EXTINF:-1 tvg-id="ext" tvg-name="AlKafeet TV" tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png" group-title="Karbala",Al Kafeel TV
 https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Imam Ridha" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRFdzIm5WWOWMmvsqBFE4nBt6KZfB2TYBsUzjnA=s900-c-k-c0x00ffffff-no-rj" group-title="Karbala",Imam Ridha
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist_w748681898_b446000.m3u8
