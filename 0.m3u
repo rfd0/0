@@ -139,6 +139,8 @@ http://ch14.tv:80/live/ch4teenlive4/playlist.m3u8
 http://ch14.tv/live/ch4teenlive5/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Ch4teen Live5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="Ch4teen",Ch4teen Live5
 http://ch14.tv:80/live/ch4teenlive5/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Imam Hussain 2" tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="Hussain",Imam Hussein TV 2 (1080p) [Not 24/7]
+https://live.imamhossaintv.com/live/ih2.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Imam Hussein TV 2 (1080p) [not 24/7]" tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="Hussain",Imam Hussein TV 2 (1080p) [not 24/7]
 https://live.imamhossaintv.com/live/ih2.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="|iq| Imam Hussein 2 TV  |arabic|" tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="Hussain",|iq| Imam Hussein 2 TV  |arabic|
@@ -153,6 +155,22 @@ https://cdn3.wowza.com/5/aEtqbDdJeWFiL1lG/live2/myStream/chunklist.m3u8
 https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Imam Hussein TV 2" tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="Hussain",Imam Hussein TV 2
 https://ak.imamhussein.live/imhtv2live/imhtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Imam Hussein TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Hadi_TV.TIF/lossy-page1-116px-Hadi_TV.TIF.jpg" group-title="Hussain",Hadi TV Azeri and Russian (720p)
+https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Imam Hussein TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Hadi_TV.TIF/lossy-page1-116px-Hadi_TV.TIF.jpg" group-title="Hussain",Hadi TV English and Urdu (720p)
+https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Imam Hussein TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Hadi_TV.TIF/lossy-page1-116px-Hadi_TV.TIF.jpg" group-title="Hussain",Hadi TV Farsi (720p)
+https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Imam Hussein TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Hadi_TV.TIF/lossy-page1-116px-Hadi_TV.TIF.jpg" group-title="Hussain",Hadi TV Hausa (720p)
+https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Imam Hussein TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Hadi_TV.TIF/lossy-page1-116px-Hadi_TV.TIF.jpg" group-title="Hussain",Hadi TV Pashto and Persian (720p)
+https://live.ishiacloud.com/haditv.co.uk/haditv6.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Imam Hussain 2" tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="Hussain",Imam Hussein TV 1 (1080p) [Not 24/7]
+https://live.imamhossaintv.com/live/ih1.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Imam Hussain 2" tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="Hussain",Imam Hussein TV 3 (1080p) [Not 24/7]
+https://live.imamhossaintv.com/live/ih3.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Imam Hussain 2" tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="Hussain",Imam Hussein TV 4 (1080p) [Not 24/7]
+https://live.imamhossaintv.com/live/ih4.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Al-naeem TV 1080" tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="Naeem",Al-naeem TV 1080
 https://nl2.livekadeh.com/hls2/alnaeem_high.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="|iq| Al Naeem HD" tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="Naeem",|iq| Al Naeem HD
@@ -231,6 +249,10 @@ http://cdn.live247stream.com/hyder/tv/hyder/stream1/chunks.m3u8?nimblesessionid=
 https://iptv.salaamtv.org/salaam/playlist2/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="press Tv" tvg-logo="https://shialivetv.com/shialive/assets/img/press.jpg" group-title="Islamic",press TV
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="press Tv" tvg-logo="https://shialivetv.com/shialive/assets/img/press.jpg" group-title="Islamic",press TV2
+https://hugh.cdn.rumble.cloud/live/vf1v23qp/slot-7/0zjf-eut8/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="press Tv" tvg-logo="https://shialivetv.com/shialive/assets/img/press.jpg" group-title="Islamic",press TV3
+https://rumble.com/live-hls/4gdsw9/playlist.m3u8?
 #EXTINF:-1 tvg-id="ext" tvg-name="Khoja Tv" tvg-logo="https://shialivetv.com/shialive/assets/img/khojatv.jpg" group-title="Islamic",Khoja TV
 https://livecdn.live247stream.com/khoja/tv/khoja/stream/chunks.m3u8?nimblesessionid=56121060
 #EXTINF:-1 tvg-id="ext" tvg-name="IBN Tv" tvg-logo="https://shialivetv.com/shialive/assets/img/ibn.jpg" group-title="Islamic",IBN TV
@@ -289,6 +311,12 @@ http://mitvpro.live:25461/02027179303557/2143672303/115267
 https://cdnlive.presstv.ir/cdnlive/smil:ifilmarcdn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Ifilm Arabic (720p) [not 24/7]" tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="Islamic",Ifilm Arabic (720p) [not 24/7]
 https://cdnlive.presstv.ir/cdnlive/smil:ifilmarcdn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Ifilm Arabic" tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="Islamic",Ifilm FA
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilmfa.smil/chunklist_w1364694712_b644100_slen.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Ifilm Arabic" tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="Islamic",Ifilm EN
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilmen.smil/chunklist_w1265574406_b644100_slen.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="IRIB Quran" tvg-logo="https://static.telewebion.com/channelsLogo/ZTIxODczOWE4OWQ4MzRmOWU2M2Q3N2ZiYmI4YzNjMTNkZmM3YmQ1NmQ2MGVjMjE5ZDljZmIyZWU5N2RkZWMwMw/default" group-title="Islamic",IRIB Quran
+https://cdn-azd2045.telewebion.com/quran/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Ch4teen Documentary HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="Documentary",Ch4teen Documentary HD
 http://ch14.tv/live/ch4teendoc/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Ch4teen Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="Documentary",Ch4teen Documentary
@@ -311,6 +339,8 @@ http://ch14.tv/live/ch4teenkids/playlist.m3u8
 http://ch14.tv:80/live/ch4teenkids/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Taha TV (360p) [not 24/7]" tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="Kids",Taha TV (360p) [not 24/7]
 https://media2.livaat.com/TAHA-TV/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Hodhod" tvg-logo="https://app.hodhodarabic.com/assets/logo.svg" group-title="Kids",Hodhod TV
+http://63b03f7689049.streamlock.net:1935/live/17/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MBC 3 Eur (1080p)" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Kids",MBC 3 Eur (1080p)
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Atfal & Mawaheb TV (1080p)" tvg-logo="https://i.imgur.com/Y2BqP9m.png" group-title="Kids",Atfal & Mawaheb TV (1080p)
@@ -409,6 +439,8 @@ http://htvmada.mada.ps:8888/wattan/index.m3u8
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AL Alam (360p) [not 24/7]" tvg-logo="https://i.imgur.com/Zdi31dy.png" group-title="News",AL Alam (360p) [not 24/7]
 https://live2.alalam.ir/alalam.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="AL Alam (360p) [not 24/7]" tvg-logo="https://i.imgur.com/Zdi31dy.png" group-title="News",AL Alam hd
+https://live2.alalam.ir/live/Alalam_high/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AL Manar (576p) [not 24/7]" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="News",AL Manar (576p) [not 24/7]
 https://manar.live/iptv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AL Manar" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="News",AL Manar
