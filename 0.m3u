@@ -91,15 +91,15 @@ http://ch14.tv:80/live/ch4teen1/playlist.m3u8
 http://ch14.tv/live/ch4teen1/playlist.m3u8
 #EXTINF:-1  tvg-name="AL Jazeera Documentary (270p) [geo-blocked]" tvg-id="" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="Documentary" :http-referrer="",AL Jazeera Documentary (270p) [geo-blocked]
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-#EXTINF:-1  tvg-name="Asharq Discovery (1080p) [geo-blocked]" tvg-id="" tvg-logo="https://i.imgur.com/Czxi7yk.png" group-title="Documentary" :http-referrer="",Asharq Discovery (1080p) [geo-blocked]
+#EXTINF:-1  tvg-name="Asharq Discovery (1080p) [geo-blocked]" tvg-id="" tvg-logo="https://satkurier.pl/uploads/104160.jpg" group-title="Documentary" :http-referrer="",Asharq Discovery (1080p) [geo-blocked]
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1  tvg-name="Asharq Documentary (1080p)" tvg-id="" tvg-logo="https://i.imgur.com/8tqK42D.png" group-title="Documentary" :http-referrer="",Asharq Documentary (1080p)
+#EXTINF:-1  tvg-name="Asharq Documentary (1080p)" tvg-id="" tvg-logo="https://satkurier.pl/uploads/104160.jpg" group-title="Documentary" :http-referrer="",Asharq Documentary (1080p)
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:-1  tvg-name="Ch4teen Documentary" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="Documentary" :http-referrer="",Ch4teen Documentary
 http://ch14.tv:80/live/ch4teendoc/playlist.m3u8
 #EXTINF:-1  tvg-name="Ch4teen Documentary HD" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="Documentary" :http-referrer="",Ch4teen Documentary HD
 http://ch14.tv/live/ch4teendoc/playlist.m3u8
-#EXTINF:-1  tvg-name="Essaida TV" tvg-id="" tvg-logo="https://www.essaidafm.com/images/radio/logo_ar.png" group-title="Documentary" :http-referrer="",Essaida TV
+#EXTINF:-1  tvg-name="Essaida TV" tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMThjMTE0NjQtNmQ1Ny00MTMzLTg5ZDgtM2VkMzI5ZjBjMDhkXkEyXkFqcGdeQXVyOTU1Nzc3MzY@._V1_.jpg" group-title="Documentary" :http-referrer="",Essaida TV
 https://essaidatv.dextream.com/hls/stream/index.m3u8
 #EXTINF:-1  tvg-name="National Geographic Abu Dhabi (1080p) [geo-blocked]" tvg-id="" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Documentary" :http-referrer="",National Geographic Abu Dhabi (1080p) [geo-blocked]
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
@@ -219,7 +219,7 @@ http://63b03f7689049.streamlock.net:1935/live/3/playlist.m3u8
 https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8
 #EXTINF:-1  tvg-name="AL Rasheed (408p) [not 24/7]" tvg-id="" tvg-logo="https://i.imgur.com/ltyRjPK.png" group-title="Iraq News" :http-referrer="",AL Rasheed (408p) [not 24/7]
 https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
-#EXTINF:-1  tvg-name="AL Sharqiya Min Kabla (1080p)" tvg-id="" tvg-logo="https://i.imgur.com/WGX5SCx.png" group-title="Iraq News" :http-referrer="",AL Sharqiya Min Kabla (1080p)
+#EXTINF:-1  tvg-name="AL Sharqiya Min Kabla (1080p)" tvg-id="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/iq-sharqiya-tv-9660.jpg" group-title="Iraq News" :http-referrer="",AL Sharqiya Min Kabla (1080p)
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="AL Sharqiya News (1080p)" tvg-id="" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="Iraq News" :http-referrer="",AL Sharqiya News (1080p)
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
@@ -321,7 +321,7 @@ https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/i
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1  tvg-name="MBC Bollywood (1080p) [geo-blocked]" tvg-id="" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="MBC" :http-referrer="",MBC Bollywood (1080p) [geo-blocked]
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1  tvg-name="MBC Drama Ksa (1080p)" tvg-id="" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="MBC" :http-referrer="",MBC Drama Ksa (1080p)
+#EXTINF:-1  tvg-name="MBC Drama Ksa (1080p)" tvg-id="" tvg-logo="https://zasstv.com/wp-content/uploads/2020/06/MBC-Drama.jpg" group-title="MBC" :http-referrer="",MBC Drama Ksa (1080p)
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:-1  tvg-name="MBC Iraq (1080p)" tvg-id="" tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="MBC" :http-referrer="",MBC Iraq (1080p)
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
@@ -345,15 +345,15 @@ https://nl2.livekadeh.com/hls2/alnaeem_low.m3u8
 https://nl2.livekadeh.com/hls2/alnaeem_mid.m3u8
 #EXTINF:-1  tvg-name="Al-naeem TV Src" tvg-id="" tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="Naeem" :http-referrer="",Al-naeem TV Src
 https://nl2.livekadeh.com/hls2/alnaeem_src.m3u8
-#EXTINF:-1  tvg-name="Ahlakid.com - Nabaa TV" tvg-id="" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="News" :http-referrer="",Ahlakid.com - Nabaa TV
+#EXTINF:-1  tvg-name="Ahlakid.com - Nabaa TV" tvg-id="" tvg-logo="https://zasstv.com/wp-content/uploads/2020/06/Nabaa-TV-1.jpg" group-title="News" :http-referrer="",Ahlakid.com - Nabaa TV
 https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:-1  tvg-name="Ahlakid.com - Nabaa TV" tvg-id="" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="News" :http-referrer="",Ahlakid.com - Nabaa TV
+#EXTINF:-1  tvg-name="Ahlakid.com - Nabaa TV" tvg-id="" tvg-logo="https://zasstv.com/wp-content/uploads/2020/06/Nabaa-TV-1.jpg" group-title="News" :http-referrer="",Ahlakid.com - Nabaa TV
 http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8?checkedby:ahlakid.com
-#EXTINF:-1  tvg-name="Ahlakid.com - Nabaa TV" tvg-id="" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="News" :http-referrer="",Ahlakid.com - Nabaa TV
+#EXTINF:-1  tvg-name="Ahlakid.com - Nabaa TV" tvg-id="" tvg-logo="https://zasstv.com/wp-content/uploads/2020/06/Nabaa-TV-1.jpg" group-title="News" :http-referrer="",Ahlakid.com - Nabaa TV
 http://31.14.40.237:1935/live/Nabaa/chunklist_w2118808920.m3u8?checkedby:ahlakid.com
 #EXTINF:-1  tvg-name="AL Alam (360p) [not 24/7]" tvg-id="" tvg-logo="https://i.imgur.com/Zdi31dy.png" group-title="News" :http-referrer="",AL Alam (360p) [not 24/7]
 https://live2.alalam.ir/alalam.m3u8
-#EXTINF:-1  tvg-name="AL Arabiya (1080p)" tvg-id="" tvg-logo="https://i.imgur.com/NXFkYFj.png" group-title="News" :http-referrer="",AL Arabiya (1080p)
+#EXTINF:-1  tvg-name="AL Arabiya (1080p)" tvg-id="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ae-al-arabiya-3769.jpg" group-title="News" :http-referrer="",AL Arabiya (1080p)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="AL Arabiya Business (1080p)" tvg-id="" tvg-logo="https://i.imgur.com/eEV4r6J.jpg" group-title="News" :http-referrer="",AL Arabiya Business (1080p)
 https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8
@@ -367,7 +367,7 @@ https://ythls.armelin.one/channel/UCH4UNKBHSNwstan99YDoCVg.m3u8
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 #EXTINF:-1  tvg-name="AL Jazeera Arabic (1080p)" tvg-id="" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News" :http-referrer="",AL Jazeera Arabic (1080p)
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:-1  tvg-name="AL Jazeera Mubasher (1080p)" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="News" :http-referrer="",AL Jazeera Mubasher (1080p)
+#EXTINF:-1  tvg-name="AL Jazeera Mubasher (1080p)" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aljazeera_Mubasher.svg/800px-Aljazeera_Mubasher.svg.png" group-title="News" :http-referrer="",AL Jazeera Mubasher (1080p)
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1  tvg-name="AL Manar (576p) [not 24/7]" tvg-id="" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="News" :http-referrer="",AL Manar (576p) [not 24/7]
 https://manar.live/iptv/playlist.m3u8
@@ -383,7 +383,7 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 #EXTINF:-1  tvg-name="AL Qahera News (1080p) [not 24/7]" tvg-id="" tvg-logo="https://i.imgur.com/37t7yfO.png" group-title="News" :http-referrer="",AL Qahera News (1080p) [not 24/7]
 https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
-#EXTINF:-1  tvg-name="Alarabiya Portrait (720p)" tvg-id="" tvg-logo="https://i.imgur.com/NXFkYFj.png" group-title="News" :http-referrer="",Alarabiya Portrait (720p)
+#EXTINF:-1  tvg-name="Alarabiya Portrait (720p)" tvg-id="" tvg-logo="http://www.faabor.ma/upload/logo/tv/83.jpg" group-title="News" :http-referrer="",Alarabiya Portrait (720p)
 https://live.alarabiya.net/alarabiapublish/arabiav.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="Alaraby 2 TV (1080p)" tvg-id="" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="News" :http-referrer="",Alaraby 2 TV (1080p)
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
@@ -515,5 +515,5 @@ https://nl2.livekadeh.com/hls2/alwilayah_tv_low.m3u8
 https://nl2.livekadeh.com/hls2/alwilayah_tv_mid.m3u8
 #EXTINF:-1  tvg-name="Alwilayah_tv_src" tvg-id="" tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="Willaya" :http-referrer="",Alwilayah_tv_src
 https://nl2.livekadeh.com/hls2/alwilayah_tv_src.m3u8
-#EXTINF:-1  tvg-name="Willaya" tvg-id="" tvg-logo="https://lh3.googleusercontent.com/proxy/wjfaudSzWrprX7UFB_DBtvFqUn0m4zukUAhdyUYRZMJ6T9uTGSGMSK7_2uq4o0_0rRSWdTEeQMqzztaA-oMt5bzKxRO5-ftlkFqBbMjwLeE2fcakOaNAmA" group-title="Willaya" :http-referrer="",اWillaya
+#EXTINF:-1  tvg-name="Willaya" tvg-id="" tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="Willaya" :http-referrer="",اWillaya
 https://ir14.livekadeh.com/hls2/alwilayah_tv.m3u8
