@@ -567,7 +567,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriad
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Bahrain Sports 2 (720p) [not 24/7]" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="Sports",Bahrain Sports 2 (720p) [not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CAF TV (1080p) [not 24/7]" tvg-logo="https://www.cafonline.com/assets/icons/caflogo_black.png" group-title="Sports",CAF TV (1080p) [not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="CAF TV (1080p) [not 24/7]" tvg-logo="https://www.cafonline.com/media/mdtm5ay5/logo-wcl.png" group-title="Sports",CAF TV (1080p) [not 24/7]
 https://ythls.armelin.one/channel/UCr5K057x3mHroPHsNk9OiwA.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Channel 24 Sports (720p)" tvg-logo="https://i.imgur.com/Wob8bz1.png" group-title="Sports",Channel 24 Sports (720p)
 https://ythls.armelin.one/channel/UCGnTP2NwS6ZJwmXBTsS2w-w.m3u8
