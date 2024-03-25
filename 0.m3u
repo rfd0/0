@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ext" tvg-name="Imam Ali TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="Imam Ali",Imam Ali TV
 http://95.216.180.111:1935/live/120/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Imam Ali2" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="Imam Ali",Imam Ali2
 http://95.216.180.111:1935/live/120/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Imam Ali3" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="Imam Ali",Imam Ali3
 http://95.216.180.111:1935/live/120/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Karbala 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="Karbala",Karbala 1080
 http://5.253.46.190:7001/play/a0d1/index.m3u8
