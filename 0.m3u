@@ -41,10 +41,10 @@ https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AL Jawadain" tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="AL Jawadain",AL Jawadain
 https://live.aljawadain.org/live/broadcast/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Imam Ridha" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRFdzIm5WWOWMmvsqBFE4nBt6KZfB2TYBsUzjnA=s900-c-k-c0x00ffffff-no-rj" group-title="Imam Ridha",Imam Ridha
+#EXTINF:-1 tvg-id="ext" tvg-name="Imam Ridha" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fen.shafaqna.com%2Fwp-content%2Fuploads%2F2020%2F07%2Fcilcnxkvwvf38ozjg2e59ddaxcvqbq1s.jpg&f=1&nofb=1&ipt=ad7017634935efe5bfa7434ae6c7e963fa6dd6f8a9865e8cffa8d7276ccdafd8&ipo=images" group-title="Imam Ridha",Imam Ridha
 https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8?auto
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Imam Ridha" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRFdzIm5WWOWMmvsqBFE4nBt6KZfB2TYBsUzjnA=s900-c-k-c0x00ffffff-no-rj" group-title="Imam Ridha",Imam Ridha
+#EXTINF:-1 tvg-id="ext" tvg-name="Maaref" tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="Maaref",Maaref
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist_w748681898_b446000.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Alerth Alnabawi (576p) [not 24/7]" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alerth-alnabawi-channel-jo.png" group-title="Quran",Alerth Alnabawi (576p) [not 24/7]
