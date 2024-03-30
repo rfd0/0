@@ -27,7 +27,7 @@ http://95.216.180.111:1935/live/45/chunklist.m3u8
 http://63b03f7689049.streamlock.net:1935/live/45/playlist.m3u8	
 #EXTINF:-1 tvg-id="ext" tvg-name="Karbalaa Quran" tvg-logo="https://www.karbala-tv.iq/quran/static/img/logo.png" group-title="Karbala Quran",Karbalaa Quran
 https://ktvlive.online/stream/hls/ch1.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="AL Kafeet" tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png" group-title="AL Kafeel",AL Kafeet
+#EXTINF:-1 tvg-id="ext" tvg-name="AL Kafeel" tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png" group-title="AL Kafeel",AL Kafeel
 https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AL Jawadain" tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="AL Jawadain",AL Jawadain
 https://live.aljawadain.org/live/broadcast/playlist.m3u8
