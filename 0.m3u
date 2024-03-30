@@ -14,6 +14,9 @@ http://95.216.180.111:1935/live/120/chunklist_w362928606.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Imam Ali TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="Imam Ali",Imam Ali TV
 http://63b03f7689049.streamlock.net:1935/live/120/playlist.m3u8	
 
+#EXTINF:-1 tvg-id="ext" tvg-name="Masjid Al Kufa" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="Imam Ali",Masjid AlKufa
+http://tvsng.com:25461/live/AlkufaFHD/masjed/15.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="Karbala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="Karbala",Karbala
 http://5.253.46.190:7001/play/a0d1/index.m3u8
 
