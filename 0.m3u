@@ -27,7 +27,7 @@ http://95.216.180.111:1935/live/45/chunklist.m3u8
 http://63b03f7689049.streamlock.net:1935/live/45/playlist.m3u8	
 #EXTINF:-1 tvg-id="ext" tvg-name="Karbalaa Quran" tvg-logo="https://www.karbala-tv.iq/quran/static/img/logo.png" group-title="Karbala Quran",Karbalaa Quran
 https://ktvlive.online/stream/hls/ch1.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="AL Kafeet" tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png" group-title="AL Kafeel",AL Kafeet
+#EXTINF:-1 tvg-id="ext" tvg-name="AL Kafeel" tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png" group-title="AL Kafeel",AL Kafeel
 https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AL Jawadain" tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="AL Jawadain",AL Jawadain
 https://live.aljawadain.org/live/broadcast/playlist.m3u8
@@ -35,6 +35,10 @@ https://live.aljawadain.org/live/broadcast/playlist.m3u8
 https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Imam Ridha" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="Imam Ridha",Imam Ridha
 https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8?auto
+#EXTINF:-1 tvg-id="ext" tvg-name="Imam Ridha" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="Imam Ridha",Imam Ridha
+https://edge04.balticlivecam.com/blc/p_IRN_Mashhad_mavzolej/tracks-v1a1/mono.m3u8?token=d88f09cbd44a7ec6a01ba3d0bdc01983%3A1712006647150
+#EXTINF:-1 tvg-id="ext" tvg-name="Imam Ridha" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="Imam Ridha",Imam Ridha
+https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AlKafeel" tvg-logo="" group-title="Youtube",AlKafeel
 https://anym3u8player.com/youtube.php/id/660abe20720da.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AlQarmazi" tvg-logo="" group-title="Youtube",AlQarmazi
@@ -354,8 +358,6 @@ http://95.216.180.111:1935/live/6/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AL Ayyam" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-ayam-tv.png" group-title="Iraq News",AL Ayyam
 http://63b03f7689049.streamlock.net:1935/live/6/playlist.m3u8	
 #EXTINF:-1 tvg-id="ext" tvg-name="AL Eshraq TV" tvg-logo="https://i.imgur.com/SuACr3L.png" group-title="Iraq News",AL Eshraq TV
-https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="AL Eshraq TV" tvg-logo="https://i.imgur.com/SuACr3L.png" group-title="Iraq News",AL Eshraq TV
 http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AL Eshraq TV" tvg-logo="https://i.imgur.com/SuACr3L.png" group-title="Iraq News",AL Eshraq TV
 http://63b03f7689049.streamlock.net:1935/live/19/chunklist_w1292057360.m3u8
@@ -633,6 +635,8 @@ https://live2.alalam.ir/live/Alalam_high/index.m3u8
 https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AL Aqsa Channel (416p) [not 24/7]" tvg-logo="http://aqsatv.ps/style/atyaf/assets/images/logo-footer.png" group-title="Arabic News",AL Aqsa Channel (416p) [not 24/7]
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=826877&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="AL shraq TV" tvg-logo="https://i.imgur.com/SuACr3L.png" group-title="Arabic News",AL shraq TV
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AL Arabia" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ae-al-arabiya-3769.jpg" group-title="Arabic News",AL Arabia
 http://63b03f7689049.streamlock.net:1935/live/8/playlist.m3u8	
 #EXTINF:-1 tvg-id="ext" tvg-name="AL Arabia" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ae-al-arabiya-3769.jpg" group-title="Arabic News",AL Arabia
@@ -879,8 +883,26 @@ https://svs.itworkscdn.net/vdltvlive/vdltv.smil/vdltvpublish/vdltv_480p/chunks.m
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=815538&extension=ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Ahul Alquran" tvg-logo="" group-title="Arabic News",Ahul Alquran
 https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Kuwait Drama" tvg-logo="" group-title="Arabic News",Kuwait Drama
-https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2Sky-News-Arabia" tvg-logo="" group-title="Arabic News",2Sky-News-Arabia
+http://iptv.icsnleb.com:25461/live//a/b//91.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2AL- HADATH" tvg-logo="" group-title="Arabic News",2AL- HADATH
+http://iptv.icsnleb.com:25461/live//a/b//90.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2Al-Shark-News" tvg-logo="" group-title="Arabic News",2Al-Shark-News
+http://iptv.icsnleb.com:25461/live//a/b//89.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2AL-ARABIYA" tvg-logo="" group-title="Arabic News",2AL-ARABIYA
+http://iptv.icsnleb.com:25461/live//a/b//88.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2CBC" tvg-logo="" group-title="Arabic News",2CBC
+http://iptv.icsnleb.com:25461/live//a/b//83.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2AL AAN HD" tvg-logo="" group-title="Arabic News",2AL AAN HD
+http://iptv.icsnleb.com:25461/live//a/b//31.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2AL SHARQ NEWS" tvg-logo="" group-title="Arabic News",2AL SHARQ NEWS
+http://iptv.icsnleb.com:25461/live//a/b//28.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2LBC SAT" tvg-logo="" group-title="Arabic News",2LBC SAT
+http://iptv.icsnleb.com:25461/live//a/b//26.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2Tele Liban" tvg-logo="" group-title="Arabic News",2Tele Liban
+http://iptv.icsnleb.com:25461/live//a/b//19.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2Sada-El-Arz-Tv" tvg-logo="" group-title="Arabic News",2Sada-El-Arz-Tv
+http://iptv.icsnleb.com:25461/live//a/b//1034.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Hadi TV 1" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg" group-title="Hadi",Hadi TV 1
 https://g.decdn.net/haditv.co.uk/haditv1.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Hadi TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Hadi_TV.TIF/lossy-page1-116px-Hadi_TV.TIF.jpg" group-title="Hadi",Hadi TV 2
@@ -1253,6 +1275,56 @@ https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MBC Persia" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="MBC",MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2MBC +DRAMA" tvg-logo="" group-title="MBC",2MBC +DRAMA
+http://iptv.icsnleb.com:25461/live//a/b//95.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2MBC-3" tvg-logo="" group-title="MBC",2MBC-3
+http://iptv.icsnleb.com:25461/live//a/b//86.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2MBC-1" tvg-logo="" group-title="MBC",2MBC-1
+http://iptv.icsnleb.com:25461/live//a/b//85.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2MBC 4" tvg-logo="" group-title="MBC",2MBC 4
+http://iptv.icsnleb.com:25461/live//a/b//35.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2MBC-2" tvg-logo="" group-title="MBC",2MBC-2
+http://iptv.icsnleb.com:25461/live//a/b//22.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2MBC DRAMA" tvg-logo="" group-title="MBC",2MBC DRAMA
+http://iptv.icsnleb.com:25461/live//a/b//21.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2MBC MAX" tvg-logo="" group-title="MBC",2MBC MAX
+http://iptv.icsnleb.com:25461/live//a/b//20.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2MBC ACTION" tvg-logo="" group-title="MBC",2MBC ACTION
+http://iptv.icsnleb.com:25461/live//a/b//15.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2ROTANA-DRAMA" tvg-logo="" group-title="Drama",2ROTANA-DRAMA
+http://iptv.icsnleb.com:25461/live//a/b//87.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2B4U PLUS" tvg-logo="" group-title="Drama",2B4U PLUS
+http://iptv.icsnleb.com:25461/live//a/b//79.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2CBC DRAMA" tvg-logo="" group-title="Drama",2CBC DRAMA
+http://iptv.icsnleb.com:25461/live//a/b//77.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2ROTANA KHALIJIA" tvg-logo="" group-title="Drama",2ROTANA KHALIJIA
+http://iptv.icsnleb.com:25461/live//a/b//71.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2CBC SOFRA" tvg-logo="" group-title="Drama",2CBC SOFRA
+http://iptv.icsnleb.com:25461/live//a/b//65.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2Rotana classic" tvg-logo="" group-title="Drama",2Rotana classic
+http://iptv.icsnleb.com:25461/live//a/b//64.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2Rotana cinema eg" tvg-logo="" group-title="Drama",2Rotana cinema eg
+http://iptv.icsnleb.com:25461/live//a/b//62.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2VOD-Cinema" tvg-logo="" group-title="Drama",2VOD-Cinema
+http://iptv.icsnleb.com:25461/live//a/b//59.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2VOD-Movies" tvg-logo="" group-title="Drama",2VOD-Movies
+http://iptv.icsnleb.com:25461/live//a/b//55.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2VOD-Series" tvg-logo="" group-title="Drama",2VOD-Series
+http://iptv.icsnleb.com:25461/live//a/b//49.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2VOD-Documentary" tvg-logo="" group-title="Drama",2VOD-Documentary
+http://iptv.icsnleb.com:25461/live//a/b//40.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2VOD-Leb" tvg-logo="" group-title="Drama",2VOD-Leb
+http://iptv.icsnleb.com:25461/live//a/b//37.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2MIX" tvg-logo="" group-title="Drama",2MIX
+http://iptv.icsnleb.com:25461/live//a/b//33.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2B4U AFLAM" tvg-logo="" group-title="Drama",2B4U AFLAM
+http://iptv.icsnleb.com:25461/live//a/b//25.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2ZEE-AFLAM" tvg-logo="" group-title="Drama",2ZEE-AFLAM
+http://iptv.icsnleb.com:25461/live//a/b//24.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2ZEE ALWAN" tvg-logo="" group-title="Drama",2ZEE ALWAN
+http://iptv.icsnleb.com:25461/live//a/b//23.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Kuwait Drama" tvg-logo="" group-title="Drama",Kuwait Drama
+https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Ch4teen Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="Kids",Ch4teen Kids HD
 http://ch14.tv/live/ch4teenkids/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Ch4teen Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="Kids",Ch4teen Kids
@@ -1307,6 +1379,14 @@ https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Spacetoon (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Kids",Spacetoon (1080p)
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1594700958_b1296000_slAR.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2SPACETOON" tvg-logo="" group-title="Kids",2SPACETOON
+http://iptv.icsnleb.com:25461/live//a/b//80.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2cartoon network" tvg-logo="" group-title="Kids",2cartoon network
+http://iptv.icsnleb.com:25461/live//a/b//30.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2Rotana cinema ksa" tvg-logo="" group-title="Kids",2Rotana cinema ksa
+http://iptv.icsnleb.com:25461/live//a/b//18.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="2KOUKA TOON" tvg-logo="" group-title="Kids",2KOUKA TOON
+http://iptv.icsnleb.com:25461/live//a/b//12.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ABU Dhabi Sports 1 (1080p)" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports",ABU Dhabi Sports 1 (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ABU Dhabi Sports 2 (1080p)" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="Sports",ABU Dhabi Sports 2 (1080p)
