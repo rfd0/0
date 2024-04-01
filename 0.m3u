@@ -1,5 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ext" tvg-name="Imam Ali TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="Imam Ali",Imam Ali TV
+http://95.216.180.111:1935/live/120/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Imam Ali TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="Imam Ali",Imam Ali TV
+http://95.216.180.111:1935/live/120/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Imam Ali TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="Imam Ali",Imam Ali TV
+http://95.216.180.111:1935/live/120/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Imam Ali TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="Imam Ali",Imam Ali TV
+http://95.216.180.111:1935/live/120/chunklist_w362928606.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Imam Ali TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="Imam Ali",Imam Ali TV
 http://63b03f7689049.streamlock.net:1935/live/120/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Masjid Al Kufa" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="Masjid AlKufa",Masjid AlKufa
 http://tvsng.com:25461/live/AlkufaFHD/masjed/15.m3u8
