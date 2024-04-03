@@ -39,16 +39,14 @@ https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8?auto
 https://edge04.balticlivecam.com/blc/p_IRN_Mashhad_mavzolej/tracks-v1a1/mono.m3u8?token=d88f09cbd44a7ec6a01ba3d0bdc01983%3A1712006647150
 #EXTINF:-1 tvg-id="ext" tvg-name="Imam Ridha" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="Imam Ridha",Imam Ridha
 https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="AlKafeel" tvg-logo="" group-title="Youtube",AlKafeel
-https://anym3u8player.com/youtube.php/id/660abe20720da.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AlQarmazi" tvg-logo="" group-title="Youtube",AlQarmazi
-https://anym3u8player.com/youtube.php/id/660ac209884d4.m3u8
+https://anym3u8player.com/youtube.php/id/660d61f8c7423.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="HolyShrines" tvg-logo="" group-title="Youtube",HolyShrines
-https://anym3u8player.com/youtube.php/id/660ac262c8878.m3u8
+https://anym3u8player.com/youtube.php/id/660d62ec4b760.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Imam Riza" tvg-logo="" group-title="Youtube",Imam Riza
-https://anym3u8player.com/youtube.php/id/660ac2b81b6b9.m3u8
+https://anym3u8player.com/youtube.php/id/660d63618fa30.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Karbala Group" tvg-logo="" group-title="Youtube",Karbala Group
-https://anym3u8player.com/youtube.php/id/660ac30423968.m3u8
+https://anym3u8player.com/youtube.php/id/660d5fb3b07c4.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Al Maaref" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRFdzIm5WWOWMmvsqBFE4nBt6KZfB2TYBsUzjnA=s900-c-k-c0x00ffffff-no-rj" group-title="Maaref",Al Maaref
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist_w748681898_b446000.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Maaref" tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="Maaref",Maaref
