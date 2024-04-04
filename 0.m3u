@@ -62,9 +62,6 @@ https://live.aljawadain.org/live/broadcast/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AlJawadain" tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="AL Jawadain",Al Jawadain
 https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="AlJawad" tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="Al Jawad",Al-Jawad Tv
-http://45.65.112.206:8000/play/a0j0
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Imam Ridha" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="Imam Ridha",Imam Ridha
 https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8?auto
 
@@ -108,25 +105,28 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49636
 ",AL Najaf AlAshraf
 http://45.65.112.206:8000/play/a0gg
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Kuwaitawi TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="Al Shirazi Group",Kuwaitawi TV
-http://45.65.112.206:8000/play/a0iy
-
-#EXTINF:-1 tvg-id="ext" tvg-name="ALKOUT TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="Al Shirazi Group",ALKOUT TV
-http://45.65.112.206:8000/play/a0j2
-
-#EXTINF:-1 tvg-id="ext" tvg-name="ALBASRA 1 TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="Al Shirazi Group",ALBASRA 1 TV
-http://45.65.112.206:8000/play/a0j1
-
-#EXTINF:-1 tvg-id="ext" tvg-name="ALDIWANIYAH TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="Al Shirazi Group",ALDIWANIYAH TV
-http://45.65.112.206:8000/play/a0ix
-
-#EXTINF:-1 tvg-id="ext" tvg-name="AL BAHRANY TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="Al Shirazi Group",AL BAHRANY TV
-http://45.65.112.206:8000/play/a0iz
-
-#EXTINF:-1 tvg-id="ext" tvg-name="AL Shaaer" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="Al Shirazi Group",AL Shaaer
+#EXTINF:-1 tvg-id="ext" tvg-name="AL Shaaer" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="Al Shaaer",AL Shaaer
 https://video-lhr6-1.xx.fbcdn.net/hvideo-atn-cco/_nc_cat-108/_nc_sr_t-4/v/rASfAStOxQCDcjYXIHtvmzNDrwvIk4W0VEyqu5_RDNC19bg/_nc_ohc-lomxWijyX9wAX_rpKPv/live-dash/dash-abr-ibr-audio/765212069081779.mpd?ccb=2-4&ms=m_CTPAL&sc_t=1&oh=00_AfBXFsBlZVL9iQiX_LOfiTmVdMnsvDlW9Zgca5aMeBnagw&oe=65F32073
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Alkomail TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="Al Shirazi Group",Alkomail TV HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ALKOUT TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="AL KOUT",ALKOUT TV
+http://45.65.112.206:8000/play/a0j2
+
+#EXTINF:-1 tvg-id="ext" tvg-name="ALBASRA 1 TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="AL BASRA ",ALBASRA 1 TV
+http://45.65.112.206:8000/play/a0j1
+
+#EXTINF:-1 tvg-id="ext" tvg-name="ALDIWANIYAH TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="AL DIWANIYAH",ALDIWANIYAH TV
+http://45.65.112.206:8000/play/a0ix
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Kuwaitawi TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="Al Kuwaitawi",Kuwaitawi TV
+http://45.65.112.206:8000/play/a0iy
+
+#EXTINF:-1 tvg-id="ext" tvg-name="AL BAHRANY TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="AL BAHRANY",AL BAHRANY TV
+http://45.65.112.206:8000/play/a0iz
+
+#EXTINF:-1 tvg-id="ext" tvg-name="AlJawad" tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="Al Jawad",Al-Jawad Tv
+http://45.65.112.206:8000/play/a0j0
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Alkomail TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="Al komail",Alkomail TV HD
 http://45.65.112.206:8000/play/a05s
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Saut Alaqila" tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="Saut Alaqila",Saut Alaqila
@@ -890,8 +890,6 @@ http://95.216.180.111:1935/live/34/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Inews" tvg-logo="hhttps://i.imgur.com/9lOuzHQ.png" group-title="Iraq News",Inews
 https://i.imgur.com/9lOuzHQ.png" group-title="Iraq News",Inews
-https://i.imgur.com/9lOuzHQ.png" group-title="Iraq News",Inews
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Inews" tvg-logo="https://i.imgur.com/9lOuzHQ.png" group-title="Iraq News",Inews
 http://95.216.180.111:1935/live/34/index.m3u8
 
