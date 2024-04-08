@@ -31,6 +31,8 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/2312
 http://45.65.112.206:8000/play/a058
 #EXTINF:-1 tvg-name="Karbala"tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg"group-title="KARBALA",KARBALA TV HD
 http://5.253.46.190:7001/play/a0d1/index.m3u8
+#EXTINF:-1 tvg-name="Karbala"tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg"group-title="KARBALA",Karbala
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=23588&extension=m3u8
 #EXTINF:-1 tvg-name="Karbalaa Quran"tvg-id="ext"tvg-logo="https://www.karbala-tv.iq/quran/static/img/logo.png"group-title="KARBALA QURAN",Karbalaa Quran
 https://ktvlive.online/stream/hls/ch1.m3u8
 #EXTINF:-1 tvg-name="AL Kafeel"tvg-id="ext"tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png"group-title="AL KAFEEL",AL Kafeel
@@ -65,6 +67,14 @@ https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/chunklist_w174
 http://45.65.112.206:8000/play/a09m
 #EXTINF:-1 tvg-name="Al Anwar 1"tvg-id="ext"tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png"group-title="AL ANWAR",Al Anwar 1
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49636
+#EXTINF:-1 tvg-name="Al Aqila"tvg-id="ext"tvg-logo="https://alaqila.tv/gallery_gen/46aee3e16e86e9747594af1dc7b90e6a.png"group-title="AL Aqila",Al Aqila
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=23576&extension=ts&play_token=pDdDGr088T
+#EXTINF:-1 tvg-name="Al Aqila"tvg-id="ext"tvg-logo="https://alaqila.tv/gallery_gen/46aee3e16e86e9747594af1dc7b90e6a.png"group-title="AL Aqila",Al Aqila
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=23576&extension=m3u8
+#EXTINF:-1 tvg-name="Om Albaneen"tvg-id="ext"tvg-logo="https://alaqila.tv/gallery_gen/46aee3e16e86e9747594af1dc7b90e6a.png"group-title="Om Albaneen",Om Al Baneen
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=27301&extension=m3u8
+#EXTINF:-1 tvg-name="Om Albaneen"tvg-id="ext"tvg-logo="https://alaqila.tv/gallery_gen/46aee3e16e86e9747594af1dc7b90e6a.png"group-title="Om Albaneen",Om Al Baneen
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=23576&extension=ts&play_token=yQAs6IgIhR
 #EXTINF:-1 tvg-name="AL Shaaer"tvg-id="ext"tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png"group-title="AL SHAAER",AL Shaaer
 https://video-lhr6-1.xx.fbcdn.net/hvideo-atn-cco/_nc_cat-108/_nc_sr_t-4/v/rASfAStOxQCDcjYXIHtvmzNDrwvIk4W0VEyqu5_RDNC19bg/_nc_ohc-lomxWijyX9wAX_rpKPv/live-dash/dash-abr-ibr-audio/765212069081779.mpd?ccb=2-4&ms=m_CTPAL&sc_t=1&oh=00_AfBXFsBlZVL9iQiX_LOfiTmVdMnsvDlW9Zgca5aMeBnagw&oe=65F32073
 #EXTINF:-1 tvg-name="AL Najaf"tvg-id="ext"tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-mahdi-satellite-channel-kw.png"group-title="AL NAJAF",AL Najaf
@@ -280,6 +290,8 @@ http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
 #EXTINF:-1 tvg-name="Alkawther"tvg-id="ext"tvg-logo="https://www.alkawthartv.ir/"group-title="AL KAWTHER",Alkawther
 http://95.216.180.111:1935/live/118/chunklist_w362928606.m3u8
 #EXTINF:-1 tvg-name="Alkawther"tvg-id="ext"tvg-logo="https://www.alkawthartv.ir/"group-title="AL KAWTHER",Alkawther
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=23591&extension=m3u8
+#EXTINF:-1 tvg-name="Alkawther"tvg-id="ext"tvg-logo="https://www.alkawthartv.ir/"group-title="AL KAWTHER",Alkawther
 http://95.216.180.111:1935/live/118/playlist.m3u8
 #EXTINF:-1 tvg-name="Alkawther"tvg-id="ext"tvg-logo="https://www.alkawthartv.ir/"group-title="AL KAWTHER",Alkawther
 http://95.216.180.111:1935/live/118/chunklist.m3u8
@@ -325,6 +337,8 @@ https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 http://45.65.112.206:8000/play/a08y
 #EXTINF:-1 tvg-name="Aliman"tvg-id="ext"tvg-logo="https://i.imgur.com/4WKQppG.png"group-title="AL IMAN",Aliman
 https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
+#EXTINF:-1 tvg-name="Aliman"tvg-id="ext"tvg-logo="https://i.imgur.com/4WKQppG.png"group-title="AL IMAN",Aliman
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=23593&extension=m3u8
 #EXTINF:-1 tvg-name="Aliman"tvg-id="ext"tvg-logo="https://i.imgur.com/4WKQppG.png"group-title="AL IMAN",Aliman
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="ALIMAN TV"tvg-id="ext"tvg-logo="https://i.imgur.com/4WKQppG.png"group-title="AL IMAN",ALIMAN TV
@@ -377,6 +391,8 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Mayadeen"tvg-id="ext"tvg-logo="https://i.imgur.com/GtQOKeW.png"group-title="AL Mayadeen",AL Mayadeen
 http://63b03f7689049.streamlock.net:1935/live/66/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Mayadeen"tvg-id="ext"tvg-logo="https://i.imgur.com/GtQOKeW.png"group-title="AL Mayadeen",AL Mayadeen
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=23628&extension=m3u8
 #EXTINF:-1 tvg-name="Bahrain Qura."tvg-id="ext"tvg-logo="https://www.inlife.tv/sites/default/files/styles/nodes/public/logos/bahrain-quran-tv.png?itok=MlCBuTju"group-title="QURAN",Bahrain Qura.
 https://5c7b683162943.streamlock.net:443/live/ngrp:bahrainquran_all/chunklist_w1461721754_b978000.m3u8
 #EXTINF:-1 tvg-name="Bahrain Qura."tvg-id="ext"tvg-logo="https://www.inlife.tv/sites/default/files/styles/nodes/public/logos/bahrain-quran-tv.png?itok=MlCBuTju"group-title="QURAN",Bahrain Qura.
@@ -486,7 +502,9 @@ http://95.216.180.111:1935/live/10/chunklist.m3u8
 #EXTINF:-1 tvg-name="AL Furat"tvg-id="ext"tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.IOELSm5The3H690T_1g2LgHaE8%26pid%3DApi&f=1&ipt=6057e20ec306e9eaa342bf6fe30e9c73385706a7a0f4bc87f7c6f02fcf32417a&ipo=images"group-title="IRAQ NEWS",AL Furat
 http://95.216.180.111:1935/live/10/index.m3u8
 #EXTINF:-1 tvg-name="AL Ghadeer"tvg-id="ext"tvg-logo="https://i.imgur.com/YPj6kXq.png"group-title="IRAQ NEWS",AL Ghadeer
-http://63b03f7689049.streamlock.net:1935/live/2/playlist.m3u8	
+http://63b03f7689049.streamlock.net:1935/live/2/playlist.m3u8
+#EXTINF:-1 tvg-name="AL Ghadeer"tvg-id="ext"tvg-logo="https://i.imgur.com/YPj6kXq.png"group-title="IRAQ NEWS",AL Ghadeer
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=23577&extension=m3u8
 #EXTINF:-1 tvg-name="AL Ghadeer"tvg-id="ext"tvg-logo="https://i.imgur.com/YPj6kXq.png"group-title="IRAQ NEWS",AL Ghadeer
 http://63b03f7689049.streamlock.net:1935/live/2/playlist.m3u8
 #EXTINF:-1 tvg-name="AL Ghadeer"tvg-id="ext"tvg-logo="https://i.imgur.com/YPj6kXq.png"group-title="IRAQ NEWS",AL Ghadeer
@@ -521,6 +539,10 @@ https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general1/chunks.m3u8
 #EXTINF:-1 tvg-name="AL Iraqia News (720p)"tvg-id="ext"tvg-logo="https://i.imgur.com/feQTXeZ.jpg"group-title="IRAQ NEWS",AL Iraqia News (720p)
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news1/chunks.m3u8
+#EXTINF:-1 tvg-name="AL Tarbawia"tvg-id="ext"tvg-logo="https://i.imgur.com/feQTXeZ.jpg"group-title="IRAQ NEWS",AL Iraqia Al Tarbawia
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=23584&extension=m3u8
+#EXTINF:-1 tvg-name="AL Ahwaz"tvg-id="ext"tvg-logo="https://i.imgur.com/feQTXeZ.jpg"group-title="IRAQ NEWS",AL Ahwaz
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=23623&extension=m3u8
 #EXTINF:-1 tvg-name="AL Iraqiya Al 3ama (720p) [not 24/7]"tvg-id="ext"tvg-logo="https://i.imgur.com/feQTXeZ.jpg"group-title="IRAQ NEWS",AL Iraqiya Al 3ama (720p) [not 24/7]
 https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 #EXTINF:-1 tvg-name="AL Janoob"tvg-id="ext"tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.-P49EruFixD0abJzY_0O-AAAAA%26pid%3DApi&f=1&ipt=cf92944f93d822c10fd6919034d0e6bebe95530692649a4d24ab6b7eb4abefef&ipo=images"group-title="IRAQ NEWS",AL Janoob
