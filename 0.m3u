@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1  tvg-name="Imam Ali TV" tvg-id="ext" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="IMAM ALI",Imam Ali TV
+http://63b03f7689049.streamlock.net:1935/live/120/playlist.m3u8
+#EXTINF:-1  tvg-name="Imam Ali TV" tvg-id="ext" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="IMAM ALI",IMAM ALI TV
+http://45.65.112.206:8000/play/a05v
+#EXTINF:-1  tvg-name="Imam Ali TV" tvg-id="ext" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="IMAM ALI",Imam Ali TV
 http://95.216.180.111:1935/live/120/playlist.m3u8
 #EXTINF:-1  tvg-name="Imam Ali TV" tvg-id="ext" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="IMAM ALI",Imam Ali TV
 http://95.216.180.111:1935/live/120/index.m3u8
@@ -7,10 +11,6 @@ http://95.216.180.111:1935/live/120/index.m3u8
 http://95.216.180.111:1935/live/120/chunklist.m3u8
 #EXTINF:-1  tvg-name="Imam Ali TV" tvg-id="ext" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="IMAM ALI",Imam Ali TV
 http://95.216.180.111:1935/live/120/chunklist_w362928606.m3u8
-#EXTINF:-1  tvg-name="Imam Ali TV" tvg-id="ext" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="IMAM ALI",Imam Ali TV
-http://63b03f7689049.streamlock.net:1935/live/120/playlist.m3u8
-#EXTINF:-1  tvg-name="Imam Ali TV" tvg-id="ext" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="IMAM ALI",IMAM ALI TV
-http://45.65.112.206:8000/play/a05v
 #EXTINF:-1  tvg-name="Masjid Al Kufa" tvg-id="ext" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="MASJID ALKUFA",Masjid AlKufa
 http://tvsng.com:25461/live/AlkufaFHD/masjed/15.m3u8
 #EXTINF:-1  tvg-name="Karbala" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="KARBALA",Karbala
@@ -25,11 +25,11 @@ http://95.216.180.111:1935/live/45/playlist.m3u8
 http://95.216.180.111:1935/live/45/chunklist.m3u8
 #EXTINF:-1  tvg-name="Karbala" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="KARBALA",Karbala
 http://63b03f7689049.streamlock.net:1935/live/45/playlist.m3u8	
-#EXTINF:-1  tvg-name="Karbala" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="KARBALA",KARBALA TV
+#EXTINF:-1  tvg-name="Karbala" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="KARBALA",Karbala
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/2312
-#EXTINF:-1  tvg-name="Karbala" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="KARBALA",KARBALA TV HD
+#EXTINF:-1  tvg-name="Karbala" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="KARBALA",Karbala
 http://45.65.112.206:8000/play/a058
-#EXTINF:-1  tvg-name="Karbala" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="KARBALA",KARBALA TV HD
+#EXTINF:-1  tvg-name="Karbala" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="KARBALA",Karbala
 http://5.253.46.190:7001/play/a0d1/index.m3u8
 #EXTINF:-1  tvg-name="Karbala" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="KARBALA",Karbala
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=23588&extension=m3u8
@@ -47,6 +47,16 @@ https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8?auto
 #EXTINF:-1  tvg-name="Imam Ridha" tvg-id="ext" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="IMAM RIDHA",Imam Ridha
 https://edge04.balticlivecam.com/blc/p_IRN_Mashhad_mavzolej/tracks-v1a1/mono.m3u8?token=d88f09cbd44a7ec6a01ba3d0bdc01983%3A1712006647150
+#EXTINF:-1  tvg-name="Imam Ridha" tvg-id="ext" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="IMAM RIDHA",Imam Ridha
+https://stream01.nasimrezvan.com/hls/RpnpimQkhQvuAXZrPBbvEJwL/index.m3u8
+#EXTINF:-1  tvg-name="Imam Ridha" tvg-id="ext" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="IMAM RIDHA",Imam Ridha
+https://stream01.nasimrezvan.com/hls/nCqGTHytkVFziVPWBLqkdQYK/index.m3u8
+#EXTINF:-1  tvg-name="Imam Ridha" tvg-id="ext" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="IMAM RIDHA",Imam Ridha
+https://stream01.nasimrezvan.com/hls/XuTYYVjRVYiNNzfSYVrzFLfJ/index.m3u8
+#EXTINF:-1  tvg-name="Imam Ridha" tvg-id="ext" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="IMAM RIDHA",Imam Ridha
+https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
+#EXTINF:-1  tvg-name="Imam Ridha" tvg-id="ext" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="IMAM RIDHA",Imam Ridha
+https://stream01.gaplication.com/hls/Razavi1400bdisosvxpevqy/index.m3u8
 #EXTINF:-1  tvg-name="Al Maaref" tvg-id="ext" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRFdzIm5WWOWMmvsqBFE4nBt6KZfB2TYBsUzjnA=s900-c-k-c0x00ffffff-no-rj" group-title="AL MAAREF",Al Maaref
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist_w748681898_b446000.m3u8
 #EXTINF:-1  tvg-name="Maaref" tvg-id="ext" tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="AL MAAREF",Maaref
@@ -63,8 +73,46 @@ https://ir13.livekadeh.com/hls2/almaaref_low.m3u8
 https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1  tvg-name="Maaref" tvg-id="ext" tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="AL MAAREF",Maaref
 https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/chunklist_w1748022440_b446000.m3u8
-#EXTINF:-1  tvg-name="Maaref" tvg-id="ext" tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="AL MAAREF",Almaaref TV HD
+#EXTINF:-1  tvg-name="Maaref" tvg-id="ext" tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="AL MAAREF",Maaref
 http://45.65.112.206:8000/play/a09m
+#EXTINF:-1  tvg-name="Maaref" tvg-id="ext" tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="AL MAAREF",Maaref
+https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/chunklist_w1875078440_b446000.m3u8
+#EXTINF:-1  tvg-name="Ch4teen1" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN",Ch4teen1
+http://ch14.tv:80/live/ch4teen1/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen1 HD" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN",Ch4teen1 HD
+http://ch14.tv/live/ch4teen1/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Quran" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN QURAN",Ch4teen Quran
+http://ch14.tv:80/live/ch4teenquran/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Quran HD" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN QURAN",Ch4teen Quran HD
+http://ch14.tv/live/ch4teenquran/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Clip" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN CLIP",Ch4teen Clip
+http://ch14.tv:80/live/ch4teenclip/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Clip HD" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN CLIP",Ch4teen Clip HD
+http://ch14.tv/live/ch4teenclip/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Live1" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN LIVE 1",Ch4teen Live1
+http://ch14.tv:80/live/ch4teenlive1/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Live1 HD" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN LIVE 1",Ch4teen Live1 HD
+http://ch14.tv/live/ch4teenlive1/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Live2" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN LIVE 2",Ch4teen Live2
+http://ch14.tv:80/live/ch4teenlive2/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Live2 HD" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN LIVE 2",Ch4teen Live2 HD
+http://ch14.tv/live/ch4teenlive2/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Live3" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN LIVE 3",Ch4teen Live3
+http://ch14.tv:80/live/ch4teenlive3/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Live3 HD" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN LIVE 3",Ch4teen Live3 HD
+http://ch14.tv/live/ch4teenlive3/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Live4" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN LIVE 4",Ch4teen Live4
+http://ch14.tv:80/live/ch4teenlive4/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Live4 HD" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN LIVE 4",Ch4teen Live4 HD
+http://ch14.tv/live/ch4teenlive4/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Live5" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN LIVE 5",Ch4teen Live5
+http://ch14.tv:80/live/ch4teenlive5/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Live5 HD" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN LIVE 5",Ch4teen Live5 HD
+http://ch14.tv/live/ch4teenlive5/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Documentary" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN DOCUMENTARY",Ch4teen Documentary
+http://ch14.tv:80/live/ch4teendoc/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Documentary HD" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN DOCUMENTARY",Ch4teen Documentary HD
+http://ch14.tv/live/ch4teendoc/playlist.m3u8
 #EXTINF:-1  tvg-name="Al Anwar 1" tvg-id="ext" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="AL ANWAR",Al Anwar 1
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49636
 #EXTINF:-1  tvg-name="Al Aqila" tvg-id="ext" tvg-logo="https://alaqila.tv/gallery_gen/46aee3e16e86e9747594af1dc7b90e6a.png" group-title="AL AQILA",Al Aqila
@@ -121,42 +169,6 @@ https://cdn3.wowza.com/5/aEtqbDdJeWFiL1lG/live2/myStream/chunklist.m3u8
 https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
 #EXTINF:-1  tvg-name="Imam Hussain 2" tvg-id="ext" tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="IMAM HUSSAIN 2",Imam Hussain 2
 https://ak.imamhussein.live/imhtv2live/imhtv2.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="Ch4teen1" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN",Ch4teen1
-http://ch14.tv:80/live/ch4teen1/playlist.m3u8
-#EXTINF:-1  tvg-name="Ch4teen1 HD" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN",Ch4teen1 HD
-http://ch14.tv/live/ch4teen1/playlist.m3u8
-#EXTINF:-1  tvg-name="Ch4teen Quran" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN QURAN",Ch4teen Quran
-http://ch14.tv:80/live/ch4teenquran/playlist.m3u8
-#EXTINF:-1  tvg-name="Ch4teen Quran HD" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN QURAN",Ch4teen Quran HD
-http://ch14.tv/live/ch4teenquran/playlist.m3u8
-#EXTINF:-1  tvg-name="Ch4teen Clip" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN CLIP",Ch4teen Clip
-http://ch14.tv:80/live/ch4teenclip/playlist.m3u8
-#EXTINF:-1  tvg-name="Ch4teen Clip HD" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN CLIP",Ch4teen Clip HD
-http://ch14.tv/live/ch4teenclip/playlist.m3u8
-#EXTINF:-1  tvg-name="Ch4teen Live1" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN LIVE 1",Ch4teen Live1
-http://ch14.tv:80/live/ch4teenlive1/playlist.m3u8
-#EXTINF:-1  tvg-name="Ch4teen Live1 HD" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN LIVE 1",Ch4teen Live1 HD
-http://ch14.tv/live/ch4teenlive1/playlist.m3u8
-#EXTINF:-1  tvg-name="Ch4teen Live2" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN LIVE 2",Ch4teen Live2
-http://ch14.tv:80/live/ch4teenlive2/playlist.m3u8
-#EXTINF:-1  tvg-name="Ch4teen Live2 HD" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN LIVE 2",Ch4teen Live2 HD
-http://ch14.tv/live/ch4teenlive2/playlist.m3u8
-#EXTINF:-1  tvg-name="Ch4teen Live3" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN LIVE 3",Ch4teen Live3
-http://ch14.tv:80/live/ch4teenlive3/playlist.m3u8
-#EXTINF:-1  tvg-name="Ch4teen Live3 HD" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN LIVE 3",Ch4teen Live3 HD
-http://ch14.tv/live/ch4teenlive3/playlist.m3u8
-#EXTINF:-1  tvg-name="Ch4teen Live4" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN LIVE 4",Ch4teen Live4
-http://ch14.tv:80/live/ch4teenlive4/playlist.m3u8
-#EXTINF:-1  tvg-name="Ch4teen Live4 HD" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN LIVE 4",Ch4teen Live4 HD
-http://ch14.tv/live/ch4teenlive4/playlist.m3u8
-#EXTINF:-1  tvg-name="Ch4teen Live5" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN LIVE 5",Ch4teen Live5
-http://ch14.tv:80/live/ch4teenlive5/playlist.m3u8
-#EXTINF:-1  tvg-name="Ch4teen Live5 HD" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN LIVE 5",Ch4teen Live5 HD
-http://ch14.tv/live/ch4teenlive5/playlist.m3u8
-#EXTINF:-1  tvg-name="Ch4teen Documentary" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN DOCUMENTARY",Ch4teen Documentary
-http://ch14.tv:80/live/ch4teendoc/playlist.m3u8
-#EXTINF:-1  tvg-name="Ch4teen Documentary HD" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="CH4TEEN DOCUMENTARY",Ch4teen Documentary HD
-http://ch14.tv/live/ch4teendoc/playlist.m3u8
 #EXTINF:-1  tvg-name="Bayyinat" tvg-id="ext" tvg-logo="https://i.imgur.com/PVQKsjE.png" group-title="BAYYINAT",Bayyinat
 https://nl2.livekadeh.com/hls2/Bayyinat.m3u8
 #EXTINF:-1  tvg-name="Bayyinat_high" tvg-id="ext" tvg-logo="https://i.imgur.com/PVQKsjE.png" group-title="BAYYINAT",Bayyinat_high
@@ -407,7 +419,6 @@ http://m.live.net.sa:1935/live/quran/chunklist_w1949770835.m3u8
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w1500649238.m3u8
 #EXTINF:-1  tvg-name="Makkah TV (576p)" tvg-id="ext" tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="QURAN",Makkah TV (576p)
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w1807624854.m3u8
-#EXTINF:-1  tvg-name="Quran" tvg-id="ext" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRFdzIm5WWOWMmvsqBFE4nBt6KZfB2TYBsUzjnA=s900-c-k-c0x00ffffff-no-rj" group-title="QURAN",Quran
 https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/chunklist_w1875078440_b446000.m3u8
 #EXTINF:-1  tvg-name="Quran" tvg-id="ext" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="QURAN",Quran
 http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby:ahlakid.com
