@@ -113,6 +113,8 @@ https://video-lhr6-1.xx.fbcdn.net/hvideo-atn-cco/_nc_cat-108/_nc_sr_t-4/v/rASfAS
 http://154.58.202.131:8000/play/a00g
 #EXTINF:-1  tvg-name="Al-shaaer TV" tvg-id="ext" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="AL Shaaer",Al-shaaer TV
 http://149.62.177.103:8000/play/a045
+#EXTINF:-1  tvg-name="Om AlBaneen" tvg-id="ext" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="Om AlBaneen",Om AlBaneen
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=273018&extension=ts&play_token=yQAs6IgIhR#
 #EXTINF:-1  tvg-name="AL Najaf" tvg-id="ext" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-mahdi-satellite-channel-kw.png" group-title="AL Najaf",AL Najaf
 http://45.65.112.206:8000/play/a0gg
 #EXTINF:-1  tvg-name="Alnajaf Alashraf TV" tvg-id="ext" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-mahdi-satellite-channel-kw.png" group-title="AL Najaf",Alnajaf Alashraf TV
