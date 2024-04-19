@@ -947,7 +947,7 @@ http://45.65.112.206:8000/play/a0gt
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46127
 #EXTINF:-1  tvg-name="AL Rasheed TV HD" tvg-id="ext" tvg-logo="" group-title="Iraq",AL Rasheed TV HD
 http://45.65.112.206:8000/play/a05i
-#EXTINF:-1  tvg-name="AL Salam" tvg-id="ext" tvg-logo="" group-title="Iraq",AL Salam
+#EXTINF:-1  tvg-name="AL Salam" tvg-id="ext" tvg-logo="" group-title="Arabic",AL Salam
 http://45.65.112.206:8000/play/a03z
 #EXTINF:-1  tvg-name="AL Sharqiya HD" tvg-id="ext" tvg-logo="" group-title="Iraq",AL Sharqiya HD
 http://45.65.112.206:8000/play/a05f
@@ -1251,7 +1251,7 @@ http://5.253.46.190:7002/play/a0at
 http://5.253.46.190:7002/play/a0b6
 #EXTINF:-1  tvg-name="Alnojaba TV" tvg-id="ext" tvg-logo="" group-title="Iraq",Alnojaba TV
 http://5.253.46.190:7002/play/a0ar
-#EXTINF:-1  tvg-name="Alsalam" tvg-id="ext" tvg-logo="" group-title="Iraq",Alsalam
+#EXTINF:-1  tvg-name="Alsalam" tvg-id="ext" tvg-logo="" group-title="Arabic",Alsalam
 http://5.253.46.190:7002/play/a0a7
 #EXTINF:-1  tvg-name="AL Ghadeer" tvg-id="ext" tvg-logo="" group-title="Iraq",AL Ghadeer
 http://5.253.46.190:7002/play/a0ao
@@ -1971,7 +1971,7 @@ http://45.65.112.206:8000/play/a049
 http://45.65.112.206:8000/play/a06e
 #EXTINF:-1  tvg-name="Libya Almustaqbal TV" tvg-id="ext" tvg-logo="" group-title="Arabic",Libya Almustaqbal TV
 http://45.65.112.206:8000/play/a09b
-#EXTINF:-1  tvg-name="Lib: Salam TV" tvg-id="ext" tvg-logo="" group-title="Arabic",Lib: Salam TV
+#EXTINF:-1  tvg-name="Lib: Salam TV" tvg-id="ext" tvg-logo="" group-title="Arabic",Libya Salam TV
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52357
 #EXTINF:-1  tvg-name="Libya Alrasmia" tvg-id="ext" tvg-logo="" group-title="Arabic",Libya Alrasmia
 http://45.65.112.206:8000/play/a0cn
@@ -3955,7 +3955,7 @@ http://149.18.45.21:8000/play/a03i/index.m3u8
 http://149.18.45.21:8000/play/a0j8/index.m3u8
 #EXTINF:-1  tvg-name="Saba World Promo" tvg-id="ext" tvg-logo="" group-title="Arabic",Saba World Promo
 http://149.18.45.21:8000/play/a0g1/index.m3u8
-#EXTINF:-1  tvg-name="Salam HD" tvg-id="ext" tvg-logo="" group-title="Iraq",Salam HD
+#EXTINF:-1  tvg-name="Salam HD" tvg-id="ext" tvg-logo="" group-title="Arabic",Salam HD
 http://149.18.45.21:8000/play/a0hn/index.m3u8
 #EXTINF:-1  tvg-name="Shehab TV HD" tvg-id="ext" tvg-logo="" group-title="Arabic",Shehab TV HD
 http://149.18.45.21:8000/play/a00c/index.m3u8
@@ -4203,7 +4203,7 @@ http://45.65.112.206:8000/play/a06j
 http://45.65.112.206:8000/play/a08w
 #EXTINF:-1  tvg-name="Sumer Fm" tvg-id="ext" tvg-logo="" group-title="Arabic",Sumer Fm
 http://45.65.112.206:8000/play/a0jz
-#EXTINF:-1  tvg-name="Salam TV" tvg-id="ext" tvg-logo="" group-title="Iraq",Salam TV
+#EXTINF:-1  tvg-name="Salam TV" tvg-id="ext" tvg-logo="" group-title="Arabic",Salam TV
 http://45.65.112.206:8000/play/a04p
 #EXTINF:-1  tvg-name="Star Fm" tvg-id="ext" tvg-logo="" group-title="Arabic",Star Fm
 http://45.65.112.206:8000/play/a0k4
@@ -4667,7 +4667,7 @@ http://5.253.46.190:7002/play/a0br
 http://5.253.46.190:7002/play/a0ab
 #EXTINF:-1  tvg-name="Palestine" tvg-id="ext" tvg-logo="" group-title="Arabic",Palestine
 http://5.253.46.190:7002/play/a09i
-#EXTINF:-1  tvg-name="Salam TV" tvg-id="ext" tvg-logo="" group-title="Iraq",Salam TV
+#EXTINF:-1  tvg-name="Salam TV" tvg-id="ext" tvg-logo="" group-title="Arabic",Salam TV
 http://5.253.46.190:7002/play/a0ec
 #EXTINF:-1  tvg-name="Samira TV" tvg-id="ext" tvg-logo="" group-title="Arabic",Samira TV
 http://5.253.46.190:7002/play/a0ba
@@ -7043,7 +7043,7 @@ http://154.58.202.131:8000/play/a08c
 http://154.58.202.131:8000/play/a08b
 #EXTINF:-1  tvg-name="Sakaker" tvg-id="ext" tvg-logo="" group-title="Iran",Sakaker
 http://154.58.202.131:8000/play/a08p
-#EXTINF:-1  tvg-name="Salam" tvg-id="ext" tvg-logo="" group-title="Iraq",Salam
+#EXTINF:-1  tvg-name="Salam" tvg-id="ext" tvg-logo="" group-title="Arabic",Salam
 http://154.58.202.131:8000/play/a009
 #EXTINF:-1  tvg-name="Sat.tv" tvg-id="ext" tvg-logo="" group-title="Iran",Sat.tv
 http://154.58.202.131:8000/play/a04a
