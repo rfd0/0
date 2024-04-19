@@ -5679,7 +5679,7 @@ http://45.65.112.16:8000/play/a03c
 http://iptv.icsnleb.com:25461/live//a/b//30.m3u8
 #EXTINF:-1  tvg-name="2kouka Toon" tvg-id="ext" tvg-logo="" group-title="Kids",kouka Toon
 http://iptv.icsnleb.com:25461/live//a/b//12.m3u8
-#EXTINF:-1  tvg-name="2rotana Cinema Ksa" tvg-id="ext" tvg-logo="" group-title="Kids",rotana Cinema Ksa
+#EXTINF:-1  tvg-name="2rotana Cinema Ksa" tvg-id="ext" tvg-logo="" group-title="Arabic",rotana Cinema Ksa
 http://iptv.icsnleb.com:25461/live//a/b//18.m3u8
 #EXTINF:-1  tvg-name="2spacetoon" tvg-id="ext" tvg-logo="" group-title="Kids",spacetoon
 http://iptv.icsnleb.com:25461/live//a/b//80.m3u8
