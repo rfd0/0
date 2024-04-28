@@ -627,6 +627,1273 @@ http://149.62.177.103:8000/play/a089
 http://142.132.218.83:2086/play/a012/index.m3u8
 #EXTINF:-1  tvg-name="NAT Geo Wild HD" tvg-id="ext" tvg-logo="" group-title="Documentary",NAT Geo Wild HD
 http://142.132.218.83:2086/play/a01c/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 1 " group-title="BEIN SPORTSˢᴰ",مركز شرارة 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/3254.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 1 SD" group-title="BEIN SPORTSˢᴰ",بيج شرارة
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/47305.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 1" group-title="BEIN SPORTSˢᴰ",بي ان سبورت 1
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/3255.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 2 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت 2 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/47309.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 3 " group-title="BEIN SPORTSˢᴰ",بي ان سبورت 3 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/3256.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 3 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت 3 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/3257.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 4 " group-title="BEIN SPORTSˢᴰ",بي ان سبورت 4 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/47317.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 4 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت 4 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/3258.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 5 " group-title="BEIN SPORTSˢᴰ",بي ان سبورت 5 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/3259.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 5 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت 5 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/47321.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 6 " group-title="BEIN SPORTSˢᴰ",بي ان سبورت 6 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/3260.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 6 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت 6 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/47325.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 7 " group-title="BEIN SPORTSˢᴰ",بي ان سبورت 7 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/47329.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 7 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت 7 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/3261.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 8 " group-title="BEIN SPORTSˢᴰ",بي ان سبورت 8 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/3262.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 08 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت 08 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/82774.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 9 " group-title="BEIN SPORTSˢᴰ",بي ان سبورت 9 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/3263.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 09 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت 09 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/82775.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت EN 1 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت EN 1 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/82776.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت EN 2 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت EN 2 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/82777.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت FR  1 SD " group-title="BEIN SPORTSˢᴰ",بي ان سبورت FR  1 SD 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/82779.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت FR  2 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت FR  2 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/82780.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت FR 3 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت FR 3 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/82781.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت LEAGUE" group-title="BEIN SPORTSˢᴰ",بي ان سبورت LEAGUE
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/3264.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 1ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 1ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92607.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 2ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 2ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92608.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 2ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 2ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92609.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 3ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 3ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92610.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 3ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 3ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92611.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 4ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 4ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92612.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 4ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 4ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92613.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 5ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 5ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92614.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 5ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 5ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92615.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 6ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 6ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92616.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 6ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 6ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92617.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 7ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 7ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92618.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 7ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 7ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92619.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): دجلة" group-title="IRAQ",(شرارة): دجلة
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114436.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): كربلاء " group-title="IRAQ",(شرارة): كربلاء 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114437.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الشرقية" group-title="IRAQ",(شرارة): الشرقية
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114438.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): قناة الرشيد" group-title="IRAQ",(شرارة): قناة الرشيد
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114439.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): العراق 24" group-title="IRAQ",(شرارة): العراق 24
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114440.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): السومرية" group-title="IRAQ",(شرارة): السومرية
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114441.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الطليعة" group-title="IRAQ",(شرارة): الطليعة
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114442.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): قناة الامام علي" group-title="IRAQ",(شرارة): قناة الامام علي
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114443.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): العراق ايدو كيدز" group-title="IRAQ",(شرارة): العراق ايدو كيدز
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114444.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): يو تي في العراق HD" group-title="IRAQ",(شرارة): يو تي في العراق HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114445.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الموقف" group-title="IRAQ",(شرارة): الموقف
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114447.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): اليمان" group-title="IRAQ",(شرارة): اليمان
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114448.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): البصرة 365" group-title="IRAQ",(شرارة): البصرة 365
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114449.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): المسلة" group-title="IRAQ",(شرارة): المسلة
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114450.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الصراط" group-title="IRAQ",(شرارة): الصراط
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114452.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): صوت عليترا" group-title="IRAQ",(شرارة): صوت عليترا
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114453.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الفرات" group-title="IRAQ",(شرارة): الفرات
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114454.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الشرقية" group-title="IRAQ",(شرارة): الشرقية
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114455.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الموصلية" group-title="IRAQ",(شرارة): الموصلية
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114456.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الكوثر" group-title="IRAQ",(شرارة): الكوثر
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114457.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الشرقية_2819" group-title="IRAQ",(شرارة): الشرقية_2819
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114458.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): هنا بغداد" group-title="IRAQ",(شرارة): هنا بغداد
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114459.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): العراق الآن" group-title="IRAQ",(شرارة): العراق الآن
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114460.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): تلفزيون دجلة" group-title="IRAQ",(شرارة): تلفزيون دجلة
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114461.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الأنبار" group-title="IRAQ",(شرارة): الأنبار
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114462.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الكربلائية" group-title="IRAQ",(شرارة): الكربلائية
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114463.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): مرجعيات" group-title="IRAQ",(شرارة): مرجعيات
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114464.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الاولى العراق" group-title="IRAQ",(شرارة): الاولى العراق
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114465.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): 1 تلفزيون العراق" group-title="IRAQ",(شرارة): 1 تلفزيون العراق
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114466.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): العقيلة" group-title="IRAQ",(شرارة): العقيلة
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114467.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الانوار" group-title="IRAQ",(شرارة): الانوار
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114468.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): قناة رقية" group-title="IRAQ",(شرارة): قناة رقية
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114469.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): فرسان العراق" group-title="IRAQ",(شرارة): فرسان العراق
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114470.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): قناة الشاعر" group-title="IRAQ",(شرارة): قناة الشاعر
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114471.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): البغدادية" group-title="IRAQ",(شرارة): البغدادية
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114472.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الفرات HD" group-title="IRAQ",(شرارة): الفرات HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114473.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الانوار 2 " group-title="IRAQ",(شرارة): الانوار 2 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114474.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): مستقبل العراق" group-title="IRAQ",(شرارة): مستقبل العراق
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114475.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): يو تي في العراق" group-title="IRAQ",(شرارة): يو تي في العراق
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114476.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): فناة النجف الاشرف" group-title="IRAQ",(شرارة): فناة النجف الاشرف
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114477.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): صوت العقيلة" group-title="IRAQ",(شرارة): صوت العقيلة
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114478.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): قناة ذي قار" group-title="IRAQ",(شرارة): قناة ذي قار
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114479.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): البصرة 1" group-title="IRAQ",(شرارة): البصرة 1
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114480.ts
+#EXTINF:-1 tvg-id="" tvg-name="الديوانية(شرارة): " group-title="IRAQ",(شرارة): الديوانية
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114481.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): تلفزيون الكوت" group-title="IRAQ",(شرارة): تلفزيون الكوت
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114482.ts
+#EXTINF:-1 tvg-id="" tvg-name="كويتي(شرارة): " group-title="IRAQ",(شرارة): كويتي
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114483.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الرافدين" group-title="IRAQ",(شرارة): الرافدين HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114484.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### مركز شرارة #####" group-title="ام بي سي GROUP ",##### مركز شرارة #####
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16388.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 1" group-title="ام بي سي GROUP ",ام بي سي 1
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/75.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 1 HD" group-title="ام بي سي GROUP ",ام بي سي 1 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/91888.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 1 4K" group-title="ام بي سي GROUP ",ام بي سي 1 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16389.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ام بي سي 2" group-title="ام بي سي GROUP ", ام بي سي 2
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16390.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 2 HD" group-title="ام بي سي GROUP ",ام بي سي 2 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64201.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 2 4K" group-title="ام بي سي GROUP ",ام بي سي 2 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16406.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 3" group-title="ام بي سي GROUP ",ام بي سي 3
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/77.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 3 HD" group-title="ام بي سي GROUP ",ام بي سي 3 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/91889.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 3 4K" group-title="ام بي سي GROUP ",ام بي سي 3 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16407.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 4" group-title="ام بي سي GROUP ",ام بي سي 4
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64269.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 4 HD" group-title="ام بي سي GROUP ",ام بي سي 4 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/91890.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 4 4K" group-title="ام بي سي GROUP ",ام بي سي 4 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16408.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 5" group-title="ام بي سي GROUP ",ام بي سي 5
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/79.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 5 HD" group-title="ام بي سي GROUP ",ام بي سي 5 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16392.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 5 " group-title="رمضانك معنا",ام بي سي 5 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64206.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي DRAMA " group-title="ام بي سي GROUP ",ام بي سي DRAMA 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/97.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي DRAMA HD" group-title="ام بي سي GROUP ",ام بي سي DRAMA HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16396.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي DRAMA 4K" group-title="ام بي سي GROUP ",ام بي سي DRAMA 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16411.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي MASR" group-title="ام بي سي GROUP ",ام بي سي MASR
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/89.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي MASR 4K" group-title="رمضانك معنا",ام بي سي MASR 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64214.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي MASR 2 4K" group-title="رمضانك معنا",ام بي سي MASR 2 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16412.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي ACTION" group-title="ام بي سي GROUP ",ام بي سي ACTION
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16394.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي ACTION HD" group-title="ام بي سي GROUP ",ام بي سي ACTION HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101935.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي ACTION 4K" group-title="ام بي سي GROUP ",ام بي سي ACTION 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16410.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي MAX " group-title="ام بي سي GROUP ",ام بي سي MAX 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64210.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي MAX  HD" group-title="ام بي سي GROUP ",ام بي سي MAX  HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16395.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي MAX 4K " group-title="ام بي سي GROUP ",ام بي سي MAX 4K 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64222.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ام بي سي IRAQ " group-title="ام بي سي GROUP ", ام بي سي IRAQ 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/84.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي IRAQ HD" group-title="رمضانك معنا",ام بي سي IRAQ HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16398.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي IRAQ 4K" group-title="ام بي سي GROUP ",ام بي سي IRAQ 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16415.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي BOLLYWOOD " group-title="ام بي سي GROUP ",ام بي سي BOLLYWOOD 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64209.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي BOLLYWOOD  HD" group-title="ام بي سي GROUP ",ام بي سي BOLLYWOOD  HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/91891.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي Drama KSA HD" group-title="ام بي سي GROUP ",ام بي سي Drama KSA HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/91892.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي VARIETY 4K"  group-title="ام بي سي GROUP ",ام بي سي VARIETY 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64221.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي FARESI" group-title="ام بي سي GROUP ",ام بي سي FARESI
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64268.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET 4K" group-title="ام بي سي GROUP ",ANIMAL PLANET 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64224.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE 4K " group-title="ام بي سي GROUP ",FOX LIFE 4K 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64231.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX  MOVIES 4K" group-title="ام بي سي GROUP ",FOX  MOVIES 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64230.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي+ POWER SPORT 4K" group-title="ام بي سي GROUP ",ام بي سي+ POWER SPORT 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/8353.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي + POWER DRAMA 4K" group-title="ام بي سي GROUP ",ام بي سي + POWER DRAMA 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64204.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR WORLD 4K" group-title="ام بي سي GROUP ",STAR WORLD 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64229.ts
+#EXTINF:-1 tvg-id="" tvg-name="---- ||  ام بي سي || ----" group-title="ام بي سي GROUP ",---- ||  ام بي سي || ----
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101310.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: ام بي سي GEO 1 HD" group-title="ام بي سي GROUP ",AR: ام بي سي GEO 1 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101314.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: ام بي سي GEO 1 4K" group-title="ام بي سي GROUP ",AR: ام بي سي GEO 1 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101313.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي GEO 2 4K" group-title="ام بي سي GROUP ",ام بي سي GEO 2 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101315.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي GEO 2 HD" group-title="ام بي سي GROUP ",ام بي سي GEO 2 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101316.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي TOONS 4K" group-title="ام بي سي GROUP ",ام بي سي TOONS 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101311.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: ام بي سي TOONS HD" group-title="ام بي سي GROUP ",AR: ام بي سي TOONS HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101312.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي PREMIUM 4K" group-title="ام بي سي GROUP ",ام بي سي PREMIUM 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101317.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي PLUS 4K" group-title="ام بي سي GROUP ",ام بي سي PLUS 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101318.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي POWER 4K" group-title="ام بي سي GROUP ",ام بي سي POWER 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101319.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي POWER HD" group-title="ام بي سي GROUP ",ام بي سي POWER HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101320.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي FAMILY 4K" group-title="ام بي سي GROUP ",ام بي سي FAMILY 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101321.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### |AR| EGYPT #####" tvg-logo="" group-title="EGYPTE",##### |AR| EGYPT #####
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16650.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MASRIYA" tvg-logo="" group-title="EGYPTE",|AR| AL MASRIYA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16673.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL NAHAR DRAMA" tvg-logo="" group-title="EGYPTE",|AR| AL NAHAR DRAMA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16658.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL NAHAR ONE" tvg-logo="" group-title="رمضانك معنا",AL NAHAR ONE
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16657.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BELADI" tvg-logo="" group-title="EGYPTE",|AR| BELADI
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16629.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| CBC DRAMA" tvg-logo="" group-title="EGYPTE",|AR| CBC DRAMA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16654.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| CBC EXTRA NEWS" tvg-logo="" group-title="EGYPTE",|AR| CBC EXTRA NEWS
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16656.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| CBC SOFRA" tvg-logo="" group-title="EGYPTE",|AR| CBC SOFRA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16655.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| CIMA TV" tvg-logo="" group-title="EGYPTE",|AR| CIMA TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16715.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| CINEMA PRO" tvg-logo="" group-title="EGYPTE",|AR| CINEMA PRO
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16678.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DMC" tvg-logo="" group-title="EGYPTE",|AR| DMC
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16717.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DMC DRAMA" tvg-logo="" group-title="EGYPTE",|AR| DMC DRAMA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16698.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DMC HD" tvg-logo="" group-title="EGYPTE",|AR| DMC HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16697.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DMC SPORTS" tvg-logo="" group-title="EGYPTE",|AR| DMC SPORTS
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16699.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DRAMA ALWAN" tvg-logo="" group-title="EGYPTE",|AR| DRAMA ALWAN
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16723.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ESC" tvg-logo="" group-title="EGYPTE",|AR| ESC
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16651.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| FUNOON TV" tvg-logo="" group-title="EGYPTE",|AR| FUNOON TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16298.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| I FILM" tvg-logo="" group-title="EGYPTE",|AR| I FILM
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16632.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MASPERO ZAMAN" tvg-logo="" group-title="EGYPTE",|AR| MASPERO ZAMAN
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16674.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MAZAZIKH TV" tvg-logo="" group-title="EGYPTE",|AR| MAZAZIKH TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16705.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MEHWAR" tvg-logo="" group-title="EGYPTE",|AR| MEHWAR
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16671.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MEKAMELEEN TV" tvg-logo="" group-title="EGYPTE",|AR| MEKAMELEEN TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16709.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MIX HOLLYWOOD" tvg-logo="" group-title="EGYPTE",|AR| MIX HOLLYWOOD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16713.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MUSIC ALHANEN" tvg-logo="" group-title="EGYPTE",|AR| MUSIC ALHANEN
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16637.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE CINEMA" tvg-logo="" group-title="EGYPTE",|AR| NILE CINEMA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16679.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE COMEDY" tvg-logo="" group-title="EGYPTE",|AR| NILE COMEDY
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16681.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE CULTURE" tvg-logo="" group-title="EGYPTE",|AR| NILE CULTURE
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16684.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE DRAMA" tvg-logo="" group-title="EGYPTE",|AR| NILE DRAMA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16680.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE FAMILY" tvg-logo="" group-title="EGYPTE",|AR| NILE FAMILY
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16682.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE LIFE" tvg-logo="" group-title="EGYPTE",|AR| NILE LIFE
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16683.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE NEWS" tvg-logo="" group-title="EGYPTE",|AR| NILE NEWS
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16685.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE SPORT" tvg-logo="" group-title="EGYPTE",|AR| NILE SPORT
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16687.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE TV" tvg-logo="" group-title="EGYPTE",|AR| NILE TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16686.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NOGOUM FM TV" tvg-logo="" group-title="EGYPTE",|AR| NOGOUM FM TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16721.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TV" tvg-logo="" group-title="EGYPTE",|AR| ON TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16688.ts
+#EXTINF:-1 tvg-id="" tvg-name="ON TV DRAMA" tvg-logo="" group-title="رمضانك معنا",ON TV DRAMA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16689.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TV E" tvg-logo="" group-title="EGYPTE",|AR| ON TV E
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16690.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TV E HD" tvg-logo="" group-title="EGYPTE",|AR| ON TV E HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16691.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TV HD" tvg-logo="" group-title="EGYPTE",|AR| ON TV HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16692.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TV LIVE" tvg-logo="" group-title="EGYPTE",|AR| ON TV LIVE
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16693.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TV LIVE HD" tvg-logo="" group-title="EGYPTE",|AR| ON TV LIVE HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16694.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TV SPORT" tvg-logo="" group-title="EGYPTE",|AR| ON TV SPORT
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16695.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TV SPORT HD" tvg-logo="" group-title="EGYPTE",|AR| ON TV SPORT HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16696.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ORIENT TV" tvg-logo="" group-title="EGYPTE",|AR| ORIENT TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16527.ts
+#EXTINF:-1 tvg-id="" tvg-name="PANORAMA DRAMA 1" tvg-logo="" group-title="رمضانك معنا",PANORAMA DRAMA 1
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16667.ts
+#EXTINF:-1 tvg-id="" tvg-name="PANORAMA DRAMA 2" tvg-logo="" group-title="رمضانك معنا",PANORAMA DRAMA 2
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16668.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| PANORAMA FILM" tvg-logo="" group-title="EGYPTE",|AR| PANORAMA FILM
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16666.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| PANORAMA FOOD" tvg-logo="" group-title="EGYPTE",|AR| PANORAMA FOOD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16669.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SADA EL BALAD" tvg-logo="" group-title="EGYPTE",|AR| SADA EL BALAD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16663.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SADA EL BALAD DRAMA" tvg-logo="" group-title="EGYPTE",|AR| SADA EL BALAD DRAMA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16665.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SADA EL BALAD+" tvg-logo="" group-title="EGYPTE",|AR| SADA EL BALAD+
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16664.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| STAR CINEMA 1" tvg-logo="" group-title="EGYPTE",|AR| STAR CINEMA 1
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16676.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| STAR CINEMA 2" tvg-logo="" group-title="EGYPTE",|AR| STAR CINEMA 2
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16677.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| TIME SPORTS" tvg-logo="" group-title="EGYPTE",|AR| TIME SPORTS
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16702.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| TOK TOK AFLAM" tvg-logo="" group-title="EGYPTE",|AR| TOK TOK AFLAM
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16675.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| TOK TOK CINEMA" tvg-logo="" group-title="EGYPTE",|AR| TOK TOK CINEMA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16714.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ZAMALEK SPORTS" tvg-logo="" group-title="EGYPTE",|AR| ZAMALEK SPORTS
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16701.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MELODY CLASSIC" group-title="EGYPTE",|AR| MELODY CLASSIC
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16672.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ام بي سي MASR" group-title="EGYPTE",|AR| ام بي سي MASR
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16403.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL KAHERA WAL NAS +2" tvg-logo="" group-title="EGYPTE",|AR| AL KAHERA WAL NAS +2
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16662.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL KAHERA WE AL NASS" tvg-logo="" group-title="EGYPTE",|AR| AL KAHERA WE AL NASS
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16661.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAALY" tvg-logo="" group-title="EGYPTE",|AR| AL MAALY
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16311.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJLIS" tvg-logo="" group-title="EGYPTE",|AR| AL MAJLIS
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16310.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJLIS 4K" tvg-logo="" group-title="EGYPTE",|AR| AL MAJLIS 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16300.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAMLAKA" tvg-logo="" group-title="EGYPTE",|AR| AL MAMLAKA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16497.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MASAR" tvg-logo="" group-title="EGYPTE",|AR| AL MASAR
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16612.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MASIRAH TV" tvg-logo="" group-title="EGYPTE",|AR| AL MASIRAH TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16329.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MASSAR AL OULA" tvg-logo="" group-title="EGYPTE",|AR| AL MASSAR AL OULA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16613.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAYADEEN" tvg-logo="" group-title="EGYPTE",|AR| AL MAYADEEN
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16482.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MERGAB" tvg-logo="" group-title="EGYPTE",|AR| AL MERGAB
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16753.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL RASHEED TV" tvg-logo="" group-title="EGYPTE",|AR| AL RASHEED TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16594.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL SABAH TV" tvg-logo="" group-title="EGYPTE",|AR| AL SABAH TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16299.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL SAHAT" tvg-logo="" group-title="EGYPTE",|AR| AL SAHAT
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16326.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL SAHRAA" tvg-logo="" group-title="EGYPTE",|AR| AL SAHRAA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16755.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL SHAAER TV" tvg-logo="" group-title="EGYPTE",|AR| AL SHAAER TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16619.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL SHAREYYAH" tvg-logo="" group-title="EGYPTE",|AR| AL SHAREYYAH
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16708.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALHAYAT 2" tvg-logo="" group-title="EGYPTE",|AR| ALHAYAT 2
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16718.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALHAYAT HD" tvg-logo="" group-title="EGYPTE",|AR| ALHAYAT HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16659.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALHAYAT WE ALNAS" tvg-logo="" group-title="EGYPTE",|AR| ALHAYAT WE ALNAS
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16719.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALTHANYA" tvg-logo="" group-title="EGYPTE",|AR| ALTHANYA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16652.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALYAWM" tvg-logo="" group-title="EGYPTE",|AR| ALYAWM
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16523.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AMMAN TV" tvg-logo="" group-title="EGYPTE",|AR| AMMAN TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16506.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| CBC" tvg-logo="" group-title="EGYPTE",|AR| CBC
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16653.ts
+#EXTINF:-1 tvg-id="" tvg-name="|JAW| Bedaya" tvg-logo="" group-title="EGYPTE",|JAW| Bedaya
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99287.ts
+#EXTINF:-1 tvg-id="" tvg-name="|JAW| Nile Comedy" tvg-logo="" group-title="EGYPTE",|JAW| Nile Comedy
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99288.ts
+#EXTINF:-1 tvg-id="" tvg-name="|JAW| Maspero Zaman" tvg-logo="" group-title="EGYPTE",|JAW| Maspero Zaman
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99289.ts
+#EXTINF:-1 tvg-id="" tvg-name="|JAW| Al Dafrah" tvg-logo="" group-title="EGYPTE",|JAW| Al Dafrah
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99290.ts
+#EXTINF:-1 tvg-id="" tvg-name="|JAW| Sama Dubai" tvg-logo="" group-title="EGYPTE",|JAW| Sama Dubai
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99291.ts
+#EXTINF:-1 tvg-id="" tvg-name="|JAW| Al Mamlaka TV" tvg-logo="" group-title="EGYPTE",|JAW| Al Mamlaka TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99292.ts
+#EXTINF:-1 tvg-id="" tvg-name="|JAW| Nile Cinema" tvg-logo="" group-title="EGYPTE",|JAW| Nile Cinema
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99293.ts
+#EXTINF:-1 tvg-id="" tvg-name="|JAW| Al Kahera Walnas" tvg-logo="" group-title="EGYPTE",|JAW| Al Kahera Walnas
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99281.ts
+#EXTINF:-1 tvg-id="" tvg-name="|JAW| Al Kahera Walnas 2" tvg-logo="" group-title="EGYPTE",|JAW| Al Kahera Walnas 2
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99282.ts
+#EXTINF:-1 tvg-id="" tvg-name="|JAW| Al Aan" tvg-logo="" group-title="EGYPTE",|JAW| Al Aan
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99280.ts
+#EXTINF:-1 tvg-id="" tvg-name="|JAW| Al Nahar Drama" tvg-logo="" group-title="EGYPTE",|JAW| Al Nahar Drama
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99275.ts
+#EXTINF:-1 tvg-id="" tvg-name="===== OSN HD =====" group-title="OSN+ART 4K",===== OSN HD =====
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100699.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART AFLAM 1" group-title="OSN+ART 4K",|OSN| ART AFLAM 1
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100700.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART CINEMA" group-title="OSN+ART 4K",|OSN| ART CINEMA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100701.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART HEKAYAT" group-title="OSN+ART 4K",|OSN| ART HEKAYAT
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100702.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART HEKAYAT 2" group-title="OSN+ART 4K",|OSN| ART HEKAYAT 2
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100703.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| YAHALA BIL ARABI" group-title="OSN+ART 4K",|OSN| YAHALA BIL ARABI
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100704.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| SERIES  2  HD" group-title="OSN+ART 4K",|OSN| SERIES  2  HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100707.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| MOVIES ACTION HD" group-title="OSN+ART 4K",|OSN| MOVIES ACTION HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100708.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| OSN MOVIES FAMILY HD" group-title="OSN+ART 4K",|OSN| OSN MOVIES FAMILY HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100709.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| SERIES COMEDY HD" group-title="OSN+ART 4K",|OSN| SERIES COMEDY HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100710.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| DISCOVERY HD" group-title="OSN+ART 4K",|OSN| DISCOVERY HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100711.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| DISNEY HD" group-title="OSN+ART 4K",|OSN| DISNEY HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100712.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| BINGE HD" group-title="OSN+ART 4K",|OSN| BINGE HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100714.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| PLAY CINEMA 1 HD" group-title="OSN+ART 4K",|OSN| PLAY CINEMA 1 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100715.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| PLAY CINEMA 2 HD" group-title="OSN+ART 4K",|OSN| PLAY CINEMA 2 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100716.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| PLAY CINEMA 3 HD" group-title="OSN+ART 4K",|OSN| PLAY CINEMA 3 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100717.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| PLAY CINEMA 4 HD" group-title="OSN+ART 4K",|OSN| PLAY CINEMA 4 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100718.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| PLAY MOVIES 1 HD" group-title="OSN+ART 4K",|OSN| PLAY MOVIES 1 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100719.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| PLAY MOVIES 2 HD" group-title="OSN+ART 4K",|OSN| PLAY MOVIES 2 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100720.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| PLAY MOVIES 3 HD" group-title="OSN+ART 4K",|OSN| PLAY MOVIES 3 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100721.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| MOVIES BOX OFFICE 1" group-title="OSN+ART 4K",|OSN| MOVIES BOX OFFICE 1
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100723.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| NICKELODEON HD" group-title="OSN+ART 4K",|OSN| NICKELODEON HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100730.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| SERIES FIRST HD" group-title="OSN+ART 4K",|OSN| SERIES FIRST HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100734.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| YAHALA HD" group-title="OSN+ART 4K",|OSN| YAHALA HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100736.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| CINEMA 1" group-title="OSN+ART 4K",|OSN| CINEMA 1
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100738.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| DISCOVERY IDX HD" group-title="OSN+ART 4K",|OSN| DISCOVERY IDX HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100752.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| MOVIES DISNEY HD" group-title="OSN+ART 4K",|OSN| MOVIES DISNEY HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100754.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| OSN Yahala SD" group-title="OSN+ART 4K",|OSN| OSN Yahala SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99098.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Hekayat SD"group-title="OSN+ART 4K",|OSN| ART Hekayat SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99100.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Aflam 2 HD" group-title="OSN+ART 4K",|OSN| ART Aflam 2 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99105.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Aflam 2 SD" group-title="OSN+ART 4K",|OSN| ART Aflam 2 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99106.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Cinema SD" group-title="OSN+ART 4K",|OSN| ART Cinema SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99108.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Aflam 1" group-title="OSN+ART 4K",|OSN| ART Aflam 1
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99211.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Aflam 2" group-title="OSN+ART 4K",|OSN| ART Aflam 2
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99212.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Hekayat" group-title="OSN+ART 4K",|OSN| ART Hekayat
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99214.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Hekayat 2" group-title="OSN+ART 4K",|OSN| ART Hekayat 2
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99215.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN|Fox Life" group-title="OSN+ART 4K",|OSN|Fox Life
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99233.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| Zekrayat" group-title="OSN+ART 4K",|OSN| Zekrayat
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99236.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| Fox Action Movies" group-title="OSN+ART 4K",|OSN| Fox Action Movies
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99241.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| Animal Planet HD" group-title="OSN+ART 4K",|OSN| Animal Planet HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99253.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| Discovery Science HD" group-title="OSN+ART 4K",|OSN| Discovery Science HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99256.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| Discovery IDX" group-title="OSN+ART 4K",|OSN| Discovery IDX
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99257.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN|  ACTION 4K" group-title="OSN+ART 4K",|OSN|  ACTION 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/953.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| YA HALA ALOULA" group-title="OSN+ART 4K",|OSN| YA HALA ALOULA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/46963.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| NAT GEO HD" group-title="OSN+ART 4K",|OSN| NAT GEO HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/91517.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN|OSN Yahala  HD" group-title="OSN+ART 4K",|OSN|OSN Yahala  HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99097.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Hekayat HD"group-title="OSN+ART 4K",|OSN| ART Hekayat HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99099.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Hekayat 2 HD" group-title="OSN+ART 4K",|OSN| ART Hekayat 2 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99101.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN|  ART Hekayat 2 SD" group-title="OSN+ART 4K",|OSN|  ART Hekayat 2 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99102.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Aflam SD" group-title="OSN+ART 4K",|OSN| ART Aflam SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99104.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Cinema" group-title="OSN+ART 4K",|OSN| ART Cinema
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99213.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN|Food Network" group-title="OSN+ART 4K",|OSN|Food Network
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99230.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Aflam HD" group-title="OSN+ART 4K",|OSN| ART Aflam HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99103.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN|Fatafeat" group-title="OSN+ART 4K",|OSN|Fatafeat
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99232.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| Nat Geographic" group-title="OSN+ART 4K",|OSN| Nat Geographic
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99251.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| Nat Geo Wild HD" group-title="OSN+ART 4K",|OSN| Nat Geo Wild HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99252.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| Discovery HD" group-title="OSN+ART 4K",|OSN| Discovery HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99254.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| Discovery Family HD" group-title="OSN+ART 4K",|OSN| Discovery Family HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99255.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| HGTV" group-title="OSN+ART 4K",|OSN| HGTV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99234.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| CNBC" group-title="OSN+ART 4K",|OSN| CNBC
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99266.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| YAHALA AFLAM" group-title="OSN+ART 4K",|OSN| YAHALA AFLAM
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100705.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| PLAY MOVIES 4 HD" group-title="OSN+ART 4K",|OSN| PLAY MOVIES 4 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100722.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| HISTORY CHANNEL HD" group-title="OSN+ART 4K",|OSN| HISTORY CHANNEL HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100725.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| E! HD" group-title="OSN+ART 4K",|OSN| E! HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100724.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| DISNEY XD HD" group-title="OSN+ART 4K",|OSN| DISNEY XD HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100713.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| NICK JR HD" group-title="OSN+ART 4K",|OSN| NICK JR HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100726.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| DISCOVERY SCIENCE HD" group-title="OSN+ART 4K",|OSN| DISCOVERY SCIENCE HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100729.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| MOVIES HD" group-title="OSN+ART 4K",|OSN| MOVIES HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100732.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN|  ACTION HD" group-title="OSN+ART 4K",|OSN|  ACTION HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100733.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| YAHALA CINEMA HD" group-title="OSN+ART 4K",|OSN| YAHALA CINEMA HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100735.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| STAR MOVIES HD" group-title="OSN+ART 4K",|OSN| STAR MOVIES HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100741.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| NEWS HD" group-title="OSN+ART 4K",|OSN| NEWS HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100742.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| MOVIES FIRST HD" group-title="OSN+ART 4K",|OSN| MOVIES FIRST HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100744.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| MOVIES FIRST 2 HD" group-title="OSN+ART 4K",|OSN| MOVIES FIRST 2 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100745.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| DISNEY JUNIOR HD" group-title="OSN+ART 4K",|OSN| DISNEY JUNIOR HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100747.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| H2 HD" group-title="OSN+ART 4K",|OSN| H2 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100748.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| NAT GEO HD" group-title="OSN+ART 4K",|OSN| NAT GEO HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100749.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| NAT GEO WILD HD" group-title="OSN+ART 4K",|OSN| NAT GEO WILD HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100750.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| DISCOVERY CHANNEL HD" group-title="OSN+ART 4K",|OSN| DISCOVERY CHANNEL HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100751.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| DISNEY CHANNEL HD" group-title="OSN+ART 4K",|OSN| DISNEY CHANNEL HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100753.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ENIGMA HD" group-title="OSN+ART 4K",|OSN| ENIGMA HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100755.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| MOVIES KIDS HD" group-title="OSN+ART 4K",|OSN| MOVIES KIDS HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100757.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| YAHALA OULA HD" group-title="OSN+ART 4K",|OSN| YAHALA OULA HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100759.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| MOVIES FIRST 2 HD" group-title="OSN+ART 4K",|OSN| MOVIES FIRST 2 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/966.ts
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 1 " group-title="BEIN SPORTSˢᴰ",مركز شرارة 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/3254.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 1 SD" group-title="BEIN SPORTSˢᴰ",بيج شرارة
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/47305.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 1" group-title="BEIN SPORTSˢᴰ",بي ان سبورت 1
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/3255.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 2 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت 2 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/47309.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 3 " group-title="BEIN SPORTSˢᴰ",بي ان سبورت 3 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/3256.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 3 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت 3 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/3257.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 4 " group-title="BEIN SPORTSˢᴰ",بي ان سبورت 4 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/47317.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 4 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت 4 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/3258.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 5 " group-title="BEIN SPORTSˢᴰ",بي ان سبورت 5 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/3259.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 5 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت 5 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/47321.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 6 " group-title="BEIN SPORTSˢᴰ",بي ان سبورت 6 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/3260.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 6 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت 6 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/47325.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 7 " group-title="BEIN SPORTSˢᴰ",بي ان سبورت 7 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/47329.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 7 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت 7 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/3261.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 8 " group-title="BEIN SPORTSˢᴰ",بي ان سبورت 8 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/3262.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 08 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت 08 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/82774.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 9 " group-title="BEIN SPORTSˢᴰ",بي ان سبورت 9 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/3263.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 09 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت 09 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/82775.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت EN 1 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت EN 1 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/82776.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت EN 2 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت EN 2 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/82777.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت FR  1 SD " group-title="BEIN SPORTSˢᴰ",بي ان سبورت FR  1 SD 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/82779.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت FR  2 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت FR  2 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/82780.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت FR 3 SD" group-title="BEIN SPORTSˢᴰ",بي ان سبورت FR 3 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/82781.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت LEAGUE" group-title="BEIN SPORTSˢᴰ",بي ان سبورت LEAGUE
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/3264.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 1ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 1ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92607.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 2ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 2ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92608.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 2ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 2ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92609.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 3ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 3ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92610.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 3ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 3ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92611.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 4ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 4ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92612.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 4ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 4ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92613.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 5ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 5ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92614.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 5ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 5ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92615.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 6ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 6ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92616.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 6ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 6ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92617.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 7ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 7ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92618.ts
+#EXTINF:-1 tvg-id="" tvg-name="بي ان سبورت 7ᵁᴴᴰ" group-title="بي ان سبورتᵁᴴᴰ",بي ان سبورت 7ᵁᴴᴰ
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/92619.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): دجلة" group-title="IRAQ",(شرارة): دجلة
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114436.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): كربلاء " group-title="IRAQ",(شرارة): كربلاء 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114437.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الشرقية" group-title="IRAQ",(شرارة): الشرقية
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114438.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): قناة الرشيد" group-title="IRAQ",(شرارة): قناة الرشيد
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114439.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): العراق 24" group-title="IRAQ",(شرارة): العراق 24
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114440.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): السومرية" group-title="IRAQ",(شرارة): السومرية
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114441.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الطليعة" group-title="IRAQ",(شرارة): الطليعة
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114442.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): قناة الامام علي" group-title="IRAQ",(شرارة): قناة الامام علي
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114443.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): العراق ايدو كيدز" group-title="IRAQ",(شرارة): العراق ايدو كيدز
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114444.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): يو تي في العراق HD" group-title="IRAQ",(شرارة): يو تي في العراق HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114445.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الموقف" group-title="IRAQ",(شرارة): الموقف
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114447.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): اليمان" group-title="IRAQ",(شرارة): اليمان
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114448.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): البصرة 365" group-title="IRAQ",(شرارة): البصرة 365
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114449.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): المسلة" group-title="IRAQ",(شرارة): المسلة
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114450.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الصراط" group-title="IRAQ",(شرارة): الصراط
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114452.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): صوت عليترا" group-title="IRAQ",(شرارة): صوت عليترا
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114453.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الفرات" group-title="IRAQ",(شرارة): الفرات
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114454.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الشرقية" group-title="IRAQ",(شرارة): الشرقية
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114455.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الموصلية" group-title="IRAQ",(شرارة): الموصلية
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114456.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الكوثر" group-title="IRAQ",(شرارة): الكوثر
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114457.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الشرقية_2819" group-title="IRAQ",(شرارة): الشرقية_2819
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114458.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): هنا بغداد" group-title="IRAQ",(شرارة): هنا بغداد
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114459.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): العراق الآن" group-title="IRAQ",(شرارة): العراق الآن
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114460.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): تلفزيون دجلة" group-title="IRAQ",(شرارة): تلفزيون دجلة
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114461.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الأنبار" group-title="IRAQ",(شرارة): الأنبار
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114462.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الكربلائية" group-title="IRAQ",(شرارة): الكربلائية
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114463.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): مرجعيات" group-title="IRAQ",(شرارة): مرجعيات
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114464.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الاولى العراق" group-title="IRAQ",(شرارة): الاولى العراق
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114465.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): 1 تلفزيون العراق" group-title="IRAQ",(شرارة): 1 تلفزيون العراق
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114466.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): العقيلة" group-title="IRAQ",(شرارة): العقيلة
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114467.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الانوار" group-title="IRAQ",(شرارة): الانوار
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114468.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): قناة رقية" group-title="IRAQ",(شرارة): قناة رقية
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114469.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): فرسان العراق" group-title="IRAQ",(شرارة): فرسان العراق
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114470.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): قناة الشاعر" group-title="IRAQ",(شرارة): قناة الشاعر
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114471.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): البغدادية" group-title="IRAQ",(شرارة): البغدادية
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114472.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الفرات HD" group-title="IRAQ",(شرارة): الفرات HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114473.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الانوار 2 " group-title="IRAQ",(شرارة): الانوار 2 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114474.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): مستقبل العراق" group-title="IRAQ",(شرارة): مستقبل العراق
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114475.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): يو تي في العراق" group-title="IRAQ",(شرارة): يو تي في العراق
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114476.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): فناة النجف الاشرف" group-title="IRAQ",(شرارة): فناة النجف الاشرف
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114477.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): صوت العقيلة" group-title="IRAQ",(شرارة): صوت العقيلة
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114478.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): قناة ذي قار" group-title="IRAQ",(شرارة): قناة ذي قار
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114479.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): البصرة 1" group-title="IRAQ",(شرارة): البصرة 1
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114480.ts
+#EXTINF:-1 tvg-id="" tvg-name="الديوانية(شرارة): " group-title="IRAQ",(شرارة): الديوانية
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114481.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): تلفزيون الكوت" group-title="IRAQ",(شرارة): تلفزيون الكوت
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114482.ts
+#EXTINF:-1 tvg-id="" tvg-name="كويتي(شرارة): " group-title="IRAQ",(شرارة): كويتي
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114483.ts
+#EXTINF:-1 tvg-id="" tvg-name="(شرارة): الرافدين" group-title="IRAQ",(شرارة): الرافدين HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114484.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### مركز شرارة #####" group-title="ام بي سي GROUP ",##### مركز شرارة #####
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16388.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 1" group-title="ام بي سي GROUP ",ام بي سي 1
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/75.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 1 HD" group-title="ام بي سي GROUP ",ام بي سي 1 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/91888.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 1 4K" group-title="ام بي سي GROUP ",ام بي سي 1 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16389.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ام بي سي 2" group-title="ام بي سي GROUP ", ام بي سي 2
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16390.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 2 HD" group-title="ام بي سي GROUP ",ام بي سي 2 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64201.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 2 4K" group-title="ام بي سي GROUP ",ام بي سي 2 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16406.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 3" group-title="ام بي سي GROUP ",ام بي سي 3
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/77.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 3 HD" group-title="ام بي سي GROUP ",ام بي سي 3 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/91889.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 3 4K" group-title="ام بي سي GROUP ",ام بي سي 3 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16407.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 4" group-title="ام بي سي GROUP ",ام بي سي 4
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64269.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 4 HD" group-title="ام بي سي GROUP ",ام بي سي 4 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/91890.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 4 4K" group-title="ام بي سي GROUP ",ام بي سي 4 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16408.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 5" group-title="ام بي سي GROUP ",ام بي سي 5
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/79.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 5 HD" group-title="ام بي سي GROUP ",ام بي سي 5 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16392.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي 5 " group-title="رمضانك معنا",ام بي سي 5 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64206.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي DRAMA " group-title="ام بي سي GROUP ",ام بي سي DRAMA 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/97.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي DRAMA HD" group-title="ام بي سي GROUP ",ام بي سي DRAMA HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16396.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي DRAMA 4K" group-title="ام بي سي GROUP ",ام بي سي DRAMA 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16411.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي MASR" group-title="ام بي سي GROUP ",ام بي سي MASR
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/89.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي MASR 4K" group-title="رمضانك معنا",ام بي سي MASR 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64214.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي MASR 2 4K" group-title="رمضانك معنا",ام بي سي MASR 2 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16412.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي ACTION" group-title="ام بي سي GROUP ",ام بي سي ACTION
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16394.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي ACTION HD" group-title="ام بي سي GROUP ",ام بي سي ACTION HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101935.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي ACTION 4K" group-title="ام بي سي GROUP ",ام بي سي ACTION 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16410.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي MAX " group-title="ام بي سي GROUP ",ام بي سي MAX 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64210.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي MAX  HD" group-title="ام بي سي GROUP ",ام بي سي MAX  HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16395.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي MAX 4K " group-title="ام بي سي GROUP ",ام بي سي MAX 4K 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64222.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ام بي سي IRAQ " group-title="ام بي سي GROUP ", ام بي سي IRAQ 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/84.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي IRAQ HD" group-title="رمضانك معنا",ام بي سي IRAQ HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16398.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي IRAQ 4K" group-title="ام بي سي GROUP ",ام بي سي IRAQ 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16415.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي BOLLYWOOD " group-title="ام بي سي GROUP ",ام بي سي BOLLYWOOD 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64209.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي BOLLYWOOD  HD" group-title="ام بي سي GROUP ",ام بي سي BOLLYWOOD  HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/91891.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي Drama KSA HD" group-title="ام بي سي GROUP ",ام بي سي Drama KSA HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/91892.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي VARIETY 4K"  group-title="ام بي سي GROUP ",ام بي سي VARIETY 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64221.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي FARESI" group-title="ام بي سي GROUP ",ام بي سي FARESI
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64268.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET 4K" group-title="ام بي سي GROUP ",ANIMAL PLANET 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64224.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE 4K " group-title="ام بي سي GROUP ",FOX LIFE 4K 
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64231.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX  MOVIES 4K" group-title="ام بي سي GROUP ",FOX  MOVIES 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64230.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي+ POWER SPORT 4K" group-title="ام بي سي GROUP ",ام بي سي+ POWER SPORT 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/8353.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي + POWER DRAMA 4K" group-title="ام بي سي GROUP ",ام بي سي + POWER DRAMA 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64204.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR WORLD 4K" group-title="ام بي سي GROUP ",STAR WORLD 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/64229.ts
+#EXTINF:-1 tvg-id="" tvg-name="---- ||  ام بي سي || ----" group-title="ام بي سي GROUP ",---- ||  ام بي سي || ----
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101310.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: ام بي سي GEO 1 HD" group-title="ام بي سي GROUP ",AR: ام بي سي GEO 1 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101314.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: ام بي سي GEO 1 4K" group-title="ام بي سي GROUP ",AR: ام بي سي GEO 1 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101313.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي GEO 2 4K" group-title="ام بي سي GROUP ",ام بي سي GEO 2 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101315.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي GEO 2 HD" group-title="ام بي سي GROUP ",ام بي سي GEO 2 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101316.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي TOONS 4K" group-title="ام بي سي GROUP ",ام بي سي TOONS 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101311.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: ام بي سي TOONS HD" group-title="ام بي سي GROUP ",AR: ام بي سي TOONS HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101312.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي PREMIUM 4K" group-title="ام بي سي GROUP ",ام بي سي PREMIUM 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101317.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي PLUS 4K" group-title="ام بي سي GROUP ",ام بي سي PLUS 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101318.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي POWER 4K" group-title="ام بي سي GROUP ",ام بي سي POWER 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101319.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي POWER HD" group-title="ام بي سي GROUP ",ام بي سي POWER HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101320.ts
+#EXTINF:-1 tvg-id="" tvg-name="ام بي سي FAMILY 4K" group-title="ام بي سي GROUP ",ام بي سي FAMILY 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/101321.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### |AR| EGYPT #####" tvg-logo="" group-title="EGYPTE",##### |AR| EGYPT #####
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16650.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MASRIYA" tvg-logo="" group-title="EGYPTE",|AR| AL MASRIYA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16673.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL NAHAR DRAMA" tvg-logo="" group-title="EGYPTE",|AR| AL NAHAR DRAMA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16658.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL NAHAR ONE" tvg-logo="" group-title="رمضانك معنا",AL NAHAR ONE
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16657.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BELADI" tvg-logo="" group-title="EGYPTE",|AR| BELADI
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16629.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| CBC DRAMA" tvg-logo="" group-title="EGYPTE",|AR| CBC DRAMA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16654.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| CBC EXTRA NEWS" tvg-logo="" group-title="EGYPTE",|AR| CBC EXTRA NEWS
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16656.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| CBC SOFRA" tvg-logo="" group-title="EGYPTE",|AR| CBC SOFRA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16655.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| CIMA TV" tvg-logo="" group-title="EGYPTE",|AR| CIMA TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16715.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| CINEMA PRO" tvg-logo="" group-title="EGYPTE",|AR| CINEMA PRO
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16678.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DMC" tvg-logo="" group-title="EGYPTE",|AR| DMC
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16717.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DMC DRAMA" tvg-logo="" group-title="EGYPTE",|AR| DMC DRAMA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16698.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DMC HD" tvg-logo="" group-title="EGYPTE",|AR| DMC HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16697.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DMC SPORTS" tvg-logo="" group-title="EGYPTE",|AR| DMC SPORTS
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16699.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DRAMA ALWAN" tvg-logo="" group-title="EGYPTE",|AR| DRAMA ALWAN
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16723.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ESC" tvg-logo="" group-title="EGYPTE",|AR| ESC
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16651.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| FUNOON TV" tvg-logo="" group-title="EGYPTE",|AR| FUNOON TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16298.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| I FILM" tvg-logo="" group-title="EGYPTE",|AR| I FILM
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16632.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MASPERO ZAMAN" tvg-logo="" group-title="EGYPTE",|AR| MASPERO ZAMAN
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16674.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MAZAZIKH TV" tvg-logo="" group-title="EGYPTE",|AR| MAZAZIKH TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16705.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MEHWAR" tvg-logo="" group-title="EGYPTE",|AR| MEHWAR
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16671.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MEKAMELEEN TV" tvg-logo="" group-title="EGYPTE",|AR| MEKAMELEEN TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16709.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MIX HOLLYWOOD" tvg-logo="" group-title="EGYPTE",|AR| MIX HOLLYWOOD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16713.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MUSIC ALHANEN" tvg-logo="" group-title="EGYPTE",|AR| MUSIC ALHANEN
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16637.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE CINEMA" tvg-logo="" group-title="EGYPTE",|AR| NILE CINEMA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16679.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE COMEDY" tvg-logo="" group-title="EGYPTE",|AR| NILE COMEDY
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16681.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE CULTURE" tvg-logo="" group-title="EGYPTE",|AR| NILE CULTURE
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16684.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE DRAMA" tvg-logo="" group-title="EGYPTE",|AR| NILE DRAMA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16680.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE FAMILY" tvg-logo="" group-title="EGYPTE",|AR| NILE FAMILY
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16682.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE LIFE" tvg-logo="" group-title="EGYPTE",|AR| NILE LIFE
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16683.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE NEWS" tvg-logo="" group-title="EGYPTE",|AR| NILE NEWS
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16685.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE SPORT" tvg-logo="" group-title="EGYPTE",|AR| NILE SPORT
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16687.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE TV" tvg-logo="" group-title="EGYPTE",|AR| NILE TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16686.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NOGOUM FM TV" tvg-logo="" group-title="EGYPTE",|AR| NOGOUM FM TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16721.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TV" tvg-logo="" group-title="EGYPTE",|AR| ON TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16688.ts
+#EXTINF:-1 tvg-id="" tvg-name="ON TV DRAMA" tvg-logo="" group-title="رمضانك معنا",ON TV DRAMA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16689.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TV E" tvg-logo="" group-title="EGYPTE",|AR| ON TV E
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16690.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TV E HD" tvg-logo="" group-title="EGYPTE",|AR| ON TV E HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16691.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TV HD" tvg-logo="" group-title="EGYPTE",|AR| ON TV HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16692.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TV LIVE" tvg-logo="" group-title="EGYPTE",|AR| ON TV LIVE
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16693.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TV LIVE HD" tvg-logo="" group-title="EGYPTE",|AR| ON TV LIVE HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16694.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TV SPORT" tvg-logo="" group-title="EGYPTE",|AR| ON TV SPORT
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16695.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TV SPORT HD" tvg-logo="" group-title="EGYPTE",|AR| ON TV SPORT HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16696.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ORIENT TV" tvg-logo="" group-title="EGYPTE",|AR| ORIENT TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16527.ts
+#EXTINF:-1 tvg-id="" tvg-name="PANORAMA DRAMA 1" tvg-logo="" group-title="رمضانك معنا",PANORAMA DRAMA 1
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16667.ts
+#EXTINF:-1 tvg-id="" tvg-name="PANORAMA DRAMA 2" tvg-logo="" group-title="رمضانك معنا",PANORAMA DRAMA 2
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16668.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| PANORAMA FILM" tvg-logo="" group-title="EGYPTE",|AR| PANORAMA FILM
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16666.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| PANORAMA FOOD" tvg-logo="" group-title="EGYPTE",|AR| PANORAMA FOOD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16669.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SADA EL BALAD" tvg-logo="" group-title="EGYPTE",|AR| SADA EL BALAD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16663.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SADA EL BALAD DRAMA" tvg-logo="" group-title="EGYPTE",|AR| SADA EL BALAD DRAMA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16665.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SADA EL BALAD+" tvg-logo="" group-title="EGYPTE",|AR| SADA EL BALAD+
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16664.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| STAR CINEMA 1" tvg-logo="" group-title="EGYPTE",|AR| STAR CINEMA 1
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16676.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| STAR CINEMA 2" tvg-logo="" group-title="EGYPTE",|AR| STAR CINEMA 2
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16677.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| TIME SPORTS" tvg-logo="" group-title="EGYPTE",|AR| TIME SPORTS
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16702.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| TOK TOK AFLAM" tvg-logo="" group-title="EGYPTE",|AR| TOK TOK AFLAM
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16675.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| TOK TOK CINEMA" tvg-logo="" group-title="EGYPTE",|AR| TOK TOK CINEMA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16714.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ZAMALEK SPORTS" tvg-logo="" group-title="EGYPTE",|AR| ZAMALEK SPORTS
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16701.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MELODY CLASSIC" group-title="EGYPTE",|AR| MELODY CLASSIC
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16672.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ام بي سي MASR" group-title="EGYPTE",|AR| ام بي سي MASR
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16403.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL KAHERA WAL NAS +2" tvg-logo="" group-title="EGYPTE",|AR| AL KAHERA WAL NAS +2
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16662.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL KAHERA WE AL NASS" tvg-logo="" group-title="EGYPTE",|AR| AL KAHERA WE AL NASS
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16661.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAALY" tvg-logo="" group-title="EGYPTE",|AR| AL MAALY
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16311.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJLIS" tvg-logo="" group-title="EGYPTE",|AR| AL MAJLIS
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16310.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJLIS 4K" tvg-logo="" group-title="EGYPTE",|AR| AL MAJLIS 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16300.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAMLAKA" tvg-logo="" group-title="EGYPTE",|AR| AL MAMLAKA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16497.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MASAR" tvg-logo="" group-title="EGYPTE",|AR| AL MASAR
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16612.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MASIRAH TV" tvg-logo="" group-title="EGYPTE",|AR| AL MASIRAH TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16329.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MASSAR AL OULA" tvg-logo="" group-title="EGYPTE",|AR| AL MASSAR AL OULA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16613.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAYADEEN" tvg-logo="" group-title="EGYPTE",|AR| AL MAYADEEN
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16482.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MERGAB" tvg-logo="" group-title="EGYPTE",|AR| AL MERGAB
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16753.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL RASHEED TV" tvg-logo="" group-title="EGYPTE",|AR| AL RASHEED TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16594.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL SABAH TV" tvg-logo="" group-title="EGYPTE",|AR| AL SABAH TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16299.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL SAHAT" tvg-logo="" group-title="EGYPTE",|AR| AL SAHAT
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16326.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL SAHRAA" tvg-logo="" group-title="EGYPTE",|AR| AL SAHRAA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16755.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL SHAAER TV" tvg-logo="" group-title="EGYPTE",|AR| AL SHAAER TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16619.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL SHAREYYAH" tvg-logo="" group-title="EGYPTE",|AR| AL SHAREYYAH
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16708.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALHAYAT 2" tvg-logo="" group-title="EGYPTE",|AR| ALHAYAT 2
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16718.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALHAYAT HD" tvg-logo="" group-title="EGYPTE",|AR| ALHAYAT HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16659.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALHAYAT WE ALNAS" tvg-logo="" group-title="EGYPTE",|AR| ALHAYAT WE ALNAS
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16719.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALTHANYA" tvg-logo="" group-title="EGYPTE",|AR| ALTHANYA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16652.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALYAWM" tvg-logo="" group-title="EGYPTE",|AR| ALYAWM
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16523.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AMMAN TV" tvg-logo="" group-title="EGYPTE",|AR| AMMAN TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16506.ts
+#EXTINF:-1 tvg-id="" tvg-name="|AR| CBC" tvg-logo="" group-title="EGYPTE",|AR| CBC
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16653.ts
+#EXTINF:-1 tvg-id="" tvg-name="|JAW| Bedaya" tvg-logo="" group-title="EGYPTE",|JAW| Bedaya
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99287.ts
+#EXTINF:-1 tvg-id="" tvg-name="|JAW| Nile Comedy" tvg-logo="" group-title="EGYPTE",|JAW| Nile Comedy
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99288.ts
+#EXTINF:-1 tvg-id="" tvg-name="|JAW| Maspero Zaman" tvg-logo="" group-title="EGYPTE",|JAW| Maspero Zaman
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99289.ts
+#EXTINF:-1 tvg-id="" tvg-name="|JAW| Al Dafrah" tvg-logo="" group-title="EGYPTE",|JAW| Al Dafrah
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99290.ts
+#EXTINF:-1 tvg-id="" tvg-name="|JAW| Sama Dubai" tvg-logo="" group-title="EGYPTE",|JAW| Sama Dubai
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99291.ts
+#EXTINF:-1 tvg-id="" tvg-name="|JAW| Al Mamlaka TV" tvg-logo="" group-title="EGYPTE",|JAW| Al Mamlaka TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99292.ts
+#EXTINF:-1 tvg-id="" tvg-name="|JAW| Nile Cinema" tvg-logo="" group-title="EGYPTE",|JAW| Nile Cinema
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99293.ts
+#EXTINF:-1 tvg-id="" tvg-name="|JAW| Al Kahera Walnas" tvg-logo="" group-title="EGYPTE",|JAW| Al Kahera Walnas
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99281.ts
+#EXTINF:-1 tvg-id="" tvg-name="|JAW| Al Kahera Walnas 2" tvg-logo="" group-title="EGYPTE",|JAW| Al Kahera Walnas 2
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99282.ts
+#EXTINF:-1 tvg-id="" tvg-name="|JAW| Al Aan" tvg-logo="" group-title="EGYPTE",|JAW| Al Aan
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99280.ts
+#EXTINF:-1 tvg-id="" tvg-name="|JAW| Al Nahar Drama" tvg-logo="" group-title="EGYPTE",|JAW| Al Nahar Drama
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99275.ts
+#EXTINF:-1 tvg-id="" tvg-name="===== OSN HD =====" group-title="OSN+ART 4K",===== OSN HD =====
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100699.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART AFLAM 1" group-title="OSN+ART 4K",|OSN| ART AFLAM 1
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100700.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART CINEMA" group-title="OSN+ART 4K",|OSN| ART CINEMA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100701.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART HEKAYAT" group-title="OSN+ART 4K",|OSN| ART HEKAYAT
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100702.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART HEKAYAT 2" group-title="OSN+ART 4K",|OSN| ART HEKAYAT 2
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100703.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| YAHALA BIL ARABI" group-title="OSN+ART 4K",|OSN| YAHALA BIL ARABI
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100704.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| SERIES  2  HD" group-title="OSN+ART 4K",|OSN| SERIES  2  HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100707.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| MOVIES ACTION HD" group-title="OSN+ART 4K",|OSN| MOVIES ACTION HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100708.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| OSN MOVIES FAMILY HD" group-title="OSN+ART 4K",|OSN| OSN MOVIES FAMILY HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100709.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| SERIES COMEDY HD" group-title="OSN+ART 4K",|OSN| SERIES COMEDY HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100710.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| DISCOVERY HD" group-title="OSN+ART 4K",|OSN| DISCOVERY HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100711.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| DISNEY HD" group-title="OSN+ART 4K",|OSN| DISNEY HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100712.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| BINGE HD" group-title="OSN+ART 4K",|OSN| BINGE HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100714.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| PLAY CINEMA 1 HD" group-title="OSN+ART 4K",|OSN| PLAY CINEMA 1 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100715.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| PLAY CINEMA 2 HD" group-title="OSN+ART 4K",|OSN| PLAY CINEMA 2 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100716.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| PLAY CINEMA 3 HD" group-title="OSN+ART 4K",|OSN| PLAY CINEMA 3 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100717.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| PLAY CINEMA 4 HD" group-title="OSN+ART 4K",|OSN| PLAY CINEMA 4 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100718.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| PLAY MOVIES 1 HD" group-title="OSN+ART 4K",|OSN| PLAY MOVIES 1 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100719.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| PLAY MOVIES 2 HD" group-title="OSN+ART 4K",|OSN| PLAY MOVIES 2 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100720.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| PLAY MOVIES 3 HD" group-title="OSN+ART 4K",|OSN| PLAY MOVIES 3 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100721.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| MOVIES BOX OFFICE 1" group-title="OSN+ART 4K",|OSN| MOVIES BOX OFFICE 1
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100723.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| NICKELODEON HD" group-title="OSN+ART 4K",|OSN| NICKELODEON HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100730.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| SERIES FIRST HD" group-title="OSN+ART 4K",|OSN| SERIES FIRST HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100734.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| YAHALA HD" group-title="OSN+ART 4K",|OSN| YAHALA HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100736.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| CINEMA 1" group-title="OSN+ART 4K",|OSN| CINEMA 1
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100738.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| DISCOVERY IDX HD" group-title="OSN+ART 4K",|OSN| DISCOVERY IDX HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100752.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| MOVIES DISNEY HD" group-title="OSN+ART 4K",|OSN| MOVIES DISNEY HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100754.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| OSN Yahala SD" group-title="OSN+ART 4K",|OSN| OSN Yahala SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99098.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Hekayat SD"group-title="OSN+ART 4K",|OSN| ART Hekayat SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99100.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Aflam 2 HD" group-title="OSN+ART 4K",|OSN| ART Aflam 2 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99105.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Aflam 2 SD" group-title="OSN+ART 4K",|OSN| ART Aflam 2 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99106.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Cinema SD" group-title="OSN+ART 4K",|OSN| ART Cinema SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99108.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Aflam 1" group-title="OSN+ART 4K",|OSN| ART Aflam 1
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99211.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Aflam 2" group-title="OSN+ART 4K",|OSN| ART Aflam 2
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99212.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Hekayat" group-title="OSN+ART 4K",|OSN| ART Hekayat
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99214.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Hekayat 2" group-title="OSN+ART 4K",|OSN| ART Hekayat 2
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99215.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN|Fox Life" group-title="OSN+ART 4K",|OSN|Fox Life
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99233.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| Zekrayat" group-title="OSN+ART 4K",|OSN| Zekrayat
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99236.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| Fox Action Movies" group-title="OSN+ART 4K",|OSN| Fox Action Movies
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99241.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| Animal Planet HD" group-title="OSN+ART 4K",|OSN| Animal Planet HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99253.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| Discovery Science HD" group-title="OSN+ART 4K",|OSN| Discovery Science HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99256.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| Discovery IDX" group-title="OSN+ART 4K",|OSN| Discovery IDX
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99257.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN|  ACTION 4K" group-title="OSN+ART 4K",|OSN|  ACTION 4K
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/953.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| YA HALA ALOULA" group-title="OSN+ART 4K",|OSN| YA HALA ALOULA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/46963.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| NAT GEO HD" group-title="OSN+ART 4K",|OSN| NAT GEO HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/91517.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN|OSN Yahala  HD" group-title="OSN+ART 4K",|OSN|OSN Yahala  HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99097.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Hekayat HD"group-title="OSN+ART 4K",|OSN| ART Hekayat HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99099.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Hekayat 2 HD" group-title="OSN+ART 4K",|OSN| ART Hekayat 2 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99101.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN|  ART Hekayat 2 SD" group-title="OSN+ART 4K",|OSN|  ART Hekayat 2 SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99102.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Aflam SD" group-title="OSN+ART 4K",|OSN| ART Aflam SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99104.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Cinema" group-title="OSN+ART 4K",|OSN| ART Cinema
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99213.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN|Food Network" group-title="OSN+ART 4K",|OSN|Food Network
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99230.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ART Aflam HD" group-title="OSN+ART 4K",|OSN| ART Aflam HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99103.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN|Fatafeat" group-title="OSN+ART 4K",|OSN|Fatafeat
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99232.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| Nat Geographic" group-title="OSN+ART 4K",|OSN| Nat Geographic
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99251.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| Nat Geo Wild HD" group-title="OSN+ART 4K",|OSN| Nat Geo Wild HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99252.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| Discovery HD" group-title="OSN+ART 4K",|OSN| Discovery HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99254.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| Discovery Family HD" group-title="OSN+ART 4K",|OSN| Discovery Family HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99255.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| HGTV" group-title="OSN+ART 4K",|OSN| HGTV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99234.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| CNBC" group-title="OSN+ART 4K",|OSN| CNBC
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99266.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| YAHALA AFLAM" group-title="OSN+ART 4K",|OSN| YAHALA AFLAM
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100705.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| PLAY MOVIES 4 HD" group-title="OSN+ART 4K",|OSN| PLAY MOVIES 4 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100722.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| HISTORY CHANNEL HD" group-title="OSN+ART 4K",|OSN| HISTORY CHANNEL HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100725.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| E! HD" group-title="OSN+ART 4K",|OSN| E! HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100724.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| DISNEY XD HD" group-title="OSN+ART 4K",|OSN| DISNEY XD HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100713.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| NICK JR HD" group-title="OSN+ART 4K",|OSN| NICK JR HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100726.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| DISCOVERY SCIENCE HD" group-title="OSN+ART 4K",|OSN| DISCOVERY SCIENCE HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100729.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| MOVIES HD" group-title="OSN+ART 4K",|OSN| MOVIES HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100732.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN|  ACTION HD" group-title="OSN+ART 4K",|OSN|  ACTION HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100733.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| YAHALA CINEMA HD" group-title="OSN+ART 4K",|OSN| YAHALA CINEMA HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100735.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| STAR MOVIES HD" group-title="OSN+ART 4K",|OSN| STAR MOVIES HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100741.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| NEWS HD" group-title="OSN+ART 4K",|OSN| NEWS HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100742.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| MOVIES FIRST HD" group-title="OSN+ART 4K",|OSN| MOVIES FIRST HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100744.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| MOVIES FIRST 2 HD" group-title="OSN+ART 4K",|OSN| MOVIES FIRST 2 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100745.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| DISNEY JUNIOR HD" group-title="OSN+ART 4K",|OSN| DISNEY JUNIOR HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100747.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| H2 HD" group-title="OSN+ART 4K",|OSN| H2 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100748.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| NAT GEO HD" group-title="OSN+ART 4K",|OSN| NAT GEO HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100749.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| NAT GEO WILD HD" group-title="OSN+ART 4K",|OSN| NAT GEO WILD HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100750.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| DISCOVERY CHANNEL HD" group-title="OSN+ART 4K",|OSN| DISCOVERY CHANNEL HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100751.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| DISNEY CHANNEL HD" group-title="OSN+ART 4K",|OSN| DISNEY CHANNEL HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100753.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| ENIGMA HD" group-title="OSN+ART 4K",|OSN| ENIGMA HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100755.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| MOVIES KIDS HD" group-title="OSN+ART 4K",|OSN| MOVIES KIDS HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100757.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| YAHALA OULA HD" group-title="OSN+ART 4K",|OSN| YAHALA OULA HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100759.ts
+#EXTINF:-1 tvg-id="" tvg-name="|OSN| MOVIES FIRST 2 HD" group-title="OSN+ART 4K",|OSN| MOVIES FIRST 2 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/966.ts
+
 #EXTINF:-1  tvg-name="AL Nujaba" tvg-id="ext" tvg-logo="https://i.imgur.com/XWXehZL.png" group-title="Iraq",AL Nujaba
 http://95.216.180.111:1935/live/3/chunklist_w1998252885.m3u8
 #EXTINF:-1  tvg-name="AL Nujaba" tvg-id="ext" tvg-logo="https://i.imgur.com/XWXehZL.png" group-title="Iraq",AL Nujaba
