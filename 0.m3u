@@ -15,7 +15,7 @@ http://95.216.180.111:1935/live/120/chunklist_w362928606.m3u8
 http://149.18.45.21:8000/play/a0iz/index.m3u8
 #EXTINF:-1  tvg-name="Imam Ali TV" tvg-id="ext" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="Imam Ali",Imam Ali TV
 http://149.18.45.21:8000/play/a0g3/index.m3u8
-#EXTINF:-1  tvg-name="(شرارة): قناة الامام علي" tvg-id="ext" tvg-logo="" group-title="Imam Ali",(شرارة): قناة الامام علي
+#EXTINF:-1  tvg-name="قناة الامام علي" tvg-id="ext" tvg-logo="" group-title="Imam Ali",قناة الامام علي
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114443.ts
 #EXTINF:-1  tvg-name="Masjid Al Kufa" tvg-id="ext" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="Masjid Alkufa",Masjid Alkufa
 http://tvsng.com:25461/live/AlkufaFHD/masjed/15.m3u8
@@ -41,7 +41,7 @@ http://5.253.46.190:7001/play/a0d1/index.m3u8
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=23588&extension=m3u8
 #EXTINF:-1  tvg-name="Karbala TV HD" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="Karbala",Karbala TV HD
 http://149.62.177.103:8000/play/a01b
-#EXTINF:-1  tvg-name="(شرارة): كربلاء" tvg-id="ext" tvg-logo="" group-title="Karbala",(شرارة): كربلاء
+#EXTINF:-1  tvg-name="كربلاء" tvg-id="ext" tvg-logo="" group-title="Karbala",كربلاء
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114437.ts
 #EXTINF:-1  tvg-name="Karbalaa Quran" tvg-id="ext" tvg-logo="https://www.karbala-tv.iq/quran/static/img/logo.png" group-title="Karbala Quran",Karbalaa Quran
 https://ktvlive.online/stream/hls/ch1.m3u8
@@ -99,7 +99,7 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49636
 http://154.58.202.131:8000/play/a00f
 #EXTINF:-1  tvg-name="Alanwar TV" tvg-id="ext" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="AL Anwar",Alanwar TV
 http://149.62.177.103:8000/play/a043
-#EXTINF:-1  tvg-name="(شرارة): الانوار" tvg-id="ext" tvg-logo="" group-title="AL Anwar",(شرارة): الانوار
+#EXTINF:-1  tvg-name="الانوار" tvg-id="ext" tvg-logo="" group-title="AL Anwar",الانوار
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114468.ts
 #EXTINF:-1  tvg-name="AL Aqila" tvg-id="ext" tvg-logo="https://alaqila.tv/gallery_gen/46aee3e16e86e9747594af1dc7b90e6a.png" group-title="AL Aqila",AL Aqila
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=23576&extension=ts&play_token=pDdDGr088T
@@ -111,7 +111,7 @@ http://154.58.202.131:8000/play/a00b
 http://149.62.177.103:8000/play/a03z
 #EXTINF:-1  tvg-name="Al-aqila TV" tvg-id="ext" tvg-logo="https://alaqila.tv/gallery_gen/46aee3e16e86e9747594af1dc7b90e6a.png" group-title="AL Aqila",Al-aqila TV
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=23576&extension=ts&play_token=yQAs6IgIhR
-#EXTINF:-1  tvg-name="(شرارة): العقيلة" tvg-id="ext" tvg-logo="" group-title="AL Aqila",(شرارة): العقيلة
+#EXTINF:-1  tvg-name="العقيلة" tvg-id="ext" tvg-logo="" group-title="AL Aqila",العقيلة
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114467.ts
 #EXTINF:-1  tvg-name="OM Albaneen" tvg-id="ext" tvg-logo="https://alaqila.tv/gallery_gen/46aee3e16e86e9747594af1dc7b90e6a.png" group-title="OM Albaneen",OM Al Baneen
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=27301&extension=m3u8
@@ -121,7 +121,7 @@ https://video-lhr6-1.xx.fbcdn.net/hvideo-atn-cco/_nc_cat-108/_nc_sr_t-4/v/rASfAS
 http://154.58.202.131:8000/play/a00g
 #EXTINF:-1  tvg-name="Al-shaaer TV" tvg-id="ext" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="AL Shaaer",Al-shaaer TV
 http://149.62.177.103:8000/play/a045
-#EXTINF:-1  tvg-name="(شرارة): قناة الشاعر" tvg-id="ext" tvg-logo="" group-title="AL Shaaer",(شرارة): قناة الشاعر
+#EXTINF:-1  tvg-name="قناة الشاعر" tvg-id="ext" tvg-logo="" group-title="AL Shaaer",قناة الشاعر
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114471.ts
 #EXTINF:-1  tvg-name="Om AlBaneen" tvg-id="ext" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="Om AlBaneen",Om AlBaneen
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=273018&extension=ts&play_token=yQAs6IgIhR#
@@ -133,31 +133,31 @@ http://5.253.46.190:7002/play/a0dq
 http://149.18.45.21:8000/play/a02z/index.m3u8
 #EXTINF:-1  tvg-name="Alnajaf Alashraf TV" tvg-id="ext" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-mahdi-satellite-channel-kw.png" group-title="AL Najaf",Alnajaf Alashraf TV
 http://5.253.46.190:7002/play/a09d
-#EXTINF:-1  tvg-name="(شرارة): فناة النجف الاشرف" tvg-id="ext" tvg-logo="" group-title="AL Najaf",(شرارة): فناة النجف الاشرف
+#EXTINF:-1  tvg-name="فناة النجف الاشرف" tvg-id="ext" tvg-logo="" group-title="AL Najaf",فناة النجف الاشرف
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114477.ts
 #EXTINF:-1  tvg-name="Alkarbalaeia TV" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="Alkarbalaeia TV",Alkarbalaeia TV
 http://154.58.202.131:8000/play/a09b
-#EXTINF:-1  tvg-name="(شرارة): الكربلائية" tvg-id="ext" tvg-logo="" group-title="Alkarbalaeia TV",(شرارة): الكربلائية
+#EXTINF:-1  tvg-name="الكربلائية" tvg-id="ext" tvg-logo="" group-title="Alkarbalaeia TV",الكربلائية
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114463.ts
 #EXTINF:-1  tvg-name="Aljawad" tvg-id="ext" tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="AL Jawad",Al-jawad TV
 http://45.65.112.206:8000/play/a0j0
-#EXTINF:-1  tvg-name="(شرارة): قناة ذي قار" tvg-id="ext" tvg-logo="" group-title="AL Jawad",(شرارة): قناة ذي قار
+#EXTINF:-1  tvg-name="قناة ذي قار" tvg-id="ext" tvg-logo="" group-title="AL Jawad",قناة ذي قار
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114479.ts
 #EXTINF:-1  tvg-name="Al Askari" tvg-id="ext" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="AL Askari",Al Askari
 http://45.65.112.206:8000/play/a0ix
-#EXTINF:-1  tvg-name="الديوانية(شرارة):" tvg-id="ext" tvg-logo="" group-title="AL Askari",(شرارة): الديوانية
+#EXTINF:-1  tvg-name="الديوانية(شرارة):" tvg-id="ext" tvg-logo="" group-title="AL Askari",الديوانية
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114481.ts
 #EXTINF:-1  tvg-name="Alkout TV" tvg-id="ext" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="AL Kout",Alkout TV
 http://45.65.112.206:8000/play/a0j2
-#EXTINF:-1  tvg-name="(شرارة): تلفزيون الكوت" tvg-id="ext" tvg-logo="" group-title="AL Kout",(شرارة): تلفزيون الكوت
+#EXTINF:-1  tvg-name="تلفزيون الكوت" tvg-id="ext" tvg-logo="" group-title="AL Kout",تلفزيون الكوت
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114482.ts
 #EXTINF:-1  tvg-name="Albasra 1 TV" tvg-id="ext" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="AL Basra ",Albasra 1 TV
 http://45.65.112.206:8000/play/a0j1
-#EXTINF:-1  tvg-name="(شرارة): البصرة 1" tvg-id="ext" tvg-logo="" group-title="AL Basra",(شرارة): البصرة 1
+#EXTINF:-1  tvg-name="البصرة 1" tvg-id="ext" tvg-logo="" group-title="AL Basra",البصرة 1
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114480.ts
 #EXTINF:-1  tvg-name="Kuwaitawi TV" tvg-id="ext" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="AL Kuwaitawi",Kuwaitawi TV
 http://45.65.112.206:8000/play/a0iy
-#EXTINF:-1  tvg-name="كويتي(شرارة):" tvg-id="ext" tvg-logo="" group-title="AL Kuwaitawi",(شرارة): كويتي
+#EXTINF:-1  tvg-name="كويتي(شرارة):" tvg-id="ext" tvg-logo="" group-title="AL Kuwaitawi",كويتي
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114483.ts
 #EXTINF:-1  tvg-name="AL Bahrany TV" tvg-id="ext" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="AL Bahrany",AL Bahrany TV
 http://45.65.112.206:8000/play/a0iz
@@ -181,7 +181,7 @@ http://45.65.112.206:8000/play/a0gj
 http://149.18.45.21:8000/play/a032/index.m3u8
 #EXTINF:-1  tvg-name="Saout Alaqila" tvg-id="ext" tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="Saut Alaqila",Saout Alaqila
 http://5.253.46.190:7002/play/a0ds
-#EXTINF:-1  tvg-name="(شرارة): صوت العقيلة" tvg-id="ext" tvg-logo="" group-title="Saut Alaqila",(شرارة): صوت العقيلة
+#EXTINF:-1  tvg-name="صوت العقيلة" tvg-id="ext" tvg-logo="" group-title="Saut Alaqila",صوت العقيلة
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114478.ts
 #EXTINF:-1  tvg-name="Masjid Al Mosawi" tvg-id="ext" tvg-logo="" group-title="Masjid Al Mosawi",Masjid Al Mosawi
 https://cdn3.wowza.com/5/aEtqbDdJeWFiL1lG/live2/myStream/chunklist.m3u8
@@ -219,7 +219,7 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49637
 http://154.58.202.131:8000/play/a08x
 #EXTINF:-1  tvg-name="Anwartv2" tvg-id="ext" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alanwar_tv2.png" group-title="AL Anwar 2",Anwartv2
 http://154.197.91.169:7002/play/a0ij
-#EXTINF:-1  tvg-name="(شرارة): الانوار 2" tvg-id="ext" tvg-logo="" group-title="AL Anwar 2",(شرارة): الانوار 2
+#EXTINF:-1  tvg-name="الانوار 2" tvg-id="ext" tvg-logo="" group-title="AL Anwar 2",الانوار 2
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114474.ts
 #EXTINF:-1  tvg-name="Alkomail TV HD" tvg-id="ext" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="AL Komail",Alkomail TV HD
 http://45.65.112.206:8000/play/a05s
@@ -317,9 +317,9 @@ https://livefa.marjaeyattv.com/mtv_ar/playlist05/index.m3u8
 http://154.58.202.131:8000/play/a006
 #EXTINF:-1  tvg-name="Marjaeyattv 2 HD" tvg-id="ext" tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="AL Marjaeyat",Marjaeyattv 2 HD
 http://149.62.177.103:8000/play/a03u
-#EXTINF:-1  tvg-name="(شرارة): مرجعيات" tvg-id="ext" tvg-logo="" group-title="AL Marjaeyat",(شرارة): مرجعيات
+#EXTINF:-1  tvg-name="مرجعيات" tvg-id="ext" tvg-logo="" group-title="AL Marjaeyat",مرجعيات
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114464.ts
-#EXTINF:-1  tvg-name="(شرارة): قناة رقية" tvg-id="ext" tvg-logo="" group-title="Ruqyia Kids",(شرارة): قناة رقية
+#EXTINF:-1  tvg-name="قناة رقية" tvg-id="ext" tvg-logo="" group-title="Ruqyia Kids",قناة رقية
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114469.ts
 #EXTINF:-1  tvg-name="Nabaa TV" tvg-id="ext" tvg-logo="https://i.imgur.com/p8eRgSs.png" group-title="AL Nabaa",Nabaa TV
 https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8?checkedby:ahlakid.com
@@ -367,7 +367,7 @@ http://154.58.202.185:8000/play/a04q
 http://154.58.202.131:8000/play/a08d
 #EXTINF:-1  tvg-name="AL Kawthar" tvg-id="ext" tvg-logo="https://www.alkawthartv.ir/" group-title="AL Kawther",AL Kawthar
 http://45.65.112.16:8000/play/a00n
-#EXTINF:-1  tvg-name="(شرارة): الكوثر" tvg-id="ext" tvg-logo="" group-title="AL Kawther",(شرارة): الكوثر
+#EXTINF:-1  tvg-name="الكوثر" tvg-id="ext" tvg-logo="" group-title="AL Kawther",الكوثر
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114457.ts
 #EXTINF:-1  tvg-name="AL Thaqalain" tvg-id="ext" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="AL Thaqalain",AL Thaqalain
 http://77.36.160.164:1935/live4/thaghalayn/chunklist_w148808995.m3u8
@@ -403,7 +403,7 @@ https://svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8
 https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 #EXTINF:-1  tvg-name="AL Sirat TV" tvg-id="ext" tvg-logo="https://i.imgur.com/ps4Gtj0.png" group-title="Assirat",AL Sirat TV
 http://45.65.112.206:8000/play/a08y
-#EXTINF:-1  tvg-name="(شرارة): الصراط" tvg-id="ext" tvg-logo="" group-title="Assirat",(شرارة): الصراط
+#EXTINF:-1  tvg-name="الصراط" tvg-id="ext" tvg-logo="" group-title="Assirat",الصراط
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114452.ts
 #EXTINF:-1  tvg-name="Aliman" tvg-id="ext" tvg-logo="https://i.imgur.com/4WKQppG.png" group-title="AL Iman",Aliman
 https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
@@ -415,7 +415,7 @@ https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 http://45.65.112.206:8000/play/a070
 #EXTINF:-1  tvg-name="Uae: Al Iman TV" tvg-id="ext" tvg-logo="https://i.imgur.com/4WKQppG.png" group-title="AL Iman",Uae: Al Iman TV
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46293
-#EXTINF:-1  tvg-name="(شرارة): اليمان" tvg-id="ext" tvg-logo="" group-title="AL Iman",(شرارة): اليمان
+#EXTINF:-1  tvg-name="اليمان" tvg-id="ext" tvg-logo="" group-title="AL Iman",اليمان
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114448.ts
 #EXTINF:-1  tvg-name="Al Manar" tvg-id="ext" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="Al Manar",Al Manar
 https://e2.manar.live:9000/live/tracks-v1a1/mono.m3u8
@@ -5045,513 +5045,513 @@ https://nl.livekadeh.com/hls2/alwilayah.tv.hausa_low.m3u8
 https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/chunks.m3u8?nimblesessionid=2349736
 #EXTINF:-1  tvg-name="Zainabia TV" tvg-id="ext" tvg-logo="https://shiachannel.in/livetv/img/channels/zainabia.jpg" group-title="Islamic",Zainabia TV
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
-#EXTINF:-1  tvg-name="Afghan" tvg-id="ext" tvg-logo="" group-title="News",Afghan
+#EXTINF:-1  tvg-name="Afghan" tvg-id="ext" tvg-logo="" group-title="World",Afghan
 http://95.216.180.111:1935/live/72/chunklist_w362928606.m3u8
-#EXTINF:-1  tvg-name="Afghan" tvg-id="ext" tvg-logo="" group-title="News",Afghan
+#EXTINF:-1  tvg-name="Afghan" tvg-id="ext" tvg-logo="" group-title="World",Afghan
 http://95.216.180.111:1935/live/72/playlist.m3u8
-#EXTINF:-1  tvg-name="Afghan" tvg-id="ext" tvg-logo="" group-title="News",Afghan
+#EXTINF:-1  tvg-name="Afghan" tvg-id="ext" tvg-logo="" group-title="World",Afghan
 http://95.216.180.111:1935/live/72/chunklist.m3u8
-#EXTINF:-1  tvg-name="Afghan" tvg-id="ext" tvg-logo="" group-title="News",Afghan
+#EXTINF:-1  tvg-name="Afghan" tvg-id="ext" tvg-logo="" group-title="World",Afghan
 http://95.216.180.111:1935/live/72/index.m3u8
-#EXTINF:-1  tvg-name="Afghan Arzo" tvg-id="ext" tvg-logo="" group-title="News",Afghan Arzo
+#EXTINF:-1  tvg-name="Afghan Arzo" tvg-id="ext" tvg-logo="" group-title="World",Afghan Arzo
 http://95.216.180.111:1935/live/74/chunklist_w362928606.m3u8
-#EXTINF:-1  tvg-name="Afghan Arzo" tvg-id="ext" tvg-logo="" group-title="News",Afghan Arzo
+#EXTINF:-1  tvg-name="Afghan Arzo" tvg-id="ext" tvg-logo="" group-title="World",Afghan Arzo
 http://95.216.180.111:1935/live/74/playlist.m3u8
-#EXTINF:-1  tvg-name="Afghan Arzo" tvg-id="ext" tvg-logo="" group-title="News",Afghan Arzo
+#EXTINF:-1  tvg-name="Afghan Arzo" tvg-id="ext" tvg-logo="" group-title="World",Afghan Arzo
 http://95.216.180.111:1935/live/74/chunklist.m3u8
-#EXTINF:-1  tvg-name="Afghan Arzo" tvg-id="ext" tvg-logo="" group-title="News",Afghan Arzo
+#EXTINF:-1  tvg-name="Afghan Arzo" tvg-id="ext" tvg-logo="" group-title="World",Afghan Arzo
 http://95.216.180.111:1935/live/74/index.m3u8
-#EXTINF:-1  tvg-name="Afghan Arzo" tvg-id="ext" tvg-logo="" group-title="News",Afghan Arzo
+#EXTINF:-1  tvg-name="Afghan Arzo" tvg-id="ext" tvg-logo="" group-title="World",Afghan Arzo
 http://95.216.180.111:1935/live/75/chunklist_w362928606.m3u8
-#EXTINF:-1  tvg-name="Bnews" tvg-id="ext" tvg-logo="" group-title="News",Bnews
+#EXTINF:-1  tvg-name="Bnews" tvg-id="ext" tvg-logo="" group-title="World",Bnews
 http://95.216.180.111:1935/live/73/chunklist_w362928606.m3u8
-#EXTINF:-1  tvg-name="Bnews" tvg-id="ext" tvg-logo="" group-title="News",Bnews
+#EXTINF:-1  tvg-name="Bnews" tvg-id="ext" tvg-logo="" group-title="World",Bnews
 http://95.216.180.111:1935/live/73/playlist.m3u8
-#EXTINF:-1  tvg-name="Bnews" tvg-id="ext" tvg-logo="" group-title="News",Bnews
+#EXTINF:-1  tvg-name="Bnews" tvg-id="ext" tvg-logo="" group-title="World",Bnews
 http://95.216.180.111:1935/live/73/chunklist.m3u8
-#EXTINF:-1  tvg-name="Bnews" tvg-id="ext" tvg-logo="" group-title="News",Bnews
+#EXTINF:-1  tvg-name="Bnews" tvg-id="ext" tvg-logo="" group-title="World",Bnews
 http://95.216.180.111:1935/live/73/index.m3u8
-#EXTINF:-1  tvg-name="Cgtn" tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="News",Cgtn
+#EXTINF:-1  tvg-name="Cgtn" tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="World",Cgtn
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1  tvg-name="CNN Live" tvg-id="ext" tvg-logo="" group-title="News",CNN Live
+#EXTINF:-1  tvg-name="CNN Live" tvg-id="ext" tvg-logo="" group-title="World",CNN Live
 http://63b03f7689049.streamlock.net:1935/live/29/playlist.m3u8	
-#EXTINF:-1  tvg-name="CNN Live" tvg-id="ext" tvg-logo="" group-title="News",CNN Live
+#EXTINF:-1  tvg-name="CNN Live" tvg-id="ext" tvg-logo="" group-title="World",CNN Live
 http://95.216.180.111:1935/live/29/index.m3u8
-#EXTINF:-1  tvg-name="CNN Live" tvg-id="ext" tvg-logo="" group-title="News",CNN Live
+#EXTINF:-1  tvg-name="CNN Live" tvg-id="ext" tvg-logo="" group-title="World",CNN Live
 http://95.216.180.111:1935/live/29/chunklist.m3u8
-#EXTINF:-1  tvg-name="CNN Live" tvg-id="ext" tvg-logo="" group-title="News",CNN Live
+#EXTINF:-1  tvg-name="CNN Live" tvg-id="ext" tvg-logo="" group-title="World",CNN Live
 http://95.216.180.111:1935/live/29/playlist.m3u8
-#EXTINF:-1  tvg-name="CNN Live" tvg-id="ext" tvg-logo="" group-title="News",CNN Live
+#EXTINF:-1  tvg-name="CNN Live" tvg-id="ext" tvg-logo="" group-title="World",CNN Live
 http://95.216.180.111:1935/live/29/chunklist_w362928606.m3u8
-#EXTINF:-1  tvg-name="Euro News" tvg-id="ext" tvg-logo="" group-title="News",Euro News
+#EXTINF:-1  tvg-name="Euro News" tvg-id="ext" tvg-logo="" group-title="World",Euro News
 http://95.216.180.111:1935/live/108/chunklist.m3u8
-#EXTINF:-1  tvg-name="Euro News" tvg-id="ext" tvg-logo="" group-title="News",Euro News
+#EXTINF:-1  tvg-name="Euro News" tvg-id="ext" tvg-logo="" group-title="World",Euro News
 http://95.216.180.111:1935/live/108/chunklist_w362928606.m3u8
-#EXTINF:-1  tvg-name="Euro News" tvg-id="ext" tvg-logo="" group-title="News",Euro News
+#EXTINF:-1  tvg-name="Euro News" tvg-id="ext" tvg-logo="" group-title="World",Euro News
 http://95.216.180.111:1935/live/108/playlist.m3u8
-#EXTINF:-1  tvg-name="Euro News" tvg-id="ext" tvg-logo="" group-title="News",Euro News
+#EXTINF:-1  tvg-name="Euro News" tvg-id="ext" tvg-logo="" group-title="World",Euro News
 http://95.216.180.111:1935/live/108/index.m3u8
-#EXTINF:-1  tvg-name="Euro News" tvg-id="ext" tvg-logo="" group-title="News",Euro News En
+#EXTINF:-1  tvg-name="Euro News" tvg-id="ext" tvg-logo="" group-title="World",Euro News En
 http://63b03f7689049.streamlock.net:1935/live/108/playlist.m3u8	
-#EXTINF:-1  tvg-name="Extra Live (1080p) [not 24/7]" tvg-id="ext" tvg-logo="https://i.imgur.com/Cv2O0Cj.png" group-title="News",Extra Live (1080p) [not 24/7]
+#EXTINF:-1  tvg-name="Extra Live (1080p) [not 24/7]" tvg-id="ext" tvg-logo="https://i.imgur.com/Cv2O0Cj.png" group-title="World",Extra Live (1080p) [not 24/7]
 https://ythls.armelin.one/channel/UCXw5vClfMWccw-OocfhQHiA.m3u8
-#EXTINF:-1  tvg-name="Extra News (720p) [not 24/7]" tvg-id="ext" tvg-logo="https://i.imgur.com/9HREF7o.png" group-title="News",Extra News (720p) [not 24/7]
+#EXTINF:-1  tvg-name="Extra News (720p) [not 24/7]" tvg-id="ext" tvg-logo="https://i.imgur.com/9HREF7o.png" group-title="World",Extra News (720p) [not 24/7]
 https://ythls.armelin.one/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8
-#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="News",France 24
+#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="World",France 24
 http://63b03f7689049.streamlock.net:1935/live/25/playlist.m3u8	
-#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="News",France 24
+#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="World",France 24
 http://95.216.180.111:1935/live/25/chunklist_w362928606.m3u8
-#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="News",France 24
+#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="World",France 24
 http://95.216.180.111:1935/live/25/playlist.m3u8
-#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="News",France 24
+#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="World",France 24
 http://95.216.180.111:1935/live/25/chunklist.m3u8
-#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="News",France 24
+#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="World",France 24
 http://95.216.180.111:1935/live/25/index.m3u8
-#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="News",France 24
+#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="World",France 24
 https://ythls.armelin.one/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
-#EXTINF:-1  tvg-name="France 24 2" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="News",France 24 2
+#EXTINF:-1  tvg-name="France 24 2" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="World",France 24 2
 http://95.216.180.111:1935/live/26/chunklist_w362928606.m3u8
-#EXTINF:-1  tvg-name="France 24 2" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="News",France 24 2
+#EXTINF:-1  tvg-name="France 24 2" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="World",France 24 2
 http://95.216.180.111:1935/live/26/playlist.m3u8
-#EXTINF:-1  tvg-name="France 24 2" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="News",France 24 2
+#EXTINF:-1  tvg-name="France 24 2" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="World",France 24 2
 http://95.216.180.111:1935/live/26/chunklist.m3u8
-#EXTINF:-1  tvg-name="France 24 2" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="News",France 24 2
+#EXTINF:-1  tvg-name="France 24 2" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="World",France 24 2
 http://95.216.180.111:1935/live/26/index.m3u8
-#EXTINF:-1  tvg-name="France 24 2" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="News",France 24 2
+#EXTINF:-1  tvg-name="France 24 2" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="World",France 24 2
 http://63b03f7689049.streamlock.net:1935/live/26/playlist.m3u8	
-#EXTINF:-1  tvg-name="France 24 21" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="News",France 24 21
+#EXTINF:-1  tvg-name="France 24 21" tvg-id="ext" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="World",France 24 21
 http://95.216.180.111:1935/live/27/chunklist_w362928606.m3u8
-#EXTINF:-1  tvg-name="Haber" tvg-id="ext" tvg-logo="" group-title="News",Haber
+#EXTINF:-1  tvg-name="Haber" tvg-id="ext" tvg-logo="" group-title="World",Haber
 http://95.216.180.111:1935/live/76/chunklist_w362928606.m3u8
-#EXTINF:-1  tvg-name="Haber" tvg-id="ext" tvg-logo="" group-title="News",Haber
+#EXTINF:-1  tvg-name="Haber" tvg-id="ext" tvg-logo="" group-title="World",Haber
 http://95.216.180.111:1935/live/76/playlist.m3u8
-#EXTINF:-1  tvg-name="Haber" tvg-id="ext" tvg-logo="" group-title="News",Haber
+#EXTINF:-1  tvg-name="Haber" tvg-id="ext" tvg-logo="" group-title="World",Haber
 http://95.216.180.111:1935/live/76/chunklist.m3u8
-#EXTINF:-1  tvg-name="Haber" tvg-id="ext" tvg-logo="" group-title="News",Haber
+#EXTINF:-1  tvg-name="Haber" tvg-id="ext" tvg-logo="" group-title="World",Haber
 http://95.216.180.111:1935/live/76/index.m3u8
-#EXTINF:-1  tvg-name="Haber" tvg-id="ext" tvg-logo="" group-title="News",Haber
+#EXTINF:-1  tvg-name="Haber" tvg-id="ext" tvg-logo="" group-title="World",Haber
 http://63b03f7689049.streamlock.net:1935/live/76/playlist.m3u8	
-#EXTINF:-1  tvg-name="HI Span" tvg-id="ext" tvg-logo="" group-title="News",HI Span
+#EXTINF:-1  tvg-name="HI Span" tvg-id="ext" tvg-logo="" group-title="World",HI Span
 http://95.216.180.111:1935/live/105/chunklist_w362928606.m3u8
-#EXTINF:-1  tvg-name="HI Span" tvg-id="ext" tvg-logo="" group-title="News",HI Span
+#EXTINF:-1  tvg-name="HI Span" tvg-id="ext" tvg-logo="" group-title="World",HI Span
 http://95.216.180.111:1935/live/105/playlist.m3u8
-#EXTINF:-1  tvg-name="HI Span" tvg-id="ext" tvg-logo="" group-title="News",HI Span
+#EXTINF:-1  tvg-name="HI Span" tvg-id="ext" tvg-logo="" group-title="World",HI Span
 http://95.216.180.111:1935/live/105/chunklist.m3u8
-#EXTINF:-1  tvg-name="HI Span" tvg-id="ext" tvg-logo="" group-title="News",HI Span
+#EXTINF:-1  tvg-name="HI Span" tvg-id="ext" tvg-logo="" group-title="World",HI Span
 http://95.216.180.111:1935/live/105/index.m3u8
-#EXTINF:-1  tvg-name="HI Span" tvg-id="ext" tvg-logo="" group-title="News",HI Span
+#EXTINF:-1  tvg-name="HI Span" tvg-id="ext" tvg-logo="" group-title="World",HI Span
 http://63b03f7689049.streamlock.net:1935/live/105/playlist.m3u8	
-#EXTINF:-1  tvg-name="M24 TV (720p) [not 24/7]" tvg-id="ext" tvg-logo="https://i.imgur.com/7uv5Feu.png" group-title="News",M24 TV (720p) [not 24/7]
+#EXTINF:-1  tvg-name="M24 TV (720p) [not 24/7]" tvg-id="ext" tvg-logo="https://i.imgur.com/7uv5Feu.png" group-title="World",M24 TV (720p) [not 24/7]
 https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/index.m3u8
-#EXTINF:-1  tvg-name="Medi 1 TV Arabic (1080p) [not 24/7]" tvg-id="ext" tvg-logo="https://i.imgur.com/n7Wr9mR.png" group-title="News",Medi 1 TV Arabic (1080p) [not 24/7]
+#EXTINF:-1  tvg-name="Medi 1 TV Arabic (1080p) [not 24/7]" tvg-id="ext" tvg-logo="https://i.imgur.com/n7Wr9mR.png" group-title="World",Medi 1 TV Arabic (1080p) [not 24/7]
 http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="Medi 1 TV Maghreb (1080p) [not 24/7]" tvg-id="ext" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News",Medi 1 TV Maghreb (1080p) [not 24/7]
+#EXTINF:-1  tvg-name="Medi 1 TV Maghreb (1080p) [not 24/7]" tvg-id="ext" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="World",Medi 1 TV Maghreb (1080p) [not 24/7]
 https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="PTV World" tvg-id="ext" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="News",PTV World
+#EXTINF:-1  tvg-name="PTV World" tvg-id="ext" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="World",PTV World
 http://filex.tv:8080/live/999999999/999999999/246985.ts
-#EXTINF:-1  tvg-name="TRT 1 (720p)" tvg-id="ext" tvg-logo="https://i.imgur.com/OoONVyI.png" group-title="News",TRT 1 (720p)
+#EXTINF:-1  tvg-name="TRT 1 (720p)" tvg-id="ext" tvg-logo="https://i.imgur.com/OoONVyI.png" group-title="World",TRT 1 (720p)
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
-#EXTINF:-1  tvg-name="TRT Haber (720p)" tvg-id="ext" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="News",TRT Haber (720p)
+#EXTINF:-1  tvg-name="TRT Haber (720p)" tvg-id="ext" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="World",TRT Haber (720p)
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1  tvg-name="TRT World (1080p)" tvg-id="ext" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (1080p)
+#EXTINF:-1  tvg-name="TRT World (1080p)" tvg-id="ext" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="World",TRT World (1080p)
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1  tvg-name="Ulusal" tvg-id="ext" tvg-logo="" group-title="News",Ulusal
+#EXTINF:-1  tvg-name="Ulusal" tvg-id="ext" tvg-logo="" group-title="World",Ulusal
 http://95.216.180.111:1935/live/124/chunklist_w362928606.m3u8
-#EXTINF:-1  tvg-name="Ulusal" tvg-id="ext" tvg-logo="" group-title="News",Ulusal
+#EXTINF:-1  tvg-name="Ulusal" tvg-id="ext" tvg-logo="" group-title="World",Ulusal
 http://95.216.180.111:1935/live/124/playlist.m3u8
-#EXTINF:-1  tvg-name="Ulusal" tvg-id="ext" tvg-logo="" group-title="News",Ulusal
+#EXTINF:-1  tvg-name="Ulusal" tvg-id="ext" tvg-logo="" group-title="World",Ulusal
 http://95.216.180.111:1935/live/124/chunklist.m3u8
-#EXTINF:-1  tvg-name="Ulusal" tvg-id="ext" tvg-logo="" group-title="News",Ulusal
+#EXTINF:-1  tvg-name="Ulusal" tvg-id="ext" tvg-logo="" group-title="World",Ulusal
 http://63b03f7689049.streamlock.net:1935/live/124/playlist.m3u8	
-#EXTINF:-1  tvg-name="Ulusal" tvg-id="ext" tvg-logo="" group-title="News",Ulusal
+#EXTINF:-1  tvg-name="Ulusal" tvg-id="ext" tvg-logo="" group-title="World",Ulusal
 http://95.216.180.111:1935/live/124/index.m3u8
-#EXTINF:-1  tvg-name="Ann" tvg-id="ext" tvg-logo="" group-title="News",Ann
+#EXTINF:-1  tvg-name="Ann" tvg-id="ext" tvg-logo="" group-title="World",Ann
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/3581
-#EXTINF:-1  tvg-name="Apple Plus 8" tvg-id="ext" tvg-logo="" group-title="News",Apple Plus 8
+#EXTINF:-1  tvg-name="Apple Plus 8" tvg-id="ext" tvg-logo="" group-title="World",Apple Plus 8
 http://myteve.online:8080/stadnik2/7082341272/297916
-#EXTINF:-1  tvg-name="C Sat" tvg-id="ext" tvg-logo="" group-title="News",C Sat
+#EXTINF:-1  tvg-name="C Sat" tvg-id="ext" tvg-logo="" group-title="World",C Sat
 http://myteve.online:8080/stadnik2/7082341272/165379
-#EXTINF:-1  tvg-name="Calssic" tvg-id="ext" tvg-logo="" group-title="News",Calssic
+#EXTINF:-1  tvg-name="Calssic" tvg-id="ext" tvg-logo="" group-title="World",Calssic
 http://45.65.112.206:8000/play/a0k8
-#EXTINF:-1  tvg-name="Cgtn" tvg-id="ext" tvg-logo="" group-title="News",Cgtn
+#EXTINF:-1  tvg-name="Cgtn" tvg-id="ext" tvg-logo="" group-title="World",Cgtn
 http://45.65.112.206:8000/play/a0cl
-#EXTINF:-1  tvg-name="Cgtn" tvg-id="ext" tvg-logo="" group-title="News",Cgtn
+#EXTINF:-1  tvg-name="Cgtn" tvg-id="ext" tvg-logo="" group-title="World",Cgtn
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/48873
-#EXTINF:-1  tvg-name="Cgtn Francias" tvg-id="ext" tvg-logo="" group-title="News",Cgtn Francias
+#EXTINF:-1  tvg-name="Cgtn Francias" tvg-id="ext" tvg-logo="" group-title="World",Cgtn Francias
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52226
-#EXTINF:-1  tvg-name="Cgtn News" tvg-id="ext" tvg-logo="" group-title="News",Cgtn News
+#EXTINF:-1  tvg-name="Cgtn News" tvg-id="ext" tvg-logo="" group-title="World",Cgtn News
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52227
-#EXTINF:-1  tvg-name="Channel 8 Ara" tvg-id="ext" tvg-logo="" group-title="News",Channel 8 Ara
+#EXTINF:-1  tvg-name="Channel 8 Ara" tvg-id="ext" tvg-logo="" group-title="World",Channel 8 Ara
 http://45.65.112.206:8000/play/a0ip
-#EXTINF:-1  tvg-name="Channel 8 Kur" tvg-id="ext" tvg-logo="" group-title="News",Channel 8 Kur
+#EXTINF:-1  tvg-name="Channel 8 Kur" tvg-id="ext" tvg-logo="" group-title="World",Channel 8 Kur
 http://45.65.112.206:8000/play/a0iq
-#EXTINF:-1  tvg-name="Chinguit TV" tvg-id="ext" tvg-logo="" group-title="News",Chinguit TV
+#EXTINF:-1  tvg-name="Chinguit TV" tvg-id="ext" tvg-logo="" group-title="World",Chinguit TV
 http://154.54.220.67:34780/play/a03l
-#EXTINF:-1  tvg-name="Cira TV" tvg-id="ext" tvg-logo="" group-title="News",Cira TV
+#EXTINF:-1  tvg-name="Cira TV" tvg-id="ext" tvg-logo="" group-title="World",Cira TV
 http://45.65.112.206:8000/play/a064
-#EXTINF:-1  tvg-name="Colorbar" tvg-id="ext" tvg-logo="" group-title="News",Colorbar
+#EXTINF:-1  tvg-name="Colorbar" tvg-id="ext" tvg-logo="" group-title="World",Colorbar
 http://45.65.112.206:8000/play/a050
-#EXTINF:-1  tvg-name="Colorbar" tvg-id="ext" tvg-logo="" group-title="News",Colorbar
+#EXTINF:-1  tvg-name="Colorbar" tvg-id="ext" tvg-logo="" group-title="World",Colorbar
 http://45.65.112.206:8000/play/a0jx
-#EXTINF:-1  tvg-name="Ctv" tvg-id="ext" tvg-logo="" group-title="News",Ctv
+#EXTINF:-1  tvg-name="Ctv" tvg-id="ext" tvg-logo="" group-title="World",Ctv
 http://45.65.112.206:8000/play/a03c
-#EXTINF:-1  tvg-name="Daawah TV" tvg-id="ext" tvg-logo="" group-title="News",Daawah TV
+#EXTINF:-1  tvg-name="Daawah TV" tvg-id="ext" tvg-logo="" group-title="World",Daawah TV
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46303
-#EXTINF:-1  tvg-name="Dava TV" tvg-id="ext" tvg-logo="" group-title="News",Dava TV
+#EXTINF:-1  tvg-name="Dava TV" tvg-id="ext" tvg-logo="" group-title="World",Dava TV
 http://154.54.220.67:34780/play/a03m
-#EXTINF:-1  tvg-name="Dawaah TV" tvg-id="ext" tvg-logo="" group-title="News",Dawaah TV
+#EXTINF:-1  tvg-name="Dawaah TV" tvg-id="ext" tvg-logo="" group-title="World",Dawaah TV
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52332
-#EXTINF:-1  tvg-name="DW" tvg-id="ext" tvg-logo="" group-title="News",DW
+#EXTINF:-1  tvg-name="DW" tvg-id="ext" tvg-logo="" group-title="World",DW
 http://myteve.online:8080/stadnik2/7082341272/301851
-#EXTINF:-1  tvg-name="Euronews English HD" tvg-id="ext" tvg-logo="" group-title="News",Euronews English HD
+#EXTINF:-1  tvg-name="Euronews English HD" tvg-id="ext" tvg-logo="" group-title="World",Euronews English HD
 http://154.54.220.67:34780/play/a066
-#EXTINF:-1  tvg-name="FIX & Foxi" tvg-id="ext" tvg-logo="" group-title="News",FIX & Foxi
+#EXTINF:-1  tvg-name="FIX & Foxi" tvg-id="ext" tvg-logo="" group-title="World",FIX & Foxi
 http://myteve.online:8080/stadnik2/7082341272/145293
-#EXTINF:-1  tvg-name="Food Netword HD" tvg-id="ext" tvg-logo="" group-title="News",Food Netword HD
+#EXTINF:-1  tvg-name="Food Netword HD" tvg-id="ext" tvg-logo="" group-title="World",Food Netword HD
 http://181.78.75.83:5013/play/a05j/index.m3u8
-#EXTINF:-1  tvg-name="Fozi Mozi" tvg-id="ext" tvg-logo="" group-title="News",Fozi Mozi
+#EXTINF:-1  tvg-name="Fozi Mozi" tvg-id="ext" tvg-logo="" group-title="World",Fozi Mozi
 http://myteve.online:8080/stadnik2/7082341272/300581
-#EXTINF:-1  tvg-name="FR HD" tvg-id="ext" tvg-logo="" group-title="News",FR HD
+#EXTINF:-1  tvg-name="FR HD" tvg-id="ext" tvg-logo="" group-title="World",FR HD
 http://45.65.112.206:8000/play/a0io
-#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="" group-title="News",France 24
+#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="" group-title="World",France 24
 http://myteve.online:8080/stadnik2/7082341272/2929
-#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="" group-title="News",France 24
+#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="" group-title="World",France 24
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52317
-#EXTINF:-1  tvg-name="France 24 HD (en Francais)" tvg-id="ext" tvg-logo="" group-title="News",France 24 HD (en Francais)
+#EXTINF:-1  tvg-name="France 24 HD (en Francais)" tvg-id="ext" tvg-logo="" group-title="World",France 24 HD (en Francais)
 http://154.54.220.67:34780/play/a06a
-#EXTINF:-1  tvg-name="France 24 HD (in English)" tvg-id="ext" tvg-logo="" group-title="News",France 24 HD (in English)
+#EXTINF:-1  tvg-name="France 24 HD (in English)" tvg-id="ext" tvg-logo="" group-title="World",France 24 HD (in English)
 http://154.54.220.67:34780/play/a06b
-#EXTINF:-1  tvg-name="Gali Kurdistan HD" tvg-id="ext" tvg-logo="" group-title="News",Gali Kurdistan HD
+#EXTINF:-1  tvg-name="Gali Kurdistan HD" tvg-id="ext" tvg-logo="" group-title="World",Gali Kurdistan HD
 http://45.65.112.206:8000/play/a08e
-#EXTINF:-1  tvg-name="Gsn7 TV" tvg-id="ext" tvg-logo="" group-title="News",Gsn7 TV
+#EXTINF:-1  tvg-name="Gsn7 TV" tvg-id="ext" tvg-logo="" group-title="World",Gsn7 TV
 http://45.65.112.206:8000/play/a03e
-#EXTINF:-1  tvg-name="Hgtv" tvg-id="ext" tvg-logo="" group-title="News",Hgtv
+#EXTINF:-1  tvg-name="Hgtv" tvg-id="ext" tvg-logo="" group-title="World",Hgtv
 http://myteve.online:8080/stadnik2/7082341272/195939
-#EXTINF:-1  tvg-name="Kadak" tvg-id="ext" tvg-logo="" group-title="News",Kadak
+#EXTINF:-1  tvg-name="Kadak" tvg-id="ext" tvg-logo="" group-title="World",Kadak
 http://45.65.112.206:8000/play/a0k7
-#EXTINF:-1  tvg-name="KAN Ya Makan Alhayat" tvg-id="ext" tvg-logo="" group-title="News",KAN Ya Makan Alhayat
+#EXTINF:-1  tvg-name="KAN Ya Makan Alhayat" tvg-id="ext" tvg-logo="" group-title="World",KAN Ya Makan Alhayat
 http://myteve.online:8080/stadnik2/7082341272/300592
-#EXTINF:-1  tvg-name="Kassala" tvg-id="ext" tvg-logo="" group-title="News",Kassala
+#EXTINF:-1  tvg-name="Kassala" tvg-id="ext" tvg-logo="" group-title="World",Kassala
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/3789
-#EXTINF:-1  tvg-name="KBS World" tvg-id="ext" tvg-logo="" group-title="News",KBS World
+#EXTINF:-1  tvg-name="KBS World" tvg-id="ext" tvg-logo="" group-title="World",KBS World
 http://45.65.112.206:8000/play/a05n
-#EXTINF:-1  tvg-name="Koogi TV" tvg-id="ext" tvg-logo="" group-title="News",Koogi TV
+#EXTINF:-1  tvg-name="Koogi TV" tvg-id="ext" tvg-logo="" group-title="World",Koogi TV
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49132
-#EXTINF:-1  tvg-name="Kto" tvg-id="ext" tvg-logo="" group-title="News",Kto
+#EXTINF:-1  tvg-name="Kto" tvg-id="ext" tvg-logo="" group-title="World",Kto
 http://45.65.112.206:8000/play/a098
-#EXTINF:-1  tvg-name="LA Une HD" tvg-id="ext" tvg-logo="" group-title="News",LA Une HD
+#EXTINF:-1  tvg-name="LA Une HD" tvg-id="ext" tvg-logo="" group-title="World",LA Une HD
 http://154.54.220.67:34780/play/a02e
-#EXTINF:-1  tvg-name="Marvel 1" tvg-id="ext" tvg-logo="" group-title="News",Marvel 1
+#EXTINF:-1  tvg-name="Marvel 1" tvg-id="ext" tvg-logo="" group-title="World",Marvel 1
 http://myteve.online:8080/stadnik2/7082341272/300273
-#EXTINF:-1  tvg-name="Marvel 2" tvg-id="ext" tvg-logo="" group-title="News",Marvel 2
+#EXTINF:-1  tvg-name="Marvel 2" tvg-id="ext" tvg-logo="" group-title="World",Marvel 2
 http://myteve.online:8080/stadnik2/7082341272/300274
-#EXTINF:-1  tvg-name="Marvel 3" tvg-id="ext" tvg-logo="" group-title="News",Marvel 3
+#EXTINF:-1  tvg-name="Marvel 3" tvg-id="ext" tvg-logo="" group-title="World",Marvel 3
 http://myteve.online:8080/stadnik2/7082341272/300275
-#EXTINF:-1  tvg-name="Marvel 4" tvg-id="ext" tvg-logo="" group-title="News",Marvel 4
+#EXTINF:-1  tvg-name="Marvel 4" tvg-id="ext" tvg-logo="" group-title="World",Marvel 4
 http://myteve.online:8080/stadnik2/7082341272/300276
-#EXTINF:-1  tvg-name="Marvel 5" tvg-id="ext" tvg-logo="" group-title="News",Marvel 5
+#EXTINF:-1  tvg-name="Marvel 5" tvg-id="ext" tvg-logo="" group-title="World",Marvel 5
 http://myteve.online:8080/stadnik2/7082341272/300277
-#EXTINF:-1  tvg-name="Masha & The Bear" tvg-id="ext" tvg-logo="" group-title="News",Masha & The Bear
+#EXTINF:-1  tvg-name="Masha & The Bear" tvg-id="ext" tvg-logo="" group-title="World",Masha & The Bear
 http://myteve.online:8080/stadnik2/7082341272/300595
-#EXTINF:-1  tvg-name="Pink Panther" tvg-id="ext" tvg-logo="" group-title="News",Pink Panther
+#EXTINF:-1  tvg-name="Pink Panther" tvg-id="ext" tvg-logo="" group-title="World",Pink Panther
 http://myteve.online:8080/stadnik2/7082341272/300599
-#EXTINF:-1  tvg-name="Premiere Movies" tvg-id="ext" tvg-logo="" group-title="News",Premiere Movies
+#EXTINF:-1  tvg-name="Premiere Movies" tvg-id="ext" tvg-logo="" group-title="World",Premiere Movies
 http://myteve.online:8080/stadnik2/7082341272/300600
-#EXTINF:-1  tvg-name="RAI 1 HD" tvg-id="ext" tvg-logo="" group-title="News",RAI 1 HD
+#EXTINF:-1  tvg-name="RAI 1 HD" tvg-id="ext" tvg-logo="" group-title="World",RAI 1 HD
 http://154.54.220.67:34780/play/a046
-#EXTINF:-1  tvg-name="RAI 2 HD" tvg-id="ext" tvg-logo="" group-title="News",RAI 2 HD
+#EXTINF:-1  tvg-name="RAI 2 HD" tvg-id="ext" tvg-logo="" group-title="World",RAI 2 HD
 http://154.54.220.67:34780/play/a047
-#EXTINF:-1  tvg-name="RAI 3 HD" tvg-id="ext" tvg-logo="" group-title="News",RAI 3 HD
+#EXTINF:-1  tvg-name="RAI 3 HD" tvg-id="ext" tvg-logo="" group-title="World",RAI 3 HD
 http://154.54.220.67:34780/play/a048
-#EXTINF:-1  tvg-name="RAI 4 HD" tvg-id="ext" tvg-logo="" group-title="News",RAI 4 HD
+#EXTINF:-1  tvg-name="RAI 4 HD" tvg-id="ext" tvg-logo="" group-title="World",RAI 4 HD
 http://154.54.220.67:34780/play/a04n
-#EXTINF:-1  tvg-name="RAI Gulp HD" tvg-id="ext" tvg-logo="" group-title="News",RAI Gulp HD
+#EXTINF:-1  tvg-name="RAI Gulp HD" tvg-id="ext" tvg-logo="" group-title="World",RAI Gulp HD
 http://154.54.220.67:34780/play/a04k
-#EXTINF:-1  tvg-name="RAI News 24 HD" tvg-id="ext" tvg-logo="" group-title="News",RAI News 24 HD
+#EXTINF:-1  tvg-name="RAI News 24 HD" tvg-id="ext" tvg-logo="" group-title="World",RAI News 24 HD
 http://154.54.220.67:34780/play/a04a
-#EXTINF:-1  tvg-name="RAI Storia HD" tvg-id="ext" tvg-logo="" group-title="News",RAI Storia HD
+#EXTINF:-1  tvg-name="RAI Storia HD" tvg-id="ext" tvg-logo="" group-title="World",RAI Storia HD
 http://154.54.220.67:34780/play/a04b
-#EXTINF:-1  tvg-name="RAI Yoyo HD" tvg-id="ext" tvg-logo="" group-title="News",RAI Yoyo HD
+#EXTINF:-1  tvg-name="RAI Yoyo HD" tvg-id="ext" tvg-logo="" group-title="World",RAI Yoyo HD
 http://154.54.220.67:34780/play/a04l
-#EXTINF:-1  tvg-name="RSI La 1 HD" tvg-id="ext" tvg-logo="" group-title="News",RSI La 1 HD
+#EXTINF:-1  tvg-name="RSI La 1 HD" tvg-id="ext" tvg-logo="" group-title="World",RSI La 1 HD
 http://154.54.220.67:34780/play/a05c
-#EXTINF:-1  tvg-name="RSI La 2 HD" tvg-id="ext" tvg-logo="" group-title="News",RSI La 2 HD
+#EXTINF:-1  tvg-name="RSI La 2 HD" tvg-id="ext" tvg-logo="" group-title="World",RSI La 2 HD
 http://154.54.220.67:34780/play/a059
-#EXTINF:-1  tvg-name="RT English" tvg-id="ext" tvg-logo="" group-title="News",RT English
+#EXTINF:-1  tvg-name="RT English" tvg-id="ext" tvg-logo="" group-title="World",RT English
 http://45.65.112.206:8000/play/a0hy
-#EXTINF:-1  tvg-name="Rtl-tvi HD" tvg-id="ext" tvg-logo="" group-title="News",Rtl-tvi HD
+#EXTINF:-1  tvg-name="Rtl-tvi HD" tvg-id="ext" tvg-logo="" group-title="World",Rtl-tvi HD
 http://154.54.220.67:34780/play/a02h
-#EXTINF:-1  tvg-name="RTS Deux HD" tvg-id="ext" tvg-logo="" group-title="News",RTS Deux HD
+#EXTINF:-1  tvg-name="RTS Deux HD" tvg-id="ext" tvg-logo="" group-title="World",RTS Deux HD
 http://154.54.220.67:34780/play/a05h
-#EXTINF:-1  tvg-name="RTS Un HD" tvg-id="ext" tvg-logo="" group-title="News",RTS Un HD
+#EXTINF:-1  tvg-name="RTS Un HD" tvg-id="ext" tvg-logo="" group-title="World",RTS Un HD
 http://154.54.220.67:34780/play/a05g
-#EXTINF:-1  tvg-name="Star World" tvg-id="ext" tvg-logo="" group-title="News",Star World
+#EXTINF:-1  tvg-name="Star World" tvg-id="ext" tvg-logo="" group-title="World",Star World
 http://myteve.online:8080/stadnik2/7082341272/19861
-#EXTINF:-1  tvg-name="Storychannel TV" tvg-id="ext" tvg-logo="" group-title="News",Storychannel TV
+#EXTINF:-1  tvg-name="Storychannel TV" tvg-id="ext" tvg-logo="" group-title="World",Storychannel TV
 http://myteve.online:8080/stadnik2/7082341272/299428
-#EXTINF:-1  tvg-name="Tamazight" tvg-id="ext" tvg-logo="" group-title="News",Tamazight
+#EXTINF:-1  tvg-name="Tamazight" tvg-id="ext" tvg-logo="" group-title="World",Tamazight
 http://45.65.112.206:8000/play/a07r
-#EXTINF:-1  tvg-name="Tamazight HD" tvg-id="ext" tvg-logo="" group-title="News",Tamazight HD
+#EXTINF:-1  tvg-name="Tamazight HD" tvg-id="ext" tvg-logo="" group-title="World",Tamazight HD
 http://45.65.112.206:8000/play/a081
-#EXTINF:-1  tvg-name="Tchad TV HD" tvg-id="ext" tvg-logo="" group-title="News",Tchad TV HD
+#EXTINF:-1  tvg-name="Tchad TV HD" tvg-id="ext" tvg-logo="" group-title="World",Tchad TV HD
 http://45.65.112.206:8000/play/a08x
-#EXTINF:-1  tvg-name="Tcm" tvg-id="ext" tvg-logo="" group-title="News",Tcm
+#EXTINF:-1  tvg-name="Tcm" tvg-id="ext" tvg-logo="" group-title="World",Tcm
 http://myteve.online:8080/stadnik2/7082341272/196022
-#EXTINF:-1  tvg-name="TRT Kurdi" tvg-id="ext" tvg-logo="" group-title="News",TRT Kurdi
+#EXTINF:-1  tvg-name="TRT Kurdi" tvg-id="ext" tvg-logo="" group-title="World",TRT Kurdi
 http://45.65.112.206:8000/play/a03u
-#EXTINF:-1  tvg-name="TRT World HD" tvg-id="ext" tvg-logo="" group-title="News",TRT World HD
+#EXTINF:-1  tvg-name="TRT World HD" tvg-id="ext" tvg-logo="" group-title="World",TRT World HD
 http://154.54.220.67:34780/play/a068
-#EXTINF:-1  tvg-name="TRT World HD" tvg-id="ext" tvg-logo="" group-title="News",TRT World HD
+#EXTINF:-1  tvg-name="TRT World HD" tvg-id="ext" tvg-logo="" group-title="World",TRT World HD
 http://45.65.112.206:8000/play/a08p
-#EXTINF:-1  tvg-name="Turkmeneli HD" tvg-id="ext" tvg-logo="" group-title="News",Turkmeneli HD
+#EXTINF:-1  tvg-name="Turkmeneli HD" tvg-id="ext" tvg-logo="" group-title="World",Turkmeneli HD
 http://45.65.112.206:8000/play/a06h
-#EXTINF:-1  tvg-name="Wion HD" tvg-id="ext" tvg-logo="" group-title="News",Wion HD
+#EXTINF:-1  tvg-name="Wion HD" tvg-id="ext" tvg-logo="" group-title="World",Wion HD
 http://45.65.112.206:8000/play/a06u
-#EXTINF:-1  tvg-name="World HD" tvg-id="ext" tvg-logo="" group-title="News",World HD
+#EXTINF:-1  tvg-name="World HD" tvg-id="ext" tvg-logo="" group-title="World",World HD
 http://181.78.75.83:5013/play/a05m/index.m3u8
-#EXTINF:-1  tvg-name="Bloomberg HD" tvg-id="ext" tvg-logo="" group-title="News",Bloomberg HD
+#EXTINF:-1  tvg-name="Bloomberg HD" tvg-id="ext" tvg-logo="" group-title="World",Bloomberg HD
 http://142.132.218.83:2086/play/a013/index.m3u8
-#EXTINF:-1  tvg-name="2Minternational." tvg-id="ext" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="News",2M Monde (360p)
+#EXTINF:-1  tvg-name="2Minternational." tvg-id="ext" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="World",2M Monde (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1  tvg-name="ABN Africa (480p)" tvg-id="ext" tvg-logo="https://i.imgur.com/1S4Y4xC.png" group-title="News",ABN Africa (480p)
+#EXTINF:-1  tvg-name="ABN Africa (480p)" tvg-id="ext" tvg-logo="https://i.imgur.com/1S4Y4xC.png" group-title="World",ABN Africa (480p)
 https://rtmp2.abnvideos.com/hls/abnafrica.m3u8
-#EXTINF:-1  tvg-name="ALhayattv.us" tvg-id="ext" tvg-logo="https://i.imgur.com/M8ZuzeB.png" group-title="News",AL Hayat TV (720p)
+#EXTINF:-1  tvg-name="ALhayattv.us" tvg-id="ext" tvg-logo="https://i.imgur.com/M8ZuzeB.png" group-title="World",AL Hayat TV (720p)
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
-#EXTINF:-1  tvg-name="ALjazeerachannel.qa" tvg-id="ext" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",AL Jazeera Arabic (480p)
+#EXTINF:-1  tvg-name="ALjazeerachannel.qa" tvg-id="ext" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="World",AL Jazeera Arabic (480p)
 http://ott-cdn.ucom.am/s69/index.m3u8
-#EXTINF:-1  tvg-name="ALjazeeradocumentary.qa" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="News",AL Jazeera Documentary (270p) [geo-blocked]
+#EXTINF:-1  tvg-name="ALjazeeradocumentary.qa" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="World",AL Jazeera Documentary (270p) [geo-blocked]
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-#EXTINF:-1  tvg-name="ALjazeeramubasher.qa" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="News",AL Jazeera Mubasher (1080p)
+#EXTINF:-1  tvg-name="ALjazeeramubasher.qa" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="World",AL Jazeera Mubasher (1080p)
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1  tvg-name="ALqamartv.ae" tvg-id="ext" tvg-logo="https://i.imgur.com/zkBT0C8.png" group-title="News",AL Qamar TV (360p)
+#EXTINF:-1  tvg-name="ALqamartv.ae" tvg-id="ext" tvg-logo="https://i.imgur.com/zkBT0C8.png" group-title="World",AL Qamar TV (360p)
 https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
-#EXTINF:-1  tvg-name="Alarabytv2.uk" tvg-id="ext" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="News",Alaraby 2 TV (1080p)
+#EXTINF:-1  tvg-name="Alarabytv2.uk" tvg-id="ext" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="World",Alaraby 2 TV (1080p)
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
-#EXTINF:-1  tvg-name="Alarabytv.uk" tvg-id="ext" tvg-logo="https://i.imgur.com/YMqWEe4.png" group-title="News",Alaraby TV (1080p)
+#EXTINF:-1  tvg-name="Alarabytv.uk" tvg-id="ext" tvg-logo="https://i.imgur.com/YMqWEe4.png" group-title="World",Alaraby TV (1080p)
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:-1  tvg-name="Angeltvafrica.in" tvg-id="ext" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="News",Angel TV Africa (720p)
+#EXTINF:-1  tvg-name="Angeltvafrica.in" tvg-id="ext" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="World",Angel TV Africa (720p)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelafrica_all/playlist.m3u8
-#EXTINF:-1  tvg-name="Angeltvarabia.in" tvg-id="ext" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="News",Angel TV Arabia (720p)
+#EXTINF:-1  tvg-name="Angeltvarabia.in" tvg-id="ext" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="World",Angel TV Arabia (720p)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelarabia_all/playlist.m3u8
-#EXTINF:-1  tvg-name="BBC Arabic (720p)" tvg-id="ext" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="News",BBC Arabic (720p)
+#EXTINF:-1  tvg-name="BBC Arabic (720p)" tvg-id="ext" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="World",BBC Arabic (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1  tvg-name="Bloombergtvemealiveevent.uk" tvg-id="ext" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg TV Emea Live Event (720p)
+#EXTINF:-1  tvg-name="Bloombergtvemealiveevent.uk" tvg-id="ext" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="World",Bloomberg TV Emea Live Event (720p)
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1  tvg-name="Canal2international.cm" tvg-id="ext" tvg-logo="https://i.imgur.com/BzA2z7m.png" group-title="News",Canal 2 International (360p) [not 24/7]
+#EXTINF:-1  tvg-name="Canal2international.cm" tvg-id="ext" tvg-logo="https://i.imgur.com/BzA2z7m.png" group-title="World",Canal 2 International (360p) [not 24/7]
 https://tgn.bozztv.com/ssh101/ssh101/canal2live/playlist.m3u8
-#EXTINF:-1  tvg-name="Tv2.dz" tvg-id="ext" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="News",Canal Alg rie (480p)
+#EXTINF:-1  tvg-name="Tv2.dz" tvg-id="ext" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="World",Canal Alg rie (480p)
 https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8
-#EXTINF:-1  tvg-name="Cgtnarabic.cn" tvg-id="ext" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="News",Cgtn Arabic (576p) [not 24/7]
+#EXTINF:-1  tvg-name="Cgtnarabic.cn" tvg-id="ext" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="World",Cgtn Arabic (576p) [not 24/7]
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
-#EXTINF:-1  tvg-name="CNA (cha ne Nord Africaine) (360p) [not 24/7]" tvg-id="ext" tvg-logo="https://i.imgur.com/MbGX0ST.png" group-title="News",CNA (cha ne Nord Africaine) (360p) [not 24/7]
+#EXTINF:-1  tvg-name="CNA (cha ne Nord Africaine) (360p) [not 24/7]" tvg-id="ext" tvg-logo="https://i.imgur.com/MbGX0ST.png" group-title="World",CNA (cha ne Nord Africaine) (360p) [not 24/7]
 https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="Cnbcafrica.za" tvg-id="ext" tvg-logo="https://i.imgur.com/BnNYzWI.png" group-title="News",Cnbc Africa (480p)
+#EXTINF:-1  tvg-name="Cnbcafrica.za" tvg-id="ext" tvg-logo="https://i.imgur.com/BnNYzWI.png" group-title="World",Cnbc Africa (480p)
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="Cnbcarabiya.ae" tvg-id="ext" tvg-logo="https://i.imgur.com/opBXx1K.png" group-title="News",Cnbc Arabia (1080p)
+#EXTINF:-1  tvg-name="Cnbcarabiya.ae" tvg-id="ext" tvg-logo="https://i.imgur.com/opBXx1K.png" group-title="World",Cnbc Arabia (1080p)
 http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.dailymotion.com/CNBCArabia
-#EXTINF:-1  tvg-name="Dubaione.ae" tvg-id="ext" tvg-logo="https://i.imgur.com/Dj16oKL.png" group-title="News",Dubai One (1080p)
+#EXTINF:-1  tvg-name="Dubaione.ae" tvg-id="ext" tvg-logo="https://i.imgur.com/Dj16oKL.png" group-title="World",Dubai One (1080p)
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="DWarabic.de" tvg-id="ext" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="News",DW Arabic (1080p)
+#EXTINF:-1  tvg-name="DWarabic.de" tvg-id="ext" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="World",DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1  tvg-name="Echorouknews.dz" tvg-id="ext" tvg-logo="https://i.imgur.com/TNtjYcw.png" group-title="News",Echorouk News (576p) [not 24/7]
+#EXTINF:-1  tvg-name="Echorouknews.dz" tvg-id="ext" tvg-logo="https://i.imgur.com/TNtjYcw.png" group-title="World",Echorouk News (576p) [not 24/7]
 https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/playlist.m3u8
-#EXTINF:-1  tvg-name="Echorouktv.dz" tvg-id="ext" tvg-logo="https://i.imgur.com/FtrSAqu.png" group-title="News",Echorouk TV (576p) [not 24/7]
+#EXTINF:-1  tvg-name="Echorouktv.dz" tvg-id="ext" tvg-logo="https://i.imgur.com/FtrSAqu.png" group-title="World",Echorouk TV (576p) [not 24/7]
 https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/playlist.m3u8
-#EXTINF:-1  tvg-name="Ennahartv.dz" tvg-id="ext" tvg-logo="https://i.imgur.com/C0TCA1s.png" group-title="News",Ennahar TV (576p) [not 24/7] [geo-blocked]
+#EXTINF:-1  tvg-name="Ennahartv.dz" tvg-id="ext" tvg-logo="https://i.imgur.com/C0TCA1s.png" group-title="World",Ennahar TV (576p) [not 24/7] [geo-blocked]
 https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/playlist.m3u8
-#EXTINF:-1  tvg-name="France24arabic.fr" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Arabic (1080p)
+#EXTINF:-1  tvg-name="France24arabic.fr" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="World",France 24 Arabic (1080p)
 https://ythls.onrender.com/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
-#EXTINF:-1  tvg-name="Reflettv.ci" tvg-id="ext" tvg-logo="https://i.imgur.com/EauXR22.png" group-title="News",Reflet TV (1080p)
+#EXTINF:-1  tvg-name="Reflettv.ci" tvg-id="ext" tvg-logo="https://i.imgur.com/EauXR22.png" group-title="World",Reflet TV (1080p)
 https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
-#EXTINF:-1  tvg-name="RTarabic.ru" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/RTarabic.jpg/512px-RTarabic.jpg" group-title="News",RT Arabic (1080p) [geo-blocked]
+#EXTINF:-1  tvg-name="RTarabic.ru" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/RTarabic.jpg/512px-RTarabic.jpg" group-title="World",RT Arabic (1080p) [geo-blocked]
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTINF:-1  tvg-name="RTP África (504p) [not 24/7]" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/RTP_%C3%81frica_2016_%28Reduced_Version%29.svg/512px-RTP_%C3%81frica_2016_%28Reduced_Version%29.svg.png" group-title="News",RTP África (504p) [not 24/7]
+#EXTINF:-1  tvg-name="RTP África (504p) [not 24/7]" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/RTP_%C3%81frica_2016_%28Reduced_Version%29.svg/512px-RTP_%C3%81frica_2016_%28Reduced_Version%29.svg.png" group-title="World",RTP África (504p) [not 24/7]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="Samiratv.dz" tvg-id="ext" tvg-logo="https://i.imgur.com/XZzINfq.png" group-title="News",Samira TV (1080p)
+#EXTINF:-1  tvg-name="Samiratv.dz" tvg-id="ext" tvg-logo="https://i.imgur.com/XZzINfq.png" group-title="World",Samira TV (1080p)
 https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
-#EXTINF:-1  tvg-name="SKY News Arabia (720p) [not 24/7]" tvg-id="ext" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="News",SKY News Arabia (720p) [not 24/7]
+#EXTINF:-1  tvg-name="SKY News Arabia (720p) [not 24/7]" tvg-id="ext" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="World",SKY News Arabia (720p) [not 24/7]
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1  tvg-name="SKY News Arabia (portrait) (1280p) [not 24/7]" tvg-id="ext" tvg-logo="https://i.imgur.com/FjtzQQs.png" group-title="News",SKY News Arabia (portrait) (1280p) [not 24/7]
+#EXTINF:-1  tvg-name="SKY News Arabia (portrait) (1280p) [not 24/7]" tvg-id="ext" tvg-logo="https://i.imgur.com/FjtzQQs.png" group-title="World",SKY News Arabia (portrait) (1280p) [not 24/7]
 https://stream.skynewsarabia.com/vertical/vertical.m3u8
-#EXTINF:-1  tvg-name="TBN Africa (1080p)" tvg-id="ext" tvg-logo="https://i.imgur.com/6VjLFmR.png" group-title="News",TBN Africa (1080p)
+#EXTINF:-1  tvg-name="TBN Africa (1080p)" tvg-id="ext" tvg-logo="https://i.imgur.com/6VjLFmR.png" group-title="World",TBN Africa (1080p)
 https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/cc850928-d0d8-4336-84d0-999581129465.m3u8
-#EXTINF:-1  tvg-name="Tele7.es" tvg-id="ext" tvg-logo="https://i.imgur.com/JcuV9ZE.png" group-title="News",Tele 7 (720p)
+#EXTINF:-1  tvg-name="Tele7.es" tvg-id="ext" tvg-logo="https://i.imgur.com/JcuV9ZE.png" group-title="World",Tele 7 (720p)
 https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
-#EXTINF:-1  tvg-name="TRT Arabi (1080p) [not 24/7]" tvg-id="ext" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="News",TRT Arabi (1080p) [not 24/7]
+#EXTINF:-1  tvg-name="TRT Arabi (1080p) [not 24/7]" tvg-id="ext" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="World",TRT Arabi (1080p) [not 24/7]
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1  tvg-name="Tv5mondemaghreborient.fr" tvg-id="ext" tvg-logo="https://i.imgur.com/tqz4M37.png" group-title="News",Tv5monde Maghreb-orient (1080p) [geo-blocked]
+#EXTINF:-1  tvg-name="Tv5mondemaghreborient.fr" tvg-id="ext" tvg-logo="https://i.imgur.com/tqz4M37.png" group-title="World",Tv5monde Maghreb-orient (1080p) [geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
-#EXTINF:-1  tvg-name="Chaine 3" tvg-id="ext" tvg-logo="" group-title="News",Chaine 3
+#EXTINF:-1  tvg-name="Chaine 3" tvg-id="ext" tvg-logo="" group-title="World",Chaine 3
 http://154.197.91.168:7003/play/a0e8
-#EXTINF:-1  tvg-name="Cnni SD" tvg-id="ext" tvg-logo="" group-title="News",Cnni SD
+#EXTINF:-1  tvg-name="Cnni SD" tvg-id="ext" tvg-logo="" group-title="World",Cnni SD
 http://154.197.91.168:7003/play/a0ea
-#EXTINF:-1  tvg-name="ERI TV" tvg-id="ext" tvg-logo="" group-title="News",ERI TV
+#EXTINF:-1  tvg-name="ERI TV" tvg-id="ext" tvg-logo="" group-title="World",ERI TV
 http://154.197.91.168:7003/play/a0ex
-#EXTINF:-1  tvg-name="Tivi5monde" tvg-id="ext" tvg-logo="" group-title="News",Tivi5monde
+#EXTINF:-1  tvg-name="Tivi5monde" tvg-id="ext" tvg-logo="" group-title="World",Tivi5monde
 http://154.197.91.168:7003/play/a0e2
-#EXTINF:-1  tvg-name="France 24 (in Arabic)" tvg-id="ext" tvg-logo="" group-title="News",France 24 (in Arabic)
+#EXTINF:-1  tvg-name="France 24 (in Arabic)" tvg-id="ext" tvg-logo="" group-title="World",France 24 (in Arabic)
 http://154.197.91.168:7004/play/a0dc
-#EXTINF:-1  tvg-name="France 24 HD (in Arabic)" tvg-id="ext" tvg-logo="" group-title="News",France 24 HD (in Arabic)
+#EXTINF:-1  tvg-name="France 24 HD (in Arabic)" tvg-id="ext" tvg-logo="" group-title="World",France 24 HD (in Arabic)
 http://154.197.91.168:7004/play/a0e4
-#EXTINF:-1  tvg-name="Tamazight HD" tvg-id="ext" tvg-logo="" group-title="News",Tamazight HD
+#EXTINF:-1  tvg-name="Tamazight HD" tvg-id="ext" tvg-logo="" group-title="World",Tamazight HD
 http://154.197.91.168:7004/play/a0fb
-#EXTINF:-1  tvg-name="Teleliban TV" tvg-id="ext" tvg-logo="" group-title="News",Teleliban TV
+#EXTINF:-1  tvg-name="Teleliban TV" tvg-id="ext" tvg-logo="" group-title="World",Teleliban TV
 http://154.197.91.168:7004/play/a0db
-#EXTINF:-1  tvg-name="Teleliban TV" tvg-id="ext" tvg-logo="" group-title="News",Teleliban TV
+#EXTINF:-1  tvg-name="Teleliban TV" tvg-id="ext" tvg-logo="" group-title="World",Teleliban TV
 http://154.197.91.168:7004/play/a0dx
-#EXTINF:-1  tvg-name="Tivi5monde HD " tvg-id="ext" tvg-logo="" group-title="News",Tivi5monde HD
+#EXTINF:-1  tvg-name="Tivi5monde HD " tvg-id="ext" tvg-logo="" group-title="World",Tivi5monde HD
 http://154.197.91.168:7004/play/a0dz
-#EXTINF:-1  tvg-name="WRN (sawt Al Alam) R1" tvg-id="ext" tvg-logo="" group-title="News",WRN (sawt Al Alam) R1
+#EXTINF:-1  tvg-name="WRN (sawt Al Alam) R1" tvg-id="ext" tvg-logo="" group-title="World",WRN (sawt Al Alam) R1
 http://154.197.91.168:7004/play/a0dh
-#EXTINF:-1  tvg-name="Kassala TV" tvg-id="ext" tvg-logo="" group-title="News",Kassala TV
+#EXTINF:-1  tvg-name="Kassala TV" tvg-id="ext" tvg-logo="" group-title="World",Kassala TV
 http://154.197.91.168:7004/play/a0dn
-#EXTINF:-1  tvg-name="Cnni SD" tvg-id="ext" tvg-logo="" group-title="News",Cnni SD
+#EXTINF:-1  tvg-name="Cnni SD" tvg-id="ext" tvg-logo="" group-title="World",Cnni SD
 http://154.58.202.185:8000/play/a053
-#EXTINF:-1  tvg-name="Canal Atlas" tvg-id="ext" tvg-logo="" group-title="News",Canal Atlas
+#EXTINF:-1  tvg-name="Canal Atlas" tvg-id="ext" tvg-logo="" group-title="World",Canal Atlas
 http://154.58.202.185:8000/play/a04g
-#EXTINF:-1  tvg-name="Carthage +" tvg-id="ext" tvg-logo="" group-title="News",Carthage +
+#EXTINF:-1  tvg-name="Carthage +" tvg-id="ext" tvg-logo="" group-title="World",Carthage +
 http://154.58.202.185:8000/play/a03i
-#EXTINF:-1  tvg-name="Chinguit" tvg-id="ext" tvg-logo="" group-title="News",Chinguit
+#EXTINF:-1  tvg-name="Chinguit" tvg-id="ext" tvg-logo="" group-title="World",Chinguit
 http://154.58.202.185:8000/play/a0af
-#EXTINF:-1  tvg-name="Classic Radio" tvg-id="ext" tvg-logo="" group-title="News",Classic Radio
+#EXTINF:-1  tvg-name="Classic Radio" tvg-id="ext" tvg-logo="" group-title="World",Classic Radio
 http://154.58.202.185:8000/play/a0d4
-#EXTINF:-1  tvg-name="DW A2" tvg-id="ext" tvg-logo="" group-title="News",DW A2
+#EXTINF:-1  tvg-name="DW A2" tvg-id="ext" tvg-logo="" group-title="World",DW A2
 http://154.58.202.185:8000/play/a0bp
-#EXTINF:-1  tvg-name="Dw05" tvg-id="ext" tvg-logo="" group-title="News",Dw05
+#EXTINF:-1  tvg-name="Dw05" tvg-id="ext" tvg-logo="" group-title="World",Dw05
 http://154.58.202.185:8000/play/a0bq
-#EXTINF:-1  tvg-name="ERI TV" tvg-id="ext" tvg-logo="" group-title="News",ERI TV
+#EXTINF:-1  tvg-name="ERI TV" tvg-id="ext" tvg-logo="" group-title="World",ERI TV
 http://154.58.202.185:8000/play/a00k
-#EXTINF:-1  tvg-name="English Radio " tvg-id="ext" tvg-logo="" group-title="News",English Radio
+#EXTINF:-1  tvg-name="English Radio " tvg-id="ext" tvg-logo="" group-title="World",English Radio
 http://154.58.202.185:8000/play/a0d5
-#EXTINF:-1  tvg-name="Euronews" tvg-id="ext" tvg-logo="" group-title="News",Euronews
+#EXTINF:-1  tvg-name="Euronews" tvg-id="ext" tvg-logo="" group-title="World",Euronews
 http://154.58.202.185:8000/play/a015
-#EXTINF:-1  tvg-name="Eurpean Radio" tvg-id="ext" tvg-logo="" group-title="News",Eurpean Radio
+#EXTINF:-1  tvg-name="Eurpean Radio" tvg-id="ext" tvg-logo="" group-title="World",Eurpean Radio
 http://154.58.202.185:8000/play/a0da
-#EXTINF:-1  tvg-name="France 24 (en Fran Ais)" tvg-id="ext" tvg-logo="" group-title="News",France 24 (en Fran Ais)
+#EXTINF:-1  tvg-name="France 24 (en Fran Ais)" tvg-id="ext" tvg-logo="" group-title="World",France 24 (en Fran Ais)
 http://154.58.202.185:8000/play/a014
-#EXTINF:-1  tvg-name="France 24 HD (en Francais)" tvg-id="ext" tvg-logo="" group-title="News",France 24 HD (en Francais)
+#EXTINF:-1  tvg-name="France 24 HD (en Francais)" tvg-id="ext" tvg-logo="" group-title="World",France 24 HD (en Francais)
 http://154.58.202.185:8000/play/a020
-#EXTINF:-1  tvg-name="France 24 HD (in English)" tvg-id="ext" tvg-logo="" group-title="News",France 24 HD (in English)
+#EXTINF:-1  tvg-name="France 24 HD (in English)" tvg-id="ext" tvg-logo="" group-title="World",France 24 HD (in English)
 http://154.58.202.185:8000/play/a021
-#EXTINF:-1  tvg-name="French" tvg-id="ext" tvg-logo="" group-title="News",French
+#EXTINF:-1  tvg-name="French" tvg-id="ext" tvg-logo="" group-title="World",French
 http://154.58.202.185:8000/play/a0de
-#EXTINF:-1  tvg-name="IEN Rawdati HD" tvg-id="ext" tvg-logo="" group-title="News",IEN Rawdati HD
+#EXTINF:-1  tvg-name="IEN Rawdati HD" tvg-id="ext" tvg-logo="" group-title="World",IEN Rawdati HD
 http://154.58.202.185:8000/play/a07b
-#EXTINF:-1  tvg-name="IEN TV HD" tvg-id="ext" tvg-logo="" group-title="News",IEN TV HD
+#EXTINF:-1  tvg-name="IEN TV HD" tvg-id="ext" tvg-logo="" group-title="World",IEN TV HD
 http://154.58.202.185:8000/play/a06z
-#EXTINF:-1  tvg-name="RT English" tvg-id="ext" tvg-logo="" group-title="News",RT English
+#EXTINF:-1  tvg-name="RT English" tvg-id="ext" tvg-logo="" group-title="World",RT English
 http://154.58.202.185:8000/play/a01w
-#EXTINF:-1  tvg-name="TDM Promo" tvg-id="ext" tvg-logo="" group-title="News",TDM Promo
+#EXTINF:-1  tvg-name="TDM Promo" tvg-id="ext" tvg-logo="" group-title="World",TDM Promo
 http://154.58.202.185:8000/play/a0ab
-#EXTINF:-1  tvg-name="Tivi5monde HD" tvg-id="ext" tvg-logo="" group-title="News",Tivi5monde HD
+#EXTINF:-1  tvg-name="Tivi5monde HD" tvg-id="ext" tvg-logo="" group-title="World",Tivi5monde HD
 http://154.58.202.185:8000/play/a01x
-#EXTINF:-1  tvg-name="Tv5monde Maghreb Orient HD" tvg-id="ext" tvg-logo="" group-title="News",Tv5monde Maghreb Orient HD
+#EXTINF:-1  tvg-name="Tv5monde Maghreb Orient HD" tvg-id="ext" tvg-logo="" group-title="World",Tv5monde Maghreb Orient HD
 http://154.58.202.185:8000/play/a01y
-#EXTINF:-1  tvg-name="Tv5monde Style HD" tvg-id="ext" tvg-logo="" group-title="News",Tv5monde Style HD
+#EXTINF:-1  tvg-name="Tv5monde Style HD" tvg-id="ext" tvg-logo="" group-title="World",Tv5monde Style HD
 http://154.58.202.185:8000/play/a01z
-#EXTINF:-1  tvg-name="Tamazight" tvg-id="ext" tvg-logo="" group-title="News",Tamazight
+#EXTINF:-1  tvg-name="Tamazight" tvg-id="ext" tvg-logo="" group-title="World",Tamazight
 http://154.58.202.185:8000/play/a040
-#EXTINF:-1  tvg-name="Teleliban TV" tvg-id="ext" tvg-logo="" group-title="News",Teleliban TV
+#EXTINF:-1  tvg-name="Teleliban TV" tvg-id="ext" tvg-logo="" group-title="World",Teleliban TV
 http://154.58.202.185:8000/play/a01u
-#EXTINF:-1  tvg-name="Teleliban TV" tvg-id="ext" tvg-logo="" group-title="News",Teleliban TV
+#EXTINF:-1  tvg-name="Teleliban TV" tvg-id="ext" tvg-logo="" group-title="World",Teleliban TV
 http://154.58.202.185:8000/play/a00x
-#EXTINF:-1  tvg-name="Telvza TV" tvg-id="ext" tvg-logo="" group-title="News",Telvza TV
+#EXTINF:-1  tvg-name="Telvza TV" tvg-id="ext" tvg-logo="" group-title="World",Telvza TV
 http://154.58.202.185:8000/play/a03n
-#EXTINF:-1  tvg-name="Tivi5monde" tvg-id="ext" tvg-logo="" group-title="News",Tivi5monde
+#EXTINF:-1  tvg-name="Tivi5monde" tvg-id="ext" tvg-logo="" group-title="World",Tivi5monde
 http://154.58.202.185:8000/play/a04x
-#EXTINF:-1  tvg-name="Traditional Music 95.0 Fm" tvg-id="ext" tvg-logo="" group-title="News",Traditional Music 95.0 Fm
+#EXTINF:-1  tvg-name="Traditional Music 95.0 Fm" tvg-id="ext" tvg-logo="" group-title="World",Traditional Music 95.0 Fm
 http://154.58.202.185:8000/play/a0c9
-#EXTINF:-1  tvg-name="Hispan TV " tvg-id="ext" tvg-logo="" group-title="News",Hispan TV
+#EXTINF:-1  tvg-name="Hispan TV " tvg-id="ext" tvg-logo="" group-title="World",Hispan TV
 http://154.58.202.131:8000/play/a08f
-#EXTINF:-1  tvg-name="Hala London" tvg-id="ext" tvg-logo="" group-title="News",Hala London
+#EXTINF:-1  tvg-name="Hala London" tvg-id="ext" tvg-logo="" group-title="World",Hala London
 http://154.58.202.131:8000/play/a08w
-#EXTINF:-1  tvg-name="Hebron.sat TV" tvg-id="ext" tvg-logo="" group-title="News",Hebron.sat TV
+#EXTINF:-1  tvg-name="Hebron.sat TV" tvg-id="ext" tvg-logo="" group-title="World",Hebron.sat TV
 http://154.58.202.131:8000/play/a00d
-#EXTINF:-1  tvg-name="Jamejam1 HD" tvg-id="ext" tvg-logo="" group-title="News",Jamejam1 HD
+#EXTINF:-1  tvg-name="Jamejam1 HD" tvg-id="ext" tvg-logo="" group-title="World",Jamejam1 HD
 http://154.58.202.131:8000/play/a08a
-#EXTINF:-1  tvg-name="KNN HD" tvg-id="ext" tvg-logo="" group-title="News",KNN HD
+#EXTINF:-1  tvg-name="KNN HD" tvg-id="ext" tvg-logo="" group-title="World",KNN HD
 http://154.58.202.131:8000/play/a045
-#EXTINF:-1  tvg-name="Kaifa" tvg-id="ext" tvg-logo="" group-title="News",Kaifa
+#EXTINF:-1  tvg-name="Kaifa" tvg-id="ext" tvg-logo="" group-title="World",Kaifa
 http://154.58.202.131:8000/play/a04t
-#EXTINF:-1  tvg-name="Koogi" tvg-id="ext" tvg-logo="" group-title="News",Koogi
+#EXTINF:-1  tvg-name="Koogi" tvg-id="ext" tvg-logo="" group-title="World",Koogi
 http://154.58.202.131:8000/play/a01r
-#EXTINF:-1  tvg-name="Logos TV" tvg-id="ext" tvg-logo="" group-title="News",Logos TV
+#EXTINF:-1  tvg-name="Logos TV" tvg-id="ext" tvg-logo="" group-title="World",Logos TV
 http://154.58.202.131:8000/play/a01q
-#EXTINF:-1  tvg-name="RT France" tvg-id="ext" tvg-logo="" group-title="News",RT France
+#EXTINF:-1  tvg-name="RT France" tvg-id="ext" tvg-logo="" group-title="World",RT France
 http://154.58.202.131:8000/play/a08s
-#EXTINF:-1  tvg-name="RT Int" tvg-id="ext" tvg-logo="" group-title="News",RT Int
+#EXTINF:-1  tvg-name="RT Int" tvg-id="ext" tvg-logo="" group-title="World",RT Int
 http://154.58.202.131:8000/play/a08q
-#EXTINF:-1  tvg-name="CNN Int." tvg-id="ext" tvg-logo="" group-title="News",CNN Int.
+#EXTINF:-1  tvg-name="CNN Int." tvg-id="ext" tvg-logo="" group-title="World",CNN Int.
 http://154.54.220.10:8001/play/a01f
-#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="" group-title="News",France 24
+#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="" group-title="World",France 24
 http://149.18.45.21:8000/play/a02b/index.m3u8
-#EXTINF:-1  tvg-name="E! HD" tvg-id="ext" tvg-logo="" group-title="News",E! HD
+#EXTINF:-1  tvg-name="E! HD" tvg-id="ext" tvg-logo="" group-title="World",E! HD
 http://142.132.218.83:2086/play/a017/index.m3u8
-#EXTINF:-1  tvg-name="FOX Live HD" tvg-id="ext" tvg-logo="" group-title="News",FOX Live HD
+#EXTINF:-1  tvg-name="FOX Live HD" tvg-id="ext" tvg-logo="" group-title="World",FOX Live HD
 http://142.132.218.83:2086/play/a01y/index.m3u8
-#EXTINF:-1  tvg-name="CNN Europe HD" tvg-id="ext" tvg-logo="" group-title="News",CNN Europe HD
+#EXTINF:-1  tvg-name="CNN Europe HD" tvg-id="ext" tvg-logo="" group-title="World",CNN Europe HD
 http://45.65.112.49:8000/play/a07j
-#EXTINF:-1  tvg-name="Camera Deputati" tvg-id="ext" tvg-logo="" group-title="News",Camera Deputati
+#EXTINF:-1  tvg-name="Camera Deputati" tvg-id="ext" tvg-logo="" group-title="World",Camera Deputati
 http://45.65.112.49:8000/play/a0m3
-#EXTINF:-1  tvg-name="Esc" tvg-id="ext" tvg-logo="" group-title="News",Esc
+#EXTINF:-1  tvg-name="Esc" tvg-id="ext" tvg-logo="" group-title="World",Esc
 http://45.65.112.49:8000/play/a0ne
-#EXTINF:-1  tvg-name="Ewtn English" tvg-id="ext" tvg-logo="" group-title="News",Ewtn English
+#EXTINF:-1  tvg-name="Ewtn English" tvg-id="ext" tvg-logo="" group-title="World",Ewtn English
 http://45.65.112.49:8000/play/a0oh
-#EXTINF:-1  tvg-name="FTV UHD" tvg-id="ext" tvg-logo="" group-title="News",FTV UHD
+#EXTINF:-1  tvg-name="FTV UHD" tvg-id="ext" tvg-logo="" group-title="World",FTV UHD
 http://45.65.112.49:8000/play/a0n8
-#EXTINF:-1  tvg-name="Fashion TV HD" tvg-id="ext" tvg-logo="" group-title="News",Fashion TV HD
+#EXTINF:-1  tvg-name="Fashion TV HD" tvg-id="ext" tvg-logo="" group-title="World",Fashion TV HD
 http://45.65.112.49:8000/play/a0n7
-#EXTINF:-1  tvg-name="Fashiontv L*original" tvg-id="ext" tvg-logo="" group-title="News",Fashiontv L*original
+#EXTINF:-1  tvg-name="Fashiontv L*original" tvg-id="ext" tvg-logo="" group-title="World",Fashiontv L*original
 http://45.65.112.49:8000/play/a0n6
-#EXTINF:-1  tvg-name="France 24 HD (en Francais)" tvg-id="ext" tvg-logo="" group-title="News",France 24 HD (en Francais)
+#EXTINF:-1  tvg-name="France 24 HD (en Francais)" tvg-id="ext" tvg-logo="" group-title="World",France 24 HD (en Francais)
 http://45.65.112.49:8000/play/a0o9
-#EXTINF:-1  tvg-name="France 24 HD (in English)" tvg-id="ext" tvg-logo="" group-title="News",France 24 HD (in English)
+#EXTINF:-1  tvg-name="France 24 HD (in English)" tvg-id="ext" tvg-logo="" group-title="World",France 24 HD (in English)
 http://45.65.112.49:8000/play/a0oa
-#EXTINF:-1  tvg-name="Italian Fishing TV" tvg-id="ext" tvg-logo="" group-title="News",Italian Fishing TV
+#EXTINF:-1  tvg-name="Italian Fishing TV" tvg-id="ext" tvg-logo="" group-title="World",Italian Fishing TV
 http://45.65.112.49:8000/play/a0nq
-#EXTINF:-1  tvg-name="Travelxp 4K" tvg-id="ext" tvg-logo="" group-title="News",Travelxp 4K
+#EXTINF:-1  tvg-name="Travelxp 4K" tvg-id="ext" tvg-logo="" group-title="World",Travelxp 4K
 http://45.65.112.49:8000/play/a0gm
-#EXTINF:-1  tvg-name="TV Congo" tvg-id="ext" tvg-logo="" group-title="News",TV Congo
+#EXTINF:-1  tvg-name="TV Congo" tvg-id="ext" tvg-logo="" group-title="World",TV Congo
 http://45.65.112.49:8000/play/a0og
-#EXTINF:-1  tvg-name="TOP Zaman" tvg-id="ext" tvg-logo="" group-title="News",TOP Zaman
+#EXTINF:-1  tvg-name="TOP Zaman" tvg-id="ext" tvg-logo="" group-title="World",TOP Zaman
 http://45.65.112.206:8000/play/a033
-#EXTINF:-1  tvg-name="TOP Drama" tvg-id="ext" tvg-logo="" group-title="News",TOP Drama
+#EXTINF:-1  tvg-name="TOP Drama" tvg-id="ext" tvg-logo="" group-title="World",TOP Drama
 http://45.65.112.206:8000/play/a032
-#EXTINF:-1  tvg-name="Vatican Radio" tvg-id="ext" tvg-logo="" group-title="News",Vatican Radio
+#EXTINF:-1  tvg-name="Vatican Radio" tvg-id="ext" tvg-logo="" group-title="World",Vatican Radio
 http://45.65.112.206:8000/play/a0jf
-#EXTINF:-1  tvg-name="BBC News TV" tvg-id="ext" tvg-logo="" group-title="News",BBC News TV
+#EXTINF:-1  tvg-name="BBC News TV" tvg-id="ext" tvg-logo="" group-title="World",BBC News TV
 http://45.65.112.16:8000/play/a03s
-#EXTINF:-1  tvg-name="Cnn" tvg-id="ext" tvg-logo="" group-title="News",Cnn
+#EXTINF:-1  tvg-name="Cnn" tvg-id="ext" tvg-logo="" group-title="World",Cnn
 http://45.65.112.16:8000/play/a00r
-#EXTINF:-1  tvg-name="Canal Radio" tvg-id="ext" tvg-logo="" group-title="News",Canal Radio
+#EXTINF:-1  tvg-name="Canal Radio" tvg-id="ext" tvg-logo="" group-title="World",Canal Radio
 http://45.65.112.16:8000/play/a06v
-#EXTINF:-1  tvg-name="Carthage+" tvg-id="ext" tvg-logo="" group-title="News",Carthage+
+#EXTINF:-1  tvg-name="Carthage+" tvg-id="ext" tvg-logo="" group-title="World",Carthage+
 http://45.65.112.16:8000/play/a03e
-#EXTINF:-1  tvg-name="Cima" tvg-id="ext" tvg-logo="" group-title="News",Cima
+#EXTINF:-1  tvg-name="Cima" tvg-id="ext" tvg-logo="" group-title="World",Cima
 http://45.65.112.16:8000/play/a018
-#EXTINF:-1  tvg-name="DAR Alshefa" tvg-id="ext" tvg-logo="" group-title="News",DAR Alshefa
+#EXTINF:-1  tvg-name="DAR Alshefa" tvg-id="ext" tvg-logo="" group-title="World",DAR Alshefa
 http://45.65.112.16:8000/play/a06z
-#EXTINF:-1  tvg-name="Elradio 9090" tvg-id="ext" tvg-logo="" group-title="News",Elradio 9090
+#EXTINF:-1  tvg-name="Elradio 9090" tvg-id="ext" tvg-logo="" group-title="World",Elradio 9090
 http://45.65.112.16:8000/play/a06o
-#EXTINF:-1  tvg-name="Eductional Channel" tvg-id="ext" tvg-logo="" group-title="News",Eductional Channel
+#EXTINF:-1  tvg-name="Eductional Channel" tvg-id="ext" tvg-logo="" group-title="World",Eductional Channel
 http://45.65.112.16:8000/play/a06f
-#EXTINF:-1  tvg-name="Extra Live" tvg-id="ext" tvg-logo="" group-title="News",Extra Live
+#EXTINF:-1  tvg-name="Extra Live" tvg-id="ext" tvg-logo="" group-title="World",Extra Live
 http://45.65.112.16:8000/play/a01r
-#EXTINF:-1  tvg-name="Extra Live SD" tvg-id="ext" tvg-logo="" group-title="News",Extra Live SD
+#EXTINF:-1  tvg-name="Extra Live SD" tvg-id="ext" tvg-logo="" group-title="World",Extra Live SD
 http://45.65.112.16:8000/play/a01u
-#EXTINF:-1  tvg-name="Extra News" tvg-id="ext" tvg-logo="" group-title="News",Extra News
+#EXTINF:-1  tvg-name="Extra News" tvg-id="ext" tvg-logo="" group-title="World",Extra News
 http://45.65.112.16:8000/play/a041
-#EXTINF:-1  tvg-name="Extra News HD" tvg-id="ext" tvg-logo="" group-title="News",Extra News HD
+#EXTINF:-1  tvg-name="Extra News HD" tvg-id="ext" tvg-logo="" group-title="World",Extra News HD
 http://45.65.112.16:8000/play/a02s
-#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="" group-title="News",France 24
+#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="" group-title="World",France 24
 http://45.65.112.16:8000/play/a025
-#EXTINF:-1  tvg-name="France 24 Eng" tvg-id="ext" tvg-logo="" group-title="News",France 24 Eng
+#EXTINF:-1  tvg-name="France 24 Eng" tvg-id="ext" tvg-logo="" group-title="World",France 24 Eng
 http://45.65.112.16:8000/play/a012
-#EXTINF:-1  tvg-name="Free TV" tvg-id="ext" tvg-logo="" group-title="News",Free TV
+#EXTINF:-1  tvg-name="Free TV" tvg-id="ext" tvg-logo="" group-title="World",Free TV
 http://45.65.112.16:8000/play/a00j
-#EXTINF:-1  tvg-name="NHK World Japan" tvg-id="ext" tvg-logo="" group-title="News",NHK World Japan
+#EXTINF:-1  tvg-name="NHK World Japan" tvg-id="ext" tvg-logo="" group-title="World",NHK World Japan
 http://45.65.112.16:8000/play/a011
-#EXTINF:-1  tvg-name="RT English" tvg-id="ext" tvg-logo="" group-title="News",RT English
+#EXTINF:-1  tvg-name="RT English" tvg-id="ext" tvg-logo="" group-title="World",RT English
 http://45.65.112.16:8000/play/a077
 #EXTINF:-1  tvg-name="2cartoon Network" tvg-id="ext" tvg-logo="" group-title="Kids",cartoon Network
 http://iptv.icsnleb.com:25461/live//a/b//30.m3u8
@@ -7723,21 +7723,21 @@ http://zeestb1.online/dhoom.php?id=11364
 http://zeestb1.online/dhoom.php?id=11374
 #EXTINF:-1  tvg-name="024-3054 IFilm English" tvg-id="ext" tvg-logo="" group-title="Ifilm",024-3054 IFilm English
 http://121.91.61.106:8000/play/a01c/index.m3u8
-#EXTINF:-1  tvg-name="025.2 - Euronews HD" tvg-id="ext" tvg-logo="" group-title="News",025.2 - Euronews HD
+#EXTINF:-1  tvg-name="025.2 - Euronews HD" tvg-id="ext" tvg-logo="" group-title="World",025.2 - Euronews HD
 http://161.132.108.74:50001/play/a02v/index.m3u8
 #EXTINF:-1  tvg-name="027-3056 Peace TV English" tvg-id="ext" tvg-logo="" group-title="Islamic",027-3056 Peace TV English
 http://121.91.61.106:8000/play/a01f/index.m3u8
 #EXTINF:-1  tvg-name="037 - Discovery Home & Health" tvg-id="ext" tvg-logo="" group-title="Documentary",037 - Discovery Home & Health
 http://161.132.108.74:50001/play/a00r/index.m3u8
-#EXTINF:-1  tvg-name="040 - Food Network HD" tvg-id="ext" tvg-logo="" group-title="News",040 - Food Network HD
+#EXTINF:-1  tvg-name="040 - Food Network HD" tvg-id="ext" tvg-logo="" group-title="World",040 - Food Network HD
 http://161.132.108.74:50001/play/a01k/index.m3u8
-#EXTINF:-1  tvg-name="040-3060-SUNO News HD" tvg-id="ext" tvg-logo="" group-title="News",040-3060-SUNO News HD
+#EXTINF:-1  tvg-name="040-3060-SUNO News HD" tvg-id="ext" tvg-logo="" group-title="World",040-3060-SUNO News HD
 http://121.91.61.106:8000/play/a01s/index.m3u8
-#EXTINF:-1  tvg-name="041 - El Gourmet HD" tvg-id="ext" tvg-logo="" group-title="News",041 - El Gourmet HD
+#EXTINF:-1  tvg-name="041 - El Gourmet HD" tvg-id="ext" tvg-logo="" group-title="World",041 - El Gourmet HD
 http://161.132.108.74:50001/play/a00o/index.m3u8
 #EXTINF:-1  tvg-name="045 - Love Nature HD" tvg-id="ext" tvg-logo="" group-title="Documentary",045 - Love Nature HD
 http://161.132.108.74:50001/play/a01p/index.m3u8
-#EXTINF:-1  tvg-name="045-3062-Silver Screen" tvg-id="ext" tvg-logo="" group-title="News",045-3062-Silver Screen
+#EXTINF:-1  tvg-name="045-3062-Silver Screen" tvg-id="ext" tvg-logo="" group-title="World",045-3062-Silver Screen
 http://121.91.61.106:8000/play/a01x/index.m3u8
 #EXTINF:-1  tvg-name="046 - Nat Geo HD" tvg-id="ext" tvg-logo="" group-title="Documentary",046 - Nat Geo HD
 http://161.132.108.74:50001/play/a010/index.m3u8
@@ -7793,17 +7793,17 @@ http://161.132.108.74:50001/play/a01o/index.m3u8
 http://161.132.108.74:50001/play/a00a/index.m3u8
 #EXTINF:-1  tvg-name="063 - Cartoon Network HD" tvg-id="ext" tvg-logo="" group-title="Kids",063 - Cartoon Network HD
 http://161.132.108.74:50001/play/a017/index.m3u8
-#EXTINF:-1  tvg-name="063-2022 DW English HD" tvg-id="ext" tvg-logo="" group-title="News",063-2022 DW English HD
+#EXTINF:-1  tvg-name="063-2022 DW English HD" tvg-id="ext" tvg-logo="" group-title="World",063-2022 DW English HD
 http://121.91.61.106:8000/play/a02g/index.m3u8
 #EXTINF:-1  tvg-name="064.1 - betME HD" tvg-id="ext" tvg-logo="" group-title="OSN",064.1 - betME HD
 http://161.132.108.74:50001/play/a04i/index.m3u8
 #EXTINF:-1  tvg-name="064.1 - Nick Jr HD" tvg-id="ext" tvg-logo="" group-title="Kids",064.1 - Nick Jr HD
 http://161.132.108.74:50001/play/a04j/index.m3u8
-#EXTINF:-1  tvg-name="064-2022 Aljazeera English HD" tvg-id="ext" tvg-logo="" group-title="News",064-2022 Aljazeera English HD
+#EXTINF:-1  tvg-name="064-2022 Aljazeera English HD" tvg-id="ext" tvg-logo="" group-title="World",064-2022 Aljazeera English HD
 http://121.91.61.106:8000/play/a02i/index.m3u8
-#EXTINF:-1  tvg-name="065-2022 NHK World HD" tvg-id="ext" tvg-logo="" group-title="News",065-2022 NHK World HD
+#EXTINF:-1  tvg-name="065-2022 NHK World HD" tvg-id="ext" tvg-logo="" group-title="World",065-2022 NHK World HD
 http://121.91.61.106:8000/play/a02j/index.m3u8
-#EXTINF:-1  tvg-name="066 - Universal Channel HD" tvg-id="ext" tvg-logo="" group-title="News",066 - Universal Channel HD
+#EXTINF:-1  tvg-name="066 - Universal Channel HD" tvg-id="ext" tvg-logo="" group-title="World",066 - Universal Channel HD
 http://161.132.108.74:50001/play/a00t/index.m3u8
 #EXTINF:-1  tvg-name="066-2022 TRT World HD" tvg-id="ext" tvg-logo="" group-title="Turkey",066-2022 TRT World HD
 http://121.91.61.106:8000/play/a02k/index.m3u8
@@ -7819,7 +7819,7 @@ http://121.91.61.106:8000/play/a02o/index.m3u8
 http://121.91.61.106:8000/play/a02p/index.m3u8
 #EXTINF:-1  tvg-name="076-2024 A Sports HD" tvg-id="ext" tvg-logo="" group-title="Sports",076-2024 A Sports HD
 http://121.91.61.106:8000/play/a02u/index.m3u8
-#EXTINF:-1  tvg-name="09 ABC HD" tvg-id="ext" tvg-logo="" group-title="News",09 ABC HD
+#EXTINF:-1  tvg-name="09 ABC HD" tvg-id="ext" tvg-logo="" group-title="World",09 ABC HD
 http://31.171.154.21:8000/play/s89
 #EXTINF:-1  tvg-name="097 - Space HD" tvg-id="ext" tvg-logo="" group-title="Documentary",097 - Space HD
 http://161.132.108.74:50001/play/a006/index.m3u8
@@ -7869,7 +7869,7 @@ http://161.132.108.74:50001/play/a03v/index.m3u8
 http://161.132.108.74:50001/play/a03w/index.m3u8
 #EXTINF:-1  tvg-name="140-Investigation Discovery" tvg-id="ext" tvg-logo="" group-title="Documentary",140-Investigation Discovery
 http://103.174.195.4:8000/play/a02z
-#EXTINF:-1  tvg-name="20 A2 CNN" tvg-id="ext" tvg-logo="" group-title="News",20 A2 CNN
+#EXTINF:-1  tvg-name="20 A2 CNN" tvg-id="ext" tvg-logo="" group-title="World",20 A2 CNN
 http://31.171.154.21:8000/play/s80
 #EXTINF:-1  tvg-name="25 SYRI HD" tvg-id="ext" tvg-logo="" group-title="Arabic",25 SYRI HD
 http://31.171.154.21:8000/play/s86
@@ -7927,55 +7927,55 @@ http://zeestb1.online/ditto.php?id=36
 http://zeestb1.online/dhoom.php?id=5334
 #EXTINF:-1  tvg-name="AM Sports" tvg-id="ext" tvg-logo="" group-title="Sports",AM Sports
 http://209.45.101.38:8889/play/a0a4
-#EXTINF:-1  tvg-name="AMC" tvg-id="ext" tvg-logo="" group-title="News",AMC
+#EXTINF:-1  tvg-name="AMC" tvg-id="ext" tvg-logo="" group-title="World",AMC
 http://77.247.109.70:14259
-#EXTINF:-1  tvg-name="AMC" tvg-id="ext" tvg-logo="" group-title="News",AMC
+#EXTINF:-1  tvg-name="AMC" tvg-id="ext" tvg-logo="" group-title="World",AMC
 http://209.45.101.38:8889/play/a0a8
-#EXTINF:-1  tvg-name="AMC" tvg-id="ext" tvg-logo="" group-title="News",AMC
+#EXTINF:-1  tvg-name="AMC" tvg-id="ext" tvg-logo="" group-title="World",AMC
 http://200.24.138.131:8000/play/a00j/index.m3u8
-#EXTINF:-1  tvg-name="AMC" tvg-id="ext" tvg-logo="" group-title="News",AMC
+#EXTINF:-1  tvg-name="AMC" tvg-id="ext" tvg-logo="" group-title="World",AMC
 http://190.94.186.158:9981/play/a04r/index.m3u8
-#EXTINF:-1  tvg-name="AMC 4K" tvg-id="ext" tvg-logo="" group-title="News",AMC 4K
+#EXTINF:-1  tvg-name="AMC 4K" tvg-id="ext" tvg-logo="" group-title="World",AMC 4K
 http://zeestb1.online/ditto.php?id=98
-#EXTINF:-1  tvg-name="AMC 4K" tvg-id="ext" tvg-logo="" group-title="News",AMC 4K
+#EXTINF:-1  tvg-name="AMC 4K" tvg-id="ext" tvg-logo="" group-title="World",AMC 4K
 http://zeestb1.online/dhoom.php?id=6508
-#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="News",AMC HD
+#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="World",AMC HD
 http://38.252.218.28:4000/play/a042/index.m3u8
-#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="News",AMC HD
+#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="World",AMC HD
 http://38.252.218.27:4000/play/a042/index.m3u8
-#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="News",AMC HD
+#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="World",AMC HD
 http://38.252.218.26:4000/play/a042/index.m3u8
-#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="News",AMC HD
+#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="World",AMC HD
 http://38.25.46.204:4000/play/a042/index.m3u8
-#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="News",AMC HD
+#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="World",AMC HD
 http://38.25.46.203:4000/play/a042/index.m3u8
-#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="News",AMC HD
+#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="World",AMC HD
 http://38.25.46.202:4000/play/a042/index.m3u8
-#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="News",AMC HD
+#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="World",AMC HD
 http://38.25.46.201:4000/play/a042/index.m3u8
-#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="News",AMC HD
+#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="World",AMC HD
 http://38.25.46.200:4000/play/a042/index.m3u8
-#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="News",AMC HD
+#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="World",AMC HD
 http://38.25.46.199:4000/play/a042/index.m3u8
-#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="News",AMC HD
+#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="World",AMC HD
 http://190.60.32.149:2020/play/a0d6/index.m3u8
-#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="News",AMC HD
+#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="World",AMC HD
 http://190.102.139.243:8999/play/a0nz/index.m3u8
-#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="News",AMC HD
+#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="World",AMC HD
 http://187.102.208.83:50000/play/a00u/index.m3u8
-#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="News",AMC HD
+#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="World",AMC HD
 http://186.167.81.106:8126/play/a0d7/index.m3u8
-#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="News",AMC HD
+#EXTINF:-1  tvg-name="AMC HD" tvg-id="ext" tvg-logo="" group-title="World",AMC HD
 http://168.232.168.242:4000/play/a00c/index.m3u8
-#EXTINF:-1  tvg-name="AMC USA 4K" tvg-id="ext" tvg-logo="" group-title="News",AMC USA 4K
+#EXTINF:-1  tvg-name="AMC USA 4K" tvg-id="ext" tvg-logo="" group-title="World",AMC USA 4K
 http://zeestb1.online/ditto.php?id=100
-#EXTINF:-1  tvg-name="ANB NEWS" tvg-id="ext" tvg-logo="" group-title="News",ANB NEWS
+#EXTINF:-1  tvg-name="ANB NEWS" tvg-id="ext" tvg-logo="" group-title="World",ANB NEWS
 http://zeestb1.online/ditto.php?id=1832
-#EXTINF:-1  tvg-name="AND XPLOR 4K" tvg-id="ext" tvg-logo="" group-title="News",AND XPLOR 4K
+#EXTINF:-1  tvg-name="AND XPLOR 4K" tvg-id="ext" tvg-logo="" group-title="World",AND XPLOR 4K
 http://zeestb1.online/ditto.php?id=1823
-#EXTINF:-1  tvg-name="AND XPLOR USA 4K" tvg-id="ext" tvg-logo="" group-title="News",AND XPLOR USA 4K
+#EXTINF:-1  tvg-name="AND XPLOR USA 4K" tvg-id="ext" tvg-logo="" group-title="World",AND XPLOR USA 4K
 http://zeestb1.online/ditto.php?id=2020
-#EXTINF:-1  tvg-name="ANHAAD HD" tvg-id="ext" tvg-logo="" group-title="News",ANHAAD HD
+#EXTINF:-1  tvg-name="ANHAAD HD" tvg-id="ext" tvg-logo="" group-title="World",ANHAAD HD
 http://zeestb1.online/ditto.php?id=2439
 #EXTINF:-1  tvg-name="Ani" tvg-id="ext" tvg-logo="" group-title="Documentary",Ani
 http://95.52.175.116:82/play/a04m
@@ -8311,69 +8311,69 @@ http://181.78.74.83:45000/play/a00f/index.m3u8
 http://177.93.39.249:45000/play/a00m/index.m3u8
 #EXTINF:-1  tvg-name="BABYTV HD UK" tvg-id="ext" tvg-logo="" group-title="Kids",BABYTV HD UK
 http://zeestb1.online/ditto.php?id=2379
-#EXTINF:-1  tvg-name="BBC 1 FHD" tvg-id="ext" tvg-logo="" group-title="News",BBC 1 FHD
+#EXTINF:-1  tvg-name="BBC 1 FHD" tvg-id="ext" tvg-logo="" group-title="World",BBC 1 FHD
 http://zeestb1.online/dhoom.php?id=2106
-#EXTINF:-1  tvg-name="BBC 1 HD" tvg-id="ext" tvg-logo="" group-title="News",BBC 1 HD
+#EXTINF:-1  tvg-name="BBC 1 HD" tvg-id="ext" tvg-logo="" group-title="World",BBC 1 HD
 http://zeestb1.online/dhoom.php?id=5670
-#EXTINF:-1  tvg-name="BBC 2 FHD" tvg-id="ext" tvg-logo="" group-title="News",BBC 2 FHD
+#EXTINF:-1  tvg-name="BBC 2 FHD" tvg-id="ext" tvg-logo="" group-title="World",BBC 2 FHD
 http://zeestb1.online/dhoom.php?id=6111
-#EXTINF:-1  tvg-name="BBC 3 FHD" tvg-id="ext" tvg-logo="" group-title="News",BBC 3 FHD
+#EXTINF:-1  tvg-name="BBC 3 FHD" tvg-id="ext" tvg-logo="" group-title="World",BBC 3 FHD
 http://zeestb1.online/dhoom.php?id=7454
-#EXTINF:-1  tvg-name="BBC 4 HD" tvg-id="ext" tvg-logo="" group-title="News",BBC 4 HD
+#EXTINF:-1  tvg-name="BBC 4 HD" tvg-id="ext" tvg-logo="" group-title="World",BBC 4 HD
 http://zeestb1.online/dhoom.php?id=6606
-#EXTINF:-1  tvg-name="BBC AMERICA 4K" tvg-id="ext" tvg-logo="" group-title="News",BBC AMERICA 4K
+#EXTINF:-1  tvg-name="BBC AMERICA 4K" tvg-id="ext" tvg-logo="" group-title="World",BBC AMERICA 4K
 http://zeestb1.online/ditto.php?id=1882
 #EXTINF:-1  tvg-name="BBC CBEEBIES HD" tvg-id="ext" tvg-logo="" group-title="Kids",BBC CBEEBIES HD
 http://zeestb1.online/ditto.php?id=228
 #EXTINF:-1  tvg-name="BBC EARTH 4K" tvg-id="ext" tvg-logo="" group-title="Documentary",BBC EARTH 4K
 http://zeestb1.online/ditto.php?id=1892
-#EXTINF:-1  tvg-name="BBC FOUR 4K" tvg-id="ext" tvg-logo="" group-title="News",BBC FOUR 4K
+#EXTINF:-1  tvg-name="BBC FOUR 4K" tvg-id="ext" tvg-logo="" group-title="World",BBC FOUR 4K
 http://zeestb1.online/ditto.php?id=40
-#EXTINF:-1  tvg-name="BBC NEWS" tvg-id="ext" tvg-logo="" group-title="News",BBC NEWS
+#EXTINF:-1  tvg-name="BBC NEWS" tvg-id="ext" tvg-logo="" group-title="World",BBC NEWS
 http://zeestb1.online/ditto.php?id=34
-#EXTINF:-1  tvg-name="BBC News" tvg-id="ext" tvg-logo="" group-title="News",BBC News
+#EXTINF:-1  tvg-name="BBC News" tvg-id="ext" tvg-logo="" group-title="World",BBC News
 http://187.102.208.83:50000/play/a05i/index.m3u8
-#EXTINF:-1  tvg-name="BBC NEWS 4K" tvg-id="ext" tvg-logo="" group-title="News",BBC NEWS 4K
+#EXTINF:-1  tvg-name="BBC NEWS 4K" tvg-id="ext" tvg-logo="" group-title="World",BBC NEWS 4K
 http://zeestb1.online/dhoom.php?id=7353
-#EXTINF:-1  tvg-name="BBC NEWS HD" tvg-id="ext" tvg-logo="" group-title="News",BBC NEWS HD
+#EXTINF:-1  tvg-name="BBC NEWS HD" tvg-id="ext" tvg-logo="" group-title="World",BBC NEWS HD
 http://176.65.146.170:8012/play/a06i/index.m3u8
-#EXTINF:-1  tvg-name="BBC ONE 4K" tvg-id="ext" tvg-logo="" group-title="News",BBC ONE 4K
+#EXTINF:-1  tvg-name="BBC ONE 4K" tvg-id="ext" tvg-logo="" group-title="World",BBC ONE 4K
 http://zeestb1.online/ditto.php?id=37
-#EXTINF:-1  tvg-name="BBC One NE HD" tvg-id="ext" tvg-logo="" group-title="News",BBC One NE HD
+#EXTINF:-1  tvg-name="BBC One NE HD" tvg-id="ext" tvg-logo="" group-title="World",BBC One NE HD
 http://176.65.146.170:8011/play/a085/index.m3u8
-#EXTINF:-1  tvg-name="BBC One NW HD" tvg-id="ext" tvg-logo="" group-title="News",BBC One NW HD
+#EXTINF:-1  tvg-name="BBC One NW HD" tvg-id="ext" tvg-logo="" group-title="World",BBC One NW HD
 http://176.65.146.170:8011/play/a087/index.m3u8
-#EXTINF:-1  tvg-name="BBC One ScotHD" tvg-id="ext" tvg-logo="" group-title="News",BBC One ScotHD
+#EXTINF:-1  tvg-name="BBC One ScotHD" tvg-id="ext" tvg-logo="" group-title="World",BBC One ScotHD
 http://176.65.146.170:8012/play/a06g/index.m3u8
-#EXTINF:-1  tvg-name="BBC One Wal HD" tvg-id="ext" tvg-logo="" group-title="News",BBC One Wal HD
+#EXTINF:-1  tvg-name="BBC One Wal HD" tvg-id="ext" tvg-logo="" group-title="World",BBC One Wal HD
 http://176.65.146.170:8012/play/a06h/index.m3u8
-#EXTINF:-1  tvg-name="BBC ONE WEST MIDLANDS 4K" tvg-id="ext" tvg-logo="" group-title="News",BBC ONE WEST MIDLANDS 4K
+#EXTINF:-1  tvg-name="BBC ONE WEST MIDLANDS 4K" tvg-id="ext" tvg-logo="" group-title="World",BBC ONE WEST MIDLANDS 4K
 http://zeestb1.online/ditto.php?id=2617
-#EXTINF:-1  tvg-name="BBC One WM HD" tvg-id="ext" tvg-logo="" group-title="News",BBC One WM HD
+#EXTINF:-1  tvg-name="BBC One WM HD" tvg-id="ext" tvg-logo="" group-title="World",BBC One WM HD
 http://176.65.146.170:8012/play/a06k/index.m3u8
-#EXTINF:-1  tvg-name="BBC One Yks HD" tvg-id="ext" tvg-logo="" group-title="News",BBC One Yks HD
+#EXTINF:-1  tvg-name="BBC One Yks HD" tvg-id="ext" tvg-logo="" group-title="World",BBC One Yks HD
 http://176.65.146.170:8011/play/a089/index.m3u8
-#EXTINF:-1  tvg-name="BBC Parl HD" tvg-id="ext" tvg-logo="" group-title="News",BBC Parl HD
+#EXTINF:-1  tvg-name="BBC Parl HD" tvg-id="ext" tvg-logo="" group-title="World",BBC Parl HD
 http://176.65.146.170:8011/play/a084/index.m3u8
-#EXTINF:-1  tvg-name="BBC THREE 4K" tvg-id="ext" tvg-logo="" group-title="News",BBC THREE 4K
+#EXTINF:-1  tvg-name="BBC THREE 4K" tvg-id="ext" tvg-logo="" group-title="World",BBC THREE 4K
 http://zeestb1.online/ditto.php?id=39
-#EXTINF:-1  tvg-name="BBC TWO 4K" tvg-id="ext" tvg-logo="" group-title="News",BBC TWO 4K
+#EXTINF:-1  tvg-name="BBC TWO 4K" tvg-id="ext" tvg-logo="" group-title="World",BBC TWO 4K
 http://zeestb1.online/ditto.php?id=38
-#EXTINF:-1  tvg-name="BBC Two NI HD" tvg-id="ext" tvg-logo="" group-title="News",BBC Two NI HD
+#EXTINF:-1  tvg-name="BBC Two NI HD" tvg-id="ext" tvg-logo="" group-title="World",BBC Two NI HD
 http://176.65.146.170:8011/play/a088/index.m3u8
-#EXTINF:-1  tvg-name="BBC Two NI HD" tvg-id="ext" tvg-logo="" group-title="News",BBC Two NI HD
+#EXTINF:-1  tvg-name="BBC Two NI HD" tvg-id="ext" tvg-logo="" group-title="World",BBC Two NI HD
 http://176.65.146.170:8011/play/a086/index.m3u8
-#EXTINF:-1  tvg-name="BBC World" tvg-id="ext" tvg-logo="" group-title="News",BBC World
+#EXTINF:-1  tvg-name="BBC World" tvg-id="ext" tvg-logo="" group-title="World",BBC World
 http://45.90.80.250:8000/play/a01i
-#EXTINF:-1  tvg-name="BBC World" tvg-id="ext" tvg-logo="" group-title="News",BBC World
+#EXTINF:-1  tvg-name="BBC World" tvg-id="ext" tvg-logo="" group-title="World",BBC World
 http://168.232.168.242:4000/play/a00m/index.m3u8
-#EXTINF:-1  tvg-name="BBC WORLD - Rs 1" tvg-id="ext" tvg-logo="" group-title="News",BBC WORLD - Rs 1
+#EXTINF:-1  tvg-name="BBC WORLD - Rs 1" tvg-id="ext" tvg-logo="" group-title="World",BBC WORLD - Rs 1
 http://103.174.195.4:8000/play/a00z
-#EXTINF:-1  tvg-name="BBC WORLD - Rs 1.50" tvg-id="ext" tvg-logo="" group-title="News",BBC WORLD - Rs 1.50
+#EXTINF:-1  tvg-name="BBC WORLD - Rs 1.50" tvg-id="ext" tvg-logo="" group-title="World",BBC WORLD - Rs 1.50
 http://14.102.123.50:8200/play/a0ss
-#EXTINF:-1  tvg-name="BBC WORLD NEWS" tvg-id="ext" tvg-logo="" group-title="News",BBC WORLD NEWS
+#EXTINF:-1  tvg-name="BBC WORLD NEWS" tvg-id="ext" tvg-logo="" group-title="World",BBC WORLD NEWS
 http://zeestb1.online/ditto.php?id=35
-#EXTINF:-1  tvg-name="BBC WORLD NEWS HD" tvg-id="ext" tvg-logo="" group-title="News",BBC WORLD NEWS HD
+#EXTINF:-1  tvg-name="BBC WORLD NEWS HD" tvg-id="ext" tvg-logo="" group-title="World",BBC WORLD NEWS HD
 http://zeestb1.online/dhoom.php?id=10619
 #EXTINF:-1  tvg-name="BEIN _SERIES 1_FHD" tvg-id="ext" tvg-logo="" group-title="OSN",BEIN _SERIES 1_FHD
 http://zeestb1.online/dhoom.php?id=7984
@@ -8507,57 +8507,57 @@ http://103.157.210.165:8000/play/a00p/index.m3u8
 http://77.247.109.70:14831
 #EXTINF:-1  tvg-name="Claro Sports 2 HD" tvg-id="ext" tvg-logo="" group-title="Sports",Claro Sports 2 HD
 http://168.232.168.242:4000/play/a03h/index.m3u8
-#EXTINF:-1  tvg-name="CNN" tvg-id="ext" tvg-logo="" group-title="News",CNN
+#EXTINF:-1  tvg-name="CNN" tvg-id="ext" tvg-logo="" group-title="World",CNN
 http://45.90.80.250:8000/play/a01j
-#EXTINF:-1  tvg-name="CNN Chile" tvg-id="ext" tvg-logo="" group-title="News",CNN Chile
+#EXTINF:-1  tvg-name="CNN Chile" tvg-id="ext" tvg-logo="" group-title="World",CNN Chile
 http://190.102.139.243:8999/play/a0kh/index.m3u8
-#EXTINF:-1  tvg-name="CNN Chile" tvg-id="ext" tvg-logo="" group-title="News",CNN Chile
+#EXTINF:-1  tvg-name="CNN Chile" tvg-id="ext" tvg-logo="" group-title="World",CNN Chile
 http://187.102.208.83:50000/play/a02y/index.m3u8
-#EXTINF:-1  tvg-name="CNN Chile HD" tvg-id="ext" tvg-logo="" group-title="News",CNN Chile HD
+#EXTINF:-1  tvg-name="CNN Chile HD" tvg-id="ext" tvg-logo="" group-title="World",CNN Chile HD
 http://190.102.139.243:8999/play/a0u9/index.m3u8
-#EXTINF:-1  tvg-name="CNN en Espa ol" tvg-id="ext" tvg-logo="" group-title="News",CNN en Espa ol
+#EXTINF:-1  tvg-name="CNN en Espa ol" tvg-id="ext" tvg-logo="" group-title="World",CNN en Espa ol
 http://209.45.101.38:8889/play/a09e
-#EXTINF:-1  tvg-name="CNN en Espa ol" tvg-id="ext" tvg-logo="" group-title="News",CNN en Espa ol
+#EXTINF:-1  tvg-name="CNN en Espa ol" tvg-id="ext" tvg-logo="" group-title="World",CNN en Espa ol
 http://187.102.208.83:50000/play/a04k/index.m3u8
-#EXTINF:-1  tvg-name="CNN Espa ol" tvg-id="ext" tvg-logo="" group-title="News",CNN Espa ol
+#EXTINF:-1  tvg-name="CNN Espa ol" tvg-id="ext" tvg-logo="" group-title="World",CNN Espa ol
 http://190.60.32.149:2020/play/a0de/index.m3u8
-#EXTINF:-1  tvg-name="CNN Espa ol" tvg-id="ext" tvg-logo="" group-title="News",CNN Espa ol
+#EXTINF:-1  tvg-name="CNN Espa ol" tvg-id="ext" tvg-logo="" group-title="World",CNN Espa ol
 http://186.167.81.106:8126/play/a0f3/index.m3u8
-#EXTINF:-1  tvg-name="CNN Espaæol" tvg-id="ext" tvg-logo="" group-title="News",CNN Espaæol
+#EXTINF:-1  tvg-name="CNN Espaæol" tvg-id="ext" tvg-logo="" group-title="World",CNN Espaæol
 http://190.102.139.243:8999/play/a10a/index.m3u8
-#EXTINF:-1  tvg-name="CNN Espanol" tvg-id="ext" tvg-logo="" group-title="News",CNN Espanol
+#EXTINF:-1  tvg-name="CNN Espanol" tvg-id="ext" tvg-logo="" group-title="World",CNN Espanol
 http://191.97.9.93:8000/play/a03k/index.m3u8
-#EXTINF:-1  tvg-name="CNN Espanol" tvg-id="ext" tvg-logo="" group-title="News",CNN Espanol
+#EXTINF:-1  tvg-name="CNN Espanol" tvg-id="ext" tvg-logo="" group-title="World",CNN Espanol
 http://191.97.6.29:8000/play/a0a6/index.m3u8
-#EXTINF:-1  tvg-name="CNN Espanol" tvg-id="ext" tvg-logo="" group-title="News",CNN Espanol
+#EXTINF:-1  tvg-name="CNN Espanol" tvg-id="ext" tvg-logo="" group-title="World",CNN Espanol
 http://190.61.40.186:45000/play/a044
-#EXTINF:-1  tvg-name="CNN Espanol" tvg-id="ext" tvg-logo="" group-title="News",CNN Espanol
+#EXTINF:-1  tvg-name="CNN Espanol" tvg-id="ext" tvg-logo="" group-title="World",CNN Espanol
 http://190.60.37.154:45000/play/a036/index.m3u8
-#EXTINF:-1  tvg-name="CNN Espanol" tvg-id="ext" tvg-logo="" group-title="News",CNN Espanol
+#EXTINF:-1  tvg-name="CNN Espanol" tvg-id="ext" tvg-logo="" group-title="World",CNN Espanol
 http://181.78.74.83:45000/play/a01w/index.m3u8
-#EXTINF:-1  tvg-name="CNN Espanol" tvg-id="ext" tvg-logo="" group-title="News",CNN Espanol
+#EXTINF:-1  tvg-name="CNN Espanol" tvg-id="ext" tvg-logo="" group-title="World",CNN Espanol
 http://177.93.39.249:45000/play/a00p/index.m3u8
-#EXTINF:-1  tvg-name="CNN Internacional" tvg-id="ext" tvg-logo="" group-title="News",CNN Internacional
+#EXTINF:-1  tvg-name="CNN Internacional" tvg-id="ext" tvg-logo="" group-title="World",CNN Internacional
 http://168.232.168.242:4000/play/a00v/index.m3u8
-#EXTINF:-1  tvg-name="CNN International" tvg-id="ext" tvg-logo="" group-title="News",CNN International
+#EXTINF:-1  tvg-name="CNN International" tvg-id="ext" tvg-logo="" group-title="World",CNN International
 http://190.102.139.243:8999/play/a10c/index.m3u8
-#EXTINF:-1  tvg-name="CNN INTERNATIONAL 4K" tvg-id="ext" tvg-logo="" group-title="News",CNN INTERNATIONAL 4K
+#EXTINF:-1  tvg-name="CNN INTERNATIONAL 4K" tvg-id="ext" tvg-logo="" group-title="World",CNN INTERNATIONAL 4K
 http://zeestb1.online/ditto.php?id=2151
-#EXTINF:-1  tvg-name="CNN INTL - 50p" tvg-id="ext" tvg-logo="" group-title="News",CNN INTL - 50p
+#EXTINF:-1  tvg-name="CNN INTL - 50p" tvg-id="ext" tvg-logo="" group-title="World",CNN INTL - 50p
 http://103.174.195.4:8000/play/a00y
-#EXTINF:-1  tvg-name="CNN INTL - Rs 2" tvg-id="ext" tvg-logo="" group-title="News",CNN INTL - Rs 2
+#EXTINF:-1  tvg-name="CNN INTL - Rs 2" tvg-id="ext" tvg-logo="" group-title="World",CNN INTL - Rs 2
 http://14.102.123.50:8200/play/a0sr
-#EXTINF:-1  tvg-name="CNN UK HD" tvg-id="ext" tvg-logo="" group-title="News",CNN UK HD
+#EXTINF:-1  tvg-name="CNN UK HD" tvg-id="ext" tvg-logo="" group-title="World",CNN UK HD
 http://zeestb1.online/dhoom.php?id=6483
-#EXTINF:-1  tvg-name="CNN UK SD" tvg-id="ext" tvg-logo="" group-title="News",CNN UK SD
+#EXTINF:-1  tvg-name="CNN UK SD" tvg-id="ext" tvg-logo="" group-title="World",CNN UK SD
 http://zeestb1.online/dhoom.php?id=8620
-#EXTINF:-1  tvg-name="CNN USA 4K" tvg-id="ext" tvg-logo="" group-title="News",CNN USA 4K
+#EXTINF:-1  tvg-name="CNN USA 4K" tvg-id="ext" tvg-logo="" group-title="World",CNN USA 4K
 http://zeestb1.online/ditto.php?id=22
-#EXTINF:-1  tvg-name="CNN_Brasil HD" tvg-id="ext" tvg-logo="" group-title="News",CNN_Brasil HD
+#EXTINF:-1  tvg-name="CNN_Brasil HD" tvg-id="ext" tvg-logo="" group-title="World",CNN_Brasil HD
 http://77.247.109.70:14843
-#EXTINF:-1  tvg-name="COOKING CHANEL_ 4K (USA)" tvg-id="ext" tvg-logo="" group-title="News",COOKING CHANEL_ 4K (USA)
+#EXTINF:-1  tvg-name="COOKING CHANEL_ 4K (USA)" tvg-id="ext" tvg-logo="" group-title="World",COOKING CHANEL_ 4K (USA)
 http://zeestb1.online/dhoom.php?id=11134
-#EXTINF:-1  tvg-name="COOKING CHANNEL 4K" tvg-id="ext" tvg-logo="" group-title="News",COOKING CHANNEL 4K
+#EXTINF:-1  tvg-name="COOKING CHANNEL 4K" tvg-id="ext" tvg-logo="" group-title="World",COOKING CHANNEL 4K
 http://zeestb1.online/ditto.php?id=49
 #EXTINF:-1  tvg-name="CTC_Kids" tvg-id="ext" tvg-logo="" group-title="Kids",CTC_Kids
 http://188.113.190.15/132/video.m3u8
@@ -8987,9 +8987,9 @@ http://zeestb1.online/ditto.php?id=236
 http://zeestb1.online/dhoom.php?id=8633
 #EXTINF:-1  tvg-name="Disney-Rs 10" tvg-id="ext" tvg-logo="" group-title="Kids",Disney-Rs 10
 http://14.102.123.50:8200/play/a05v
-#EXTINF:-1  tvg-name="DocuBox" tvg-id="ext" tvg-logo="" group-title="News",DocuBox
+#EXTINF:-1  tvg-name="DocuBox" tvg-id="ext" tvg-logo="" group-title="World",DocuBox
 http://95.52.175.116:81/play/a00q
-#EXTINF:-1  tvg-name="DocuBox" tvg-id="ext" tvg-logo="" group-title="News",DocuBox
+#EXTINF:-1  tvg-name="DocuBox" tvg-id="ext" tvg-logo="" group-title="World",DocuBox
 http://188.113.190.15/146/video.m3u8
 #EXTINF:-1  tvg-name="DS SPORT 1" tvg-id="ext" tvg-logo="" group-title="Sports",DS SPORT 1
 http://38.252.218.28:4000/play/a090/index.m3u8
@@ -9375,15 +9375,15 @@ http://zeestb1.online/ditto.php?id=218
 http://zeestb1.online/ditto.php?id=2229
 #EXTINF:-1  tvg-name="FATEH TV" tvg-id="ext" tvg-logo="" group-title="Arabic",FATEH TV
 http://zeestb1.online/ditto.php?id=609
-#EXTINF:-1  tvg-name="Fax News" tvg-id="ext" tvg-logo="" group-title="News",Fax News
+#EXTINF:-1  tvg-name="Fax News" tvg-id="ext" tvg-logo="" group-title="World",Fax News
 http://46.252.39.94:8008/play/a01s
-#EXTINF:-1  tvg-name="FAX NEWS" tvg-id="ext" tvg-logo="" group-title="News",FAX NEWS
+#EXTINF:-1  tvg-name="FAX NEWS" tvg-id="ext" tvg-logo="" group-title="World",FAX NEWS
 http://45.90.80.250:8000/play/a02x
-#EXTINF:-1  tvg-name="FaxNews" tvg-id="ext" tvg-logo="" group-title="News",FaxNews
+#EXTINF:-1  tvg-name="FaxNews" tvg-id="ext" tvg-logo="" group-title="World",FaxNews
 http://45.90.80.250:8000/play/a01z
-#EXTINF:-1  tvg-name="FaxNews" tvg-id="ext" tvg-logo="" group-title="News",FaxNews
+#EXTINF:-1  tvg-name="FaxNews" tvg-id="ext" tvg-logo="" group-title="World",FaxNews
 http://31.171.154.21:8002/play/s28
-#EXTINF:-1  tvg-name="Fenix+Kino" tvg-id="ext" tvg-logo="" group-title="News",Fenix+Kino
+#EXTINF:-1  tvg-name="Fenix+Kino" tvg-id="ext" tvg-logo="" group-title="World",Fenix+Kino
 http://188.113.190.15/24/video.m3u8
 #EXTINF:-1  tvg-name="FIGHT NETWORK 4K" tvg-id="ext" tvg-logo="" group-title="Sports",FIGHT NETWORK 4K
 http://zeestb1.online/ditto.php?id=276
@@ -9391,7 +9391,7 @@ http://zeestb1.online/ditto.php?id=276
 http://188.113.190.15/147/video.m3u8
 #EXTINF:-1  tvg-name="Flowers- Rs 10" tvg-id="ext" tvg-logo="" group-title="Documentary",Flowers- Rs 10
 http://14.102.123.50:8200/play/a0tb
-#EXTINF:-1  tvg-name="FMH FAMILY" tvg-id="ext" tvg-logo="" group-title="News",FMH FAMILY
+#EXTINF:-1  tvg-name="FMH FAMILY" tvg-id="ext" tvg-logo="" group-title="World",FMH FAMILY
 http://45.176.232.114:8000/play/a01n
 #EXTINF:-1  tvg-name="FMH KIDS" tvg-id="ext" tvg-logo="" group-title="Kids",FMH KIDS
 http://45.176.232.114:8000/play/a01m
@@ -9413,31 +9413,31 @@ http://187.102.208.83:50000/play/a012/index.m3u8
 http://zeestb1.online/ditto.php?id=48
 #EXTINF:-1  tvg-name="FOOD NETWORK USA 4K" tvg-id="ext" tvg-logo="" group-title="Food",FOOD NETWORK USA 4K
 http://zeestb1.online/ditto.php?id=1881
-#EXTINF:-1  tvg-name="FOX" tvg-id="ext" tvg-logo="" group-title="News",FOX
+#EXTINF:-1  tvg-name="FOX" tvg-id="ext" tvg-logo="" group-title="World",FOX
 http://168.232.168.242:4000/play/a01k/index.m3u8
-#EXTINF:-1  tvg-name="FOX 4K" tvg-id="ext" tvg-logo="" group-title="News",FOX 4K
+#EXTINF:-1  tvg-name="FOX 4K" tvg-id="ext" tvg-logo="" group-title="World",FOX 4K
 http://zeestb1.online/ditto.php?id=81
-#EXTINF:-1  tvg-name="FOX BUSINESS 4K" tvg-id="ext" tvg-logo="" group-title="News",FOX BUSINESS 4K
+#EXTINF:-1  tvg-name="FOX BUSINESS 4K" tvg-id="ext" tvg-logo="" group-title="World",FOX BUSINESS 4K
 http://zeestb1.online/ditto.php?id=1880
-#EXTINF:-1  tvg-name="FOX CRICKET 4K*" tvg-id="ext" tvg-logo="" group-title="News",FOX CRICKET 4K*
+#EXTINF:-1  tvg-name="FOX CRICKET 4K*" tvg-id="ext" tvg-logo="" group-title="World",FOX CRICKET 4K*
 http://zeestb1.online/ditto.php?id=1972
-#EXTINF:-1  tvg-name="FOX Family HD" tvg-id="ext" tvg-logo="" group-title="News",FOX Family HD
+#EXTINF:-1  tvg-name="FOX Family HD" tvg-id="ext" tvg-logo="" group-title="World",FOX Family HD
 http://168.232.168.242:4000/play/a01o/index.m3u8
-#EXTINF:-1  tvg-name="FOX HD" tvg-id="ext" tvg-logo="" group-title="News",FOX HD
+#EXTINF:-1  tvg-name="FOX HD" tvg-id="ext" tvg-logo="" group-title="World",FOX HD
 http://168.232.168.242:4000/play/a01p/index.m3u8
-#EXTINF:-1  tvg-name="FOX KDFW DAL 4K" tvg-id="ext" tvg-logo="" group-title="News",FOX KDFW DAL 4K
+#EXTINF:-1  tvg-name="FOX KDFW DAL 4K" tvg-id="ext" tvg-logo="" group-title="World",FOX KDFW DAL 4K
 http://zeestb1.online/ditto.php?id=1515
-#EXTINF:-1  tvg-name="FOX KMSP MIN 4K" tvg-id="ext" tvg-logo="" group-title="News",FOX KMSP MIN 4K
+#EXTINF:-1  tvg-name="FOX KMSP MIN 4K" tvg-id="ext" tvg-logo="" group-title="World",FOX KMSP MIN 4K
 http://zeestb1.online/ditto.php?id=1516
-#EXTINF:-1  tvg-name="FOX KMYU SLC 4K" tvg-id="ext" tvg-logo="" group-title="News",FOX KMYU SLC 4K
+#EXTINF:-1  tvg-name="FOX KMYU SLC 4K" tvg-id="ext" tvg-logo="" group-title="World",FOX KMYU SLC 4K
 http://zeestb1.online/ditto.php?id=1517
-#EXTINF:-1  tvg-name="FOX KPTV POR 4K" tvg-id="ext" tvg-logo="" group-title="News",FOX KPTV POR 4K
+#EXTINF:-1  tvg-name="FOX KPTV POR 4K" tvg-id="ext" tvg-logo="" group-title="World",FOX KPTV POR 4K
 http://zeestb1.online/ditto.php?id=1518
-#EXTINF:-1  tvg-name="FOX KRIV HOU 4K" tvg-id="ext" tvg-logo="" group-title="News",FOX KRIV HOU 4K
+#EXTINF:-1  tvg-name="FOX KRIV HOU 4K" tvg-id="ext" tvg-logo="" group-title="World",FOX KRIV HOU 4K
 http://zeestb1.online/ditto.php?id=1519
-#EXTINF:-1  tvg-name="FOX KSAZ PHX 4K" tvg-id="ext" tvg-logo="" group-title="News",FOX KSAZ PHX 4K
+#EXTINF:-1  tvg-name="FOX KSAZ PHX 4K" tvg-id="ext" tvg-logo="" group-title="World",FOX KSAZ PHX 4K
 http://zeestb1.online/ditto.php?id=1520
-#EXTINF:-1  tvg-name="FOX KTBC AUS 4K" tvg-id="ext" tvg-logo="" group-title="News",FOX KTBC AUS 4K
+#EXTINF:-1  tvg-name="FOX KTBC AUS 4K" tvg-id="ext" tvg-logo="" group-title="World",FOX KTBC AUS 4K
 http://zeestb1.online/ditto.php?id=1521
 #EXTINF:-1  tvg-name="FOX SPORT 1" tvg-id="ext" tvg-logo="" group-title="Sports",FOX SPORT 1
 http://200.24.138.131:8000/play/a047/index.m3u8
@@ -9541,45 +9541,45 @@ http://187.102.208.83:50000/play/a04h/index.m3u8
 http://zeestb1.online/ditto.php?id=253
 #EXTINF:-1  tvg-name="FOX SPORTS2 4K" tvg-id="ext" tvg-logo="" group-title="Sports",FOX SPORTS2 4K
 http://zeestb1.online/ditto.php?id=252
-#EXTINF:-1  tvg-name="FOX USA 4K" tvg-id="ext" tvg-logo="" group-title="News",FOX USA 4K
+#EXTINF:-1  tvg-name="FOX USA 4K" tvg-id="ext" tvg-logo="" group-title="World",FOX USA 4K
 http://zeestb1.online/ditto.php?id=82
-#EXTINF:-1  tvg-name="FOX WAGA ATL 4K" tvg-id="ext" tvg-logo="" group-title="News",FOX WAGA ATL 4K
+#EXTINF:-1  tvg-name="FOX WAGA ATL 4K" tvg-id="ext" tvg-logo="" group-title="World",FOX WAGA ATL 4K
 http://zeestb1.online/ditto.php?id=1524
-#EXTINF:-1  tvg-name="FOX WFOX JAV 4K" tvg-id="ext" tvg-logo="" group-title="News",FOX WFOX JAV 4K
+#EXTINF:-1  tvg-name="FOX WFOX JAV 4K" tvg-id="ext" tvg-logo="" group-title="World",FOX WFOX JAV 4K
 http://zeestb1.online/ditto.php?id=1527
-#EXTINF:-1  tvg-name="FOX WFXT BOS" tvg-id="ext" tvg-logo="" group-title="News",FOX WFXT BOS
+#EXTINF:-1  tvg-name="FOX WFXT BOS" tvg-id="ext" tvg-logo="" group-title="World",FOX WFXT BOS
 http://zeestb1.online/ditto.php?id=1529
-#EXTINF:-1  tvg-name="FOX WJBK DET 4K" tvg-id="ext" tvg-logo="" group-title="News",FOX WJBK DET 4K
+#EXTINF:-1  tvg-name="FOX WJBK DET 4K" tvg-id="ext" tvg-logo="" group-title="World",FOX WJBK DET 4K
 http://zeestb1.online/ditto.php?id=1530
-#EXTINF:-1  tvg-name="FOX WJZY CHA 4K" tvg-id="ext" tvg-logo="" group-title="News",FOX WJZY CHA 4K
+#EXTINF:-1  tvg-name="FOX WJZY CHA 4K" tvg-id="ext" tvg-logo="" group-title="World",FOX WJZY CHA 4K
 http://zeestb1.online/ditto.php?id=1531
-#EXTINF:-1  tvg-name="FOX WOFL ORL 4K" tvg-id="ext" tvg-logo="" group-title="News",FOX WOFL ORL 4K
+#EXTINF:-1  tvg-name="FOX WOFL ORL 4K" tvg-id="ext" tvg-logo="" group-title="World",FOX WOFL ORL 4K
 http://zeestb1.online/ditto.php?id=1532
-#EXTINF:-1  tvg-name="FOX WRAZ RAL 4K" tvg-id="ext" tvg-logo="" group-title="News",FOX WRAZ RAL 4K
+#EXTINF:-1  tvg-name="FOX WRAZ RAL 4K" tvg-id="ext" tvg-logo="" group-title="World",FOX WRAZ RAL 4K
 http://zeestb1.online/ditto.php?id=1535
-#EXTINF:-1  tvg-name="FOX WSVN MIA 4K" tvg-id="ext" tvg-logo="" group-title="News",FOX WSVN MIA 4K
+#EXTINF:-1  tvg-name="FOX WSVN MIA 4K" tvg-id="ext" tvg-logo="" group-title="World",FOX WSVN MIA 4K
 http://zeestb1.online/ditto.php?id=1538
-#EXTINF:-1  tvg-name="FOX WTTE COL 4K" tvg-id="ext" tvg-logo="" group-title="News",FOX WTTE COL 4K
+#EXTINF:-1  tvg-name="FOX WTTE COL 4K" tvg-id="ext" tvg-logo="" group-title="World",FOX WTTE COL 4K
 http://zeestb1.online/ditto.php?id=1539
-#EXTINF:-1  tvg-name="FOX WTTG WDC 4K" tvg-id="ext" tvg-logo="" group-title="News",FOX WTTG WDC 4K
+#EXTINF:-1  tvg-name="FOX WTTG WDC 4K" tvg-id="ext" tvg-logo="" group-title="World",FOX WTTG WDC 4K
 http://zeestb1.online/ditto.php?id=1540
-#EXTINF:-1  tvg-name="FOX WTVT TAM 4K" tvg-id="ext" tvg-logo="" group-title="News",FOX WTVT TAM 4K
+#EXTINF:-1  tvg-name="FOX WTVT TAM 4K" tvg-id="ext" tvg-logo="" group-title="World",FOX WTVT TAM 4K
 http://zeestb1.online/ditto.php?id=1541
-#EXTINF:-1  tvg-name="FOX WTXF PHI 4K" tvg-id="ext" tvg-logo="" group-title="News",FOX WTXF PHI 4K
+#EXTINF:-1  tvg-name="FOX WTXF PHI 4K" tvg-id="ext" tvg-logo="" group-title="World",FOX WTXF PHI 4K
 http://zeestb1.online/ditto.php?id=1542
-#EXTINF:-1  tvg-name="FOX WUTV BUF 4K" tvg-id="ext" tvg-logo="" group-title="News",FOX WUTV BUF 4K
+#EXTINF:-1  tvg-name="FOX WUTV BUF 4K" tvg-id="ext" tvg-logo="" group-title="World",FOX WUTV BUF 4K
 http://zeestb1.online/ditto.php?id=1543
-#EXTINF:-1  tvg-name="FOX WVUE NEO 4K" tvg-id="ext" tvg-logo="" group-title="News",FOX WVUE NEO 4K
+#EXTINF:-1  tvg-name="FOX WVUE NEO 4K" tvg-id="ext" tvg-logo="" group-title="World",FOX WVUE NEO 4K
 http://zeestb1.online/ditto.php?id=1544
-#EXTINF:-1  tvg-name="FRANCE 24" tvg-id="ext" tvg-logo="" group-title="News",FRANCE 24
+#EXTINF:-1  tvg-name="FRANCE 24" tvg-id="ext" tvg-logo="" group-title="World",FRANCE 24
 http://zeestb1.online/ditto.php?id=2434
-#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="" group-title="News",France 24
+#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="" group-title="World",France 24
 http://191.97.6.29:8000/play/a0c1/index.m3u8
-#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="" group-title="News",France 24
+#EXTINF:-1  tvg-name="France 24" tvg-id="ext" tvg-logo="" group-title="World",France 24
 http://190.102.139.243:8999/play/a0vp/index.m3u8
-#EXTINF:-1  tvg-name="FRANCE 24 NEWS 4K" tvg-id="ext" tvg-logo="" group-title="News",FRANCE 24 NEWS 4K
+#EXTINF:-1  tvg-name="FRANCE 24 NEWS 4K" tvg-id="ext" tvg-logo="" group-title="World",FRANCE 24 NEWS 4K
 http://zeestb1.online/dhoom.php?id=9774
-#EXTINF:-1  tvg-name="France24" tvg-id="ext" tvg-logo="" group-title="News",France24
+#EXTINF:-1  tvg-name="France24" tvg-id="ext" tvg-logo="" group-title="World",France24
 http://187.102.208.83:50000/play/a05n/index.m3u8
 #EXTINF:-1  tvg-name="FUBO SPORTS NETWORK 4K" tvg-id="ext" tvg-logo="" group-title="Sports",FUBO SPORTS NETWORK 4K
 http://zeestb1.online/ditto.php?id=2521
@@ -9611,27 +9611,27 @@ http://38.25.46.199:4000/play/a02d/index.m3u8
 http://190.102.139.243:8999/play/a0oq/index.m3u8
 #EXTINF:-1  tvg-name="GOLPERU HD" tvg-id="ext" tvg-logo="" group-title="Sports",GOLPERU HD
 http://187.102.208.83:50000/play/a016/index.m3u8
-#EXTINF:-1  tvg-name="GolTV HD" tvg-id="ext" tvg-logo="" group-title="News",GolTV HD
+#EXTINF:-1  tvg-name="GolTV HD" tvg-id="ext" tvg-logo="" group-title="World",GolTV HD
 http://38.252.218.28:4000/play/a029/index.m3u8
-#EXTINF:-1  tvg-name="GolTV HD" tvg-id="ext" tvg-logo="" group-title="News",GolTV HD
+#EXTINF:-1  tvg-name="GolTV HD" tvg-id="ext" tvg-logo="" group-title="World",GolTV HD
 http://38.252.218.27:4000/play/a029/index.m3u8
-#EXTINF:-1  tvg-name="GolTV HD" tvg-id="ext" tvg-logo="" group-title="News",GolTV HD
+#EXTINF:-1  tvg-name="GolTV HD" tvg-id="ext" tvg-logo="" group-title="World",GolTV HD
 http://38.252.218.26:4000/play/a029/index.m3u8
-#EXTINF:-1  tvg-name="GolTV HD" tvg-id="ext" tvg-logo="" group-title="News",GolTV HD
+#EXTINF:-1  tvg-name="GolTV HD" tvg-id="ext" tvg-logo="" group-title="World",GolTV HD
 http://38.25.46.204:4000/play/a029/index.m3u8
-#EXTINF:-1  tvg-name="GolTV HD" tvg-id="ext" tvg-logo="" group-title="News",GolTV HD
+#EXTINF:-1  tvg-name="GolTV HD" tvg-id="ext" tvg-logo="" group-title="World",GolTV HD
 http://38.25.46.203:4000/play/a029/index.m3u8
-#EXTINF:-1  tvg-name="GolTV HD" tvg-id="ext" tvg-logo="" group-title="News",GolTV HD
+#EXTINF:-1  tvg-name="GolTV HD" tvg-id="ext" tvg-logo="" group-title="World",GolTV HD
 http://38.25.46.202:4000/play/a029/index.m3u8
-#EXTINF:-1  tvg-name="GolTV HD" tvg-id="ext" tvg-logo="" group-title="News",GolTV HD
+#EXTINF:-1  tvg-name="GolTV HD" tvg-id="ext" tvg-logo="" group-title="World",GolTV HD
 http://38.25.46.201:4000/play/a029/index.m3u8
-#EXTINF:-1  tvg-name="GolTV HD" tvg-id="ext" tvg-logo="" group-title="News",GolTV HD
+#EXTINF:-1  tvg-name="GolTV HD" tvg-id="ext" tvg-logo="" group-title="World",GolTV HD
 http://38.25.46.200:4000/play/a029/index.m3u8
-#EXTINF:-1  tvg-name="GolTV HD" tvg-id="ext" tvg-logo="" group-title="News",GolTV HD
+#EXTINF:-1  tvg-name="GolTV HD" tvg-id="ext" tvg-logo="" group-title="World",GolTV HD
 http://38.25.46.199:4000/play/a029/index.m3u8
-#EXTINF:-1  tvg-name="GolTV HD" tvg-id="ext" tvg-logo="" group-title="News",GolTV HD
+#EXTINF:-1  tvg-name="GolTV HD" tvg-id="ext" tvg-logo="" group-title="World",GolTV HD
 http://190.102.139.243:8999/play/a0ok/index.m3u8
-#EXTINF:-1  tvg-name="GolTV HD" tvg-id="ext" tvg-logo="" group-title="News",GolTV HD
+#EXTINF:-1  tvg-name="GolTV HD" tvg-id="ext" tvg-logo="" group-title="World",GolTV HD
 http://187.102.208.83:50000/play/a010/index.m3u8
 #EXTINF:-1  tvg-name="GOOD FOOD 4K" tvg-id="ext" tvg-logo="" group-title="Food",GOOD FOOD 4K
 http://zeestb1.online/ditto.php?id=46
@@ -9927,9 +9927,9 @@ http://zeestb1.online/dhoom.php?id=10802
 http://zeestb1.online/dhoom.php?id=10803
 #EXTINF:-1  tvg-name="KSA SSC Extra 2_4K" tvg-id="ext" tvg-logo="" group-title="Sports",KSA SSC Extra 2_4K
 http://zeestb1.online/dhoom.php?id=11251
-#EXTINF:-1  tvg-name="Kuhnya" tvg-id="ext" tvg-logo="" group-title="News",Kuhnya
+#EXTINF:-1  tvg-name="Kuhnya" tvg-id="ext" tvg-logo="" group-title="World",Kuhnya
 http://188.113.190.15/38/video.m3u8
-#EXTINF:-1  tvg-name="Kuhnya" tvg-id="ext" tvg-logo="" group-title="News",Kuhnya
+#EXTINF:-1  tvg-name="Kuhnya" tvg-id="ext" tvg-logo="" group-title="World",Kuhnya
 http://188.113.190.15/314/video.m3u8
 #EXTINF:-1  tvg-name="Latin America Sport" tvg-id="ext" tvg-logo="" group-title="Sports",Latin America Sport
 http://187.102.208.83:50000/play/a04y/index.m3u8
@@ -10131,7 +10131,7 @@ http://zeestb1.online/ditto.php?id=2565
 http://188.113.190.15/144/video.m3u8
 #EXTINF:-1  tvg-name="MR BEAN CARTOON 24/7" tvg-id="ext" tvg-logo="" group-title="Kids",MR BEAN CARTOON 24/7
 http://zeestb1.online/dhoom.php?id=8634
-#EXTINF:-1  tvg-name="MSNBC" tvg-id="ext" tvg-logo="" group-title="News",MSNBC
+#EXTINF:-1  tvg-name="MSNBC" tvg-id="ext" tvg-logo="" group-title="World",MSNBC
 http://zeestb1.online/ditto.php?id=32
 #EXTINF:-1  tvg-name="Museum 4K" tvg-id="ext" tvg-logo="" group-title="Documentary",Museum 4K
 http://176.65.146.170:8017/play/a07r/index.m3u8
@@ -10291,29 +10291,29 @@ http://zeestb1.online/ditto.php?id=78
 http://zeestb1.online/ditto.php?id=279
 #EXTINF:-1  tvg-name="NBC GOLF FHD" tvg-id="ext" tvg-logo="" group-title="Sports",NBC GOLF FHD
 http://zeestb1.online/dhoom.php?id=6304
-#EXTINF:-1  tvg-name="NBC KARE MIN 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC KARE MIN 4K
+#EXTINF:-1  tvg-name="NBC KARE MIN 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC KARE MIN 4K
 http://zeestb1.online/ditto.php?id=1546
-#EXTINF:-1  tvg-name="NBC KCRA SAC 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC KCRA SAC 4K
+#EXTINF:-1  tvg-name="NBC KCRA SAC 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC KCRA SAC 4K
 http://zeestb1.online/ditto.php?id=1548
-#EXTINF:-1  tvg-name="NBC KGW POR 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC KGW POR 4K
+#EXTINF:-1  tvg-name="NBC KGW POR 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC KGW POR 4K
 http://zeestb1.online/ditto.php?id=1550
-#EXTINF:-1  tvg-name="NBC KING SEA 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC KING SEA 4K
+#EXTINF:-1  tvg-name="NBC KING SEA 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC KING SEA 4K
 http://zeestb1.online/ditto.php?id=1552
-#EXTINF:-1  tvg-name="NBC KNSD SAD" tvg-id="ext" tvg-logo="" group-title="News",NBC KNSD SAD
+#EXTINF:-1  tvg-name="NBC KNSD SAD" tvg-id="ext" tvg-logo="" group-title="World",NBC KNSD SAD
 http://zeestb1.online/ditto.php?id=1553
-#EXTINF:-1  tvg-name="NBC KPNX PHX 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC KPNX PHX 4K
+#EXTINF:-1  tvg-name="NBC KPNX PHX 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC KPNX PHX 4K
 http://zeestb1.online/ditto.php?id=1555
-#EXTINF:-1  tvg-name="NBC KPRC HOU 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC KPRC HOU 4K
+#EXTINF:-1  tvg-name="NBC KPRC HOU 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC KPRC HOU 4K
 http://zeestb1.online/ditto.php?id=1556
-#EXTINF:-1  tvg-name="NBC KSDK STL 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC KSDK STL 4K
+#EXTINF:-1  tvg-name="NBC KSDK STL 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC KSDK STL 4K
 http://zeestb1.online/ditto.php?id=1557
-#EXTINF:-1  tvg-name="NBC KSHB KAN 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC KSHB KAN 4K
+#EXTINF:-1  tvg-name="NBC KSHB KAN 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC KSHB KAN 4K
 http://zeestb1.online/ditto.php?id=1558
-#EXTINF:-1  tvg-name="NBC KSL SLC 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC KSL SLC 4K
+#EXTINF:-1  tvg-name="NBC KSL SLC 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC KSL SLC 4K
 http://zeestb1.online/ditto.php?id=1559
-#EXTINF:-1  tvg-name="NBC KUSA DEN 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC KUSA DEN 4K
+#EXTINF:-1  tvg-name="NBC KUSA DEN 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC KUSA DEN 4K
 http://zeestb1.online/ditto.php?id=1562
-#EXTINF:-1  tvg-name="NBC KXAS DAL 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC KXAS DAL 4K
+#EXTINF:-1  tvg-name="NBC KXAS DAL 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC KXAS DAL 4K
 http://zeestb1.online/ditto.php?id=1564
 #EXTINF:-1  tvg-name="NBC SPORTS BAY AREA 4K" tvg-id="ext" tvg-logo="" group-title="Sports",NBC SPORTS BAY AREA 4K
 http://zeestb1.online/ditto.php?id=2414
@@ -10323,45 +10323,45 @@ http://zeestb1.online/ditto.php?id=2415
 http://zeestb1.online/ditto.php?id=2416
 #EXTINF:-1  tvg-name="NBC SPORTS CHICAGO 4K" tvg-id="ext" tvg-logo="" group-title="Sports",NBC SPORTS CHICAGO 4K
 http://zeestb1.online/ditto.php?id=2417
-#EXTINF:-1  tvg-name="NBC WBAL BAL 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC WBAL BAL 4K
+#EXTINF:-1  tvg-name="NBC WBAL BAL 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC WBAL BAL 4K
 http://zeestb1.online/ditto.php?id=1566
-#EXTINF:-1  tvg-name="NBC WBTS BOS 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC WBTS BOS 4K
+#EXTINF:-1  tvg-name="NBC WBTS BOS 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC WBTS BOS 4K
 http://zeestb1.online/ditto.php?id=1567
-#EXTINF:-1  tvg-name="NBC WCNC CHA 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC WCNC CHA 4K
+#EXTINF:-1  tvg-name="NBC WCNC CHA 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC WCNC CHA 4K
 http://zeestb1.online/ditto.php?id=1568
-#EXTINF:-1  tvg-name="NBC WDIV DET 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC WDIV DET 4K
+#EXTINF:-1  tvg-name="NBC WDIV DET 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC WDIV DET 4K
 http://zeestb1.online/ditto.php?id=1569
-#EXTINF:-1  tvg-name="NBC WDSU NEO 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC WDSU NEO 4K
+#EXTINF:-1  tvg-name="NBC WDSU NEO 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC WDSU NEO 4K
 http://zeestb1.online/ditto.php?id=1570
-#EXTINF:-1  tvg-name="NBC WESH ORL 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC WESH ORL 4K
+#EXTINF:-1  tvg-name="NBC WESH ORL 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC WESH ORL 4K
 http://zeestb1.online/ditto.php?id=1571
-#EXTINF:-1  tvg-name="NBC WGRZ BUF 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC WGRZ BUF 4K
+#EXTINF:-1  tvg-name="NBC WGRZ BUF 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC WGRZ BUF 4K
 http://zeestb1.online/ditto.php?id=1573
-#EXTINF:-1  tvg-name="NBC WKYC CLA 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC WKYC CLA 4K
+#EXTINF:-1  tvg-name="NBC WKYC CLA 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC WKYC CLA 4K
 http://zeestb1.online/ditto.php?id=1574
-#EXTINF:-1  tvg-name="NBC WOAI SAA 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC WOAI SAA 4K
+#EXTINF:-1  tvg-name="NBC WOAI SAA 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC WOAI SAA 4K
 http://zeestb1.online/ditto.php?id=1577
-#EXTINF:-1  tvg-name="NBC WPXI PIT 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC WPXI PIT 4K
+#EXTINF:-1  tvg-name="NBC WPXI PIT 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC WPXI PIT 4K
 http://zeestb1.online/ditto.php?id=1578
-#EXTINF:-1  tvg-name="NBC WRAL RAL 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC WRAL RAL 4K
+#EXTINF:-1  tvg-name="NBC WRAL RAL 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC WRAL RAL 4K
 http://zeestb1.online/ditto.php?id=1579
-#EXTINF:-1  tvg-name="NBC WRC WDC 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC WRC WDC 4K
+#EXTINF:-1  tvg-name="NBC WRC WDC 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC WRC WDC 4K
 http://zeestb1.online/ditto.php?id=1580
-#EXTINF:-1  tvg-name="NBC WTHR IND 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC WTHR IND 4K
+#EXTINF:-1  tvg-name="NBC WTHR IND 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC WTHR IND 4K
 http://zeestb1.online/ditto.php?id=1582
-#EXTINF:-1  tvg-name="NBC WTLV JAV 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC WTLV JAV 4K
+#EXTINF:-1  tvg-name="NBC WTLV JAV 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC WTLV JAV 4K
 http://zeestb1.online/ditto.php?id=1583
-#EXTINF:-1  tvg-name="NBC WTMJ MIL 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC WTMJ MIL 4K
+#EXTINF:-1  tvg-name="NBC WTMJ MIL 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC WTMJ MIL 4K
 http://zeestb1.online/ditto.php?id=1584
-#EXTINF:-1  tvg-name="NBC WTVJ MIA 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC WTVJ MIA 4K
+#EXTINF:-1  tvg-name="NBC WTVJ MIA 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC WTVJ MIA 4K
 http://zeestb1.online/ditto.php?id=1585
-#EXTINF:-1  tvg-name="NBC WVIT HAR 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC WVIT HAR 4K
+#EXTINF:-1  tvg-name="NBC WVIT HAR 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC WVIT HAR 4K
 http://zeestb1.online/ditto.php?id=1586
-#EXTINF:-1  tvg-name="NBC WXIA ATL 4K" tvg-id="ext" tvg-logo="" group-title="News",NBC WXIA ATL 4K
+#EXTINF:-1  tvg-name="NBC WXIA ATL 4K" tvg-id="ext" tvg-logo="" group-title="World",NBC WXIA ATL 4K
 http://zeestb1.online/ditto.php?id=1587
-#EXTINF:-1  tvg-name="NBCCA" tvg-id="ext" tvg-logo="" group-title="News",NBCCA
+#EXTINF:-1  tvg-name="NBCCA" tvg-id="ext" tvg-logo="" group-title="World",NBCCA
 http://4.59.210.197:8815/udp/127.0.0.1:6009
-#EXTINF:-1  tvg-name="NBCSN 4K" tvg-id="ext" tvg-logo="" group-title="News",NBCSN 4K
+#EXTINF:-1  tvg-name="NBCSN 4K" tvg-id="ext" tvg-logo="" group-title="World",NBCSN 4K
 http://zeestb1.online/ditto.php?id=274
 #EXTINF:-1  tvg-name="NFL ARIZONA CARDINALS 4K" tvg-id="ext" tvg-logo="" group-title="Sports",NFL ARIZONA CARDINALS 4K
 http://zeestb1.online/ditto.php?id=2639
@@ -10619,11 +10619,11 @@ http://zeestb1.online/ditto.php?id=238
 http://95.52.175.116:81/play/a018
 #EXTINF:-1  tvg-name="OLYMPICS CHANNEL 4K" tvg-id="ext" tvg-logo="" group-title="Documentary",OLYMPICS CHANNEL 4K
 http://zeestb1.online/ditto.php?id=2406
-#EXTINF:-1  tvg-name="OMNI 1 4K" tvg-id="ext" tvg-logo="" group-title="News",OMNI 1 4K
+#EXTINF:-1  tvg-name="OMNI 1 4K" tvg-id="ext" tvg-logo="" group-title="World",OMNI 1 4K
 http://zeestb1.online/ditto.php?id=20
-#EXTINF:-1  tvg-name="OMNI 2 4K" tvg-id="ext" tvg-logo="" group-title="News",OMNI 2 4K
+#EXTINF:-1  tvg-name="OMNI 2 4K" tvg-id="ext" tvg-logo="" group-title="World",OMNI 2 4K
 http://zeestb1.online/ditto.php?id=21
-#EXTINF:-1  tvg-name="OMNI 4K VANCOUVER" tvg-id="ext" tvg-logo="" group-title="News",OMNI 4K VANCOUVER
+#EXTINF:-1  tvg-name="OMNI 4K VANCOUVER" tvg-id="ext" tvg-logo="" group-title="World",OMNI 4K VANCOUVER
 http://zeestb1.online/ditto.php?id=18
 #EXTINF:-1  tvg-name="OSN NICK JR HD (ENG)" tvg-id="ext" tvg-logo="" group-title="OSN",OSN NICK JR HD (ENG)
 http://zeestb1.online/dhoom.php?id=9631
@@ -10649,11 +10649,11 @@ http://zeestb1.online/ditto.php?id=322
 http://zeestb1.online/ditto.php?id=321
 #EXTINF:-1  tvg-name="PAC-12 WASHINGTON" tvg-id="ext" tvg-logo="" group-title="Sports",PAC-12 WASHINGTON
 http://zeestb1.online/ditto.php?id=324
-#EXTINF:-1  tvg-name="PBS America" tvg-id="ext" tvg-logo="" group-title="News",PBS America
+#EXTINF:-1  tvg-name="PBS America" tvg-id="ext" tvg-logo="" group-title="World",PBS America
 http://176.65.146.170:8014/play/a06x/index.m3u8
 #EXTINF:-1  tvg-name="PBS KIDS" tvg-id="ext" tvg-logo="" group-title="Kids",PBS KIDS
 http://zeestb1.online/ditto.php?id=242
-#EXTINF:-1  tvg-name="PBS WNED BUFFALO 4K" tvg-id="ext" tvg-logo="" group-title="News",PBS WNED BUFFALO 4K
+#EXTINF:-1  tvg-name="PBS WNED BUFFALO 4K" tvg-id="ext" tvg-logo="" group-title="World",PBS WNED BUFFALO 4K
 http://zeestb1.online/ditto.php?id=129
 #EXTINF:-1  tvg-name="PEACE TV ENGLISH" tvg-id="ext" tvg-logo="" group-title="Islamic",PEACE TV ENGLISH
 http://zeestb1.online/dhoom.php?id=4507
@@ -10751,15 +10751,15 @@ http://zeestb1.online/dhoom.php?id=10472
 http://zeestb1.online/dhoom.php?id=7787
 #EXTINF:-1  tvg-name="ROTANA KHALIJIA_ FHD" tvg-id="ext" tvg-logo="" group-title="Arabic",ROTANA KHALIJIA_ FHD
 http://zeestb1.online/dhoom.php?id=7791
-#EXTINF:-1  tvg-name="RT" tvg-id="ext" tvg-logo="" group-title="News",RT
+#EXTINF:-1  tvg-name="RT" tvg-id="ext" tvg-logo="" group-title="World",RT
 http://14.102.123.50:8200/play/a0nq
-#EXTINF:-1  tvg-name="RT DOCUMENTORY" tvg-id="ext" tvg-logo="" group-title="News",RT DOCUMENTORY
+#EXTINF:-1  tvg-name="RT DOCUMENTORY" tvg-id="ext" tvg-logo="" group-title="World",RT DOCUMENTORY
 http://zeestb1.online/ditto.php?id=42
-#EXTINF:-1  tvg-name="RT INTERNATIONAL" tvg-id="ext" tvg-logo="" group-title="News",RT INTERNATIONAL
+#EXTINF:-1  tvg-name="RT INTERNATIONAL" tvg-id="ext" tvg-logo="" group-title="World",RT INTERNATIONAL
 http://zeestb1.online/ditto.php?id=44
-#EXTINF:-1  tvg-name="RT TODAY 4K" tvg-id="ext" tvg-logo="" group-title="News",RT TODAY 4K
+#EXTINF:-1  tvg-name="RT TODAY 4K" tvg-id="ext" tvg-logo="" group-title="World",RT TODAY 4K
 http://zeestb1.online/ditto.php?id=43
-#EXTINF:-1  tvg-name="RT UK" tvg-id="ext" tvg-logo="" group-title="News",RT UK
+#EXTINF:-1  tvg-name="RT UK" tvg-id="ext" tvg-logo="" group-title="World",RT UK
 http://zeestb1.online/ditto.php?id=45
 #EXTINF:-1  tvg-name="RTE Jr FHD" tvg-id="ext" tvg-logo="" group-title="Kids",RTE Jr FHD
 http://zeestb1.online/dhoom.php?id=8636
@@ -10771,7 +10771,7 @@ http://188.113.190.15/11/video.m3u8
 http://zeestb1.online/dhoom.php?id=11132
 #EXTINF:-1  tvg-name="sci-fi" tvg-id="ext" tvg-logo="" group-title="Documentary",sci-fi
 http://188.113.190.15/23/video.m3u8
-#EXTINF:-1  tvg-name="Seriale Turke HD" tvg-id="ext" tvg-logo="" group-title="News",Seriale Turke HD
+#EXTINF:-1  tvg-name="Seriale Turke HD" tvg-id="ext" tvg-logo="" group-title="World",Seriale Turke HD
 http://45.90.80.250:8000/play/a01h
 #EXTINF:-1  tvg-name="Series HD" tvg-id="ext" tvg-logo="" group-title="Sports",Series HD
 http://45.90.80.250:8000/play/a031
@@ -10801,9 +10801,9 @@ http://zeestb1.online/ditto.php?id=2288
 http://zeestb1.online/dhoom.php?id=9655
 #EXTINF:-1  tvg-name="SKY NATURE HD UK" tvg-id="ext" tvg-logo="" group-title="Documentary",SKY NATURE HD UK
 http://zeestb1.online/ditto.php?id=1891
-#EXTINF:-1  tvg-name="SKY NEWS 4K" tvg-id="ext" tvg-logo="" group-title="News",SKY NEWS 4K
+#EXTINF:-1  tvg-name="SKY NEWS 4K" tvg-id="ext" tvg-logo="" group-title="World",SKY NEWS 4K
 http://zeestb1.online/ditto.php?id=33
-#EXTINF:-1  tvg-name="SKY NEWS 4K" tvg-id="ext" tvg-logo="" group-title="News",SKY NEWS 4K
+#EXTINF:-1  tvg-name="SKY NEWS 4K" tvg-id="ext" tvg-logo="" group-title="World",SKY NEWS 4K
 http://zeestb1.online/dhoom.php?id=7607
 #EXTINF:-1  tvg-name="SKY SPORT" tvg-id="ext" tvg-logo="" group-title="Sports",SKY SPORT
 http://168.232.168.242:4000/play/a04g/index.m3u8
@@ -10857,55 +10857,55 @@ http://zeestb1.online/dhoom.php?id=7725
 http://zeestb1.online/dhoom.php?id=8317
 #EXTINF:-1  tvg-name="SKY_SPORTS_CRICKET_SD" tvg-id="ext" tvg-logo="" group-title="Sports",SKY_SPORTS_CRICKET_SD
 http://zeestb1.online/dhoom.php?id=5992
-#EXTINF:-1  tvg-name="SONIC- Rs 2" tvg-id="ext" tvg-logo="" group-title="News",SONIC- Rs 2
+#EXTINF:-1  tvg-name="SONIC- Rs 2" tvg-id="ext" tvg-logo="" group-title="World",SONIC- Rs 2
 http://14.102.123.50:8200/play/a05z
-#EXTINF:-1  tvg-name="SONIC- Rs 2" tvg-id="ext" tvg-logo="" group-title="News",SONIC- Rs 2
+#EXTINF:-1  tvg-name="SONIC- Rs 2" tvg-id="ext" tvg-logo="" group-title="World",SONIC- Rs 2
 http://103.174.195.4:8000/play/a00s
-#EXTINF:-1  tvg-name="SONIC- Rs 2" tvg-id="ext" tvg-logo="" group-title="News",SONIC- Rs 2
+#EXTINF:-1  tvg-name="SONIC- Rs 2" tvg-id="ext" tvg-logo="" group-title="World",SONIC- Rs 2
 http://103.157.210.165:8000/play/a00v/index.m3u8
-#EXTINF:-1  tvg-name="Sony BBC EarHD-Rs10" tvg-id="ext" tvg-logo="" group-title="News",Sony BBC EarHD-Rs10
+#EXTINF:-1  tvg-name="Sony BBC EarHD-Rs10" tvg-id="ext" tvg-logo="" group-title="World",Sony BBC EarHD-Rs10
 http://103.174.195.4:8000/play/a01i
-#EXTINF:-1  tvg-name="Sony BBC EarHD-Rs10" tvg-id="ext" tvg-logo="" group-title="News",Sony BBC EarHD-Rs10
+#EXTINF:-1  tvg-name="Sony BBC EarHD-Rs10" tvg-id="ext" tvg-logo="" group-title="World",Sony BBC EarHD-Rs10
 http://103.157.210.165:8000/play/a01g/index.m3u8
-#EXTINF:-1  tvg-name="SONY BBC EARTH 4K" tvg-id="ext" tvg-logo="" group-title="News",SONY BBC EARTH 4K
+#EXTINF:-1  tvg-name="SONY BBC EARTH 4K" tvg-id="ext" tvg-logo="" group-title="World",SONY BBC EARTH 4K
 http://zeestb1.online/ditto.php?id=1730
-#EXTINF:-1  tvg-name="SONY TEN 1 4K" tvg-id="ext" tvg-logo="" group-title="News",SONY TEN 1 4K
+#EXTINF:-1  tvg-name="SONY TEN 1 4K" tvg-id="ext" tvg-logo="" group-title="World",SONY TEN 1 4K
 http://zeestb1.online/ditto.php?id=297
-#EXTINF:-1  tvg-name="SONY TEN 1 4K*" tvg-id="ext" tvg-logo="" group-title="News",SONY TEN 1 4K*
+#EXTINF:-1  tvg-name="SONY TEN 1 4K*" tvg-id="ext" tvg-logo="" group-title="World",SONY TEN 1 4K*
 http://zeestb1.online/ditto.php?id=1103
-#EXTINF:-1  tvg-name="Sony Ten 1 HD- Rs 19" tvg-id="ext" tvg-logo="" group-title="News",Sony Ten 1 HD- Rs 19
+#EXTINF:-1  tvg-name="Sony Ten 1 HD- Rs 19" tvg-id="ext" tvg-logo="" group-title="World",Sony Ten 1 HD- Rs 19
 http://103.174.195.4:8000/play/a008
-#EXTINF:-1  tvg-name="Sony Ten 1 HD- Rs 19" tvg-id="ext" tvg-logo="" group-title="News",Sony Ten 1 HD- Rs 19
+#EXTINF:-1  tvg-name="Sony Ten 1 HD- Rs 19" tvg-id="ext" tvg-logo="" group-title="World",Sony Ten 1 HD- Rs 19
 http://103.157.210.165:8000/play/a009/index.m3u8
-#EXTINF:-1  tvg-name="Sony Ten 1 HD-Rs19" tvg-id="ext" tvg-logo="" group-title="News",Sony Ten 1 HD-Rs19
+#EXTINF:-1  tvg-name="Sony Ten 1 HD-Rs19" tvg-id="ext" tvg-logo="" group-title="World",Sony Ten 1 HD-Rs19
 http://14.102.123.50:8200/play/a03p
-#EXTINF:-1  tvg-name="SONY TEN 2 4K" tvg-id="ext" tvg-logo="" group-title="News",SONY TEN 2 4K
+#EXTINF:-1  tvg-name="SONY TEN 2 4K" tvg-id="ext" tvg-logo="" group-title="World",SONY TEN 2 4K
 http://zeestb1.online/ditto.php?id=298
-#EXTINF:-1  tvg-name="SONY TEN 2 4K*" tvg-id="ext" tvg-logo="" group-title="News",SONY TEN 2 4K*
+#EXTINF:-1  tvg-name="SONY TEN 2 4K*" tvg-id="ext" tvg-logo="" group-title="World",SONY TEN 2 4K*
 http://zeestb1.online/ditto.php?id=1104
-#EXTINF:-1  tvg-name="Sony Ten 2 HD- Rs 17" tvg-id="ext" tvg-logo="" group-title="News",Sony Ten 2 HD- Rs 17
+#EXTINF:-1  tvg-name="Sony Ten 2 HD- Rs 17" tvg-id="ext" tvg-logo="" group-title="World",Sony Ten 2 HD- Rs 17
 http://103.174.195.4:8000/play/a01l
-#EXTINF:-1  tvg-name="Sony Ten 2 HD- Rs 17" tvg-id="ext" tvg-logo="" group-title="News",Sony Ten 2 HD- Rs 17
+#EXTINF:-1  tvg-name="Sony Ten 2 HD- Rs 17" tvg-id="ext" tvg-logo="" group-title="World",Sony Ten 2 HD- Rs 17
 http://103.157.210.165:8000/play/a01l/index.m3u8
-#EXTINF:-1  tvg-name="Sony Ten 2 HD-Rs19" tvg-id="ext" tvg-logo="" group-title="News",Sony Ten 2 HD-Rs19
+#EXTINF:-1  tvg-name="Sony Ten 2 HD-Rs19" tvg-id="ext" tvg-logo="" group-title="World",Sony Ten 2 HD-Rs19
 http://14.102.123.50:8200/play/a05g
-#EXTINF:-1  tvg-name="SONY TEN 3 4K" tvg-id="ext" tvg-logo="" group-title="News",SONY TEN 3 4K
+#EXTINF:-1  tvg-name="SONY TEN 3 4K" tvg-id="ext" tvg-logo="" group-title="World",SONY TEN 3 4K
 http://zeestb1.online/ditto.php?id=299
-#EXTINF:-1  tvg-name="SONY TEN 3 4K*" tvg-id="ext" tvg-logo="" group-title="News",SONY TEN 3 4K*
+#EXTINF:-1  tvg-name="SONY TEN 3 4K*" tvg-id="ext" tvg-logo="" group-title="World",SONY TEN 3 4K*
 http://zeestb1.online/ditto.php?id=1105
-#EXTINF:-1  tvg-name="Sony Ten 3 HD- Rs 17" tvg-id="ext" tvg-logo="" group-title="News",Sony Ten 3 HD- Rs 17
+#EXTINF:-1  tvg-name="Sony Ten 3 HD- Rs 17" tvg-id="ext" tvg-logo="" group-title="World",Sony Ten 3 HD- Rs 17
 http://103.174.195.4:8000/play/a00d
-#EXTINF:-1  tvg-name="Sony Ten 3 HD- Rs 17" tvg-id="ext" tvg-logo="" group-title="News",Sony Ten 3 HD- Rs 17
+#EXTINF:-1  tvg-name="Sony Ten 3 HD- Rs 17" tvg-id="ext" tvg-logo="" group-title="World",Sony Ten 3 HD- Rs 17
 http://103.157.210.165:8000/play/a00e/index.m3u8
-#EXTINF:-1  tvg-name="Sony Ten 3 HD-Rs19" tvg-id="ext" tvg-logo="" group-title="News",Sony Ten 3 HD-Rs19
+#EXTINF:-1  tvg-name="Sony Ten 3 HD-Rs19" tvg-id="ext" tvg-logo="" group-title="World",Sony Ten 3 HD-Rs19
 http://14.102.123.50:8200/play/a046
-#EXTINF:-1  tvg-name="Sony Ten 4-Rs 17" tvg-id="ext" tvg-logo="" group-title="News",Sony Ten 4-Rs 17
+#EXTINF:-1  tvg-name="Sony Ten 4-Rs 17" tvg-id="ext" tvg-logo="" group-title="World",Sony Ten 4-Rs 17
 http://14.102.123.50:8200/play/a0tg
-#EXTINF:-1  tvg-name="Sony Ten 5 HD-Rs19" tvg-id="ext" tvg-logo="" group-title="News",Sony Ten 5 HD-Rs19
+#EXTINF:-1  tvg-name="Sony Ten 5 HD-Rs19" tvg-id="ext" tvg-logo="" group-title="World",Sony Ten 5 HD-Rs19
 http://14.102.123.50:8200/play/a040
-#EXTINF:-1  tvg-name="SONY TEN 5_4K" tvg-id="ext" tvg-logo="" group-title="News",SONY TEN 5_4K
+#EXTINF:-1  tvg-name="SONY TEN 5_4K" tvg-id="ext" tvg-logo="" group-title="World",SONY TEN 5_4K
 http://zeestb1.online/dhoom.php?id=113
-#EXTINF:-1  tvg-name="SonyBBCearthHD-Rs19" tvg-id="ext" tvg-logo="" group-title="News",SonyBBCearthHD-Rs19
+#EXTINF:-1  tvg-name="SonyBBCearthHD-Rs19" tvg-id="ext" tvg-logo="" group-title="World",SonyBBCearthHD-Rs19
 http://14.102.123.50:8200/play/a05b
 #EXTINF:-1  tvg-name="SPACE" tvg-id="ext" tvg-logo="" group-title="Documentary",SPACE
 http://200.24.138.131:8000/play/a014/index.m3u8
@@ -11319,25 +11319,25 @@ http://209.45.101.38:8889/play/a0au
 http://190.94.186.158:9981/play/a038/index.m3u8
 #EXTINF:-1  tvg-name="TyC Sports HD" tvg-id="ext" tvg-logo="" group-title="Sports",TyC Sports HD
 http://190.102.139.243:8999/play/a0op/index.m3u8
-#EXTINF:-1  tvg-name="UK _ Challenge_FHD" tvg-id="ext" tvg-logo="" group-title="News",UK _ Challenge_FHD
+#EXTINF:-1  tvg-name="UK _ Challenge_FHD" tvg-id="ext" tvg-logo="" group-title="World",UK _ Challenge_FHD
 http://zeestb1.online/dhoom.php?id=7453
-#EXTINF:-1  tvg-name="UK _QUEST_ FHD" tvg-id="ext" tvg-logo="" group-title="News",UK _QUEST_ FHD
+#EXTINF:-1  tvg-name="UK _QUEST_ FHD" tvg-id="ext" tvg-logo="" group-title="World",UK _QUEST_ FHD
 http://zeestb1.online/dhoom.php?id=9860
-#EXTINF:-1  tvg-name="UK Sky Cinema Family 4K" tvg-id="ext" tvg-logo="" group-title="News",UK Sky Cinema Family 4K
+#EXTINF:-1  tvg-name="UK Sky Cinema Family 4K" tvg-id="ext" tvg-logo="" group-title="World",UK Sky Cinema Family 4K
 http://zeestb1.online/dhoom.php?id=6323
-#EXTINF:-1  tvg-name="UK Sky Cinema Family FHD" tvg-id="ext" tvg-logo="" group-title="News",UK Sky Cinema Family FHD
+#EXTINF:-1  tvg-name="UK Sky Cinema Family FHD" tvg-id="ext" tvg-logo="" group-title="World",UK Sky Cinema Family FHD
 http://zeestb1.online/dhoom.php?id=6324
-#EXTINF:-1  tvg-name="US CNN 4K" tvg-id="ext" tvg-logo="" group-title="News",US CNN 4K
+#EXTINF:-1  tvg-name="US CNN 4K" tvg-id="ext" tvg-logo="" group-title="World",US CNN 4K
 http://zeestb1.online/dhoom.php?id=8686
-#EXTINF:-1  tvg-name="US CNN FHD" tvg-id="ext" tvg-logo="" group-title="News",US CNN FHD
+#EXTINF:-1  tvg-name="US CNN FHD" tvg-id="ext" tvg-logo="" group-title="World",US CNN FHD
 http://zeestb1.online/dhoom.php?id=8563
-#EXTINF:-1  tvg-name="US CNN UHD" tvg-id="ext" tvg-logo="" group-title="News",US CNN UHD
+#EXTINF:-1  tvg-name="US CNN UHD" tvg-id="ext" tvg-logo="" group-title="World",US CNN UHD
 http://zeestb1.online/dhoom.php?id=6295
-#EXTINF:-1  tvg-name="US: Big Ten Network  FHD" tvg-id="ext" tvg-logo="" group-title="News",US: Big Ten Network  FHD
+#EXTINF:-1  tvg-name="US: Big Ten Network  FHD" tvg-id="ext" tvg-logo="" group-title="World",US: Big Ten Network  FHD
 http://zeestb1.online/dhoom.php?id=10753
-#EXTINF:-1  tvg-name="US: Big Ten Network FHD" tvg-id="ext" tvg-logo="" group-title="News",US: Big Ten Network FHD
+#EXTINF:-1  tvg-name="US: Big Ten Network FHD" tvg-id="ext" tvg-logo="" group-title="World",US: Big Ten Network FHD
 http://zeestb1.online/dhoom.php?id=10754
-#EXTINF:-1  tvg-name="US: C-SPAN FHD" tvg-id="ext" tvg-logo="" group-title="News",US: C-SPAN FHD
+#EXTINF:-1  tvg-name="US: C-SPAN FHD" tvg-id="ext" tvg-logo="" group-title="World",US: C-SPAN FHD
 http://zeestb1.online/dhoom.php?id=10971
 #EXTINF:-1  tvg-name="US: Fox Sports 2 FHD" tvg-id="ext" tvg-logo="" group-title="Sports",US: Fox Sports 2 FHD
 http://zeestb1.online/dhoom.php?id=11023
@@ -11361,37 +11361,37 @@ http://zeestb1.online/dhoom.php?id=774
 http://zeestb1.online/dhoom.php?id=11021
 #EXTINF:-1  tvg-name="US:Tennis Channel FHD" tvg-id="ext" tvg-logo="" group-title="Sports",US:Tennis Channel FHD
 http://zeestb1.online/dhoom.php?id=6751
-#EXTINF:-1  tvg-name="US_  CBS New York HD" tvg-id="ext" tvg-logo="" group-title="News",US_  CBS New York HD
+#EXTINF:-1  tvg-name="US_  CBS New York HD" tvg-id="ext" tvg-logo="" group-title="World",US_  CBS New York HD
 http://zeestb1.online/dhoom.php?id=6294
-#EXTINF:-1  tvg-name="US_  Starz Cinema East_ FHD" tvg-id="ext" tvg-logo="" group-title="News",US_  Starz Cinema East_ FHD
+#EXTINF:-1  tvg-name="US_  Starz Cinema East_ FHD" tvg-id="ext" tvg-logo="" group-title="World",US_  Starz Cinema East_ FHD
 http://zeestb1.online/dhoom.php?id=9043
-#EXTINF:-1  tvg-name="US_ ABC FAMILY/SPARK_FHD" tvg-id="ext" tvg-logo="" group-title="News",US_ ABC FAMILY/SPARK_FHD
+#EXTINF:-1  tvg-name="US_ ABC FAMILY/SPARK_FHD" tvg-id="ext" tvg-logo="" group-title="World",US_ ABC FAMILY/SPARK_FHD
 http://zeestb1.online/dhoom.php?id=8975
-#EXTINF:-1  tvg-name="US_ CNBC_FHD" tvg-id="ext" tvg-logo="" group-title="News",US_ CNBC_FHD
+#EXTINF:-1  tvg-name="US_ CNBC_FHD" tvg-id="ext" tvg-logo="" group-title="World",US_ CNBC_FHD
 http://zeestb1.online/dhoom.php?id=5939
-#EXTINF:-1  tvg-name="US_ CNBC_HD" tvg-id="ext" tvg-logo="" group-title="News",US_ CNBC_HD
+#EXTINF:-1  tvg-name="US_ CNBC_HD" tvg-id="ext" tvg-logo="" group-title="World",US_ CNBC_HD
 http://zeestb1.online/dhoom.php?id=4643
-#EXTINF:-1  tvg-name="US_ EPIX _FHD" tvg-id="ext" tvg-logo="" group-title="News",US_ EPIX _FHD
+#EXTINF:-1  tvg-name="US_ EPIX _FHD" tvg-id="ext" tvg-logo="" group-title="World",US_ EPIX _FHD
 http://zeestb1.online/dhoom.php?id=9052
-#EXTINF:-1  tvg-name="US_ EPIX_HD" tvg-id="ext" tvg-logo="" group-title="News",US_ EPIX_HD
+#EXTINF:-1  tvg-name="US_ EPIX_HD" tvg-id="ext" tvg-logo="" group-title="World",US_ EPIX_HD
 http://zeestb1.online/dhoom.php?id=9053
 #EXTINF:-1  tvg-name="US_ ESPN 2 FHD" tvg-id="ext" tvg-logo="" group-title="Sports",US_ ESPN 2 FHD
 http://zeestb1.online/dhoom.php?id=10751
-#EXTINF:-1  tvg-name="US_ FOX NEWS _FHD" tvg-id="ext" tvg-logo="" group-title="News",US_ FOX NEWS _FHD
+#EXTINF:-1  tvg-name="US_ FOX NEWS _FHD" tvg-id="ext" tvg-logo="" group-title="World",US_ FOX NEWS _FHD
 http://zeestb1.online/dhoom.php?id=5940
 #EXTINF:-1  tvg-name="US_ NICK JR_HD" tvg-id="ext" tvg-logo="" group-title="Kids",US_ NICK JR_HD
 http://zeestb1.online/dhoom.php?id=8981
 #EXTINF:-1  tvg-name="US_ TEEN NICK_HD" tvg-id="ext" tvg-logo="" group-title="Kids",US_ TEEN NICK_HD
 http://zeestb1.online/dhoom.php?id=8983
-#EXTINF:-1  tvg-name="US__FOX Business Network FHD" tvg-id="ext" tvg-logo="" group-title="News",US__FOX Business Network FHD
+#EXTINF:-1  tvg-name="US__FOX Business Network FHD" tvg-id="ext" tvg-logo="" group-title="World",US__FOX Business Network FHD
 http://zeestb1.online/dhoom.php?id=667
-#EXTINF:-1  tvg-name="US_ABC NEWS _ HD" tvg-id="ext" tvg-logo="" group-title="News",US_ABC NEWS _ HD
+#EXTINF:-1  tvg-name="US_ABC NEWS _ HD" tvg-id="ext" tvg-logo="" group-title="World",US_ABC NEWS _ HD
 http://zeestb1.online/dhoom.php?id=6219
-#EXTINF:-1  tvg-name="US_ABC NEWS _FHD" tvg-id="ext" tvg-logo="" group-title="News",US_ABC NEWS _FHD
+#EXTINF:-1  tvg-name="US_ABC NEWS _FHD" tvg-id="ext" tvg-logo="" group-title="World",US_ABC NEWS _FHD
 http://zeestb1.online/dhoom.php?id=10829
-#EXTINF:-1  tvg-name="US_AMC_FHD*" tvg-id="ext" tvg-logo="" group-title="News",US_AMC_FHD*
+#EXTINF:-1  tvg-name="US_AMC_FHD*" tvg-id="ext" tvg-logo="" group-title="World",US_AMC_FHD*
 http://zeestb1.online/dhoom.php?id=10915
-#EXTINF:-1  tvg-name="US_AMC_HD*" tvg-id="ext" tvg-logo="" group-title="News",US_AMC_HD*
+#EXTINF:-1  tvg-name="US_AMC_HD*" tvg-id="ext" tvg-logo="" group-title="World",US_AMC_HD*
 http://zeestb1.online/dhoom.php?id=10916
 #EXTINF:-1  tvg-name="US_BEIN SPORTS LA LIGA ENG HD" tvg-id="ext" tvg-logo="" group-title="Sports",US_BEIN SPORTS LA LIGA ENG HD
 http://zeestb1.online/dhoom.php?id=6736
@@ -11439,15 +11439,15 @@ http://zeestb1.online/dhoom.php?id=768
 http://zeestb1.online/dhoom.php?id=6415
 #EXTINF:-1  tvg-name="US_FOOD NETWORK _FHD" tvg-id="ext" tvg-logo="" group-title="Food",US_FOOD NETWORK _FHD
 http://zeestb1.online/dhoom.php?id=6385
-#EXTINF:-1  tvg-name="US_FOX NEWS _HD" tvg-id="ext" tvg-logo="" group-title="News",US_FOX NEWS _HD
+#EXTINF:-1  tvg-name="US_FOX NEWS _HD" tvg-id="ext" tvg-logo="" group-title="World",US_FOX NEWS _HD
 http://zeestb1.online/dhoom.php?id=6239
 #EXTINF:-1  tvg-name="US_FOX SPORTS NEW ORLEANS_HD" tvg-id="ext" tvg-logo="" group-title="Sports",US_FOX SPORTS NEW ORLEANS_HD
 http://zeestb1.online/dhoom.php?id=5806
 #EXTINF:-1  tvg-name="US_GAME SHOW NETWORK_ HD" tvg-id="ext" tvg-logo="" group-title="Sports",US_GAME SHOW NETWORK_ HD
 http://zeestb1.online/dhoom.php?id=9664
-#EXTINF:-1  tvg-name="US_HBO Family _FHD" tvg-id="ext" tvg-logo="" group-title="News",US_HBO Family _FHD
+#EXTINF:-1  tvg-name="US_HBO Family _FHD" tvg-id="ext" tvg-logo="" group-title="World",US_HBO Family _FHD
 http://zeestb1.online/dhoom.php?id=10148
-#EXTINF:-1  tvg-name="US_HBO Family_ HD" tvg-id="ext" tvg-logo="" group-title="News",US_HBO Family_ HD
+#EXTINF:-1  tvg-name="US_HBO Family_ HD" tvg-id="ext" tvg-logo="" group-title="World",US_HBO Family_ HD
 http://zeestb1.online/dhoom.php?id=10149
 #EXTINF:-1  tvg-name="US_HISTORY_FHD" tvg-id="ext" tvg-logo="" group-title="Documentary",US_HISTORY_FHD
 http://zeestb1.online/dhoom.php?id=6369
@@ -11457,9 +11457,9 @@ http://zeestb1.online/dhoom.php?id=8986
 http://zeestb1.online/dhoom.php?id=6398
 #EXTINF:-1  tvg-name="US_INVESTIGATION DISCOVERY_HD" tvg-id="ext" tvg-logo="" group-title="Documentary",US_INVESTIGATION DISCOVERY_HD
 http://zeestb1.online/dhoom.php?id=10908
-#EXTINF:-1  tvg-name="US_MSNBC FHD" tvg-id="ext" tvg-logo="" group-title="News",US_MSNBC FHD
+#EXTINF:-1  tvg-name="US_MSNBC FHD" tvg-id="ext" tvg-logo="" group-title="World",US_MSNBC FHD
 http://zeestb1.online/dhoom.php?id=6336
-#EXTINF:-1  tvg-name="US_MSNBC HD" tvg-id="ext" tvg-logo="" group-title="News",US_MSNBC HD
+#EXTINF:-1  tvg-name="US_MSNBC HD" tvg-id="ext" tvg-logo="" group-title="World",US_MSNBC HD
 http://zeestb1.online/dhoom.php?id=6418
 #EXTINF:-1  tvg-name="US_NASA TV_HD" tvg-id="ext" tvg-logo="" group-title="Documentary",US_NASA TV_HD
 http://zeestb1.online/dhoom.php?id=9261
@@ -11471,15 +11471,15 @@ http://zeestb1.online/dhoom.php?id=10135
 http://zeestb1.online/dhoom.php?id=10906
 #EXTINF:-1  tvg-name="US_NATIONAL GEOGRAPHIC_HD" tvg-id="ext" tvg-logo="" group-title="Documentary",US_NATIONAL GEOGRAPHIC_HD
 http://zeestb1.online/dhoom.php?id=10907
-#EXTINF:-1  tvg-name="US_NBC_FHD" tvg-id="ext" tvg-logo="" group-title="News",US_NBC_FHD
+#EXTINF:-1  tvg-name="US_NBC_FHD" tvg-id="ext" tvg-logo="" group-title="World",US_NBC_FHD
 http://zeestb1.online/dhoom.php?id=6338
-#EXTINF:-1  tvg-name="US_NBC_HD" tvg-id="ext" tvg-logo="" group-title="News",US_NBC_HD
+#EXTINF:-1  tvg-name="US_NBC_HD" tvg-id="ext" tvg-logo="" group-title="World",US_NBC_HD
 http://zeestb1.online/dhoom.php?id=6339
-#EXTINF:-1  tvg-name="US_NBCSN _HD" tvg-id="ext" tvg-logo="" group-title="News",US_NBCSN _HD
+#EXTINF:-1  tvg-name="US_NBCSN _HD" tvg-id="ext" tvg-logo="" group-title="World",US_NBCSN _HD
 http://zeestb1.online/dhoom.php?id=6334
-#EXTINF:-1  tvg-name="US_NBCSN FHD" tvg-id="ext" tvg-logo="" group-title="News",US_NBCSN FHD
+#EXTINF:-1  tvg-name="US_NBCSN FHD" tvg-id="ext" tvg-logo="" group-title="World",US_NBCSN FHD
 http://zeestb1.online/dhoom.php?id=6335
-#EXTINF:-1  tvg-name="US_Newsmax HD" tvg-id="ext" tvg-logo="" group-title="News",US_Newsmax HD
+#EXTINF:-1  tvg-name="US_Newsmax HD" tvg-id="ext" tvg-logo="" group-title="World",US_Newsmax HD
 http://zeestb1.online/dhoom.php?id=5923
 #EXTINF:-1  tvg-name="US_NFL NETWORK _FHD" tvg-id="ext" tvg-logo="" group-title="Sports",US_NFL NETWORK _FHD
 http://zeestb1.online/dhoom.php?id=9845
@@ -11585,21 +11585,21 @@ http://168.232.168.242:4000/play/a03b/index.m3u8
 http://77.247.109.70:14835
 #EXTINF:-1  tvg-name="ZooPark" tvg-id="ext" tvg-logo="" group-title="Kids",ZooPark
 http://188.113.190.15/46/video.m3u8
-#EXTINF:-1  tvg-name="(شرارة): الطليعة" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): الطليعة
+#EXTINF:-1  tvg-name="الطليعة" tvg-id="ext" tvg-logo="" group-title="Iraq",الطليعة
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114442.ts
-#EXTINF:-1  tvg-name="(شرارة): الموقف" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): الموقف
+#EXTINF:-1  tvg-name="الموقف" tvg-id="ext" tvg-logo="" group-title="Iraq",الموقف
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114447.ts
-#EXTINF:-1  tvg-name="(شرارة): البصرة 365" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): البصرة 365
+#EXTINF:-1  tvg-name="البصرة 365" tvg-id="ext" tvg-logo="" group-title="Iraq",البصرة 365
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114449.ts
-#EXTINF:-1  tvg-name="(شرارة): المسلة" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): المسلة
+#EXTINF:-1  tvg-name="المسلة" tvg-id="ext" tvg-logo="" group-title="Iraq",المسلة
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114450.ts
-#EXTINF:-1  tvg-name="(شرارة): صوت عليترا" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): صوت عليترا
+#EXTINF:-1  tvg-name="صوت عليترا" tvg-id="ext" tvg-logo="" group-title="Iraq",صوت عليترا
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114453.ts
-#EXTINF:-1  tvg-name="(شرارة): الفرات" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): الفرات
+#EXTINF:-1  tvg-name="الفرات" tvg-id="ext" tvg-logo="" group-title="Iraq",الفرات
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114454.ts
-#EXTINF:-1  tvg-name="(شرارة): فرسان العراق" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): فرسان العراق
+#EXTINF:-1  tvg-name="فرسان العراق" tvg-id="ext" tvg-logo="" group-title="Iraq",فرسان العراق
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114470.ts
-#EXTINF:-1  tvg-name="(شرارة): البغدادية" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): البغدادية
+#EXTINF:-1  tvg-name="البغدادية" tvg-id="ext" tvg-logo="" group-title="Iraq",البغدادية
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114472.ts
 #EXTINF:-1  tvg-name="|OSN| ART AFLAM 1" tvg-id="ext" tvg-logo="" group-title="OSN",|OSN| ART AFLAM 1
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/100700.ts
@@ -11807,45 +11807,45 @@ http://fennec.tcode.cc:8080/live/671193600966/378417029480/92617.ts
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/92618.ts
 #EXTINF:-1  tvg-name="بي ان سبورت 7ᵁᴴᴰ" tvg-id="ext" tvg-logo="" group-title="Sports",بي ان سبورت 7ᵁᴴᴰ
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/92619.ts
-#EXTINF:-1  tvg-name="(شرارة): دجلة" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): دجلة
+#EXTINF:-1  tvg-name="دجلة" tvg-id="ext" tvg-logo="" group-title="Iraq",دجلة
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114436.ts
-#EXTINF:-1  tvg-name="(شرارة): الشرقية" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): الشرقية
+#EXTINF:-1  tvg-name="الشرقية" tvg-id="ext" tvg-logo="" group-title="Iraq",الشرقية
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114438.ts
-#EXTINF:-1  tvg-name="(شرارة): قناة الرشيد" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): قناة الرشيد
+#EXTINF:-1  tvg-name="قناة الرشيد" tvg-id="ext" tvg-logo="" group-title="Iraq",قناة الرشيد
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114439.ts
-#EXTINF:-1  tvg-name="(شرارة): العراق 24" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): العراق 24
+#EXTINF:-1  tvg-name="العراق 24" tvg-id="ext" tvg-logo="" group-title="Iraq",العراق 24
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114440.ts
-#EXTINF:-1  tvg-name="(شرارة): السومرية" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): السومرية
+#EXTINF:-1  tvg-name="السومرية" tvg-id="ext" tvg-logo="" group-title="Iraq",السومرية
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114441.ts
-#EXTINF:-1  tvg-name="(شرارة): العراق ايدو كيدز" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): العراق ايدو كيدز
+#EXTINF:-1  tvg-name="العراق ايدو كيدز" tvg-id="ext" tvg-logo="" group-title="Iraq",العراق ايدو كيدز
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114444.ts
-#EXTINF:-1  tvg-name="(شرارة): يو تي في العراق HD" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): يو تي في العراق HD
+#EXTINF:-1  tvg-name="يو تي في العراق HD" tvg-id="ext" tvg-logo="" group-title="Iraq",يو تي في العراق HD
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114445.ts
-#EXTINF:-1  tvg-name="(شرارة): الشرقية" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): الشرقية
+#EXTINF:-1  tvg-name="الشرقية" tvg-id="ext" tvg-logo="" group-title="Iraq",الشرقية
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114455.ts
-#EXTINF:-1  tvg-name="(شرارة): الموصلية" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): الموصلية
+#EXTINF:-1  tvg-name="الموصلية" tvg-id="ext" tvg-logo="" group-title="Iraq",الموصلية
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114456.ts
-#EXTINF:-1  tvg-name="(شرارة): الشرقية_2819" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): الشرقية_2819
+#EXTINF:-1  tvg-name="الشرقية_2819" tvg-id="ext" tvg-logo="" group-title="Iraq",الشرقية_2819
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114458.ts
-#EXTINF:-1  tvg-name="(شرارة): هنا بغداد" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): هنا بغداد
+#EXTINF:-1  tvg-name="هنا بغداد" tvg-id="ext" tvg-logo="" group-title="Iraq",هنا بغداد
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114459.ts
-#EXTINF:-1  tvg-name="(شرارة): العراق الآن" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): العراق الآن
+#EXTINF:-1  tvg-name="العراق الآن" tvg-id="ext" tvg-logo="" group-title="Iraq",العراق الآن
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114460.ts
-#EXTINF:-1  tvg-name="(شرارة): تلفزيون دجلة" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): تلفزيون دجلة
+#EXTINF:-1  tvg-name="تلفزيون دجلة" tvg-id="ext" tvg-logo="" group-title="Iraq",تلفزيون دجلة
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114461.ts
-#EXTINF:-1  tvg-name="(شرارة): الأنبار" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): الأنبار
+#EXTINF:-1  tvg-name="الأنبار" tvg-id="ext" tvg-logo="" group-title="Iraq",الأنبار
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114462.ts
-#EXTINF:-1  tvg-name="(شرارة): الاولى العراق" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): الاولى العراق
+#EXTINF:-1  tvg-name="الاولى العراق" tvg-id="ext" tvg-logo="" group-title="Iraq",الاولى العراق
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114465.ts
-#EXTINF:-1  tvg-name="(شرارة): 1 تلفزيون العراق" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): 1 تلفزيون العراق
+#EXTINF:-1  tvg-name="1 تلفزيون العراق" tvg-id="ext" tvg-logo="" group-title="Iraq",1 تلفزيون العراق
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114466.ts
-#EXTINF:-1  tvg-name="(شرارة): الفرات HD" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): الفرات HD
+#EXTINF:-1  tvg-name="الفرات HD" tvg-id="ext" tvg-logo="" group-title="Iraq",الفرات HD
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114473.ts
-#EXTINF:-1  tvg-name="(شرارة): مستقبل العراق" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): مستقبل العراق
+#EXTINF:-1  tvg-name="مستقبل العراق" tvg-id="ext" tvg-logo="" group-title="Iraq",مستقبل العراق
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114475.ts
-#EXTINF:-1  tvg-name="(شرارة): يو تي في العراق" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): يو تي في العراق
+#EXTINF:-1  tvg-name="يو تي في العراق" tvg-id="ext" tvg-logo="" group-title="Iraq",يو تي في العراق
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114476.ts
-#EXTINF:-1  tvg-name="(شرارة): الرافدين" tvg-id="ext" tvg-logo="" group-title="Iraq",(شرارة): الرافدين HD
+#EXTINF:-1  tvg-name="الرافدين" tvg-id="ext" tvg-logo="" group-title="Iraq",الرافدين HD
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114484.ts
 #EXTINF:-1  tvg-name="ام بي سي 1" tvg-id="ext" tvg-logo="" group-title="MBC",ام بي سي 1
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/75.ts
