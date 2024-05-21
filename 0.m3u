@@ -253,6 +253,42 @@ http://fennec.tcode.cc:8080/live/671193600966/378417029480/114478.ts
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=1297842
 #EXTINF:-1  tvg-name="Al Hujja TV" tvg-id="ext" tvg-logo="https://fomny-tv.com/Video-5/Iraq/Alhujja-Tv/logo.gif" group-title="23-AL Hujja",Al Hujja TV
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=1297842&extension=ts
+#EXTINF:-1  tvg-name="Ch4teen 1" tvg-id="ext" tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="Ch4teen", Ch4teen 1
+http://ch14.tv/live/ch4teen1/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen 2" tvg-id="ext" tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="Ch4teen", Ch4teen 2
+http://ch14.tv/live/ch4teen2/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen 3" tvg-id="ext" tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="Ch4teen", Ch4teen 3
+http://ch14.tv/live/ch4teen3/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen 4" tvg-id="ext" tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="Ch4teen", Ch4teen 4
+http://ch14.tv/live/ch4teen4/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen 5" tvg-id="ext" tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="Ch4teen", Ch4teen 5
+http://ch14.tv/live/ch4teen5/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Clip" tvg-id="ext" tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="Ch4teen", Ch4teen Clip
+http://ch14.tv/live/ch4teenclip/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Documentary" tvg-id="ext" tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="Ch4teen", Ch4teen Documentary
+http://ch14.tv/live/ch4teendoc/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Kids" tvg-id="ext" tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="Ch4teen", Ch4teen Kids
+http://ch14.tv/live/ch4teenkids/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Quran" tvg-id="ext" tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="Ch4teen", Ch4teen Quran
+http://ch14.tv/live/ch4teenquran/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen 1" tvg-id="ext" tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="Ch4teen", Ch4teen 1 HD
+http://ch14.tv:80/live/ch4teen1/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen 2" tvg-id="ext" tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="Ch4teen", Ch4teen 2 HD
+http://ch14.tv:80/live/ch4teen2/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen 3" tvg-id="ext" tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="Ch4teen", Ch4teen 3 HD
+http://ch14.tv:80/live/ch4teen3/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen 4" tvg-id="ext" tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="Ch4teen", Ch4teen 4 HD
+http://ch14.tv:80/live/ch4teen4/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen 5" tvg-id="ext" tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="Ch4teen", Ch4teen 5 HD
+http://ch14.tv:80/live/ch4teen5/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Clip" tvg-id="ext" tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="Ch4teen", Ch4teen Clip HD
+http://ch14.tv:80/live/ch4teenclip/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Documentary" tvg-id="ext" tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="Ch4teen", Ch4teen Documentary HD
+http://ch14.tv:80/live/ch4teendoc/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Kids" tvg-id="ext" tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="Ch4teen", Ch4teen Kids HD
+http://ch14.tv:80/live/ch4teenkids/playlist.m3u8
+#EXTINF:-1  tvg-name="Ch4teen Quran" tvg-id="ext" tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="Ch4teen", Ch4teen Quran HD
+http://ch14.tv:80/live/ch4teenquran/playlist.m3u8
 #EXTINF:-1  tvg-name="Masjid Al Mosawi" tvg-id="ext" tvg-logo="https://yt3.googleusercontent.com/M51zK2by7TBhDuPAwmUtAMwHMCRAfGwt_SVg2dK1WhqOwIbIll7nmcgSWEjndSSyRVJb64EtkA=s160-c-k-c0x00ffffff-no-rj" group-title="23-Masjid Al Mosawi",Masjid Al Mosawi
 https://cdn3.wowza.com/5/aEtqbDdJeWFiL1lG/live2/myStream/chunklist.m3u8
 #EXTINF:-1  tvg-name="AL MAHDI TV" tvg-id="ext" tvg-logo="http://logo.protv.cc/picons/logos/AL-MAHDI.jpg" group-title="24-AL Mahdi",AL MAHDI TV
