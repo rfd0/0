@@ -12387,120 +12387,28 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 https://c.mjh.nz/abc-nsw.m3u8
 #EXTINF:-1  tvg-name="ABC (WPLG-DT1) Miami FL (720p)" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="68-World",ABC (WPLG-DT1) Miami FL (720p)
 https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
-#EXTINF:-1  tvg-name="Наша Сибирь 4K UHD" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Наша Сибирь 4K UHD
-http://a787201993-zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw20000000/variant.m3u8?version=2
-#EXTINF:-1  tvg-name="Наша Сибирь 4K UHD" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Наша Сибирь 4K UHD
-http://a787201993-zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw20000000/variant.m3u8?version=2
-#EXTINF:-1  tvg-name="TRAVEL XP 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",TRAVEL XP 4K
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1  tvg-name="TRAVEL XP 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",TRAVEL XP 4K
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1  tvg-name="Stream CITY 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Stream CITY 4K
-http://iptv.prosto.tv:7000/ch321/video.m3u8?secret=191yc7ul
-#EXTINF:-1  tvg-name="Stream CITY 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Stream CITY 4K
-http://iptv.prosto.tv:7000/ch321/video.m3u8?secret=191yc7ul
-#EXTINF:-1  tvg-name="RELAXON" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",RELAXON
-http://iptv.prosto.tv:7000/ch317/video.m3u8
-#EXTINF:-1  tvg-name="Relax" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Relax
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8?cur=tva.org.ua&key=3i277
-#EXTINF:-1  tvg-name="Quietude 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Quietude 4K
-https://dai.google.com/linear/hls/event/znOljgluSSeoYrXfiYc2VA/master.m3u8
-#EXTINF:-1  tvg-name="Quietude 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Quietude 4K
-https://dai.google.com/linear/hls/event/znOljgluSSeoYrXfiYc2VA/master.m3u8
-#EXTINF:-1  tvg-name="NEWS 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",NEWS 4K
-http://iptv.prosto.tv:7000/ch312/video.m3u8?secret=191yc7ul
-#EXTINF:-1  tvg-name="NEWS 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",NEWS 4K
-http://iptv.prosto.tv:7000/ch312/video.m3u8?secret=191yc7ul
-#EXTINF:-1  tvg-name="Loupe 4K (2160p)" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Loupe 4K (2160p)
-http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1  tvg-name="Loupe 4K (2160p)" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Loupe 4K (2160p)
-http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1  tvg-name="Loupe 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Loupe 4K
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1  tvg-name="Loupe 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Loupe 4K
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1  tvg-name="Local Now ZEN TV" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Local Now ZEN TV
-https://ln-zen.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fd8fd0625dd2a6b74008872_ln-zen/playlist.m3u8
 #EXTINF:-1  tvg-name="Island Escape" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Island Escape
 https://dai.google.com/linear/hls/event/IpUm6gZ6Tz-pEotpMRsZ4w/master.m3u8
-#EXTINF:-1  tvg-name="HotBird 4K1" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",HotBird 4K1
-http://45.65.112.49:8000/play/a0ic
-#EXTINF:-1  tvg-name="HotBird 4K1" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",HotBird 4K1
-http://45.65.112.49:8000/play/a0ic
-#EXTINF:-1  tvg-name="Clarity4K Фантастика" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Фантастика
-http://87.99.87.203:2007/channel/15197eb5/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K Фантастика" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Фантастика
-http://87.99.87.203:2007/channel/15197eb5/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K Ужасы VHS" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Ужасы VHS
-http://87.99.87.203:2007/channel/5b642ba1/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K Ужасы VHS" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Ужасы VHS
-http://87.99.87.203:2007/channel/5b642ba1/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K Ужасы" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Ужасы
-http://87.99.87.203:2007/channel/nca6bc20/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K Ужасы" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Ужасы
-http://87.99.87.203:2007/channel/nca6bc20/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K Путешествие" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Путешествие
-http://87.99.87.203:2007/channel/470ae523/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K Путешествие" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Путешествие
-http://87.99.87.203:2007/channel/470ae523/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K Мюзикл" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Мюзикл
-http://87.99.87.203:2007/channel/6d328edb/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K Мюзикл" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Мюзикл
-http://87.99.87.203:2007/channel/6d328edb/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K Космомир" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Космомир
-http://87.99.87.203:2007/channel/n22109934/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K Космомир" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Космомир
-http://87.99.87.203:2007/channel/n22109934/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K Комедия СССР 2" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Комедия СССР 2
-http://87.99.87.203:2007/channel/n5b8f1b16/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K Комедия СССР 2" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Комедия СССР 2
-http://87.99.87.203:2007/channel/n5b8f1b16/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K Комедия СССР 1" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Комедия СССР 1
-http://87.99.87.203:2007/channel/n5b8f1b17/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K Комедия СССР 1" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Комедия СССР 1
-http://87.99.87.203:2007/channel/n5b8f1b17/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K Города" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Города
-http://87.99.87.203:2007/channel/5cf9a64c/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K Города" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Города
-http://87.99.87.203:2007/channel/5cf9a64c/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K АвтоМастер" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K АвтоМастер
-http://87.99.87.203:2007/channel/38a1ae45/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K АвтоМастер" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K АвтоМастер
-http://87.99.87.203:2007/channel/38a1ae45/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K World Music" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K World Music
-http://87.99.87.203:2007/channel/n5b8ca610/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K World Music" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K World Music
-http://87.99.87.203:2007/channel/n5b8ca610/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K Walt Disney" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Walt Disney
-http://87.99.87.203:2007/channel/3fae467b/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K Walt Disney" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Walt Disney
-http://87.99.87.203:2007/channel/3fae467b/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K Russian music" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Russian music
-http://87.99.87.203:2007/channel/n5ca460ef/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K Russian music" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Russian music
-http://87.99.87.203:2007/channel/n5ca460ef/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K Kинодети CССР" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Kинодети CССР
-http://87.99.87.203:2007/channel/4f21ced1/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K Kинодети CССР" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K Kинодети CССР
-http://87.99.87.203:2007/channel/4f21ced1/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K deep house" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K deep house
-http://87.99.87.203:2007/channel/1a5955b3/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Clarity4K deep house" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Clarity4K deep house
-http://87.99.87.203:2007/channel/1a5955b3/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1  tvg-name="Bloomberg TV 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Bloomberg TV 4K
-https://bloomberg-bloombergtv-2-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="Bloomberg TV 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Bloomberg TV 4K
-https://bloomberg-bloombergtv-2-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="Better Life Nature Channel (480p)" tvg-id="ext" tvg-logo="https://i.imgur.com/gmrVKEC.jpg" group-title="69-Relax Tv",Better Life Nature Channel (480p)
-https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
-#EXTINF:-1  tvg-name="ANIMALS 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",ANIMALS 4K
-http://iptv.prosto.tv:7000/ch316/video.m3u8?secret=191yc7ul
-#EXTINF:-1  tvg-name="ANIMALS 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",ANIMALS 4K
-http://iptv.prosto.tv:7000/ch316/video.m3u8?secret=191yc7ul
+#EXTINF:-1  tvg-name="Relax" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Relax
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1  tvg-name="RELAXON" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",RELAXON
+http://iptv.prosto.tv:7000/ch317/video.m3u8
 #EXTINF:-1  tvg-name="Akwarium 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Akwarium 4K
 http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
-#EXTINF:-1  tvg-name="Akwarium 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Akwarium 4K
-http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
+#EXTINF:-1  tvg-name="ANIMALS 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",ANIMALS 4K
+http://iptv.prosto.tv:7000/ch316/video.m3u8?secret=191yc7ul
+#EXTINF:-1  tvg-name="HotBird 4K1" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",HotBird 4K1
+http://45.65.112.49:8000/play/a0ic
+#EXTINF:-1  tvg-name="Loupe 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1  tvg-name="Loupe 4K (2160p)" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Loupe 4K (2160p)
+http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+#EXTINF:-1  tvg-name="NEWS 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",NEWS 4K
+http://iptv.prosto.tv:7000/ch312/video.m3u8?secret=191yc7ul
+#EXTINF:-1  tvg-name="Quietude 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Quietude 4K
+https://dai.google.com/linear/hls/event/znOljgluSSeoYrXfiYc2VA/master.m3u8
+#EXTINF:-1  tvg-name="Stream CITY 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Stream CITY 4K
+http://iptv.prosto.tv:7000/ch321/video.m3u8?secret=191yc7ul
 #EXTINF:-1  tvg-name="Uwais al-Qarni" tvg-id="ext" tvg-logo="" group-title="Islamic Movies",Uwais al-Qarni
 http://www.qul.org.au/Files/Qarni/Qarni.flv
 #EXTINF:-1  tvg-name="The Messiah" tvg-id="ext" tvg-logo="" group-title="Islamic Movies",The Messiah
