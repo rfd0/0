@@ -12387,91 +12387,91 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 https://c.mjh.nz/abc-nsw.m3u8
 #EXTINF:-1  tvg-name="ABC (WPLG-DT1) Miami FL (720p)" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="68-World",ABC (WPLG-DT1) Miami FL (720p)
 https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
-#EXTINF:-1  tvg-name="Island Escape" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Island Escape
+#EXTINF:-1  tvg-name="Island Escape" tvg-id="ext" tvg-logo="" group-title="58-Documentary",Island Escape
 https://dai.google.com/linear/hls/event/IpUm6gZ6Tz-pEotpMRsZ4w/master.m3u8
-#EXTINF:-1  tvg-name="Relax" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Relax
+#EXTINF:-1  tvg-name="Relax" tvg-id="ext" tvg-logo="" group-title="58-Documentary",Relax
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8?cur=tva.org.ua&key=3i277
-#EXTINF:-1  tvg-name="RELAXON" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",RELAXON
+#EXTINF:-1  tvg-name="RELAXON" tvg-id="ext" tvg-logo="" group-title="58-Documentary",RELAXON
 http://iptv.prosto.tv:7000/ch317/video.m3u8
-#EXTINF:-1  tvg-name="Akwarium 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Akwarium 4K
+#EXTINF:-1  tvg-name="Akwarium 4K" tvg-id="ext" tvg-logo="" group-title="58-Documentary",Akwarium 4K
 http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
-#EXTINF:-1  tvg-name="ANIMALS 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",ANIMALS 4K
+#EXTINF:-1  tvg-name="ANIMALS 4K" tvg-id="ext" tvg-logo="" group-title="58-Documentary",ANIMALS 4K
 http://iptv.prosto.tv:7000/ch316/video.m3u8?secret=191yc7ul
-#EXTINF:-1  tvg-name="HotBird 4K1" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",HotBird 4K1
+#EXTINF:-1  tvg-name="HotBird 4K1" tvg-id="ext" tvg-logo="" group-title="58-Documentary",HotBird 4K1
 http://45.65.112.49:8000/play/a0ic
-#EXTINF:-1  tvg-name="Loupe 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Loupe 4K
+#EXTINF:-1  tvg-name="Loupe 4K" tvg-id="ext" tvg-logo="" group-title="58-Documentary",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1  tvg-name="Loupe 4K (2160p)" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Loupe 4K (2160p)
+#EXTINF:-1  tvg-name="Loupe 4K (2160p)" tvg-id="ext" tvg-logo="" group-title="58-Documentary",Loupe 4K (2160p)
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1  tvg-name="NEWS 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",NEWS 4K
+#EXTINF:-1  tvg-name="NEWS 4K" tvg-id="ext" tvg-logo="" group-title="58-Documentary",NEWS 4K
 http://iptv.prosto.tv:7000/ch312/video.m3u8?secret=191yc7ul
-#EXTINF:-1  tvg-name="Quietude 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Quietude 4K
+#EXTINF:-1  tvg-name="Quietude 4K" tvg-id="ext" tvg-logo="" group-title="58-Documentary",Quietude 4K
 https://dai.google.com/linear/hls/event/znOljgluSSeoYrXfiYc2VA/master.m3u8
-#EXTINF:-1  tvg-name="Stream CITY 4K" tvg-id="ext" tvg-logo="" group-title="69-Relax Tv",Stream CITY 4K
+#EXTINF:-1  tvg-name="Stream CITY 4K" tvg-id="ext" tvg-logo="" group-title="58-Documentary",Stream CITY 4K
 http://iptv.prosto.tv:7000/ch321/video.m3u8?secret=191yc7ul
-#EXTINF:-1 tvg-id="earthTV.de" tvg-logo="https://i.imgur.com/xIc5vKl.png" group-title="69-Relax Tv",earthTV (1080p)
+#EXTINF:-1 tvg-id="earthTV.de" tvg-logo="https://i.imgur.com/xIc5vKl.png" group-title="58-Documentary",earthTV (1080p)
 https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 tvg-id="Love Nature 4K" tvg-logo="" group-title="69-Relax Tv",Love Nature 4K
+#EXTINF:-1 tvg-id="Love Nature 4K" tvg-logo="" group-title="58-Documentary",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="Love Nature 4K" tvg-logo="" group-title="69-Relax Tv",Love Nature 4K
+#EXTINF:-1 tvg-id="Love Nature 4K" tvg-logo="" group-title="58-Documentary",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 tvg-id="NATURE ESCAPE" tvg-logo="" group-title="69-Relax Tv", NATURE ESCAPE
+#EXTINF:-1 tvg-id="NATURE ESCAPE" tvg-logo="" group-title="58-Documentary", NATURE ESCAPE
 http://185.234.111.229:8000/play/a02e
-#EXTINF:-1 tvg-id="NATURE ESCAPE" tvg-logo="" group-title="69-Relax Tv", NATURE ESCAPE 2
+#EXTINF:-1 tvg-id="NATURE ESCAPE" tvg-logo="" group-title="58-Documentary", NATURE ESCAPE 2
 http://185.234.111.229:8000/play/a02m
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="69-Relax Tv", Love Nature HD 1
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="58-Documentary", Love Nature HD 1
 http://192.144.113.177:8000/play/a082/index.m3u8
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="69-Relax Tv", Love Nature HD 2
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="58-Documentary", Love Nature HD 2
 http://201.219.11.178:8000/play/a09n/index.m3u8
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="69-Relax Tv", Love Nature HD 4
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="58-Documentary", Love Nature HD 4
 http://181.205.77.118:4849/play/CH82
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="69-Relax Tv", Love Nature HD 5
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="58-Documentary", Love Nature HD 5
 http://45.235.37.254:8370/play/a02f
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="69-Relax Tv", Love Nature HD 6
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="58-Documentary", Love Nature HD 6
 http://201.186.43.130:8000/play/a06h
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="69-Relax Tv", Love Nature HD 7
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="58-Documentary", Love Nature HD 7
 http://45.181.122.201:8081/play/a02k
-#EXTINF:-1 tvg-id="Viasat Nature" tvg-logo="" group-title="69-Relax Tv", Viasat Nature 1
+#EXTINF:-1 tvg-id="Viasat Nature" tvg-logo="" group-title="58-Documentary", Viasat Nature 1
 http://195.26.83.96:7013/play/37/index.m3u8
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="69-Relax Tv", Love Nature HD 8
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="58-Documentary", Love Nature HD 8
 http://45.71.252.21:3000/play/a0hd/index.m3u8
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="69-Relax Tv", Love Nature HD 9
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="58-Documentary", Love Nature HD 9
 http://8.242.179.188:1314/play/a0ck/index.m3u8
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="69-Relax Tv", Love Nature HD 10
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="58-Documentary", Love Nature HD 10
 http://190.60.38.254:1010/play/a08p/index.m3u8
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="69-Relax Tv", Love Nature HD 12
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="58-Documentary", Love Nature HD 12
 http://170.239.205.99:4050/play/CH54
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="69-Relax Tv", Love Nature HD 14
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="58-Documentary", Love Nature HD 14
 http://190.60.37.154:45000/play/a05g/index.m3u8
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="69-Relax Tv", Love Nature HD 15
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="58-Documentary", Love Nature HD 15
 http://157.245.117.238:8000/play/a0vn/index.m3u8
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="69-Relax Tv", Love Nature HD 16
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="58-Documentary", Love Nature HD 16
 http://191.97.6.29:8000/play/a0bm/index.m3u8
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="69-Relax Tv", Love Nature HD 19
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="58-Documentary", Love Nature HD 19
 http://186.167.81.106:8126/play/a0di/index.m3u8
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="69-Relax Tv", Love Nature HD 20
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="58-Documentary", Love Nature HD 20
 http://161.132.108.74:50001/play/a01p/index.m3u8
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="69-Relax Tv", Love Nature HD 21
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="58-Documentary", Love Nature HD 21
 http://45.176.232.114:8000/play/a01o
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="69-Relax Tv", Love Nature HD 22
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="58-Documentary", Love Nature HD 22
 http://187.102.208.83:50000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="69-Relax Tv", Love Nature HD 23
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="58-Documentary", Love Nature HD 23
 http://190.211.250.102:8000/play/a00f
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="69-Relax Tv", Love Nature HD 25
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="58-Documentary", Love Nature HD 25
 http://45.65.112.49:8000/play/a0n9
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="69-Relax Tv", Love Nature HD 28
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="58-Documentary", Love Nature HD 28
 http://190.186.131.21:81/play/a0mw/index.m3u8
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="69-Relax Tv", Love Nature HD 29
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="58-Documentary", Love Nature HD 29
 http://190.109.4.34:8000/play/a04b/index.m3u8
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="69-Relax Tv", Love Nature HD 30
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="58-Documentary", Love Nature HD 30
 http://190.60.32.178:8178/play/a08l/index.m3u8
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="69-Relax Tv", Love Nature HD 31
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="" group-title="58-Documentary", Love Nature HD 31
 http://8.242.175.221:8000/play/a044/index.m3u8
-#EXTINF:-1 tvg-id="Viasat Explorer" tvg-logo="" group-title="69-Relax Tv", Viasat Explorer Hd
+#EXTINF:-1 tvg-id="Viasat Explorer" tvg-logo="" group-title="58-Documentary", Viasat Explorer Hd
 http://88.85.172.243:7005/play/a00y
-#EXTINF:-1 tvg-id="Viasat History" tvg-logo="" group-title="69-Relax Tv", Viasat History
+#EXTINF:-1 tvg-id="Viasat History" tvg-logo="" group-title="58-Documentary", Viasat History
 http://88.85.172.243:7005/play/a00z
-#EXTINF:-1 tvg-id="Viasat Nature" tvg-logo="" group-title="69-Relax Tv", Viasat Nature 2
+#EXTINF:-1 tvg-id="Viasat Nature" tvg-logo="" group-title="58-Documentary", Viasat Nature 2
 http://88.85.172.243:7005/play/a010
 #EXTINF:-1  tvg-name="Uwais al-Qarni" tvg-id="ext" tvg-logo="" group-title="Islamic Movies",Uwais al-Qarni
 http://www.qul.org.au/Files/Qarni/Qarni.flv
