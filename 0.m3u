@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://rasekhoon.net/_files/images/article/de30eaac-4d6e-42b9-80be-53f4b702cbfe.jpg" group-title="10000-Duaas", Duaas الادعية
-https://raw.githubusercontent.com/rfd0/0/0/duaas.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/duaas.m3u
 #EXTINF:0 tvg-logo="https://rasekhoon.net/_files/images/article/de30eaac-4d6e-42b9-80be-53f4b702cbfe.jpg" group-title="10001-Ziyarats", Ziyarats الزيارات
-https://raw.githubusercontent.com/rfd0/0/0/ziyarats.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/ziyarats.m3u
 #EXTINF:0 tvg-logo="https://rasekhoon.net/_files/images/article/de30eaac-4d6e-42b9-80be-53f4b702cbfe.jpg" group-title="10002-Monajats", Monajts المناجات
-https://raw.githubusercontent.com/rfd0/0/0/monajats.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/monajats.m3u
 #EXTINF:0 tvg-logo="https://rasekhoon.net/_files/images/article/de30eaac-4d6e-42b9-80be-53f4b702cbfe.jpg" group-title="10003-Sermons", Sermons الخطب
-https://raw.githubusercontent.com/rfd0/0/0/sermons.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/sermons.m3u
 #EXTINF:0 tvg-logo="https://artic.al3yla.com/wp-content/uploads/almaareftv-1.jpg" group-title="10004-Shorts", Shorts المقاطع القصيرة
-https://raw.githubusercontent.com/rfd0/0/0/shorts.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/shorts.m3u
 
 #EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11001-AL Imam Ali",Imam Ali TV
 https://stream.wpbond.com/live/imamalitv.m3u8
