@@ -597,7 +597,7 @@ https://vz-be6e02ce-63f.b-cdn.net/a34922a8-6210-451b-8c68-a1fc59a11f53/842x480/v
 https://vz-be6e02ce-63f.b-cdn.net/7da9c47b-409c-4a71-93f8-ad9322a579ea/842x480/video.m3u8
 
 #EXTINF:0 tvg-logo="https://artic.al3yla.com/wp-content/uploads/almaareftv-1.jpg" group-title="10004-Shorts", Shorts
-https://github.com/rfd0/0/deferred-ast/0/shorts.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/shorts.m3u8
 
 #EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11001-AL Imam Ali",Imam Ali TV
 https://stream.wpbond.com/live/imamalitv.m3u8
