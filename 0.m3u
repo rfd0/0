@@ -1,124 +1,124 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://rasekhoon.net/_files/images/article/de30eaac-4d6e-42b9-80be-53f4b702cbfe.jpg" group-title="10000-Duaas", Duaas الادعية
-https://github.com/rfd0/0/latest-commit/0/duaas.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/duaas.m3u8
 #EXTINF:0 tvg-logo="https://rasekhoon.net/_files/images/article/de30eaac-4d6e-42b9-80be-53f4b702cbfe.jpg" group-title="10001-Ziyarats", Ziyarats الزيارات
-https://github.com/rfd0/0/latest-commit/0/ziyarats.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/ziyarats.m3u8
 #EXTINF:0 tvg-logo="https://rasekhoon.net/_files/images/article/de30eaac-4d6e-42b9-80be-53f4b702cbfe.jpg" group-title="10002-Monajats", Monajts المناجات
-https://github.com/rfd0/0/latest-commit/0/monajats.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/monajats.m3u8
 #EXTINF:0 tvg-logo="https://rasekhoon.net/_files/images/article/de30eaac-4d6e-42b9-80be-53f4b702cbfe.jpg" group-title="10003-Sermons", Sermons الخطب
-https://github.com/rfd0/0/latest-commit/0/sermons.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/sermons.m3u8
 #EXTINF:0 tvg-logo="https://artic.al3yla.com/wp-content/uploads/almaareftv-1.jpg" group-title="10004-Shorts", Short المقاطع القصيرة
-https://github.com/rfd0/0/latest-commit/0/shorts.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/shorts.m3u8
 #EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11001-AL Imam Ali",Imam Ali TV
-https://github.com/rfd0/0/latest-commit/0/imamali.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/imamali.m3u8
 #EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11002-Masjid AL Kufa", Masjid Alkufa
 http://tvsng.com:25461/live/AlkufaFHD/masjed/15.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala", Karbala TV
-https://github.com/rfd0/0/latest-commit/0/karbala.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/karbala.m3u8
 #EXTINF:-1  tvg-logo="https://www.karbala-tv.iq/quran/static/img/logo.png" group-title="11004-Karbala Quran", Karbalaa Quran
 https://ktvlive.online/stream/hls/ch1.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11005-Karbala Documentary", Karbala Documentary HD
-https://github.com/rfd0/0/latest-commit/0/karbaladocumentary.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/karbaladocumentary.m3u8
 #EXTINF:-1  tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png" group-title="11006-AL Kafeel", AL Kafeel TV
-https://github.com/rfd0/0/latest-commit/0/kafeel.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/kafeel.m3u8
 #EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11007-AL Jawadain", AL Jawadain TV
-https://github.com/rfd0/0/latest-commit/0/jawadain.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/jawadain.m3u8
 #EXTINF:-1  tvg-logo="" group-title="11007-AL Ridha", Al Ridha TV
-https://github.com/rfd0/0/latest-commit/0/ridha.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/ridha.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref", AL Maaref TV
-https://github.com/rfd0/0/latest-commit/0/maaref.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/maaref.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11010-AL Anwar", Alanwar TV
-https://github.com/rfd0/0/latest-commit/0/anwar.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/anwar.m3u8
 #EXTINF:-1  tvg-logo="https://alaqila.tv/gallery_gen/46aee3e16e86e9747594af1dc7b90e6a.png" group-title="11011-AL Aqila", Al-aqila TV
-https://github.com/rfd0/0/latest-commit/0/aqila.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/aqila.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11012-AL Shaaer", Al-shaaer TV
-https://github.com/rfd0/0/latest-commit/0/shaaer.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/shaaer.m3u8
 #EXTINF:-1  tvg-logo="https://alaqila.tv/gallery_gen/46aee3e16e86e9747594af1dc7b90e6a.png" group-title="11013-OM Al Baneen", OM Al Baneen 
-https://github.com/rfd0/0/latest-commit/0/ombaneen.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/ombaneen.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-mahdi-satellite-channel-kw.png" group-title="11014-AL Najaf", Alnajaf Alashraf TV
-https://github.com/rfd0/0/latest-commit/0/najaf.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/najaf.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11015-AL Karbalaeia", Alkarbalaeia TV
-https://github.com/rfd0/0/latest-commit/0/karbalaeia.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/karbalaeia.m3u8
 #EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11016-AL Jawad", Al-jawad TV
-https://github.com/rfd0/0/latest-commit/0/jawad.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/jawad.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11017-AL Askari", Al Askari T
-https://github.com/rfd0/0/latest-commit/0/askari.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/askari.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11018-AL Kout", Alkout TV
-https://github.com/rfd0/0/latest-commit/0/kout.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/kout.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11019-AL Basra", Albasra 1 TV
-https://github.com/rfd0/0/latest-commit/0/basra.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/basra.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11020-AL Kuwaitawi", Kuwaitawi TV
-https://github.com/rfd0/0/latest-commit/0/kuwaitawi.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/kuwaitawi.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11021-AL Bahrany", AL Bahrany TV
 http://45.65.112.206:8000/play/a0iz
 #EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="11022-Saut AL Aqila", Saout Alaqila 
-https://github.com/rfd0/0/latest-commit/0/saoutalaqila.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/saoutalaqila.m3u8
 #EXTINF:-1  tvg-logo="https://fomny-tv.com/Video-5/Iraq/Alhujja-Tv/logo.gif" group-title="11023-AL Hujja", Al Hujja TV
-https://github.com/rfd0/0/latest-commit/0/hujja.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/hujja.m3u8
 #EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/M51zK2by7TBhDuPAwmUtAMwHMCRAfGwt_SVg2dK1WhqOwIbIll7nmcgSWEjndSSyRVJb64EtkA=s160-c-k-c0x00ffffff-no-rj" group-title="11024-Masjid Al Mosawi", Masjid Al Mosawi
 https://cdn3.wowza.com/5/aEtqbDdJeWFiL1lG/live2/myStream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen 1", Ch4teen 1 TV
-https://github.com/rfd0/0/latest-commit/0/ch4teen1.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/ch4teen1.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen 2", Ch4teen 2 TV
-https://github.com/rfd0/0/latest-commit/0/ch14teen2.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/ch14teen2.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11027-Ch4teen 3", Ch4teen 3 TV
-https://github.com/rfd0/0/latest-commit/0/ch14teen3.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/ch14teen3.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11028-Ch4teen 4", Ch4teen 4 TV
-https://github.com/rfd0/0/latest-commit/0/ch14teen4.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/ch14teen4.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11029-Ch4teen 5", Ch4teen 5 TV
-https://github.com/rfd0/0/latest-commit/0/ch14teen5.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/ch14teen5.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11030-Ch4teen Clip", Ch4teen Clip
-https://github.com/rfd0/0/latest-commit/0/ch14teenclip.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/ch14teenclip.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11031-Ch4teen Documentary", Ch4teen Documentary
-https://github.com/rfd0/0/latest-commit/0/Ch4teen Documentary.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/Ch4teen Documentary.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11032-Ch4teen Kids", Ch4teen Kids
-https://github.com/rfd0/0/latest-commit/0/Ch4teen Kids.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/Ch4teen Kids.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11033-Ch4teen Quran", Ch4teen Quran
-https://github.com/rfd0/0/latest-commit/0/Ch4teen Quran.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/Ch4teen Quran.m3u8
 #EXTINF:-1  tvg-logo="http://logo.protv.cc/picons/logos/AL-MAHDI.jpg" group-title="11034-AL Mahdi", AL MAHDI TV
-https://github.com/rfd0/0/latest-commit/0/mahdi.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/mahdi.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="11035-AL Imam Hussain 2", Imam Hussain TV
-https://github.com/rfd0/0/latest-commit/0/Imam Hussain.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/Imam Hussain.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11036-AL Komail", Alkomail TV
-https://github.com/rfd0/0/latest-commit/0/komail.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/komail.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_awhad_tv.png" group-title="11037-AL Awhad", Al-Awhad TV
-https://github.com/rfd0/0/latest-commit/0/awhad.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/awhad.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="11038-Al Duaa", Al Dua TV
-https://github.com/rfd0/0/latest-commit/0/duaa.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/duaa.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="11039-AL Willaya", AL Walayia TV
-https://github.com/rfd0/0/latest-commit/0/Walayia.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/Walayia.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="11040-AL Naeem", AL Naeem TV
-https://github.com/rfd0/0/latest-commit/0/naeem.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/naeem.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="11041-AL Marjaeyat", Marjaeyat TV
-https://github.com/rfd0/0/latest-commit/0/Marjaeyat.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/Marjaeyat.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alanwar_tv2.png" group-title="11042-AL Anwar 2", AL Anwar 2 TV
-https://github.com/rfd0/0/latest-commit/0/anwar2.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/anwar2.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/PVQKsjE.png" group-title="11043-AL Bayyina", Bayyinat TV
-https://github.com/rfd0/0/latest-commit/0/Bayyinat.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/Bayyinat.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/p8eRgSs.png" group-title="11044-AL Nabaa", Naba TV
-https://github.com/rfd0/0/latest-commit/0/naba.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/naba.m3u8
 #EXTINF:-1  tvg-logo="https://www.alkawthartv.ir/" group-title="11045-AL Kawther", AL Kawthar TV
-https://github.com/rfd0/0/latest-commit/0/Kawther.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/Kawther.m3u8
 #EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11046-AL Thaqalain", AL Thaqalain TV
-https://github.com/rfd0/0/latest-commit/0/Thaqalain.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/Thaqalain.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/gROQqFD.png" group-title="11047-AL Asil", Asil TV
-https://github.com/rfd0/0/latest-commit/0/asil.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/asil.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/ps4Gtj0.png" group-title="11048-AL Ssirat", AL Sirat TV
-https://github.com/rfd0/0/latest-commit/0/Sirat.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/Sirat.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/4WKQppG.png" group-title="11049-AL Iman", Aliman TV
-https://github.com/rfd0/0/latest-commit/0/iman.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/iman.m3u8
 #EXTINF:-1  tvg-logo="" group-title="11051-AL Mohtadi", AL Mohtadi TV
-https://github.com/rfd0/0/latest-commit/0/Mohtadi.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/Mohtadi.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11052-AL Manar", Al Manar TV
-https://github.com/rfd0/0/latest-commit/0/manar.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/manar.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Zdi31dy.png" group-title="11053-AL Alam", AL Alam TV
-https://github.com/rfd0/0/latest-commit/0/alam.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/alam.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="11054-AL Mayadeen", AL Mayadeen TV
-https://github.com/rfd0/0/latest-commit/0/Mayadeen.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/Mayadeen.m3u8
 #EXTINF:-1  tvg-logo="" group-title="11055-Al Masira", Al Masira TV
-https://github.com/rfd0/0/latest-commit/0/Masira.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/Masira.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg" group-title="11056-Al Hadi", Al Hadi TV
-https://github.com/rfd0/0/latest-commit/0/hadi.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/hadi.m3u8
 #EXTINF:-1  tvg-logo="https://imgs.search.brave.com/S78mrM-ZdiSmkBJbdy1oJVYzLIHh-25nhqCFxm2MKXo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMyLm15dHVuZXIu/bW9iaS9tZWRpYS90/dm9zX3JhZGlvcy9w/VFlVams5alRjLmpw/ZWc" group-title="11057-Radios", Tahran Arabic Radio
 https://live.arabicradio.net/hls/arabic_low.m3u8
 #EXTINF:-1  tvg-logo="" group-title="20001-Ahlulbayt Quran", Ahlulbayt Quran
@@ -126,19 +126,19 @@ https://cdn5.iqsat.net/iqb/5a55d972f1d33b4cd2963da0371d8192.sdp/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="20002--IRIB Quran", IRIB Quran
 https://hidayat.wpbond.com/live/iribquran.m3u8
 #EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran", Al Quran TVs
-https://github.com/rfd0/0/latest-commit/0/quran.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/quran.m3u8
 #EXTINF:-1  tvg-logo="https://www.altkia.com/wp-content/uploads/2024/01/roghayah-tv.jpg" group-title="30001-Ruqyia Kids", قناة رقية
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114469.ts
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/hh/hodhod-arabic-tv-ir.pngossless_false/resize,h_256,w_256,lossless_false/optimize" group-title="30002-Hodhod Kids", Hodhod TV
-https://github.com/rfd0/0/latest-commit/0/hodhod.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/hodhod.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h872gKg/taha.png" group-title="30003-Taha Kids", Taha TV
-https://github.com/rfd0/0/latest-commit/0/taha.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/taha.m3u8
 #EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/pooya-and-nahal-kids.png" group-title="30004-Pooya and Nahal (Kids)", Pooya and Nahal (Kids)
 https://stream.wpbond.com/live/pooya.m3u8
 #EXTINF:-1  tvg-logo="" group-title="39999-Kids", Kids TVs
-https://github.com/rfd0/0/latest-commit/0/kids.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/kids.m3u8
 #EXTINF:-1  tvg-logo="" group-title="49999-Iraq", Iraq TVs
-https://github.com/rfd0/0/latest-commit/0/iraqtvs.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/iraqtvs.m3u8
 #EXTINF:-1  tvg-logo="" group-title="50001-Press Eng", Press Eng
 https://hugh.cdn.rumble.cloud/live/v0xi25uh/slot-90/74yj-adpb_720p/chunklist_DVR.m3u8
 #EXTINF:-1  tvg-logo="" group-title="50002-Ahlulbayt Eng", Ahlulbayt Eng
@@ -150,7 +150,7 @@ https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/wkm0qhpv/1080/chunklist.m
 #EXTINF:-1  tvg-logo="" group-title="50005-IBN Eng", IBN Eng
 http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="50006-WIN Eng", WIN Eng
-https://github.com/rfd0/0/latest-commit/0/win.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/win.m3u8
 #EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/habib-tv-%D8%B4%D8%A8%DA%A9%D9%87-%D8%AD%D8%A8%DB%8C%D8%A8.jpeg" group-title="50007-Habib Farsi", Habib Farsi
 https://stream.wpbond.com/live/habib.m3u8
 #EXTINF:-1  tvg-logo="" group-title="50008-Velayat farsi", Velayat farsi
@@ -192,25 +192,25 @@ https://nl.livekadeh.com/hls2/alwilayah.tv.hausa_src.m3u8
 #EXTINF:-1  tvg-logo="" group-title="50024-Abafudal", Abafudal Fai
 https://cdn.northtelecom.org/ABALFADHLTV.m3u8
 #EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/5xdGpN0CtDcQp61QvZZcpWEwaWEbyZDInd63SQ4SkB393oVDRIuudls3Fr_LKeCAqLhSyaTf_k8=s900-c-k-c0x00ffffff-no-rj" group-title="50025-Al Qaaim", AL Qaaim Urdu
-https://github.com/rfd0/0/latest-commit/0/qaaim.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/qaaim.m3u8
 #EXTINF:-1  tvg-logo="https://shiachannel.in/livetv/img/channels/alitv.jpg" group-title="59999-Islamic", Islamic TVs
-https://github.com/rfd0/0/latest-commit/0/islamic.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/islamic.m3u8
 #EXTINF:-1  tvg-logo="" group-title="60001-Ahlulbayt Documentary", Ahlulbayt Documentary
 https://cdn5.iqsat.net/iqb/df78ec671693778b3d40e1a160483dcb.sdp/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="69999-Documentary", Documentary TVs
-https://github.com/rfd0/0/latest-commit/0/Documentary.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/Documentary.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim", Ifilm
-https://github.com/rfd0/0/latest-commit/0/ifilm.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/ifilm.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="70002-MBC", MBC
-https://github.com/rfd0/0/latest-commit/0/mbc.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/mbc.m3u8
 #EXTINF:-1  tvg-logo="" group-title="70003-OSN", OSN
-https://github.com/rfd0/0/latest-commit/0/osn.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/osn.m3u8
 #EXTINF:-1  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200010LE_20230912T232702SQUARE.png_20230912232703.png" group-title="70004-Food", Food TVs
-https://github.com/rfd0/0/latest-commit/0/food.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/food.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/g7IRorO.jpeg" group-title="79999-Arabic", Arabic TVs
-https://github.com/rfd0/0/latest-commit/0/arabic.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/arabic.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="89999-Sports", Sports TVs
-https://github.com/rfd0/0/latest-commit/0/sport.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/sport.m3u8
 #EXTINF:-1  tvg-logo="" group-title="90001-Holy Quran 24/7",104-Holy Quran 24/7 - Najaf - Iraq
 https://stream.wpbond.com/live/quran.m3u8
 #EXTINF:-1  tvg-logo="" group-title="90002-Dua 24/7",105-Dua 24/7
@@ -226,16 +226,16 @@ https://stream.wpbond.com/live/manqabat.m3u8
 #EXTINF:-1  tvg-logo="" group-title="90007-Nohay 24/7",Nohay 24/7
 https://stream.wpbond.com/live/nohay.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Jd9DywP.png" group-title="90008-Kurdistan", Kurdistan TVs
-https://github.com/rfd0/0/latest-commit/0/Kurdistan.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/Kurdistan.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/QwBGLzK.png" group-title="90009-Iran", Iran TVs
-https://github.com/rfd0/0/latest-commit/0/irantvs.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/irantvs.m3u8
 #EXTINF:-1  tvg-logo="" group-title="90010-Turkey", Turkey TVs
-https://github.com/rfd0/0/latest-commit/0/turkey.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/turkey.m3u8
 #EXTINF:-1  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504501A_20220824T005422SQUARE.png_20220824005423.png" group-title="99999-World", World TVs
-https://github.com/rfd0/0/latest-commit/0/World.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/World.m3u8
 #EXTINF:-1  tvg-logo="https://archive.org/stream/Al.Resala.1976.1080p/Al.Resala.1976.1080p.thumbs/Al.Resala.1976.1080p_000054.jpg" group-title="Islamic Movies", Islamic Movies
-https://github.com/rfd0/0/latest-commit/0/Movies.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/Movies.m3u8
 #EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/video_thumb/166.jpg" group-title="Kids Movies & Series", Kids Movies & Series
-https://github.com/rfd0/0/latest-commit/0/Kids Movies & Series.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/Kids Movies & Series.m3u8
 #EXTINF:-1  tvg-logo="https://archive.almanar.com.lb/edimg/2014/Culture/Asia/Iran/cinema/imamjawad/babalmorad.jpg" group-title="Series" , Series
-https://github.com/rfd0/0/latest-commit/0/Series.m3u8
+https://raw.githubusercontent.com/rfd0/0/0/Series.m3u8
