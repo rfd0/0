@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11046-AL Thaqalain",AL Thaqalain
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=260882
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11046-AL Thaqalain",AL Thaqalain
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=260882&extension=ts
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11046-AL Thaqalain",AL Thaqalain
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=260882&extension=ts&play_token=BUynWbjMfZ#
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11046-AL Thaqalain",AL Thaqalain
+http://45.65.112.206:8000/play/a09c
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11046-AL Thaqalain",AL Thaqalain
+http://63b03f7689049.streamlock.net:1935/live/16/chunklist_w1051481077.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11046-AL Thaqalain",AL Thaqalain
+http://63b03f7689049.streamlock.net:1935/live/16/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11046-AL Thaqalain",AL Thaqalain
+http://77.36.160.160:1935/videolive/thaghalayn/chunklist_w2024874225.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11046-AL Thaqalain",AL Thaqalain
+http://77.36.160.164:1935/live4/thaghalayn/chunklist_w148808995.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11046-AL Thaqalain",AL Thaqalain
+http://77.36.160.164:1935/live4/thaghalayn/chunklist_w2013147593.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11046-AL Thaqalain",AL Thaqalain
+http://95.216.180.111:1935/live/16/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11046-AL Thaqalain",AL Thaqalain
+http://95.216.180.111:1935/live/16/chunklist_w1998252885.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11046-AL Thaqalain",AL Thaqalain
+http://95.216.180.111:1935/live/16/chunklist_w362928606.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11046-AL Thaqalain",AL Thaqalain
+http://95.216.180.111:1935/live/16/index.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11046-AL Thaqalain",AL Thaqalain
+http://95.216.180.111:1935/live/16/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11046-AL Thaqalain",AL Thaqalain
+http://activefrance.net/live/YQ28GB8/WE202NG/625.ts
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11046-AL Thaqalain",AL Thaqalain
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/660359.ts
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11046-AL Thaqalain",Althaqalayn TV
+http://77.36.160.164:1935/live4/thaghalayn/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11046-AL Thaqalain",Althaqalayn TV
+http://77.36.160.164:1935/live4/thaghalayn/chunklist_w1971075864.m3u8

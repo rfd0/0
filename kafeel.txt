@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png" group-title="11006-AL Kafeel",AL Kafeel
+http://45.65.112.206:8000/play/a0gv
+#EXTINF:-1  tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png" group-title="11006-AL Kafeel",AL Kafeel
+https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png" group-title="11006-AL Kafeel",AL Kafeel Radio
+https://stream.alkafeel.net/live/radio/playlist.m3u8

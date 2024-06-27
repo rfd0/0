@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11036-AL Komail",Alkomail TV HD
+http://149.18.45.21:8000/play/a0g0/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11036-AL Komail",Alkomail TV HD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=530383
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11036-AL Komail",Alkomail TV HD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=530383&extension=ts
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11036-AL Komail",Alkomail TV HD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=530383&extension=ts&play_token=Ff2YjTNmZ1#
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11036-AL Komail",Alkomail TV HD
+http://45.65.112.206:8000/play/a04g
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11036-AL Komail",Alkomail TV HD
+http://45.65.112.206:8000/play/a05s
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11036-AL Komail",Alkomail TV HD
+http://activefrance.net/live/YQ28GB8/WE202NG/262091.ts
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11036-AL Komail",Alkomail TV HD
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/660423.ts

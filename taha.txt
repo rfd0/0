@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://i.ibb.co/h872gKg/taha.png" group-title="30003-Taha Kids",Taha
+https://media2.livaat.com/TAHA-TV/index.fmp4.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="30003-Taha Kids",Taha
+https://media2.livaat.com/TAHA-TV/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="30003-Taha Kids",Taha
+https://media2.livaat.com/TAHA-TV/tracks-a1/index.fmp4.m3u8
+#EXTINF:-1  tvg-logo="" group-title="30003-Taha Kids",Taha Kids
+https://media2.livaat.com/TAHA-TV/tracks-a1/index.fmp4.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="30003-Taha Kids",Taha
+https://media2.livaat.com/TAHA-TV/tracks-v1a1/mono.m3u8

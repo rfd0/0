@@ -1,0 +1,223 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",ABU Dhabi Sport HD
+http://iptv.nextnet.krd:25461/nextnet/3738/153
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Academiay Amozhgary
+http://iptv.nextnet.krd:25461/nextnet/3738/109
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Akids HD
+http://iptv.nextnet.krd:25461/nextnet/3738/196
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",AL Masra HD
+http://iptv.nextnet.krd:25461/nextnet/3738/179
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Aljazira HD
+http://iptv.nextnet.krd:25461/nextnet/3738/184
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Amozhgary HD
+http://iptv.nextnet.krd:25461/nextnet/3738/157
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Anime HD
+http://iptv.nextnet.krd:25461/nextnet/3738/202
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",ARO Drama
+http://iptv.nextnet.krd:25461/nextnet/3738/129
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",ARO Family
+http://iptv.nextnet.krd:25461/nextnet/3738/128
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",ARO Kids HD
+http://iptv.nextnet.krd:25461/nextnet/3738/200
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",ARO Sport HD
+http://iptv.nextnet.krd:25461/nextnet/3738/150
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Astera Baby HD
+http://iptv.nextnet.krd:25461/nextnet/3738/199
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Astera Culture
+http://iptv.nextnet.krd:25461/nextnet/3738/166
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Astera Docu HD
+http://iptv.nextnet.krd:25461/nextnet/3738/174
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Astera Family HD
+http://iptv.nextnet.krd:25461/nextnet/3738/175
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Astera Show HD
+http://iptv.nextnet.krd:25461/nextnet/3738/173
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Astera Sport HD
+http://iptv.nextnet.krd:25461/nextnet/3738/149
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Ava
+http://iptv.nextnet.krd:25461/nextnet/3738/117
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Baha TV
+http://iptv.nextnet.krd:25461/nextnet/3738/122
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Bakhchay Afarin
+http://iptv.nextnet.krd:25461/nextnet/3738/220
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Bangawaz HD
+http://iptv.nextnet.krd:25461/nextnet/3738/192
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Bmc
+http://iptv.nextnet.krd:25461/nextnet/3738/88
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Chihan TV
+http://iptv.nextnet.krd:25461/nextnet/3738/151
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Derwaze HD
+http://iptv.nextnet.krd:25461/nextnet/3738/104
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Dimen HD
+http://iptv.nextnet.krd:25461/nextnet/3738/92
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Discovery Science HD
+http://iptv.nextnet.krd:25461/nextnet/3738/145
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Food Network
+http://iptv.nextnet.krd:25461/nextnet/3738/177
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Jd9DywP.png" group-title="90008-Kurdistan",Gali Kurdistan (720p) [Not 24/7]
+https://live.bradosti.net/live/GaliKurdistan_playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Gali Kurdistan HD
+http://45.65.112.206:8000/play/a08e
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Gali Kurdistan HD
+http://iptv.nextnet.krd:25461/nextnet/3738/182
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Halabja TV
+http://iptv.nextnet.krd:25461/nextnet/3738/107
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Iraqia Kurd
+http://154.58.202.131:8000/play/a02y
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Iraqia Kurdish
+http://iptv.nextnet.krd:25461/nextnet/3738/181
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Jamawar HD
+http://iptv.nextnet.krd:25461/nextnet/3738/108
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",K24
+http://iptv.nextnet.krd:25461/nextnet/3738/127
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Kalapur
+http://iptv.nextnet.krd:25461/nextnet/3738/132
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Khak TV
+http://iptv.nextnet.krd:25461/nextnet/3738/98
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Kirkuk TV
+http://iptv.nextnet.krd:25461/nextnet/3738/125
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Knn
+http://iptv.nextnet.krd:25461/nextnet/3738/131
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Komal HD
+http://iptv.nextnet.krd:25461/nextnet/3738/168
+#EXTINF:-1  tvg-logo="https://i.imgur.com/xPwzad9.png" group-title="90008-Kurdistan",Kurd Channel (480p)
+https://kurd-channel.ikoflix.com/hls/stream_2.m3u8
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Kurdish
+http://95.216.180.111:1935/live/103/chunklist_w611733893.m3u8
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Kurdistan 24
+http://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Kurdistan Sport HD
+http://iptv.nextnet.krd:25461/nextnet/3738/165
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Kurdistan TV
+http://45.65.112.206:8000/play/a062
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Kurdistan TV
+http://iptv.nextnet.krd:25461/nextnet/3738/170
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Kurdmax HD
+http://iptv.nextnet.krd:25461/nextnet/3738/158
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Kurdmax Papula
+http://iptv.nextnet.krd:25461/nextnet/3738/197
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Kurdmax Show
+http://iptv.nextnet.krd:25461/nextnet/3738/123
+#EXTINF:-1  tvg-logo="https://i.imgur.com/XTmyGmL.png" group-title="90008-Kurdistan",KurdMax Show (720p)
+https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JkK8HG8.png" group-title="90008-Kurdistan",KurdMax Sorani (1080p)
+https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Kurdsat
+http://iptv.nextnet.krd:25461/nextnet/3738/84
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Kurdsat
+https://kurdsat.akamaized.net/hls/stream_0.m3u8
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Kurdsat HD
+http://45.65.112.16:8000/play/a003
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Kurdsat News
+http://45.65.112.16:8000/play/a004
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Kurdsat News
+http://iptv.nextnet.krd:25461/nextnet/3738/85
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Mihrab TV
+http://iptv.nextnet.krd:25461/nextnet/3738/154
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",MMN Documentary
+http://iptv.nextnet.krd:25461/nextnet/3738/207
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",MMN Drama HD
+http://iptv.nextnet.krd:25461/nextnet/3738/217
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",MMN Kids HD
+http://iptv.nextnet.krd:25461/nextnet/3738/209
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",MMN News HD
+http://iptv.nextnet.krd:25461/nextnet/3738/216
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",MMN Quran HD
+http://iptv.nextnet.krd:25461/nextnet/3738/211
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",MMN Show HD
+http://iptv.nextnet.krd:25461/nextnet/3738/208
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",MMN Sport HD
+http://iptv.nextnet.krd:25461/nextnet/3738/213
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",NET TV
+http://iptv.nextnet.krd:25461/nextnet/3738/119
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Newline HD1
+http://iptv.nextnet.krd:25461/nextnet/3738/112
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Newline HD2
+http://iptv.nextnet.krd:25461/nextnet/3738/113
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Niga Kids
+http://iptv.nextnet.krd:25461/nextnet/3738/193
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Nishtimani Mn
+http://iptv.nextnet.krd:25461/nextnet/3738/126
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Nrt
+https://media.streambrothers.com:1936/8226/8226/chunklist_w1095975552.m3u8
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",NRT HD
+http://iptv.nextnet.krd:25461/nextnet/3738/86
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",NRT Sport HD
+http://iptv.nextnet.krd:25461/nextnet/3738/167
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Nrt2 HD
+http://iptv.nextnet.krd:25461/nextnet/3738/152
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Nrt3 HD
+http://iptv.nextnet.krd:25461/nextnet/3738/188
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Nrt4 HD
+http://iptv.nextnet.krd:25461/nextnet/3738/156
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Payaam
+http://63b03f7689049.streamlock.net:1935/live/38/playlist.m3u8	
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Payaam
+http://95.216.180.111:1935/live/38/chunklist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Payaam
+http://95.216.180.111:1935/live/38/chunklist_w362928606.m3u8
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Payaam
+http://95.216.180.111:1935/live/38/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Payaam
+http://95.216.180.111:1935/live/38/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Payam HD
+http://iptv.nextnet.krd:25461/nextnet/3738/100
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Pelistank HD
+http://iptv.nextnet.krd:25461/nextnet/3738/187
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Qanat 9
+https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Ranya HD
+http://iptv.nextnet.krd:25461/nextnet/3738/163
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Rasan HD
+http://iptv.nextnet.krd:25461/nextnet/3738/94
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Reng Arabic HD
+http://iptv.nextnet.krd:25461/nextnet/3738/205
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Reng Docu
+http://iptv.nextnet.krd:25461/nextnet/3738/186
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Reng Family
+http://iptv.nextnet.krd:25461/nextnet/3738/90
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Reng Kids HD
+http://iptv.nextnet.krd:25461/nextnet/3738/204
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Reng Sport HD
+http://iptv.nextnet.krd:25461/nextnet/3738/180
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",ROJ HD
+http://iptv.nextnet.krd:25461/nextnet/3738/160
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Rudaw
+http://154.197.91.169:7002/play/a0gk
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Rudaw
+http://154.58.202.131:8000/play/a046
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Rudaw
+http://iptv.nextnet.krd:25461/nextnet/3738/87
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Rudaw
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawpublish/rudawtv/chunks.m3u8
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Rudaw TV
+http://45.65.112.16:8000/play/a002
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Sahar Kurdish
+http://154.58.202.131:8000/play/a08j
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Sahar Kurdish
+http://iptv.nextnet.krd:25461/nextnet/3738/185
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Slemani TV
+http://iptv.nextnet.krd:25461/nextnet/3738/102
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Speda Drama HD
+http://iptv.nextnet.krd:25461/nextnet/3738/201
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Speda HD
+http://iptv.nextnet.krd:25461/nextnet/3738/103
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Srusht HD
+http://iptv.nextnet.krd:25461/nextnet/3738/159
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Toyor Aljanah
+http://iptv.nextnet.krd:25461/nextnet/3738/198
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",U2 HD
+http://iptv.nextnet.krd:25461/nextnet/3738/169
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",UTV Hawler HD
+http://iptv.nextnet.krd:25461/nextnet/3738/155
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Zagros
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w1652748748_b1700000_sleng_t64MTA4MHA=.m3u8
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Zarok
+https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",ZED HD
+http://iptv.nextnet.krd:25461/nextnet/3738/89
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",ZED Plus
+http://iptv.nextnet.krd:25461/nextnet/3738/99
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",ZEE Aflam
+http://iptv.nextnet.krd:25461/nextnet/3738/124
+#EXTINF:-1  tvg-logo="" group-title="90008-Kurdistan",Znar HD
+http://iptv.nextnet.krd:25461/nextnet/3738/161

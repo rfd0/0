@@ -1,0 +1,641 @@
+#EXTM3U
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_atvhd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] ATV HD
+http://95.111.250.161:4444/stream/turkcell/atvhd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_bloomberghd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] BLOOMBERG HD
+http://95.111.250.161:4444/stream/turkcell/bloomberghd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_blutv1" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] BLU TV 1
+http://95.111.250.161:4444/stream/turkcell/blutv1/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_blutv2" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] BLU TV 2
+http://95.111.250.161:4444/stream/turkcell/blutv2/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_cnnturk" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] CNN TURK
+http://95.111.250.161:4444/stream/turkcell/cnnturk/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_discoveryhd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] DISCOVERY HD
+http://95.111.250.161:4444/stream/turkcell/discoveryhd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_dmaxhd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] DMAX HD
+http://95.111.250.161:4444/stream/turkcell/dmaxhd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_englishclubtv" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] ENGLISH CLUB TV
+http://95.111.250.161:4444/stream/turkcell/englishclubtv/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_eurosport1hd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] EUROSPORT 1 HD
+http://95.111.250.161:4444/stream/turkcell/eurosport1hd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_eurosport2hd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] EUROSPORT 2 HD
+http://95.111.250.161:4444/stream/turkcell/eurosport2hd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_flashhaberhd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] FLASH HABER HD
+http://95.111.250.161:4444/stream/turkcell/flashhaberhd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_foxtvhd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] FOX TV HD
+http://95.111.250.161:4444/stream/turkcell/foxtvhd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_fx" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] FX
+http://95.111.250.161:4444/stream/turkcell/fx/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_haberglobalhd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] HABER GLOBAL HD
+http://95.111.250.161:4444/stream/turkcell/haberglobalhd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_haberturkhd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] HABER TURK HD
+http://95.111.250.161:4444/stream/turkcell/haberturkhd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_halktvhd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] HALK TV HD
+http://95.111.250.161:4444/stream/turkcell/halktvhd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_kanaldhd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] Kanal D HD
+http://95.111.250.161:4444/stream/turkcell/kanaldhd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_krt" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] KRT
+http://95.111.250.161:4444/stream/turkcell/krt/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_natgeohd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] NAT GEO HD
+http://95.111.250.161:4444/stream/turkcell/natgeohd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_natgeowildhd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] NAT GEO WILD HD
+http://95.111.250.161:4444/stream/turkcell/natgeowildhd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_ntvhd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] NTV HD
+http://95.111.250.161:4444/stream/turkcell/ntvhd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_ssport2hd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] S SPORT 2 HD
+http://95.111.250.161:4444/stream/turkcell/ssport2hd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_ssporthd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] S SPORT HD
+http://95.111.250.161:4444/stream/turkcell/ssporthd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_tarihtvhd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] TARIH TV HD
+http://95.111.250.161:4444/stream/turkcell/tarihtvhd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_tlchd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] TLC HD
+http://95.111.250.161:4444/stream/turkcell/tlchd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_trt1hd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] TRT 1 HD
+http://95.111.250.161:4444/stream/turkcell/trt1hd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_trt2hd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] TRT 2 HD
+http://95.111.250.161:4444/stream/turkcell/trt2hd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_trtsporyildizhd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] TRT SPOR YILDIZ HD
+http://95.111.250.161:4444/stream/turkcell/trtsporyildizhd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_tv85hd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] TV 8 5 HD
+http://95.111.250.161:4444/stream/turkcell/tv85hd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_tv8hd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] TV 8 HD
+http://95.111.250.161:4444/stream/turkcell/tv8hd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_tv4hd" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] TV4 HD
+http://95.111.250.161:4444/stream/turkcell/tv4hd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_viasatexplore" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] VIASAT EXPLORE
+http://95.111.250.161:4444/stream/turkcell/viasatexplore/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="turkcell_viasathistory" tvg-title="" tvg-logo="" group-title="90010-Turkey",[TurkCell] VIASAT HISTORY
+http://95.111.250.161:4444/stream/turkcell/viasathistory/master.m3u8
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",A Türk Izmir (360p)
+https://vdo.digitalbox.xyz:3807/stream/play.m3u8
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",l] TV100 HD
+http://95.111.250.161:4444/stream/turkcell/tv100hd/master.m3u8
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",Seriale Turke HD
+http://45.90.80.250:8000/play/a01h
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR : ATV_ 4K
+http://zeestb1.online/dhoom.php?id=9528
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR : ATV_ FHD
+http://zeestb1.online/dhoom.php?id=9527
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR : Kanal 7D_FHD
+http://zeestb1.online/dhoom.php?id=5531
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR:  Lke TV
+http://myteve.online:8080/stadnik2/7082341272/626
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR:  Ocuk Smart
+http://myteve.online:8080/stadnik2/7082341272/1851
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR:  TRT 4K
+http://zeestb1.online/dhoom.php?id=8105
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: 24 Kitchen
+http://myteve.online:8080/stadnik2/7082341272/1808
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: 24 TV
+http://myteve.online:8080/stadnik2/7082341272/636
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: 360
+http://myteve.online:8080/stadnik2/7082341272/615
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: A Haber
+http://myteve.online:8080/stadnik2/7082341272/666
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: A News
+http://myteve.online:8080/stadnik2/7082341272/284578
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: A Spor
+http://myteve.online:8080/stadnik2/7082341272/529
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: A2
+http://myteve.online:8080/stadnik2/7082341272/523
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: A2_4K
+http://zeestb1.online/dhoom.php?id=3096
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Ada TV
+http://myteve.online:8080/stadnik2/7082341272/300981
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Afyon Turk
+http://myteve.online:8080/stadnik2/7082341272/163242
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Agro TV
+http://myteve.online:8080/stadnik2/7082341272/281360
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Akit TV
+http://myteve.online:8080/stadnik2/7082341272/631
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Aksu TV
+http://myteve.online:8080/stadnik2/7082341272/659
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Altas TV
+http://myteve.online:8080/stadnik2/7082341272/656
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Amadeus TV
+http://myteve.online:8080/stadnik2/7082341272/286815
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Anadolu Dernek TV
+http://myteve.online:8080/stadnik2/7082341272/36065
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Anadolu TV
+http://myteve.online:8080/stadnik2/7082341272/173369
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: As TV Bursa
+http://myteve.online:8080/stadnik2/7082341272/58133
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Atv
+http://myteve.online:8080/stadnik2/7082341272/521
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Atv Alanya
+http://myteve.online:8080/stadnik2/7082341272/280341
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Atv Avrupa
+http://myteve.online:8080/stadnik2/7082341272/296360
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Atv Para
+http://myteve.online:8080/stadnik2/7082341272/10153
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Baby Niloya
+http://myteve.online:8080/stadnik2/7082341272/300467
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Baby TV
+http://myteve.online:8080/stadnik2/7082341272/634
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Bbc Earth
+http://myteve.online:8080/stadnik2/7082341272/8238
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Bein Gurme
+http://myteve.online:8080/stadnik2/7082341272/1807
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Bein Iz
+http://myteve.online:8080/stadnik2/7082341272/1806
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Bein Series 1
+http://myteve.online:8080/stadnik2/7082341272/298429
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Bein Series 2
+http://myteve.online:8080/stadnik2/7082341272/298427
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Bein Series 3
+http://myteve.online:8080/stadnik2/7082341272/298428
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Bein Series 4
+http://myteve.online:8080/stadnik2/7082341272/298430
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Bein Series Comedy
+http://myteve.online:8080/stadnik2/7082341272/1768
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Bein Sports 1
+http://myteve.online:8080/stadnik2/7082341272/1735
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Bein Sports 2
+http://myteve.online:8080/stadnik2/7082341272/1737
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Bein Sports 3
+http://myteve.online:8080/stadnik2/7082341272/1739
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Bein Sports 4
+http://myteve.online:8080/stadnik2/7082341272/7450
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Bein Sports 5
+http://myteve.online:8080/stadnik2/7082341272/300982
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Bein Sports Haber
+http://myteve.online:8080/stadnik2/7082341272/7448
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Bein Sports Max 2
+http://myteve.online:8080/stadnik2/7082341272/16878
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Bengu Turk
+http://myteve.online:8080/stadnik2/7082341272/611
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Berat TV
+http://myteve.online:8080/stadnik2/7082341272/291146
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Beyaz TV
+http://myteve.online:8080/stadnik2/7082341272/524
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Beykent TV
+http://myteve.online:8080/stadnik2/7082341272/36067
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Bloomberg Ht
+http://myteve.online:8080/stadnik2/7082341272/664
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Blu TV Play 2
+http://myteve.online:8080/stadnik2/7082341272/300423
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Brt 1
+http://myteve.online:8080/stadnik2/7082341272/301861
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Brt 2
+http://myteve.online:8080/stadnik2/7082341272/301862
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Brt 3
+http://myteve.online:8080/stadnik2/7082341272/192602
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Brtv
+http://myteve.online:8080/stadnik2/7082341272/58143
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Caillou
+http://myteve.online:8080/stadnik2/7082341272/192581
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Can TV
+http://myteve.online:8080/stadnik2/7082341272/648
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Cartoon Network
+http://myteve.online:8080/stadnik2/7082341272/8261
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Cartoonito
+http://myteve.online:8080/stadnik2/7082341272/300424
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Cay TV
+http://myteve.online:8080/stadnik2/7082341272/7710
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Cbeebies
+http://myteve.online:8080/stadnik2/7082341272/1844
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Cekmekoy TV
+http://myteve.online:8080/stadnik2/7082341272/299402
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Cem TV
+http://myteve.online:8080/stadnik2/7082341272/663
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Chasse & Peche
+http://myteve.online:8080/stadnik2/7082341272/21246
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Ciftci TV
+http://myteve.online:8080/stadnik2/7082341272/76684
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Cine 1
+http://myteve.online:8080/stadnik2/7082341272/300983
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Cine 5
+http://myteve.online:8080/stadnik2/7082341272/297035
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Cnn Turk
+http://myteve.online:8080/stadnik2/7082341272/628
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Da Vinci
+http://myteve.online:8080/stadnik2/7082341272/1850
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Deha TV
+http://myteve.online:8080/stadnik2/7082341272/36073
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Deniz Postasi TV
+http://myteve.online:8080/stadnik2/7082341272/174429
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Dim TV
+http://myteve.online:8080/stadnik2/7082341272/58152
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Discovery Science
+http://myteve.online:8080/stadnik2/7082341272/5693
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Discovery World
+http://myteve.online:8080/stadnik2/7082341272/8236
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Disney Junior
+http://myteve.online:8080/stadnik2/7082341272/633
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Diyanet TV
+http://myteve.online:8080/stadnik2/7082341272/7711
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Dizismart Max
+http://myteve.online:8080/stadnik2/7082341272/32147
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Dizismart Premium
+http://myteve.online:8080/stadnik2/7082341272/15714
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Dmax
+http://myteve.online:8080/stadnik2/7082341272/1805
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Docubox
+http://myteve.online:8080/stadnik2/7082341272/532
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Dost TV
+http://myteve.online:8080/stadnik2/7082341272/7712
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Dream Turk
+http://myteve.online:8080/stadnik2/7082341272/669
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Drt Denizli
+http://myteve.online:8080/stadnik2/7082341272/36070
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Eba TV Ilkokul
+http://myteve.online:8080/stadnik2/7082341272/148006
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Eba TV Lise
+http://myteve.online:8080/stadnik2/7082341272/148008
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Eba TV Ortaokul
+http://myteve.online:8080/stadnik2/7082341272/148007
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Edessa TV
+http://myteve.online:8080/stadnik2/7082341272/29844
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Ekin Turk
+http://myteve.online:8080/stadnik2/7082341272/267866
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Ekol TV
+http://myteve.online:8080/stadnik2/7082341272/300464
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Ekoturk
+http://myteve.online:8080/stadnik2/7082341272/5712
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Em TV
+http://myteve.online:8080/stadnik2/7082341272/604
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Eno Turk 1
+http://myteve.online:8080/stadnik2/7082341272/16857
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Ercis TV
+http://myteve.online:8080/stadnik2/7082341272/300958
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Ertv
+http://myteve.online:8080/stadnik2/7082341272/621
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Es TV
+http://myteve.online:8080/stadnik2/7082341272/593
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Euro D
+http://myteve.online:8080/stadnik2/7082341272/39324
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Eurosport 1
+http://myteve.online:8080/stadnik2/7082341272/1755
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Eurosport 2
+http://myteve.online:8080/stadnik2/7082341272/1756
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Eurostar
+http://myteve.online:8080/stadnik2/7082341272/5038
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Exxen Sports 1
+http://myteve.online:8080/stadnik2/7082341272/281454
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Exxen Sports 2
+http://myteve.online:8080/stadnik2/7082341272/281455
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Exxen TV
+http://myteve.online:8080/stadnik2/7082341272/300384
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Fb TV
+http://myteve.online:8080/stadnik2/7082341272/300391
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Fenerbahce TV
+http://myteve.online:8080/stadnik2/7082341272/575
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Fiberbox Aksiyon
+http://myteve.online:8080/stadnik2/7082341272/537
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Fiberbox Fantastik
+http://myteve.online:8080/stadnik2/7082341272/544
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Fiberbox Turk
+http://myteve.online:8080/stadnik2/7082341272/548
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Fight Box
+http://myteve.online:8080/stadnik2/7082341272/300392
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Filmbox Family
+http://myteve.online:8080/stadnik2/7082341272/192417
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Flash Haber TV
+http://myteve.online:8080/stadnik2/7082341272/148308
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Fm TV
+http://myteve.online:8080/stadnik2/7082341272/146678
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Fox
+http://myteve.online:8080/stadnik2/7082341272/514
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Fox Life
+http://myteve.online:8080/stadnik2/7082341272/578
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Fox_FHD
+http://zeestb1.online/dhoom.php?id=5533
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Ftv
+http://myteve.online:8080/stadnik2/7082341272/299813
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Fx
+http://myteve.online:8080/stadnik2/7082341272/580
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Galatasaray TV
+http://myteve.online:8080/stadnik2/7082341272/618
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Gonca TV
+http://myteve.online:8080/stadnik2/7082341272/146677
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Grt TV
+http://myteve.online:8080/stadnik2/7082341272/174416
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Guney TV
+http://myteve.online:8080/stadnik2/7082341272/300438
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Guneydogu TV
+http://myteve.online:8080/stadnik2/7082341272/32611
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Gurbet24 TV
+http://myteve.online:8080/stadnik2/7082341272/300479
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Haber 61
+http://myteve.online:8080/stadnik2/7082341272/596
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Haber Global
+http://myteve.online:8080/stadnik2/7082341272/652
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Haberturk
+http://myteve.online:8080/stadnik2/7082341272/651
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Halk TV
+http://myteve.online:8080/stadnik2/7082341272/617
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: History
+http://myteve.online:8080/stadnik2/7082341272/1801
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Hrt Akdeniz TV
+http://myteve.online:8080/stadnik2/7082341272/36075
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Hunat TV
+http://myteve.online:8080/stadnik2/7082341272/186993
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Ibb TV
+http://myteve.online:8080/stadnik2/7082341272/166861
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Investigation Discovery
+http://myteve.online:8080/stadnik2/7082341272/8237
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: K Roglu TV
+http://myteve.online:8080/stadnik2/7082341272/299400
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: K Y TV
+http://myteve.online:8080/stadnik2/7082341272/586
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kadirga TV
+http://myteve.online:8080/stadnik2/7082341272/645
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kanal 15
+http://myteve.online:8080/stadnik2/7082341272/58132
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kanal 23
+http://myteve.online:8080/stadnik2/7082341272/58139
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kanal 26
+http://myteve.online:8080/stadnik2/7082341272/11052
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kanal 3
+http://myteve.online:8080/stadnik2/7082341272/603
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kanal 32
+http://myteve.online:8080/stadnik2/7082341272/76641
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kanal 33
+http://myteve.online:8080/stadnik2/7082341272/15697
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kanal 34
+http://myteve.online:8080/stadnik2/7082341272/89930
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kanal 58
+http://myteve.online:8080/stadnik2/7082341272/609
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kanal 68
+http://myteve.online:8080/stadnik2/7082341272/19203
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kanal 7
+http://myteve.online:8080/stadnik2/7082341272/525
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kanal 7 Avrupa
+http://myteve.online:8080/stadnik2/7082341272/4777
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kanal 7D_HD
+http://zeestb1.online/dhoom.php?id=5532
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kanal Avrupa
+http://myteve.online:8080/stadnik2/7082341272/16813
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kanal B
+http://myteve.online:8080/stadnik2/7082341272/605
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kanal D
+http://myteve.online:8080/stadnik2/7082341272/510
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: KANAL D HD
+http://zeestb1.online/dhoom.php?id=10890
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kanal Firat
+http://myteve.online:8080/stadnik2/7082341272/19242
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kanal S
+http://myteve.online:8080/stadnik2/7082341272/173391
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kanal Urfa
+http://myteve.online:8080/stadnik2/7082341272/286752
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kanal V
+http://myteve.online:8080/stadnik2/7082341272/657
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kanal Z
+http://myteve.online:8080/stadnik2/7082341272/58173
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kardelen TV
+http://myteve.online:8080/stadnik2/7082341272/199174
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kay TV
+http://myteve.online:8080/stadnik2/7082341272/16832
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kent T Rk
+http://myteve.online:8080/stadnik2/7082341272/58163
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kibris Kanal T
+http://myteve.online:8080/stadnik2/7082341272/32625
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kibris TV
+http://myteve.online:8080/stadnik2/7082341272/301860
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kocaeli TV
+http://myteve.online:8080/stadnik2/7082341272/36112
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kon TV
+http://myteve.online:8080/stadnik2/7082341272/667
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Krt
+http://myteve.online:8080/stadnik2/7082341272/1826
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Kud S TV
+http://myteve.online:8080/stadnik2/7082341272/163248
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: L Leg L TV
+http://myteve.online:8080/stadnik2/7082341272/613
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Life TV
+http://myteve.online:8080/stadnik2/7082341272/58145
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Line TV
+http://myteve.online:8080/stadnik2/7082341272/29833
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Love Nature
+http://myteve.online:8080/stadnik2/7082341272/837
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Luys TV
+http://myteve.online:8080/stadnik2/7082341272/90236
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Mavi Karadeniz TV
+http://myteve.online:8080/stadnik2/7082341272/590
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Max 007
+http://myteve.online:8080/stadnik2/7082341272/163196
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Max Animasyon 1
+http://myteve.online:8080/stadnik2/7082341272/300089
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Max Animasyon 2
+http://myteve.online:8080/stadnik2/7082341272/300090
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Max Vizyon 1
+http://myteve.online:8080/stadnik2/7082341272/300083
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Mc Eu
+http://myteve.online:8080/stadnik2/7082341272/76648
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Medine TV
+http://myteve.online:8080/stadnik2/7082341272/76652
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Medya Haber
+http://myteve.online:8080/stadnik2/7082341272/72562
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Meltem TV
+http://myteve.online:8080/stadnik2/7082341272/73228
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Mercan TV
+http://myteve.online:8080/stadnik2/7082341272/163235
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Minika Cocuk
+http://myteve.online:8080/stadnik2/7082341272/671
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Minika Go
+http://myteve.online:8080/stadnik2/7082341272/662
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Moonbug Kids
+http://myteve.online:8080/stadnik2/7082341272/299967
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Muslum Gurses
+http://myteve.online:8080/stadnik2/7082341272/300401
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Nat Geo
+http://myteve.online:8080/stadnik2/7082341272/278566
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Nat Geo Wild
+http://myteve.online:8080/stadnik2/7082341272/838
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Nick Junior
+http://myteve.online:8080/stadnik2/7082341272/675
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Nickelodeon
+http://myteve.online:8080/stadnik2/7082341272/278469
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Nicktoons
+http://myteve.online:8080/stadnik2/7082341272/300472
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Olay Turk
+http://myteve.online:8080/stadnik2/7082341272/174382
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: On 4
+http://myteve.online:8080/stadnik2/7082341272/44751
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: On 6
+http://myteve.online:8080/stadnik2/7082341272/146680
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Ordu Buyuksehir Belediyesi (obb)
+http://myteve.online:8080/stadnik2/7082341272/300466
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Rehber TV
+http://myteve.online:8080/stadnik2/7082341272/15676
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Rumeli TV
+http://myteve.online:8080/stadnik2/7082341272/76644
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: S Nger Bob
+http://myteve.online:8080/stadnik2/7082341272/300953
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: S Sport
+http://myteve.online:8080/stadnik2/7082341272/1753
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: S Sport 2
+http://myteve.online:8080/stadnik2/7082341272/10167
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Sat 7 T Rk
+http://myteve.online:8080/stadnik2/7082341272/76639
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Science & Vie TV
+http://myteve.online:8080/stadnik2/7082341272/32593
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Semerkand TV
+http://myteve.online:8080/stadnik2/7082341272/834
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Show Max_FHD
+http://zeestb1.online/dhoom.php?id=2553
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Sl Niloya
+http://myteve.online:8080/stadnik2/7082341272/70743
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Spor Smart
+http://myteve.online:8080/stadnik2/7082341272/1750
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Spor Smart 2
+http://myteve.online:8080/stadnik2/7082341272/50121
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Sports TV
+http://myteve.online:8080/stadnik2/7082341272/89846
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Star TV
+http://myteve.online:8080/stadnik2/7082341272/512
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Star TV_FHD
+http://zeestb1.online/dhoom.php?id=3090
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Star TV_HD
+http://zeestb1.online/dhoom.php?id=10283
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Sun Rtv
+http://myteve.online:8080/stadnik2/7082341272/162297
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Szc
+http://myteve.online:8080/stadnik2/7082341272/300436
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: T Rkhaber TV
+http://myteve.online:8080/stadnik2/7082341272/19202
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Tarih TV
+http://myteve.online:8080/stadnik2/7082341272/300437
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Tarim TV
+http://myteve.online:8080/stadnik2/7082341272/174433
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Tatlises TV
+http://myteve.online:8080/stadnik2/7082341272/280103
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Tay TV
+http://myteve.online:8080/stadnik2/7082341272/16887
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Tbmm TV
+http://myteve.online:8080/stadnik2/7082341272/192558
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Tele 1
+http://myteve.online:8080/stadnik2/7082341272/654
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Tempo TV
+http://myteve.online:8080/stadnik2/7082341272/29841
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Teve 2
+http://myteve.online:8080/stadnik2/7082341272/535
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Tgrt Belgesel
+http://myteve.online:8080/stadnik2/7082341272/16828
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Tgrt Eu
+http://myteve.online:8080/stadnik2/7082341272/32907
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Tgrt Haber
+http://myteve.online:8080/stadnik2/7082341272/616
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Thaqalayn TV
+http://myteve.online:8080/stadnik2/7082341272/166209
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Tivi 6
+http://myteve.online:8080/stadnik2/7082341272/291159
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Tivi T Rk
+http://myteve.online:8080/stadnik2/7082341272/192597
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Tivibu Spor
+http://myteve.online:8080/stadnik2/7082341272/1746
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Tivibu Spor 1
+http://myteve.online:8080/stadnik2/7082341272/299705
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Tivibu Spor 2
+http://myteve.online:8080/stadnik2/7082341272/1748
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Tivibu Spor 3
+http://myteve.online:8080/stadnik2/7082341272/1749
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Tivibu Spor 4
+http://myteve.online:8080/stadnik2/7082341272/286778
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Tjk TV
+http://myteve.online:8080/stadnik2/7082341272/594
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Tlc
+http://myteve.online:8080/stadnik2/7082341272/585
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Tmb
+http://myteve.online:8080/stadnik2/7082341272/76692
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Ton TV
+http://myteve.online:8080/stadnik2/7082341272/58134
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Trakya T Rk
+http://myteve.online:8080/stadnik2/7082341272/162830
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Trt 1
+http://myteve.online:8080/stadnik2/7082341272/507
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: TRT 1_HD
+http://zeestb1.online/dhoom.php?id=10790
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Trt 2
+http://myteve.online:8080/stadnik2/7082341272/635
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Trt 3 Spor
+http://myteve.online:8080/stadnik2/7082341272/299775
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Trt 4K
+http://myteve.online:8080/stadnik2/7082341272/1810
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Trt Avaz
+http://myteve.online:8080/stadnik2/7082341272/622
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Trt Belgesel
+http://myteve.online:8080/stadnik2/7082341272/577
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Trt Cocuk
+http://myteve.online:8080/stadnik2/7082341272/629
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Trt Diyanet Cocuk
+http://myteve.online:8080/stadnik2/7082341272/300381
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Trt Haber
+http://myteve.online:8080/stadnik2/7082341272/627
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Trt Spor
+http://myteve.online:8080/stadnik2/7082341272/528
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Trt Spor Yildiz
+http://myteve.online:8080/stadnik2/7082341272/32095
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Trt Turk
+http://myteve.online:8080/stadnik2/7082341272/831
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Trt World
+http://myteve.online:8080/stadnik2/7082341272/11025
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Turkasat Kemal Sunal
+http://myteve.online:8080/stadnik2/7082341272/300417
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Turkmenli TV
+http://myteve.online:8080/stadnik2/7082341272/283082
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: TV 1
+http://myteve.online:8080/stadnik2/7082341272/76645
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: TV 100
+http://myteve.online:8080/stadnik2/7082341272/1776
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: TV 4
+http://myteve.online:8080/stadnik2/7082341272/646
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: TV 41
+http://myteve.online:8080/stadnik2/7082341272/6857
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: TV 5
+http://myteve.online:8080/stadnik2/7082341272/599
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: TV 8
+http://myteve.online:8080/stadnik2/7082341272/278465
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: TV 8 _FHD
+http://zeestb1.online/dhoom.php?id=4880
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: TV 8 International
+http://myteve.online:8080/stadnik2/7082341272/43500
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: TV 8.5
+http://myteve.online:8080/stadnik2/7082341272/518
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: TV Den
+http://myteve.online:8080/stadnik2/7082341272/19257
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: TV Kayseri
+http://myteve.online:8080/stadnik2/7082341272/269641
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: TV Net
+http://myteve.online:8080/stadnik2/7082341272/1822
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Ulusal Kanal
+http://myteve.online:8080/stadnik2/7082341272/5699
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Uskudar Universities
+http://myteve.online:8080/stadnik2/7082341272/300135
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Uzay Haber
+http://myteve.online:8080/stadnik2/7082341272/76673
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Van TV
+http://myteve.online:8080/stadnik2/7082341272/300412
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Viasat Explore
+http://myteve.online:8080/stadnik2/7082341272/197561
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Viasat History
+http://myteve.online:8080/stadnik2/7082341272/32589
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Viyana TV
+http://myteve.online:8080/stadnik2/7082341272/300944
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Vizyon 58
+http://myteve.online:8080/stadnik2/7082341272/665
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Vuslat TV
+http://myteve.online:8080/stadnik2/7082341272/597
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Yaban
+http://myteve.online:8080/stadnik2/7082341272/582
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Yildiz TV En
+http://myteve.online:8080/stadnik2/7082341272/300945
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Yol TV
+http://myteve.online:8080/stadnik2/7082341272/583
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR: Zarok TV
+http://myteve.online:8080/stadnik2/7082341272/14893
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR:Fox_HD
+http://zeestb1.online/dhoom.php?id=5534
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR:Show Max TV_HD
+http://zeestb1.online/dhoom.php?id=3885
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TR:TV 8 _HD
+http://zeestb1.online/dhoom.php?id=4881
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TRT World HD
+http://121.91.61.106:8000/play/a02k/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TRT World HD
+http://154.58.202.185:8000/play/a023
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",TRT World HD
+http://45.65.112.49:8000/play/a0o7
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",Turkish Tring
+http://46.252.39.94:8008/play/a009
+#EXTINF:-1  tvg-logo="" group-title="90010-Turkey",Turkmeneli HD
+http://149.18.45.21:8000/play/a00a/index.m3u8

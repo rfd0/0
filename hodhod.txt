@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/hh/hodhod-arabic-tv-ir.pngossless_false/resize,h_256,w_256,lossless_false/optimize" group-title="30002-Hodhod Kids",Hodhod Farsi Kids
+https://nl.livekadeh.com/hls2/hodhodfarsi.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/hh/hodhod-arabic-tv-ir.pngossless_false/resize,h_256,w_256,lossless_false/optimize" group-title="30002-Hodhod Kids",Hodhod Farsi Kids
+https://nl.livekadeh.com/hls2/hodhodfarsi_mid.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/hh/hodhod-arabic-tv-ir.pngossless_false/resize,h_256,w_256,lossless_false/optimize" group-title="30002-Hodhod Kids",Hodhod Kids
+https://5e74a9d684b2e.streamlock.net/hodhodTV/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/hh/hodhod-arabic-tv-ir.pngossless_false/resize,h_256,w_256,lossless_false/optimize" group-title="30002-Hodhod Kids",Hodhod Kids
+https://hls.hodhod.live/hls/stream.m3u8

@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="11040-AL Naeem",AL Naeem
+http://149.18.45.21:8000/play/a05v/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="11040-AL Naeem",AL Naeem
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=266357
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="11040-AL Naeem",AL Naeem
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=266357&extension=ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="11040-AL Naeem",AL Naeem
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=266357&extension=ts&play_token=ICX24MBxe7#
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="11040-AL Naeem",AL Naeem
+http://45.65.112.206:8000/play/a09j
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="11040-AL Naeem",AL Naeem
+http://63b03f7689049.streamlock.net:1935/live/22/playlist.m3u8	
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="11040-AL Naeem",AL Naeem
+http://95.216.180.111:1935/live/22/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="11040-AL Naeem",AL Naeem
+http://95.216.180.111:1935/live/22/chunklist_w362928606.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="11040-AL Naeem",AL Naeem
+http://95.216.180.111:1935/live/22/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="11040-AL Naeem",AL Naeem
+http://95.216.180.111:1935/live/22/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="11040-AL Naeem",AL Naeem
+http://activefrance.net/live/YQ28GB8/WE202NG/661.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="11040-AL Naeem",AL Naeem
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/660393.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="11040-AL Naeem",AL Naeem
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/285262.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="11040-AL Naeem",AL Naeem
+https://nl2.livekadeh.com/hls2/alnaeem.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="11040-AL Naeem",AL Naeem
+https://nl2.livekadeh.com/hls2/alnaeem_high.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="11040-AL Naeem",AL Naeem
+https://nl2.livekadeh.com/hls2/alnaeem_low.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="11040-AL Naeem",AL Naeem
+https://nl2.livekadeh.com/hls2/alnaeem_mid.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="11040-AL Naeem",AL Naeem
+https://nl2.livekadeh.com/hls2/alnaeem_src.m3u8

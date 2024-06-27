@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11029-Ch4teen 5",Ch4teen 5
+http://ch14.tv/live/ch4teen5/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11029-Ch4teen 5",Ch4teen 5 HD
+http://ch14.tv:80/live/ch4teen5/playlist.m3u8

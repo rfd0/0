@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://i.imgur.com/PVQKsjE.png" group-title="11043-AL Bayyina",Bayyinat TV
+https://nl2.livekadeh.com/hls2/Bayyinat.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/PVQKsjE.png" group-title="11043-AL Bayyina",Bayyinat_high
+https://nl2.livekadeh.com/hls2/Bayyinat_high.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/PVQKsjE.png" group-title="11043-AL Bayyina",Bayyinat_low
+https://nl2.livekadeh.com/hls2/Bayyinat_low.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/PVQKsjE.png" group-title="11043-AL Bayyina",Bayyinat_mid
+https://nl2.livekadeh.com/hls2/Bayyinat_mid.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/PVQKsjE.png" group-title="11043-AL Bayyina",Bayyinat_src
+https://nl2.livekadeh.com/hls2/Bayyinat_src.m3u8

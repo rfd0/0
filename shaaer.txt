@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11012-AL Shaaer",Al-shaaer TV
+http://149.62.177.103:8000/play/a045
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11012-AL Shaaer",Al-shaaer TV
+http://154.58.202.131:8000/play/a00g
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11012-AL Shaaer",Al-shaaer TV
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=260867
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11012-AL Shaaer",Al-shaaer TV
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=260867&extension=ts
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11012-AL Shaaer",Al-shaaer TV
+http://activefrance.net/live/YQ28GB8/WE202NG/260387.ts
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11012-AL Shaaer",Al-shaaer TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114471.ts
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11012-AL Shaaer",Al-shaaer TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16619.ts
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11012-AL Shaaer",Al-shaaer TV
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/660389.ts
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11012-AL Shaaer",Al-shaaer TV
+https://video-lhr6-1.xx.fbcdn.net/hvideo-atn-cco/_nc_cat-108/_nc_sr_t-4/v/rASfAStOxQCDcjYXIHtvmzNDrwvIk4W0VEyqu5_RDNC19bg/_nc_ohc-lomxWijyX9wAX_rpKPv/live-dash/dash-abr-ibr-audio/765212069081779.mpd?ccb=2-4&ms=m_CTPAL&sc_t=1&oh=00_AfBXFsBlZVL9iQiX_LOfiTmVdMnsvDlW9Zgca5aMeBnagw&oe=65F32073

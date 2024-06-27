@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="11035-AL Imam Hussain 2",Imam Hussain 2
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=266356
+#EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="11035-AL Imam Hussain 2",Imam Hussain 2
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=266356&extension=ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="11035-AL Imam Hussain 2",Imam Hussain 2
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=266356&extension=ts&play_token=Z3yrXKOM4L#
+#EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="11035-AL Imam Hussain 2",Imam Hussain 2
+http://activefrance.net/live/YQ28GB8/WE202NG/260380.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="11035-AL Imam Hussain 2",Imam Hussain 2
+https://ak.imamhussein.live/imhtv2live/imhtv2.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="11035-AL Imam Hussain 2",Imam Hussain 2
+https://live.imamhossaintv.com/live/ih2.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="11035-AL Imam Hussain 2",Imam Hussain 2
+https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="11035-AL Imam Hussain 2",Imam Hussein TV 1 Farsi (720p)
+https://fa.imamhusseintv.com/live/ih1.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="11035-AL Imam Hussain 2",Imam Hussein TV 4 Urdu (720p)
+https://ur.imamhusseintv.com/live/ih4.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="11035-AL Imam Hussain 2",ISL_Islam Imam Hussain 1_ FHD
+http://zeestb1.online/dhoom.php?id=10310
+#EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="11035-AL Imam Hussain 2",ISL_Islam Imam Hussain 2_ FHD
+http://zeestb1.online/dhoom.php?id=10311
+#EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="11035-AL Imam Hussain 2",ISL_Islam Imam Hussain 3 _FHD
+http://zeestb1.online/dhoom.php?id=10312

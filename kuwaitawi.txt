@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11020-AL Kuwaitawi",Kuwaitawi TV
+http://45.65.112.206:8000/play/a0iy
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11020-AL Kuwaitawi",كويتي
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114483.ts

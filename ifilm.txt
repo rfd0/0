@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="" group-title="70001-Iflim",Film English
+http://121.91.61.106:8000/play/a01c/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm
+http://45.65.112.16:8000/play/a00t
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm
+http://63b03f7689049.streamlock.net:1935/live/15/playlist.m3u8	
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm
+http://95.216.180.111:1935/live/15/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm
+http://95.216.180.111:1935/live/15/chunklist_w1998252885.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm
+http://95.216.180.111:1935/live/15/chunklist_w362928606.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm
+http://95.216.180.111:1935/live/15/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm
+http://95.216.180.111:1935/live/15/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm
+http://95.216.180.111:1935/live/99/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm
+http://95.216.180.111:1935/live/99/chunklist_w362928606.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm
+http://95.216.180.111:1935/live/99/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm
+http://95.216.180.111:1935/live/99/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png	Ifilm" group-title="70001-Iflim",Ifilm
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16632.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm
+https://cdnlive.presstv.ir/cdnlive/smil:ifilmarcdn.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilm2.smil/chunklist_w1259920478_b944100_slen.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilmar.smil/chunklist_w648527360_b944100_slen.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilmen.smil/chunklist_w1265574406_b644100_slen.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilmfa.smil/chunklist_w1364694712_b644100_slen.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm 3
+http://63b03f7689049.streamlock.net:1935/live/119/playlist.m3u8	
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm 3
+http://63b03f7689049.streamlock.net:1935/live/99/playlist.m3u8	
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm 3
+http://95.216.180.111:1935/live/119/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm 4
+http://95.216.180.111:1935/live/119/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm 4
+http://95.216.180.111:1935/live/119/chunklist_w362928606.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm 4
+http://95.216.180.111:1935/live/119/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm Arabic
+http://154.58.202.131:8000/play/a08h
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="70001-Iflim",Ifilm English
+http://154.58.202.131:8000/play/a08g

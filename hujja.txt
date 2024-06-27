@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://fomny-tv.com/Video-5/Iraq/Alhujja-Tv/logo.gif" group-title="11023-AL Hujja",Al Hujja TV
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=1297842
+#EXTINF:-1  tvg-logo="https://fomny-tv.com/Video-5/Iraq/Alhujja-Tv/logo.gif" group-title="11023-AL Hujja",Al Hujja TV
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=1297842&extension=ts

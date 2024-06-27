@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",Animal Planet HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99253.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",AR: OSN Disney Junior_FHD
+http://zeestb1.online/dhoom.php?id=2983
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",AR: OSN Nick Jr_ FHD (Arabic)
+http://zeestb1.online/dhoom.php?id=9630
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",BEIN _SERIES 1_FHD
+http://zeestb1.online/dhoom.php?id=7984
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",betME HD
+http://161.132.108.74:50001/play/a04i/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",BINGE HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100714.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",CINEMA 1
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100738.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",CNBC
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99266.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",DISCOVERY CHANNEL HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100751.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",Discovery Family HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99255.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",DISCOVERY HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100711.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",Discovery HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99254.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",Discovery IDX
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99257.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",DISCOVERY IDX HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100752.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",DISCOVERY SCIENCE HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100729.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",Discovery Science HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99256.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",DISNEY CHANNEL HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100753.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",DISNEY HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100712.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",DISNEY JUNIOR HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100747.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",DISNEY XD HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100713.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",Fatafeat
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99232.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",Fox Life
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99233.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",H2 HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100748.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",HGTV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99234.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",HISTORY CHANNEL HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100725.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",MOVIES DISNEY HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100754.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",MOVIES KIDS HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100757.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",NAT GEO HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100749.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",NAT GEO HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/91517.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",NAT GEO WILD HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100750.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",Nat Geo Wild HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99252.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",Nat Geographic
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99251.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",NEWS HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100742.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",NICK JR HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100726.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",NICKELODEON HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100730.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",OSN NICK JR HD (ENG)
+http://zeestb1.online/dhoom.php?id=9631
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",OSN Yahala  HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99097.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",OSN Yahala SD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99098.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",OSN_FOX_Rewayat_FHD
+http://zeestb1.online/dhoom.php?id=7629
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",OSN_Nat_Geo_FHD
+http://zeestb1.online/dhoom.php?id=4142
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",SERIES  2  HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100707.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",SERIES COMEDY HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100710.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",SERIES FIRST HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100734.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",YA HALA ALOULA
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/46963.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",YAHALA AFLAM
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100705.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",YAHALA BIL ARABI
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100704.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",YAHALA CINEMA HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100735.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",YAHALA HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100736.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",YAHALA OULA HD
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/100759.ts
+#EXTINF:-1  tvg-logo="" group-title="70003-OSN",Zekrayat
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99236.ts

@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Zdi31dy.png" group-title="11053-AL Alam",AL Alam
+http://154.58.202.131:8000/play/a08i
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Zdi31dy.png" group-title="11053-AL Alam",AL Alam
+http://45.65.112.16:8000/play/a03q
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Zdi31dy.png" group-title="11053-AL Alam",AL Alam
+https://live2.alalam.ir/alalam.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Zdi31dy.png" group-title="11053-AL Alam",AL Alam
+https://live2.alalam.ir/live/Alalam_high/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Zdi31dy.png" group-title="11053-AL Alam",AL Alam
+https://live2.alalam.ir/live/Alalam_low/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Zdi31dy.png" group-title="11053-AL Alam",AL Alam Syria
+http://154.58.202.131:8000/play/a089
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Zdi31dy.png" group-title="11053-AL Alam",AL Alam Syria
+http://45.65.112.16:8000/play/a02c

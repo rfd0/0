@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11001-AL Imam Ali",Imam Ali TV
+https://stream.wpbond.com/live/imamalitv.m3u8
+#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11001-AL Imam Ali",Imam Ali TV
+http://149.18.45.21:8000/play/a0g3/index.m3u8
+#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11001-AL Imam Ali",Imam Ali TV
+http://149.18.45.21:8000/play/a0iz/index.m3u8
+#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11001-AL Imam Ali",Imam Ali TV
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=260877
+#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11001-AL Imam Ali",Imam Ali TV
+http://45.65.112.206:8000/play/a05v
+#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11001-AL Imam Ali",Imam Ali TV
+http://63b03f7689049.streamlock.net:1935/live/120/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11001-AL Imam Ali",Imam Ali TV
+http://95.216.180.111:1935/live/120/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11001-AL Imam Ali",Imam Ali TV
+http://95.216.180.111:1935/live/120/chunklist_w362928606.m3u8
+#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11001-AL Imam Ali",Imam Ali TV
+http://95.216.180.111:1935/live/120/index.m3u8
+#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11001-AL Imam Ali",Imam Ali TV
+http://95.216.180.111:1935/live/120/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11001-AL Imam Ali",Imam Ali TV
+http://activefrance.net/live/YQ28GB8/WE202NG/183509.ts
+#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11001-AL Imam Ali",Imam Ali TV
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114443.ts
+#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11001-AL Imam Ali",Imam Ali TV
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/285244.ts

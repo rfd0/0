@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/5xdGpN0CtDcQp61QvZZcpWEwaWEbyZDInd63SQ4SkB393oVDRIuudls3Fr_LKeCAqLhSyaTf_k8=s900-c-k-c0x00ffffff-no-rj" group-title="59999-Islamic",AL Qaaim
+http://cdn37.live247stream.com/qaim/tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/5xdGpN0CtDcQp61QvZZcpWEwaWEbyZDInd63SQ4SkB393oVDRIuudls3Fr_LKeCAqLhSyaTf_k8=s900-c-k-c0x00ffffff-no-rj" group-title="59999-Islamic",AL Qaaim
+http://cdn37.live247stream.com/qaim/tv/qaim/stream1/chunks.m3u8?nimblesessionid=960872790

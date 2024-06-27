@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="11039-AL Willaya",AL Walayia
+http://63b03f7689049.streamlock.net:1935/live/24/playlist.m3u8	
+#EXTINF:-1  tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="11039-AL Willaya",AL Walayia
+http://95.216.180.111:1935/live/24/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="11039-AL Willaya",AL Walayia
+http://95.216.180.111:1935/live/24/chunklist_w362928606.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="11039-AL Willaya",AL Walayia
+http://95.216.180.111:1935/live/24/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="11039-AL Willaya",AL Walayia
+http://95.216.180.111:1935/live/24/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="11039-AL Willaya",AL Walayia
+https://alwilayah.tv/cdn/alwilayah_tv-manifest.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="11039-AL Willaya",AL Walayia
+https://ir14.livekadeh.com/hls2/alwilayah_tv.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="11039-AL Willaya",AL Walayia
+https://ir14.livekadeh.com/hls2/alwilayah_tv_mid.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="11039-AL Willaya",AL Walayia
+https://ir14.livekadeh.com/hls2/alwilayah_tv_high.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="11039-AL Willaya",AL Walayia
+https://nl2.livekadeh.com/hls2/alwilayah_tv.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="11039-AL Willaya",AL Walayia
+https://nl2.livekadeh.com/hls2/alwilayah_tv_high.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="11039-AL Willaya",AL Walayia
+https://nl2.livekadeh.com/hls2/alwilayah_tv_low.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="11039-AL Willaya",AL Walayia
+https://nl2.livekadeh.com/hls2/alwilayah_tv_mid.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="11039-AL Willaya",AL Walayia
+https://nl2.livekadeh.com/hls2/alwilayah_tv_src.m3u8

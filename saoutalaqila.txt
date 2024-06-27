@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="11022-Saut AL Aqila",Saout Alaqila
+http://149.18.45.21:8000/play/a032/index.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="11022-Saut AL Aqila",Saout Alaqila
+http://45.65.112.206:8000/play/a0gj
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="11022-Saut AL Aqila",Saout Alaqila
+http://5.253.46.190:7002/play/a0ds
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="11022-Saut AL Aqila",Saut Alaqila
+http://activefrance.net/live/YQ28GB8/WE202NG/258625.ts
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="11022-Saut AL Aqila",Saut Alaqila
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/660364.ts
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="11022-Saut AL Aqila",Saut Alaqila
+https://nl.saoutalaqila.tv/hls2/saoutalaqila_high.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="11022-Saut AL Aqila",Saut Alaqila
+https://nl.saoutalaqila.tv/hls2/saoutalaqila_low.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="11022-Saut AL Aqila",Saut Alaqila
+https://nl2.livekadeh.com/hls2/saoutalaqila.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="11022-Saut AL Aqila",Saut Alaqila
+https://nl2.livekadeh.com/hls2/saoutalaqila_high.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="11022-Saut AL Aqila",Saut Alaqila
+https://nl2.livekadeh.com/hls2/saoutalaqila_low.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="11022-Saut AL Aqila",Saut Alaqila
+https://nl2.livekadeh.com/hls2/saoutalaqila_mid.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="11022-Saut AL Aqila",Saut Alaqila
+https://nl2.livekadeh.com/hls2/saoutalaqila_src.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="11022-Saut AL Aqila",صوت العقيلة
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114478.ts

@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alanwar_tv2.png" group-title="11042-AL Anwar 2",AL Anwar 2
+http://154.197.91.169:7002/play/a0ij
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alanwar_tv2.png" group-title="11042-AL Anwar 2",AL Anwar 2
+http://154.58.202.131:8000/play/a08x
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alanwar_tv2.png" group-title="11042-AL Anwar 2",AL Anwar 2
+http://63b03f7689049.streamlock.net:1935/live/13/chunklist_w1853606809.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alanwar_tv2.png" group-title="11042-AL Anwar 2",AL Anwar 2
+http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alanwar_tv2.png" group-title="11042-AL Anwar 2",AL Anwar 2
+http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8	
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alanwar_tv2.png" group-title="11042-AL Anwar 2",AL Anwar 2
+http://95.216.180.111:1935/live/13/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alanwar_tv2.png" group-title="11042-AL Anwar 2",AL Anwar 2
+http://95.216.180.111:1935/live/13/chunklist_w1998252885.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alanwar_tv2.png" group-title="11042-AL Anwar 2",AL Anwar 2
+http://95.216.180.111:1935/live/13/chunklist_w362928606.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alanwar_tv2.png" group-title="11042-AL Anwar 2",AL Anwar 2
+http://95.216.180.111:1935/live/13/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alanwar_tv2.png" group-title="11042-AL Anwar 2",AL Anwar 2
+http://95.216.180.111:1935/live/13/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alanwar_tv2.png" group-title="11042-AL Anwar 2",AL Anwar 2
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/660399.ts
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alanwar_tv2.png" group-title="11042-AL Anwar 2",AL Anwar 2
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49637
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alanwar_tv2.png" group-title="11042-AL Anwar 2",AL Anwar 2
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/7f3fd725a2684c459974d80790b97ec7/chunklist_b2592000.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alanwar_tv2.png" group-title="11042-AL Anwar 2",AL Anwar 2
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/7f3fd725a2684c459974d80790b97ec7/chunklist_b2592000.m3u8?p=79&s=1706293190&e=1706293310&h=8c1a9f79bceecb8486e59b11267e2ad0
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alanwar_tv2.png" group-title="11042-AL Anwar 2",الانوار 2
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114474.ts

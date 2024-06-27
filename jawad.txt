@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11016-AL Jawad",Al-jawad TV
+http://45.65.112.206:8000/play/a0j0
+#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11016-AL Jawad",قناة ذي قار
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114479.ts

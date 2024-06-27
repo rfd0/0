@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="11054-AL Mayadeen",AL Mayadeen
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=23628&extension=m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="11054-AL Mayadeen",AL Mayadeen
+http://45.65.112.49:8000/play/a0lu
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="11054-AL Mayadeen",AL Mayadeen
+http://63b03f7689049.streamlock.net:1935/live/66/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="11054-AL Mayadeen",AL Mayadeen
+http://95.216.180.111:1935/live/66/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="11054-AL Mayadeen",AL Mayadeen
+http://95.216.180.111:1935/live/66/chunklist_w362928606.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="11054-AL Mayadeen",AL Mayadeen
+http://95.216.180.111:1935/live/66/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="11054-AL Mayadeen",AL Mayadeen
+http://95.216.180.111:1935/live/66/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="11054-AL Mayadeen",AL Mayadeen
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16482.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="11054-AL Mayadeen",AL Mayadeen
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/284797.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="11054-AL Mayadeen",AL Mayadeen
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/2239
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="11054-AL Mayadeen",AL Mayadeen
+http://zeestb1.online/dhoom.php?id=1071
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="11054-AL Mayadeen",AL Mayadeen
+http://zeestb1.online/dhoom.php?id=5059
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="11054-AL Mayadeen",AL Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="11054-AL Mayadeen",AL Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="11054-AL Mayadeen",AL Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b2000000_t64NDgwcA==.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="11054-AL Mayadeen",AL Mayadeen TV
+http://45.65.112.206:8000/play/a06t
+#EXTINF:-1  tvg-logo="" group-title="11054-AL Mayadeen",AL MAYADEEN TV
+http://5.253.46.190:7004/play/a0di

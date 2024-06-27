@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_awhad_tv.png" group-title="11037-AL Awhad",Al-awhad TV
+http://149.18.45.21:8000/play/a03d/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_awhad_tv.png" group-title="11037-AL Awhad",Al-awhad TV
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=260860
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_awhad_tv.png" group-title="11037-AL Awhad",Al-awhad TV
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=260860&extension=ts
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_awhad_tv.png" group-title="11037-AL Awhad",Al-awhad TV
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=260860&extension=ts&play_token=0AieRV1ywV#
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_awhad_tv.png" group-title="11037-AL Awhad",Al-awhad TV
+http://45.65.112.206:8000/play/a0g8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_awhad_tv.png" group-title="11037-AL Awhad",Al-awhad TV
+http://45.65.112.206:8000/play/a0gu
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_awhad_tv.png" group-title="11037-AL Awhad",Al-awhad TV
+http://5.253.46.190:7002/play/a09s
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_awhad_tv.png" group-title="11037-AL Awhad",Al-awhad TV
+http://activefrance.net/live/YQ28GB8/WE202NG/648.ts
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_awhad_tv.png" group-title="11037-AL Awhad",Al-awhad TV
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/660387.ts
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_awhad_tv.png" group-title="11037-AL Awhad",Al-awhad TV
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1245

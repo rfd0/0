@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ps4Gtj0.png" group-title="11048-AL Ssirat",AL Sirat TV
+http://45.65.112.206:8000/play/a08y
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ps4Gtj0.png" group-title="11048-AL Ssirat",AL Sirat TV
+http://activefrance.net/live/YQ28GB8/WE202NG/872.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ps4Gtj0.png" group-title="11048-AL Ssirat",AL Sirat TV
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/660203.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ps4Gtj0.png" group-title="11048-AL Ssirat",AL Sirat TV
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/284868.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ps4Gtj0.png" group-title="11048-AL Ssirat",AL Sirat TV
+https://svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ps4Gtj0.png" group-title="11048-AL Ssirat",AL Sirat TV
+https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ps4Gtj0.png" group-title="11048-AL Ssirat",الصراط
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114452.ts

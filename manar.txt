@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11052-AL Manar",Al Manar
+http://154.58.202.131:8000/play/a087
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11052-AL Manar",Al Manar
+http://154.58.202.131:8000/play/a08t
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11052-AL Manar",Al Manar
+http://63b03f7689049.streamlock.net:1935/live/43/playlist.m3u8	
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11052-AL Manar",Al Manar
+http://95.216.180.111:1935/live/43/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11052-AL Manar",Al Manar
+http://95.216.180.111:1935/live/43/chunklist_w362928606.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11052-AL Manar",Al Manar
+http://95.216.180.111:1935/live/43/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11052-AL Manar",Al Manar
+http://95.216.180.111:1935/live/43/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11052-AL Manar",Al Manar
+http://95.216.180.111:1935/live/44/chunklist_w362928606.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11052-AL Manar",Al Manar
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/284800.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11052-AL Manar",Al Manar
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/284819.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11052-AL Manar",Al Manar
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/2238
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11052-AL Manar",Al Manar
+http://zeestb1.online/dhoom.php?id=2995
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11052-AL Manar",Al Manar
+http://zeestb1.online/dhoom.php?id=5055
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11052-AL Manar",Al Manar
+https://e2.manar.live:9000/live/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11052-AL Manar",Al Manar
+https://e2.manar.live:9000/live/tracks-v2a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11052-AL Manar",Al Manar
+https://e2.manar.live:9000/live/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11052-AL Manar",Al Manar
+https://manar.live/iptv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11052-AL Manar",Al Manar
+https://manar.live:443/iptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/4WKQppG.png" group-title="11052-AL Manar",Al Manar (576p)
+https://manar.live/x.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/4WKQppG.png" group-title="11052-AL Manar",AlManar
+http://manar.live/iptv/tracks-v1a1/mono.m3u8

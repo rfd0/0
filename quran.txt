@@ -1,0 +1,197 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Abdul Mohsen Al-Qasim
+https://qurango.net/radio/abdulmohsen_alqasim
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Abdurrahman Al Sudais
+https://qurango.net/radio/abdulrahman_alsudaes
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Abu Bakr Al Shatri
+https://qurango.net/radio/shaik_abu_bakr_al_shatri
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",Ahul Alquran
+https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",AL Quran
+http://149.62.177.103:8000/play/a01i
+#EXTINF:-1  tvg-logo="https://i.ibb.co/MctgDQ8/sunnah.png" group-title="29999-Quran",AL SUNNAH TV
+https://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Alafasy_hd
+http://zeestb1.online/dhoom.php?id=7674
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alerth-alnabawi-channel-jo.png" group-title="29999-Quran",Alerth Alnabawi (576p) [not 24/7]
+http://82.212.74.2:8000/live/7307.m3u8
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Ali Jaber
+https://qurango.net/radio/ali_jaber
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",Al-quran Al_karem
+http://45.65.112.16:8000/play/a06a
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Al-rasla_fhd
+http://zeestb1.online/dhoom.php?id=7673
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",AR: BAHRAIN QURAN_FHD
+http://zeestb1.online/dhoom.php?id=4536
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",AR: BAHRAIN QURAN_HD
+http://zeestb1.online/dhoom.php?id=5065
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",AR:SAUDI QURAN HD
+http://zeestb1.online/dhoom.php?id=10680
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",AR_ MAKA TV_HD
+http://zeestb1.online/dhoom.php?id=10036
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",AR_ MOHAMMAD RASOUL ALLAH_HD
+http://zeestb1.online/dhoom.php?id=7667
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",AR_AlAfasy_HD
+http://zeestb1.online/dhoom.php?id=7669
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",AR_AL-RASLA_FHD
+http://zeestb1.online/dhoom.php?id=7672
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",AR_SAUDI QRAAN_FHD
+http://zeestb1.online/dhoom.php?id=10037
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",AR_SAUDI SUNA_FHD
+http://zeestb1.online/dhoom.php?id=7666
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",AR| SAUDI QURAN FHD
+http://zeestb1.online/dhoom.php?id=10679
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",Bahrain Quran
+http://154.197.91.169:7003/play/a0e1/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Bin othaimeen by EDC - 128 kbit/s
+http://quraan.us:9890/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Hani Ar Rifa*i
+https://qurango.net/radio/hani_arrifai
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",IQRA Bangla
+http://176.65.146.170:8013/play/a06m/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",IQRA TV
+http://176.65.146.170:8013/play/a06n/index.m3u8
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",Makkah TV
+http://149.18.45.21:8000/play/a03h/index.m3u8
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",Makkah TV
+http://5.253.46.190:7001/play/a0b4/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="29999-Quran",Makkah TV (576p)
+http://m.live.net.sa:1935/live/quran/chunklist_w1949770835.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="29999-Quran",Makkah TV (576p)
+https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/chunklist_w1875078440_b446000.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="29999-Quran",Makkah TV (576p)
+https://media2.streambrothers.com:1936/8122/8122/chunklist_w1500649238.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="29999-Quran",Makkah TV (576p)
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Mecca
+https://media2.streambrothers.com:1936/8122/8122/chunklist_w914435776.m3u8
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Mishary Rashid Al-Afasy
+https://qurango.net/radio/mishary_alafasi
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",Misr Quran Kareem
+http://149.18.45.21:8000/play/a00p/index.m3u8
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",Misr Quran Kareem
+http://149.62.177.103:8000/play/a08i
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",Misr Quran Kareem
+http://45.65.112.206:8000/play/a0fl
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Mohammed Ayyoub
+https://qurango.net/radio/mohammed_ayyub
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Nabil Ar Rifa*i
+https://qurango.net/radio/nabil_al_rifay
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Nasser Al Qatami
+https://qurango.net/radio/nasser_alqatami
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",PAL Quraan 2
+http://154.58.202.131:8000/play/a0a4
+#EXTINF:-1  tvg-logo="https://i.ibb.co/GnfgKbs/alquran.png" group-title="29999-Quran",QURAN
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="29999-Quran",Quran
+http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran AbdulAzeez alAhmad by EDC - 128 kbit/s
+http://quraan.us:9914/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran Abdullah Khayat  by EDC - 128 kbit/s
+http://quraan.us:9908/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran Abu Bakr Shatri by EDC - 128 kbit/s
+http://quraan.us:9892/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran Ali Jabir by EDC - 128 kbit/s
+http://quraan.us:9912/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran in Albanian by EDC - 128 kbit/s
+http://quraan.us:9996/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran in English by EDC - 128 kbit/s
+http://server2.quraan.us:9990/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran in French by EDC - 128 kbit/s
+http://quraan.us:9988/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran in German by EDC - 128 kbit/s
+http://quraan.us:9986/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran in Hindi by EDC - 128 kbit/s
+http://quraan.us:9982/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran in Hungarian by EDC - 128 kbit/s
+http://quraan.us:9980/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran in Indonesian by EDC - 128 kbit/s
+http://quraan.us:9978/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran in Kashmiri by EDC - 128 kbit/s
+http://quraan.us:9974/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran in Korean by EDC - 128 kbit/s
+http://quraan.us:9972/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran in Kurdish by EDC - 128 kbit/s
+http://quraan.us:9970/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran in Persian by EDC - 32 kbit/s
+http://quraan.us:9936/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran in Portuguese by EDC - 128 kbit/s
+http://quraan.us:9966/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran in Sinhala by EDC - 128 kbit/s
+http://quraan.us:9962/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran in Tagalog by EDC - 128 kbit/s
+http://quraan.us:9946/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran in Telugu by EDC - 128 kbit/s
+http://quraan.us:9954/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran in Thai by EDC - 128 kbit/s
+http://quraan.us:9938/;stream.mp3
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",Quran Kareem
+http://45.65.112.206:8000/play/a0k3
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",Quran Kareem Ajloun
+http://45.65.112.206:8000/play/a0kv
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",Quran Kareem Jordan
+http://45.65.112.206:8000/play/a0hn
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0cKj4S/kareem.jpg" group-title="29999-Quran",QURAN KAREEM TV
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran Muhammad alLuhaidan EDC - 128 kbit/s
+http://quraan.us:9898/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran Recitation by Abdul Rahman AlSudais - 64 kbit/s
+http://quraan.us:9850/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran Recitation by Sheikh Ahmad alAjmi - 64 kbit/s
+http://quraan.us:9852/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran Recitation by Sheikh Ali AlHudhaifi - 64 kbit/s
+http://quraan.us:9844/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran Recitation by Sheikh Saud AlShuraim - 64 kbit/s
+http://quraan.us:9848/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran Recitation by Sheikh Tawfiq AlSaigh - 128 kbit/s
+http://quraan.us:9796/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Quran TV Pakistan
+http://121.91.61.106:8000/play/a01y/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",QURAN_ENG_AUDIO_TRANSLATION
+http://zeestb1.online/dhoom.php?id=6763
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",QURAN_URDU_AUDIO_TRANSLATION
+http://zeestb1.online/dhoom.php?id=9994
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",QuranYasser Aldosari  by EDC - 128 kbit/s
+http://quraan.us:9884/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Saad Al Ghamidi
+https://qurango.net/radio/saad_alghamdi
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Saud Al Shuraim
+https://qurango.net/radio/saud_alshuraim
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Saud Quran HD
+http://121.91.61.106:8000/play/a02l/index.m3u8
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",Saudi Ch For Quran
+http://45.65.112.16:8000/play/a04j
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",Saudi Ch For Quran HD
+http://149.62.177.103:8000/play/a00y
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",Saudi Ch For Quran HD
+http://154.54.220.67:34780/play/a02y
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",Saudi Ch For Quran HD
+http://45.65.112.49:8000/play/a0i9
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",Saudi Ch For Sunnah
+http://45.65.112.16:8000/play/a04k
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",Saudi Ch For Sunnah HD
+http://154.54.220.67:34780/play/a02z
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",Saudi Ch For Sunnah HD
+http://45.65.112.16:8000/play/a04v
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",Saudi Ch For Sunnah HD
+http://45.65.112.49:8000/play/a0i8
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",Saudi Ch. For Quran
+http://5.253.46.190:7001/play/a0ay/index.m3u8
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",Saudi Ch. For Sunnah
+http://5.253.46.190:7001/play/a0az/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.inlife.tv/sites/default/files/styles/nodes/public/logos/bahrain-quran-tv.png?itok=MlCBuTju" group-title="29999-Quran",Saudi Quran FHD
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w118302740_b2487000.m3u8
+#EXTINF:-1  tvg-logo="https://www.inlife.tv/sites/default/files/styles/nodes/public/logos/bahrain-quran-tv.png?itok=MlCBuTju" group-title="29999-Quran",Saudi Suna_fhd
+https://5c7b683162943.streamlock.net:443/live/ngrp:bahrainquran_all/chunklist_w1461721754_b978000.m3u8
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Saudi Sunnah HD
+http://121.91.61.106:8000/play/a02m/index.m3u8
+#EXTINF:-1  tvg-logo="https://makkahlive.net/images/Makkah-live.jpg" group-title="29999-Quran",Sharjah Quran
+http://154.58.202.131:8000/play/a09f
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/2/1563160362.jpg" group-title="29999-Quran",stream - 96 kbit/s
+http://192.99.170.8:5550/stream/1/
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Translation of the Quran in Swahili - 128 kbit/s
+http://quraan.us:9860/;stream.mp3
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",Yasser Ad Dossary
+https://qurango.net/radio/yasser_aldosari
+#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="29999-Quran",الرئيسية Verse 24/7 Holy Quran - 128 kbit/s
+http://stream.verse24.com:3344/stream/1/

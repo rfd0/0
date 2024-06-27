@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://archive.org/stream/Al.Resala.1976.1080p/Al.Resala.1976.1080p.thumbs/Al.Resala.1976.1080p_000054.jpg" group-title="Islamic Movies",Al.Resala.1976 eng sub
+https://ia800307.us.archive.org/15/items/ArRisaalahTheMessageArabicEnglishSubs1of3/Ar-Risaalah-English-Subs-Part-1_512kb.mp4?cnt=0
+#EXTINF:-1  tvg-logo="https://archive.org/stream/Al.Resala.1976.1080p/Al.Resala.1976.1080p.thumbs/Al.Resala.1976.1080p_000054.jpg" group-title="Islamic Movies",Al.Resala.1976 eng sub
+https://ia801307.us.archive.org/2/items/ArRisaalahTheMessageArabicEnglishSubs2of3/Ar-Risaalah-English-Subs-Part-2_512kb.mp4?cnt=0
+#EXTINF:-1  tvg-logo="https://archive.org/stream/Al.Resala.1976.1080p/Al.Resala.1976.1080p.thumbs/Al.Resala.1976.1080p_000054.jpg" group-title="Islamic Movies",Al.Resala.1976 eng sub
+https://ia801302.us.archive.org/23/items/ArRisaalahArabicEnglishSubs3of3/Ar-Risaalah-English-Subs-Part-3_512kb.mp4?cnt=0
+#EXTINF:-1  tvg-logo="https://archive.org/stream/Al.Resala.1976.1080p/Al.Resala.1976.1080p.thumbs/Al.Resala.1976.1080p_000054.jpg" group-title="Islamic Movies",Al.Resala.1976.1080p
+https://ia601902.us.archive.org/34/items/Al.Resala.1976.1080p/Al.Resala.1976.1080p.mp4?cnt=0
+#EXTINF:-1  tvg-logo="https://archive.org/stream/Al.Resala.1976.1080p/Al.Resala.1976.1080p.thumbs/Al.Resala.1976.1080p_000054.jpg" group-title="Islamic Movies",Al.Resala.1976.1080p
+https://archive.org/download/Al.Resala.1976.1080p/Al.Resala.1976.1080p.mp4
+#EXTINF:-1  tvg-logo="https://archive.org/stream/Al.Resala.1976.1080p/Al.Resala.1976.1080p.thumbs/Al.Resala.1976.1080p_000054.jpg" group-title="Islamic Movies",Al.Resala.1976.1080p
+https://ia601902.us.archive.org/34/items/Al.Resala.1976.1080p/Al.Resala.1976.1080p.mp4
+#EXTINF:-1  tvg-logo="" group-title="Islamic Movies",Al-Nebras (The Lantern) - Film on Imam Ali [HD]
+https://vz-13f48f40-3c3.b-cdn.net/c50e3010-8827-46dd-9293-f5fe31dcb50c/842x480/video.m3u8
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/video_thumb/112.jpg" group-title="Islamic Movies", Battle of Karbala
+https://nx41443.your-storageshare.de/s/sdCM3qzT3rnQyrt/download/The%20Story%20of%20Hussain%20Battle%20of%20Karbala.mp4
+
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/video_thumb/60.jpg" group-title="Islamic Movies", Al Nebras (Arabic with English sub)
+https://nx41443.your-storageshare.de/s/FcWwwdCMSKEBzyf/download/al-nebras-arabic-english.mp4
+
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/video_thumb/94.jpg" group-title="Islamic Movies", Prophet Mohammad (S.A.W.W)
+https://nx41443.your-storageshare.de/s/dytgn4zbGnTDjzt/download/prophet_mohammad_english_full.mp4
+
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/video_thumb/117.jpg" group-title="Islamic Movies", The Walk of Allegiance (English-Farsi Subtitles)
+https://nx41443.your-storageshare.de/s/sGHTWcMAgiWEodx/download/%D9%BE%DB%8C%D8%A7%D8%AF%D9%87%20%D8%B1%D9%88%DB%8C%20%D8%B9%D8%B4%D9%82.mp4
+
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/video_thumb/120.jpg" group-title="Islamic Movies", Walk of Love (English)
+https://nx41443.your-storageshare.de/s/xbLMA3a2j3zrYkT/download/THE%20WALK%20-%20Ultimate%20Journey%20Of%20Love%20%28Documentary%29%20HD.mp4
+
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/video_thumb/217.jpg" group-title="Islamic Movies", The Story of Hussain - Battle of Karbala - Documentary
+https://nx41443.your-storageshare.de/s/d2e2JMeeij4ojM9/download/The%20Story%20of%20Hussain%20-%20Battle%20of%20Karbala%20-%20FULL%20DOCUMENTARY_READY.mp4
+
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/video_thumb/32.jpg" group-title="Islamic Movies", Rastakhiz (Arabic with Persian Sub)
+https://nx41443.your-storageshare.de/s/TJYeABwHHjNaQii/download/RastakhizArabic.mp4
+
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/video_thumb/60.jpg" group-title="Islamic Movies", Al Nebras (Arabic with English sub)
+https://nx41443.your-storageshare.de/s/FcWwwdCMSKEBzyf/download/al-nebras-arabic-english.mp4
+
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/video_thumb/61.jpg" group-title="Islamic Movies", The Lord of Water (Abul Fazl (A.S)
+http://5.189.175.78/index.php/s/KZB9NmcDnppGQTn/download/hazratabbas.mp4
+
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/video_thumb/113.jpg" group-title="Islamic Movies", سفير الامام الحسين بالعربية Safeer Al Imam Hussain Arabic
+https://nx41443.your-storageshare.de/s/dD59mDr2WFRPsKi/download/safeer-imam-hussain-arabic-hd.mp4
+
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/video_thumb/119.jpg" group-title="Islamic Movies", Syeda Quresh (Arabic)
+https://nx41443.your-storageshare.de/s/dJF69TjjcQaRXBq/download/103_%D9%81%D9%84%D9%85%20%D8%B3%D9%8A%D8%AF%D8%A9%20%D9%82%D8%B1%D9%8A%D8%B4.mp4
+
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/video_thumb/122.jpg" group-title="Islamic Movies", Salman Al-Mohammadi (Movie)
+https://nx41443.your-storageshare.de/s/TTA6THPdNd5DoTg/download/the%20movie%20of%20the%20companion%20Salman%20al-Muhammadi.mp4
+
+
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/video_thumb/186.jpg" group-title="Islamic Movies", Zaraab
+https://stream.wpbond.com/kidsislamic1/STBZaraab.mp4
+
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/video_thumb/194.jpg" group-title="Islamic Movies", Ismail A Short Film
+https://stream.wpbond.com/kidsislamic1/STBismail.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="Islamic Movies",Ashab e Kahf / Companions of the Cave
+http://www.qul.org.au/Files/Ashabekahf/Ashab-E-Kahf_Men_of_the_Cave_.flv
+#EXTINF:-1  tvg-logo="" group-title="Islamic Movies",Ibrahim - Friend of God 1
+http://www.qul.org.au/Files/HazratIbrahim-FriendofGod/Part1.flv
+#EXTINF:-1  tvg-logo="" group-title="Islamic Movies",Ibrahim - Friend of God 2
+http://www.qul.org.au/Files/HazratIbrahim-FriendofGod/Part2.flv
+#EXTINF:-1  tvg-logo="" group-title="Islamic Movies",Lord Send Me Back
+http://www.qul.org.au/Files/SendMeBack/SendMeBackFilm.flv
+#EXTINF:-1  tvg-logo="" group-title="Islamic Movies",Mooz-lum
+http://www.qul.org.au/Files/Moozlum/Moozlum.flv
+#EXTINF:-1  tvg-logo="https://archive.org/stream/Al.Resala.1976.1080p/Al.Resala.1976.1080p.thumbs/Al.Resala.1976.1080p_000054.jpg" group-title="Islamic Movies",Muhammad: The Messenger Of God / محمد رسوال الله
+https://cdn.seocheck.one/movies/mohammad.rasoololah.1393.720p.mp4
+#EXTINF:-1  tvg-logo="https://archive.org/stream/Al.Resala.1976.1080p/Al.Resala.1976.1080p.thumbs/Al.Resala.1976.1080p_000054.jpg" group-title="Islamic Movies",Muhammad: The Messenger Of God / محمد رسوال الله
+https://nx41443.your-storageshare.de/s/dytgn4zbGnTDjzt/download/prophet_mohammad_english_full.mp4
+#EXTINF:-1  tvg-logo="" group-title="Islamic Movies",Shadow Upon The Sun 1
+http://www.qul.org.au/Files/Shadow/ShadowPart1.flv
+#EXTINF:-1  tvg-logo="" group-title="Islamic Movies",Shadow Upon The Sun 2
+http://www.qul.org.au/Files/Shadow/ShadowPart2.flv
+#EXTINF:-1  tvg-logo="" group-title="Islamic Movies",The Caravan of Pride
+http://www.qul.org.au/Files/Caravan/CaravanofPride.wmv
+#EXTINF:-1  tvg-logo="" group-title="Islamic Movies",The Fateful Day
+http://www.qul.org.au/Files/Ruz/The.Calamatus.Day.Ruz-e-Waqiah.DVDRip.Farsi.With.EnglishHardSubs.WMV
+#EXTINF:-1  tvg-logo="" group-title="Islamic Movies",The Holy Saint Mary
+http://www.qul.org.au/Files/Caravan/SaintMary/HolySaintMary.wmv
+#EXTINF:-1  tvg-logo="" group-title="Islamic Movies",The Kingdom of Solomon - English Subtitles
+http://www.qul.org.au/Files/Solomon/Solomon.flv
+#EXTINF:-1  tvg-logo="" group-title="Islamic Movies",The Lantern / Al Nebras
+http://www.qul.org.au/Files/TheLantern/TheLanternAlNebras.wmv
+#EXTINF:-1  tvg-logo="https://archive.org/stream/Al.Resala.1976.1080p/Al.Resala.1976.1080p.thumbs/Al.Resala.1976.1080p_000054.jpg" group-title="Islamic Movies",The Message 1977 Eng
+https://ia801002.us.archive.org/20/items/themessagemoustaphaakkad/The%20Message.mp4?cnt=0
+#EXTINF:-1  tvg-logo="https://archive.org/stream/Al.Resala.1976.1080p/Al.Resala.1976.1080p.thumbs/Al.Resala.1976.1080p_000054.jpg" group-title="Islamic Movies",The Message 1977 Eng
+https://ia801002.us.archive.org/20/items/themessagemoustaphaakkad/The%20Message.mp4
+#EXTINF:-1  tvg-logo="https://archive.org/stream/Al.Resala.1976.1080p/Al.Resala.1976.1080p.thumbs/Al.Resala.1976.1080p_000054.jpg" group-title="Islamic Movies",The Message Urdu
+https://ia800205.us.archive.org/22/items/islamicmovies/The.Message.in.Urdu_700MB.mp4?cnt=0
+#EXTINF:-1  tvg-logo="https://archive.org/stream/Al.Resala.1976.1080p/Al.Resala.1976.1080p.thumbs/Al.Resala.1976.1080p_000054.jpg" group-title="Islamic Movies",The Message Urdu
+https://archive.org/download/islamicmovies/The.Message.in.Urdu_700MB.mp4
+#EXTINF:-1  tvg-logo="https://archive.org/stream/Al.Resala.1976.1080p/Al.Resala.1976.1080p.thumbs/Al.Resala.1976.1080p_000054.jpg" group-title="Islamic Movies",The Message Urdu
+https://ia600205.us.archive.org/22/items/islamicmovies/The.Message.in.Urdu_700MB.mp4
+#EXTINF:-1  tvg-logo="" group-title="Islamic Movies",The Messiah
+http://www.qul.org.au/Files/TheMessiah/The-Messiah-Movie.DVDRip.Farsi-With-English-HardSubs.avi
+#EXTINF:-1  tvg-logo="" group-title="Islamic Movies",Uwais al-Qarni
+http://www.qul.org.au/Files/Qarni/Qarni.flv
+#EXTINF:-1  tvg-logo="" group-title="Islamic Movies",Yousif
+https://nx41443.your-storageshare.de/s/KibrQCXYwWFbcx8/download/hazratyousuf45HD.mp4
+

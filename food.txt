@@ -1,0 +1,119 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200010LE_20230912T232702SQUARE.png_20230912232703.png" group-title="70004-Food",BBC Food
+https://i.mjh.nz/SamsungTVPlus/CABD1200010LE.m3u8
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",BBC Food
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000108Z_20230627T214914SQUARE.png_20230627214915.png" group-title="70004-Food",BBC Food
+https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",BBC Food
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",BBC Food (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",BBC Food (DE)
+https://bbceu-food-1-de.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",BBC Food (EU)
+https://bbceu-food-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Bein_fatafeat
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/50063
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",BEIN_Fatafeat_FHD
+http://zeestb1.online/dhoom.php?id=7771
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",BEIN_Fatafeat_HD
+http://zeestb1.online/dhoom.php?id=7772
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Bein_gourmet
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/4113
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",BeIN_Gourmet_FHD
+http://zeestb1.online/dhoom.php?id=7989
+#EXTINF:-1  tvg-logo="https://i.imgur.com/dThvIsV.png" group-title="70004-Food",Better Health TV (480p)
+https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",COOKING CHANEL_ 4K (USA)
+http://zeestb1.online/dhoom.php?id=11134
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",COOKING CHANNEL 4K
+http://zeestb1.online/ditto.php?id=49
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Cooking Channel_fhd
+http://zeestb1.online/dhoom.php?id=6387
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Cooking Channel_hd
+http://zeestb1.online/dhoom.php?id=6416
+#EXTINF:-1  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ700002OS_20220323T071027SQUARE.png_20220323071030.png" group-title="70004-Food",Food
+https://i.mjh.nz/SamsungTVPlus/GBAJ700002OS.m3u8
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Food (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5dc280c9aa218c0009724b4b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=0734c282-0583-11eb-a18c-0242ac110002&terminate=false&userId=
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Food (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Food (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf930548ff9b00090d5686/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-logo="https://i.imgur.com/HTLo1GG.png" group-title="70004-Food",Food (England) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf930548ff9b00090d5686/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf930548ff9b00090d5686&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=500&terminate=false&userId=
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Food 52
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",FOOD FOOD
+http://zeestb1.online/ditto.php?id=436
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",FOOD FOOD INDIA
+http://zeestb1.online/ditto.php?id=437
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Food Netwok_hd
+http://zeestb1.online/dhoom.php?id=6415
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",food Network
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/99230.ts
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",FOOD NETWORK
+https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADgrhvLPIrtb3v2Tsmfj6md0&auth=d895d8cc4acb05054415f18d96085657ad37c865732b51f2d672e17d5d841f9d
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",FOOD NETWORK _4K (USA)
+http://zeestb1.online/dhoom.php?id=11133
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Food Network _fhd
+http://zeestb1.online/dhoom.php?id=6385
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",FOOD NETWORK 4K
+http://zeestb1.online/ditto.php?id=47
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Food Network HD
+http://161.132.108.74:50001/play/a01k/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Food Network HD
+http://187.102.208.83:50000/play/a012/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Food Network HD
+http://190.102.139.243:8999/play/a0om/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Food Network HD
+http://190.60.32.149:2020/play/a0ef/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",FOOD NETWORK UK
+http://zeestb1.online/ditto.php?id=48
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",FOOD NETWORK USA 4K
+http://zeestb1.online/ditto.php?id=1881
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Food -TCL
+https://food-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Food TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=601&deviceId=5877ac8cb791f4eb4a140d81&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Food TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Food TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-logo="https://i.imgur.com/WGUPTnL.png" group-title="70004-Food",Food TV (240p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5877ac8cb791f4eb4a140d81&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=601&terminate=false&userId=
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Foodies
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",GOOD FOOD 4K
+http://zeestb1.online/ditto.php?id=46
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",GOURMET
+http://200.24.138.131:8000/play/a002/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Gourmet(transcoding)
+http://187.102.208.83:50000/play/a05t/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Ifood.TV
+https://ifood-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Kuhnya
+http://188.113.190.15/314/video.m3u8
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Kuhnya
+http://188.113.190.15/38/video.m3u8
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",MD El Gourmet HD
+http://181.78.75.83:5013/play/a05o/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",MD El Gourmet HD
+http://38.252.238.0:6102/play/a02a/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",New K Food (CA)
+https://newidco-newkfood-1-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",New K Food (US)
+https://newidco-newkfood-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Osn_food_network_hd
+http://zeestb1.online/dhoom.php?id=3462
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Panorama Food
+http://45.65.112.206:8000/play/a0ej
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Panorama Food
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/16669.ts
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",SBS Food_4k  (Australia)
+http://zeestb1.online/dhoom.php?id=11132
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",The Food Network (L*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
+#EXTINF:-1  tvg-logo="" group-title="70004-Food",Travel & Food TV
+https://d3e900fnvjyq99.cloudfront.net/d/IQIB8I0HHJLUE2S3AVCC/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657305

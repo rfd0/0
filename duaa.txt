@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="11038-Al Duaa",Dua
+http://149.18.45.21:8000/play/a05p/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="11038-Al Duaa",Dua
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=266355
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="11038-Al Duaa",Dua
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=266355&extension=ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="11038-Al Duaa",Dua
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=266355&extension=ts&play_token=a9VXi0IeyH#
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="11038-Al Duaa",Dua
+http://45.65.112.206:8000/play/a09g
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="11038-Al Duaa",Dua
+http://activefrance.net/live/YQ28GB8/WE202NG/628.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="11038-Al Duaa",Dua
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/660197.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="11038-Al Duaa",Dua
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/660362.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="11038-Al Duaa",Dua
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/285002.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="11038-Al Duaa",Dua
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/285269.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="11038-Al Duaa",Dua
+https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="11038-Al Duaa",Dua
+https://live.ishiacloud.com/hls/fec3fb16-b9bd-44b1-ae9b-a1e4e91c84fc_240p.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="11038-Al Duaa",Dua
+https://live.ishiacloud.com/hls/fec3fb16-b9bd-44b1-ae9b-a1e4e91c84fc_720p.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="11038-Al Duaa",Dua
+https://live.ishiacloud.com:443/hls/fec3fb16-b9bd-44b1-ae9b-a1e4e91c84fc_720p.m3u8

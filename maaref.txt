@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
+http://149.18.45.21:8000/play/a05x/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
+http://149.18.45.21:8000/play/a0jm/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=260858
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
+http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist_w748681898_b446000.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
+http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
+http://45.65.112.206:8000/play/a09m
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/660367.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/284801.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/284985.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/285061.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
+https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/chunklist_w117425217_b446000.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
+https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/chunklist_w1748022440_b446000.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
+https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
+https://ir13.livekadeh.com/hls2/almaaref_high.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
+https://ir13.livekadeh.com/hls2/almaaref_low.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
+https://ir13.livekadeh.com/hls2/almaaref_mid.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
+https://ir13.livekadeh.com/hls2/almaaref_src.m3u8

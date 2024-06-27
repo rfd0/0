@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://live.alwafatarim.tv/assets/images/logo.png" group-title="59999-Islamic",AL Wafa Tarim
+https://ammedia.siar.us/ammedia/live/ammedia_480p.m3u8
+#EXTINF:-1  tvg-logo="https://live.alwafatarim.tv/assets/images/logo.png" group-title="59999-Islamic",AL Wafa Tarim
+https://ammedia.siar.us/ammedia/live/ammedia_720p.m3u8
+#EXTINF:-1  tvg-logo="https://live.alwafatarim.tv/assets/images/logo.png" group-title="59999-Islamic",AL Wafa Tarim
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/8h4QqMlSLeFpH-cdAtJLAsG0j3yeYkoSGSKhsQHp_tA2ZWOsd2BmGGbQN8rpz-p4Y7Pb_2rziA=s900-c-k-c0x00ffffff-no-rj" group-title="59999-Islamic",AL Zahra
+https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://shiachannel.in/livetv/img/channels/alitv.jpg" group-title="59999-Islamic",ALI TV
+https://alitv.livebox.co.in/alitvhls/live.m3u8
+#EXTINF:-1  tvg-logo="https://shialivetv.com/shialive/assets/img/alzahratv.jpg" group-title="59999-Islamic",Alzahra TV
+https://edge1.socialsmart.tv/on4/bant1/chunks.m3u8?nimblesessionid=1357466938
+#EXTINF:-1  tvg-logo="" group-title="59999-Islamic",Al-Zahra TV Turkic (1080p)
+https://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/bb/beitolabbas-tv-channel-iq.png" group-title="59999-Islamic",Beitolabbas TV Channel (720p)
+https://live.beitolabbas.tv/live/beitolabbastv.m3u8
+#EXTINF:-1  tvg-logo="" group-title="59999-Islamic",Bmt
+https://international.sechls01.visionip.tv/live/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-SD/chunklist.m3u8?wowzasessionid=1385576488
+#EXTINF:-1  tvg-logo="https://shiachannel.in/livetv/img/channels/win.png" group-title="59999-Islamic",Channel Win TV
+http://line.tivi-one.net:80/live/RLHNCDE/N0iE82ur6Z/372927.ts
+#EXTINF:-1  tvg-logo="" group-title="59999-Islamic",Diyar TV
+https://yayin30.haber100.com/live/diyartv/chunklist_w1228883945.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/NWljgKa.png" group-title="59999-Islamic",Eman Channel (576p)
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="59999-Islamic",Hilal TV
+https://cdn5.iqsat.net/iq/aa89b15058a61b904359307cc0a5e80a.sdp/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://shialivetv.com/shialive/assets/img/hydertv.jpg" group-title="59999-Islamic",Hyder TV
+http://cdn.live247stream.com/hyder/tv/hyder/stream1/chunks.m3u8?nimblesessionid=960874243
+#EXTINF:-1  tvg-logo="" group-title="59999-Islamic",Hyder TV
+http://cdn.live247stream.com:80/hyder/tv/hyder/stream2/chunks.m3u8?nimblesessionid=798882315
+#EXTINF:-1  tvg-logo="https://i.imgur.com/reHjjRZ.png" group-title="59999-Islamic",Hyder TV (720p)
+https://cdn.live247stream.com/hyder/tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="59999-Islamic",Ibn
+http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8
+#EXTINF:-1  tvg-logo="https://shialivetv.com/shialive/assets/img/ibn.jpg" group-title="59999-Islamic",Ibn
+http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
+#EXTINF:-1  tvg-logo="https://shialivetv.com/shialive/assets/img/ibnafrica.jpg" group-title="59999-Islamic",IBN Africa
+http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
+#EXTINF:-1  tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png" group-title="59999-Islamic",IQR Iqra TV
+http://line.tivi-one.net:80/live/RLHNCDE/N0iE82ur6Z/373089.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GK5BlnN.jpg" group-title="59999-Islamic",Iqra Bangla (576p)
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="59999-Islamic",Iqraa
+https://jmc-live.ercdn.net/iqraa/iqraa_576p.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="59999-Islamic",Iqraa (576p) [not 24/7]
+https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
+#EXTINF:-1  tvg-logo="" group-title="59999-Islamic",ISHAARA TV HD
+http://zeestb1.online/ditto.php?id=2248
+#EXTINF:-1  tvg-logo="" group-title="59999-Islamic",ISHARA TV
+http://14.102.123.50:8200/play/a0l9
+#EXTINF:-1  tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png" group-title="59999-Islamic",Islam Channel (576p) [not 24/7]
+https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/live.m3u8
+#EXTINF:-1  tvg-logo="" group-title="59999-Islamic",ISLAM CHANNEL HD
+http://zeestb1.online/dhoom.php?id=1603
+#EXTINF:-1  tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png" group-title="59999-Islamic",Islam Channel Urdu
+https://live-islamtv-urdu.simplestreamcdn.com/live7/islamtv_urdu/bitrate1.isml/live.m3u8
+#EXTINF:-1  tvg-logo="" group-title="59999-Islamic",Islam TV
+http://176.65.146.170:8013/play/a06l/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="59999-Islamic",Khayber Me
+http://121.91.61.106:8000/play/a03j/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="59999-Islamic",Khayber News HD
+http://121.91.61.106:8000/play/a03i/index.m3u8
+#EXTINF:-1  tvg-logo="https://shialivetv.com/shialive/assets/img/khojatv.jpg" group-title="59999-Islamic",Khoja TV
+https://livecdn.live247stream.com/khoja/tv/khoja/stream/chunks.m3u8?nimblesessionid=56121060
+#EXTINF:-1  tvg-logo="" group-title="59999-Islamic",KHYBER NEWS HD
+http://zeestb1.online/dhoom.php?id=1614
+#EXTINF:-1  tvg-logo="https://dawateislamimidlands.net/wp-content/uploads/2020/01/Madani-Channel-Section-1.png" group-title="59999-Islamic",Madani Channel English
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
+#EXTINF:-1  tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="59999-Islamic",Madani TV Bangla
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1  tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="59999-Islamic",Madani TV Urdu
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
+#EXTINF:-1  tvg-logo="" group-title="59999-Islamic",PEACE TV ENGLISH
+http://zeestb1.online/dhoom.php?id=4507
+#EXTINF:-1  tvg-logo="" group-title="59999-Islamic",Qaim TV  FHD
+http://zeestb1.online/dhoom.php?id=10309
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/safeer-tv.jpg" group-title="59999-Islamic",Safeer TV
+https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://shialivetv.com/shialive/assets/img/safeertv.jpg" group-title="59999-Islamic",Safeer TV
+https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/pjyqn3br/1080/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/yQDAReE.png" group-title="59999-Islamic",Salaam TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://shialivetv.com/shialive/assets/img/salaam.jpg" group-title="59999-Islamic",Salaam TV
+https://iptv.salaamtv.org/salaam/playlist2/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/tt/takbeer-tv-uk.png" group-title="59999-Islamic",Takbeer TV(uk)
+https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="59999-Islamic",THE Islamic Network
+http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/chunklist_w383761584.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/vv/valiasr-aj-tv-ir.png" group-title="59999-Islamic",Valiasr
+https://nl2.livekadeh.com/hls2/valiasr.m3u8
+#EXTINF:-1  tvg-logo="https://play-lh.googleusercontent.com/pkl2raTjGdA-f5juuthEgDryvEZhCsj_pv7VD4Om9jmaDwpDyoSt0ntCa_I3r3EKYQ" group-title="59999-Islamic",Velayat TV
+https://nl.livekadeh.com/hls2/velayattv_high.m3u8
+#EXTINF:-1  tvg-logo="https://play-lh.googleusercontent.com/pkl2raTjGdA-f5juuthEgDryvEZhCsj_pv7VD4Om9jmaDwpDyoSt0ntCa_I3r3EKYQ" group-title="59999-Islamic",Velayat TV
+https://nl2.livekadeh.com/hls2/velayattv.m3u8
+#EXTINF:-1  tvg-logo="https://play-lh.googleusercontent.com/pkl2raTjGdA-f5juuthEgDryvEZhCsj_pv7VD4Om9jmaDwpDyoSt0ntCa_I3r3EKYQ" group-title="59999-Islamic",Velayat TV
+https://nl2.livekadeh.com/hls2/velayattv_high.m3u8
+#EXTINF:-1  tvg-logo="https://play-lh.googleusercontent.com/pkl2raTjGdA-f5juuthEgDryvEZhCsj_pv7VD4Om9jmaDwpDyoSt0ntCa_I3r3EKYQ" group-title="59999-Islamic",Velayat TV
+https://nl2.livekadeh.com/hls2/velayattv_low.m3u8
+#EXTINF:-1  tvg-logo="https://play-lh.googleusercontent.com/pkl2raTjGdA-f5juuthEgDryvEZhCsj_pv7VD4Om9jmaDwpDyoSt0ntCa_I3r3EKYQ" group-title="59999-Islamic",Velayat TV
+https://nl2.livekadeh.com/hls2/velayattv_mid.m3u8
+#EXTINF:-1  tvg-logo="https://play-lh.googleusercontent.com/pkl2raTjGdA-f5juuthEgDryvEZhCsj_pv7VD4Om9jmaDwpDyoSt0ntCa_I3r3EKYQ" group-title="59999-Islamic",Velayat TV
+https://nl2.livekadeh.com/hls2/velayattv_src.m3u8
+#EXTINF:-1  tvg-logo="https://th.bing.com/th/id/OIP.8ReN-UCiQN39BH5C-mPafAHaHa?rs=1&pid=ImgDetMain" group-title="59999-Islamic",Velayat TV
+https://nl2.livekadeh.com/hls2/vilayet.m3u8
+#EXTINF:-1  tvg-logo="https://th.bing.com/th/id/OIP.8ReN-UCiQN39BH5C-mPafAHaHa?rs=1&pid=ImgDetMain" group-title="59999-Islamic",Velayat TV
+https://nl2.livekadeh.com/hls2/vilayet_high.m3u8
+#EXTINF:-1  tvg-logo="https://th.bing.com/th/id/OIP.8ReN-UCiQN39BH5C-mPafAHaHa?rs=1&pid=ImgDetMain" group-title="59999-Islamic",Velayat TV
+https://nl2.livekadeh.com/hls2/vilayet_low.m3u8
+#EXTINF:-1  tvg-logo="https://th.bing.com/th/id/OIP.8ReN-UCiQN39BH5C-mPafAHaHa?rs=1&pid=ImgDetMain" group-title="59999-Islamic",Velayat TV
+https://nl2.livekadeh.com/hls2/vilayet_mid.m3u8
+#EXTINF:-1  tvg-logo="https://th.bing.com/th/id/OIP.8ReN-UCiQN39BH5C-mPafAHaHa?rs=1&pid=ImgDetMain" group-title="59999-Islamic",Velayat TV
+https://nl2.livekadeh.com/hls2/vilayet_src.m3u8
+#EXTINF:-1  tvg-logo="https://shialivetv.com/shialive/assets/img/hausa.jpg" group-title="59999-Islamic",Willaya Hausa
+https://nl.livekadeh.com/hls2/alwilayah.tv.hausa_high.m3u8
+#EXTINF:-1  tvg-logo="https://shialivetv.com/shialive/assets/img/hausa.jpg" group-title="59999-Islamic",Willaya Hausa
+https://nl.livekadeh.com/hls2/alwilayah.tv.hausa_low.m3u8
+#EXTINF:-1  tvg-logo="https://shialivetv.com/shialive/assets/img/hausa.jpg" group-title="59999-Islamic",Willaya Hausa
+https://nl.livekadeh.com/hls2/alwilayah.tv.hausa_mid.m3u8
+#EXTINF:-1  tvg-logo="https://shialivetv.com/shialive/assets/img/hausa.jpg" group-title="59999-Islamic",Willaya Hausa
+https://nl.livekadeh.com/hls2/alwilayah.tv.hausa_src.m3u8
+#EXTINF:-1  tvg-logo="https://shialivetv.com/shialive/assets/img/YG6LVaxhQ7W3rSLD7KlR_unnamed.png" group-title="59999-Islamic",WIN TV
+https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/chunks.m3u8?nimblesessionid=2349736
+#EXTINF:-1  tvg-logo="" group-title="5999-Islamic",Peace TV English
+http://121.91.61.106:8000/play/a01f/index.m3u8

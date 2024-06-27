@@ -1,0 +1,1021 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Abbtak
+http://121.91.61.106:8000/play/a029/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/7aIab2r.png" group-title="39999-Kids",ACS Network (480p)
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/8ariztD.png" group-title="39999-Kids",Aghapy Kids (1080p)
+https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",AL Majd Kids
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/51446
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",AL Majd Kids Besma
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/51447
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",AL Majd Kids Rawdha
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/51448
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Amou Yazid Tofola TV
+http://5.253.46.190:7002/play/a0ed
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Amou Yazid TV
+http://185.236.229.117:8000/play/a00q/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Animakids
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Animakids (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="39999-Kids",Anime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="39999-Kids",Anime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Anime (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Anime (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://i.imgur.com/S31utcQ.png" group-title="39999-Kids",Animé Acción (684p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Anime all Ages
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=830&deviceId=5be4c6311843b56328bce619&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Anime All Ages
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Anime All Ages (720p)
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#EXTINF:-1  tvg-logo="https://i.imgur.com/iv8ejiz.png" group-title="39999-Kids",Anime All Ages (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Anime all Day
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=830&deviceId=5812b7d3249444e05d09cc49&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Anime All Day
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Anime All Day
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=830&deviceId=5812b7d3249444e05d09cc49&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/T15q1gJr/anim.png" group-title="39999-Kids",Anime All Day
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Anime All Day
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504502A_20230125T022445SQUARE.png_20230125022445.png" group-title="39999-Kids",Anime All day
+https://i.mjh.nz/SamsungTVPlus/USAJ3504502A.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Anime All day
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="39999-Kids",Anime All Day
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Anime All Day
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Anime All Day (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId=
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Anime All Day (UK) (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",ARY QTV
+http://121.91.61.106:8000/play/a02d/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Ary Zindagi
+http://121.91.61.106:8000/play/a02b/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Y2BqP9m.png" group-title="39999-Kids",Atfal & Mawaheb TV (1080p)
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Atfal Mawaheb
+http://149.18.45.21:8000/play/a00d/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Atfal Mawaheb
+http://45.65.112.206:8000/play/a06k
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Atfal Wa Mawaheb
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",BABIES RHYMES 4K
+http://zeestb1.online/ditto.php?id=1613
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Baby First
+http://168.232.168.242:4000/play/a03p/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Baby First
+http://38.252.238.0:6102/play/a025/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",BABY FIRST 4K
+http://zeestb1.online/ditto.php?id=217
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",BABY RHYMES
+http://zeestb1.online/dhoom.php?id=9622
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",BABY RHYMES 2 FHD
+http://zeestb1.online/dhoom.php?id=9621
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",BABY RHYMES HD
+http://zeestb1.online/dhoom.php?id=1754
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",BABY RHYMES HINDI HD
+http://zeestb1.online/dhoom.php?id=8447
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",BABY SHARK HD
+http://zeestb1.online/dhoom.php?id=7834
+#EXTINF:-1  tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="39999-Kids",Baby Shark TV (1080p)
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Baby TV
+http://168.232.168.242:4000/play/a00l/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Baby TV
+http://186.167.81.106:8126/play/a0f0/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Baby TV
+http://187.102.208.83:50000/play/a04o/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Baby TV
+http://190.102.139.243:8999/play/a105/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Baby TV
+http://190.61.40.186:45000/play/a03r
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Baby TV
+http://209.45.101.38:8889/play/a0ct
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Baby TV
+http://myteve.online:8080/stadnik2/7082341272/64399
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Baby TV
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/5790
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Baby TV HD
+http://142.132.218.83:2086/play/a007/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",BABY TV HD
+http://zeestb1.online/dhoom.php?id=7420
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",BABY TV HD
+http://zeestb1.online/ditto.php?id=2378
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Baby_Time
+http://188.113.190.15/178/video.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Baby_TV
+http://77.247.109.70:14798
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",BabyFirst
+http://177.93.39.249:45000/play/a00m/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",BabyFirst
+http://181.78.74.83:45000/play/a00f/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Babyfirst
+http://181.78.75.83:5013/play/a06c/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",BabyFirst
+http://190.102.139.243:8999/play/a0kr/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",BabyFirst
+http://191.97.6.29:8000/play/a0a2/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",BabyFirst
+http://191.97.9.93:8000/play/a018/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",BABYTV HD UK
+http://zeestb1.online/ditto.php?id=2379
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Baraem
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/730
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",BBC CBEEBIES HD
+http://zeestb1.online/ditto.php?id=228
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Bein_baby_hd
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52811
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Bein_baraem
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/3564
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Bein_be_junior
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49868
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Bein_boomerang
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/48858
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Bein_cartoon_network_hd
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52775
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Bein_discovery_kids_hd
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52774
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",BLOOMBERG TV US
+http://zeestb1.online/ditto.php?id=27
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",BLOOMBERG UK 4K
+http://zeestb1.online/ditto.php?id=1879
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",BLOOMBERG UK HD
+http://zeestb1.online/dhoom.php?id=7413
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Boomerang
+http://168.232.168.242:4000/play/a00n/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Boomerang
+http://myteve.online:8080/stadnik2/7082341272/8915
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",BOOMERANG 4K
+http://zeestb1.online/ditto.php?id=2381
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",BOOMERANG 4K UK
+http://zeestb1.online/ditto.php?id=2382
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",CARTONITOO
+http://200.24.138.131:8000/play/a041/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network
+http://177.93.39.249:45000/play/a00h/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network
+http://181.78.74.83:45000/play/a00c/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network
+http://181.78.75.83:5013/play/a065/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network
+http://190.102.139.243:8999/play/a0kk/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network
+http://190.60.37.154:45000/play/a030/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network
+http://190.94.186.158:9981/play/a03m/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network
+http://191.97.6.29:8000/play/a09y/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network
+http://191.97.9.93:8000/play/a013/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",CARTOON NETWORK
+http://200.24.138.131:8000/play/a040/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network
+http://iptv.icsnleb.com:25461/live//a/b//30.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",CARTOON NETWORK
+http://zeestb1.online/ditto.php?id=230
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network
+http://38.252.238.0:6102/play/a00b/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",CARTOON NETWORK 4K
+http://zeestb1.online/dhoom.php?id=7563
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network Arabia
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46322
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" group-title="39999-Kids",Cartoon Network Arabia (1080p)
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network Arabic
+http://myteve.online:8080/stadnik2/7082341272/58461
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",CARTOON NETWORK FHD
+http://zeestb1.online/dhoom.php?id=7564
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network HD
+http://161.132.108.74:50001/play/a017/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network HD
+http://186.167.81.106:8126/play/a0da/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network HD
+http://187.102.208.83:50000/play/a00h/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network HD
+http://190.102.139.243:8999/play/a0o3/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network HD
+http://190.60.32.149:2020/play/a0dl/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network HD
+http://190.61.40.186:45000/play/a01y
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network HD
+http://209.45.101.38:8889/play/a0bq
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network HD
+http://38.25.46.199:4000/play/a046/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network HD
+http://38.25.46.200:4000/play/a046/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network HD
+http://38.25.46.201:4000/play/a046/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network HD
+http://38.25.46.202:4000/play/a046/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network HD
+http://38.25.46.203:4000/play/a046/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network HD
+http://38.25.46.204:4000/play/a046/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network HD
+http://38.252.218.26:4000/play/a046/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network HD
+http://38.252.218.27:4000/play/a046/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon Network HD
+http://38.252.218.28:4000/play/a046/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",CARTOON NETWORK HD UK
+http://zeestb1.online/ditto.php?id=248
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",CARTOON NETWORK INDIA
+http://zeestb1.online/ditto.php?id=249
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",CARTOON NT HD
+http://168.232.168.242:4000/play/a00p/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoon NW-Rs4.25
+http://14.102.123.50:8200/play/a05t
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoonito
+http://186.167.81.106:8126/play/a0eb/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoonito
+http://187.102.208.83:50000/play/a05m/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoonito
+http://190.94.186.158:9981/play/a03i/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoonito
+http://38.252.238.0:6102/play/a00d/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoonito HD
+http://161.132.108.74:50001/play/a03a/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoonito HD
+http://77.247.109.70:14802
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoonito HD
+http://77.247.109.70:14806
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoonito IPTV
+http://190.60.32.149:2020/play/a0dm/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoonito Md
+http://181.78.75.83:5013/play/a09c/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",CARTOON-Rs4.25
+http://103.157.210.165:8000/play/a00p/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",CARTOON-Rs4.25
+http://103.174.195.4:8000/play/a00n
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartoons
+http://77.247.109.70:14831
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Cartton Network HD
+http://181.78.75.83:5013/play/a0al/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",CN
+http://s4.nihontv.net:21585/cartoon/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",CTC_Kids
+http://188.113.190.15/132/video.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids
+http://177.93.39.249:45000/play/a00o/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids
+http://181.78.74.83:45000/play/a01v/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids
+http://181.78.75.83:5013/play/a09e/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids
+http://190.60.37.154:45000/play/a035/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids
+http://190.94.186.158:9981/play/a03j/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids
+http://191.97.6.29:8000/play/a0a5/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids
+http://191.97.9.93:8000/play/a03j/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",DISCOVERY KIDS
+http://200.24.138.131:8000/play/a037/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids
+http://209.45.101.38:8889/play/a0bj
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids
+http://38.252.238.0:6101/play/a02c/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids 2 HD
+http://187.102.208.83:50000/play/a05d/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids HD
+http://161.132.108.74:50001/play/a00q/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids HD
+http://168.232.168.242:4000/play/a03m/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids HD
+http://181.78.75.83:5013/play/a05h/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids HD
+http://186.167.81.106:8126/play/a0cu/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids HD
+http://187.102.208.83:50000/play/a008/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids HD
+http://190.102.139.243:8999/play/a0nc/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids HD
+http://190.60.32.149:2020/play/a0dw/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids HD
+http://190.61.40.186:45000/play/a019
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids HD
+http://38.25.46.199:4000/play/a03i/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids HD
+http://38.25.46.200:4000/play/a03i/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids HD
+http://38.25.46.201:4000/play/a03i/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids HD
+http://38.25.46.202:4000/play/a03i/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids HD
+http://38.25.46.203:4000/play/a03i/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids HD
+http://38.25.46.204:4000/play/a03i/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids HD
+http://38.252.218.26:4000/play/a03i/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids HD
+http://38.252.218.27:4000/play/a03i/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids HD
+http://38.252.218.28:4000/play/a03i/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids HD
+http://38.252.238.0:6101/play/a00i/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Discovery Kids-Rs3.50
+http://14.102.123.50:8200/play/a064
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",DISCOVERY K-Rs3
+http://103.157.210.165:8000/play/a00y/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",DISCOVERY K-Rs3
+http://103.174.195.4:8000/play/a00v
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney
+http://168.232.168.242:4000/play/a018/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney
+http://38.252.238.0:6101/play/a02e/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Channel
+http://176.10.117.3:5000/play/a00w/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Channel
+http://177.93.39.249:45000/play/a012/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Channel
+http://181.78.74.83:45000/play/a01e/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Channel
+http://181.78.75.83:5013/play/a06f/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Channel
+http://190.102.139.243:8999/play/a0w6/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Channel
+http://190.2.213.254:8000/play/a00b/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Channel
+http://190.60.37.154:45000/play/a03b/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Channel
+http://190.61.40.186:45000/play/a06b
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Channel
+http://191.97.6.29:8000/play/a07h/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Channel
+http://191.97.9.93:8000/play/a04k/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",DISNEY CHANNEL
+http://200.24.138.131:8000/play/a036/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Channel
+http://myteve.online:8080/stadnik2/7082341272/64409
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",DISNEY CHANNEL FHD
+http://zeestb1.online/dhoom.php?id=7458
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Channel HD
+http://142.132.218.83:2086/play/a00g/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Channel HD
+http://161.132.108.74:50001/play/a00e/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Channel HD
+http://190.102.139.243:8999/play/a0mw/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Channel HD
+http://209.45.101.38:8889/play/a0at
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",DISNEY CHANNEL HD
+http://zeestb1.online/ditto.php?id=234
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",DISNEY CHANNEL UK
+http://zeestb1.online/ditto.php?id=235
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",DISNEY CHANNEL USA
+http://zeestb1.online/ditto.php?id=232
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Chan-Rs8
+http://103.157.210.165:8000/play/a00r/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Chan-Rs8
+http://103.174.195.4:8000/play/a00p
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney HD
+http://187.102.208.83:50000/play/a025/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney HD
+http://190.60.32.149:2020/play/a0dy/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney HD
+http://190.94.186.158:9981/play/a03g/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney HD
+http://191.97.9.93:8000/play/a09r/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney HD
+http://38.25.46.199:4000/play/a02h/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney HD
+http://38.25.46.200:4000/play/a02h/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney HD
+http://38.25.46.201:4000/play/a02h/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney HD
+http://38.25.46.202:4000/play/a02h/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney HD
+http://38.25.46.203:4000/play/a02h/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney HD
+http://38.25.46.204:4000/play/a02h/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney HD
+http://38.252.218.26:4000/play/a02h/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney HD
+http://38.252.218.27:4000/play/a02h/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney HD
+http://38.252.218.28:4000/play/a02h/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",DISNEY HD
+http://zeestb1.online/dhoom.php?id=7459
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",DISNEY HD INDIA
+http://zeestb1.online/ditto.php?id=2546
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney JR
+http://168.232.168.242:4000/play/a019/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Jr
+http://177.93.39.249:45000/play/a00v/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Jr
+http://181.78.74.83:45000/play/a01x/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Jr
+http://190.60.37.154:45000/play/a03a/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Jr
+http://190.61.40.186:45000/play/a045
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Jr
+http://190.94.186.158:9981/play/a03k/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Jr
+http://191.97.6.29:8000/play/a0ae/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Jr
+http://191.97.9.93:8000/play/a03w/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",DISNEY JR
+http://200.24.138.131:8000/play/a038/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney JR
+http://38.252.238.0:6102/play/a00e/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",DISNEY Jr _HD
+http://zeestb1.online/dhoom.php?id=7457
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",DISNEY JR 4K OSN
+http://zeestb1.online/ditto.php?id=2396
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",DISNEY JR 4K UK
+http://zeestb1.online/ditto.php?id=224
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",DISNEY JR 4K USA
+http://zeestb1.online/ditto.php?id=223
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Jr.-Rs 4
+http://103.157.210.165:8000/play/a00u/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Jr.-Rs 4
+http://103.174.195.4:8000/play/a00r
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Jr.-Rs 4
+http://14.102.123.50:8200/play/a05y
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Junior
+http://186.167.81.106:8126/play/a0ef/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Junior
+http://187.102.208.83:50000/play/a03k/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Junior
+http://190.102.139.243:8999/play/a112/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Junior
+http://209.45.101.38:8889/play/a0c4
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Junior
+http://myteve.online:8080/stadnik2/7082341272/64404
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Junior HD
+http://142.132.218.83:2086/play/a008/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Junior HD
+http://161.132.108.74:50001/play/a00i/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney Junior IPTV
+http://190.60.32.149:2020/play/a0dz/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney XD
+http://168.232.168.242:4000/play/a01a/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",DISNEY XD HD
+http://zeestb1.online/ditto.php?id=233
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",DISNEY XD HD USA
+http://zeestb1.online/ditto.php?id=2395
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",DISNEY XD UK
+http://zeestb1.online/ditto.php?id=236
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",DISNEY_HD
+http://zeestb1.online/dhoom.php?id=8633
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Disney-Rs 10
+http://14.102.123.50:8200/play/a05v
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",EBS Kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",FMH KIDS
+http://45.176.232.114:8000/play/a01m
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Forever Kids by Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Grendizer
+http://myteve.online:8080/stadnik2/7082341272/300584
+#EXTINF:-1  tvg-logo="https://i.imgur.com/bM4VZDH.png" group-title="39999-Kids",Hala London TV Cartoon (720p)
+https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Cartoon/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LPjoORg.png" group-title="39999-Kids",Happy Days (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7794162a4559000781fc12/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300017XX_20230926T000658SQUARE.png_20230926000659.png" group-title="39999-Kids",HappyKids
+https://i.mjh.nz/SamsungTVPlus/CABC2300017XX.m3u8
+#EXTINF:-1  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000072I_20230823T001719SQUARE.png_20230823001720.png" group-title="39999-Kids",HappyKids
+https://i.mjh.nz/SamsungTVPlus/USBC44000072I.m3u8
+#EXTINF:-1  tvg-logo="https://app.hodhodarabic.com/assets/logo.svg" group-title="39999-Kids",Hodhod
+http://63b03f7689049.streamlock.net:1935/live/17/chunklist_w853879683.m3u8
+#EXTINF:-1  tvg-logo="https://app.hodhodarabic.com/assets/logo.svg" group-title="39999-Kids",Hodhod
+http://63b03f7689049.streamlock.net:1935/live/17/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://app.hodhodarabic.com/assets/logo.svg" group-title="39999-Kids",Hodhod
+http://63b03f7689049.streamlock.net:1935/live/17/playlist.m3u8	
+#EXTINF:-1  tvg-logo="https://app.hodhodarabic.com/assets/logo.svg" group-title="39999-Kids",Hodhod
+http://95.216.180.111:1935/live/17/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://app.hodhodarabic.com/assets/logo.svg" group-title="39999-Kids",Hodhod
+http://95.216.180.111:1935/live/17/chunklist_w362928606.m3u8
+#EXTINF:-1  tvg-logo="https://app.hodhodarabic.com/assets/logo.svg" group-title="39999-Kids",Hodhod
+http://95.216.180.111:1935/live/17/index.m3u8
+#EXTINF:-1  tvg-logo="https://app.hodhodarabic.com/assets/logo.svg" group-title="39999-Kids",Hodhod
+http://95.216.180.111:1935/live/17/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Hodhod
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/54618
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Hodhod  TV
+http://149.18.45.21:8000/play/a05l/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Hodhod  TV
+http://45.65.112.206:8000/play/a09d
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Home Cinema Kids 1
+http://myteve.online:8080/stadnik2/7082341272/300590
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Home Cinema Kids 2
+http://myteve.online:8080/stadnik2/7082341272/300591
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Iraq Edu Kids
+http://149.18.45.21:8000/play/a0j0/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Iraq Edu Kids
+http://45.65.112.206:8000/play/a05w
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Jalwa
+http://121.91.61.106:8000/play/a02a/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",JALWA
+http://zeestb1.online/ditto.php?id=505
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",JAM Jam Kids
+http://63b03f7689049.streamlock.net:1935/live/100/playlist.m3u8	
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Kidoodle
+https://kidoodletv-kdtv-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Kidoodle TV
+https://7c16fcbdbd1b4a74b712c2052303b6bb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KidoodleTV/playlist.m3u8?ads.wurl_channel=484&ads.wurl_name=KidoodleTV&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=HJNpAsLWteW2_Q7vbySW&ads.plex_id=5eea605574085f0040ddc79a&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.coppa=1&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ34000122Z_20230627T214809SQUARE.png_20230627214810.png" group-title="39999-Kids",Kidoodle.TV
+https://i.mjh.nz/SamsungTVPlus/CAAJ34000122Z.m3u8
+#EXTINF:-1  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000164E_20230619T082505SQUARE.png_20230619082506.png" group-title="39999-Kids",Kidoodle.TV
+https://i.mjh.nz/SamsungTVPlus/GBAJ49000164E.m3u8
+#EXTINF:-1  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508716A_20230627T214924SQUARE.png_20230627214925.png" group-title="39999-Kids",Kidoodle.TV
+https://i.mjh.nz/SamsungTVPlus/USAK3508716A.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Kidoodle.TV
+https://06fda8bb401f4c0abb854097c0a3b3d6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_KidoodleTV/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=414&ads.wurl_name=KidoodleTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Kids
+http://45.90.80.250:8000/play/a03n
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Kids
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index_2.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Kids
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=989&deviceId=51c75f7bb6f26ba1cd00002f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/YCpnnmC3/kidzz.png" group-title="39999-Kids",Kids
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Kids (Spain) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aab1d29b39600073e243f&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=910&terminate=false&userId=
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Kids Al Sanafer
+http://myteve.online:8080/stadnik2/7082341272/300593
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Kids Animation
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=976&deviceId=5db0ad56edc89300090d2ebb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/wjQK3p7W/kan.png" group-title="39999-Kids",Kids Animation
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Kids Animation
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="https://i.imgur.com/xYYJwTz.png" group-title="39999-Kids",Kids Animation (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-logo="https://i.imgur.com/l1d9j4d.png" group-title="39999-Kids",Kids Animation (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Kids Co
+http://myteve.online:8080/stadnik2/7082341272/281501
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",KIDS ISLAMIC TV 24/7
+http://zeestb1.online/dhoom.php?id=8990
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Kids Movie Club
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Kids Movie Club
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",KIDS MOVIES 24/7
+http://zeestb1.online/dhoom.php?id=7833
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Kids Nils
+http://myteve.online:8080/stadnik2/7082341272/300597
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Kids Pang TV
+https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8?ads.wurl_channel=841&ads.wurl_name=KidsPangTV&ads.coppa=1&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=HJNpAsLWteW2_Q7vbySW&ads.plex_id=60d4eddfb2fdec002c141139&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTktHMCVVNWykilTFWu395O9uk_UzoxRkVigg&usqp=CAU" group-title="39999-Kids",Kids Pluto 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",KIDS PPV MOVIES 4K
+http://zeestb1.online/ditto.php?id=1861
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Kids Séries
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="https://i.imgur.com/twXueoi.png" group-title="39999-Kids",Kids Séries (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Kids TV
+http://185.236.229.117:8000/play/a00u/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Kids: Karameesh
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1265
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Kids: Toyor Al Jannah
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/50954
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",KidsFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=HJNpAsLWteW2_Q7vbySW&content_series=5eea605574085f0040ddc797&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=HJNpAsLWteW2_Q7vbySW&custom_7=5eea605574085f0040ddc797
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Kidspang TV (CA)
+https://newidco-kidspangtv-1-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Kidspang TV (US)
+https://newidco-kidspangtv-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Kidzinia
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52150
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Kouka Toon
+http://iptv.icsnleb.com:25461/live//a/b//12.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",lan Plus HD
+http://31.171.154.21:8000/play/s91
+#EXTINF:-1  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC230001363_20230809T005118SQUARE.png_20230809005119.png" group-title="39999-Kids",LEGO Channel
+https://i.mjh.nz/SamsungTVPlus/CABC230001363
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",LEGO Kids TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb01a24795a6000762fe83/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Loky Kids
+http://181.78.75.83:5013/play/a09d/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Lolly Kids HD
+http://161.132.108.74:50001/play/a01o/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Lolly Kids HD
+http://187.102.208.83:50000/play/a01c/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Lolly Kids HD
+http://190.102.139.243:8999/play/a0x3/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Lolly Kids HD
+http://38.25.46.199:4000/play/a08x/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Lolly Kids HD
+http://38.25.46.200:4000/play/a08x/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Lolly Kids HD
+http://38.25.46.201:4000/play/a08x/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Lolly Kids HD
+http://38.25.46.202:4000/play/a08x/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Lolly Kids HD
+http://38.25.46.203:4000/play/a08x/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Lolly Kids HD
+http://38.25.46.204:4000/play/a08x/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Lolly Kids HD
+http://38.252.218.26:4000/play/a08x/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Lolly Kids HD
+http://38.252.218.27:4000/play/a08x/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Lolly Kids HD
+http://38.252.218.28:4000/play/a08x/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="39999-Kids",Magic Kids (486p)
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Majd Kids TV HD
+http://149.62.177.103:8000/play/a085
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Majd Kids TV HD
+http://45.65.112.206:8000/play/a079
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Majestic 1 Cartoon
+http://myteve.online:8080/stadnik2/7082341272/300261
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Majestic Kids
+http://myteve.online:8080/stadnik2/7082341272/300260
+#EXTINF:-1  tvg-logo="https://i.imgur.com/TzOKMMy.png" group-title="39999-Kids",Majid TV (1080p)
+https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Moonbug Kids
+http://myteve.online:8080/stadnik2/7082341272/299968
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Moonbug Kids not geo via roku
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",MR BEAN CARTOON 24/7
+http://zeestb1.online/dhoom.php?id=8634
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Myhd Kids: Atfal & Mawaheb
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/3953
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Myhd Kids: Spacetoon
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1266
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Myhd: Mbc 3 HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/316
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Netflix Disney
+http://myteve.online:8080/stadnik2/7082341272/300962
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Netflix Jr 1
+http://myteve.online:8080/stadnik2/7082341272/300309
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Netflix Kung Fu
+http://myteve.online:8080/stadnik2/7082341272/300310
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",New Kid (BR)
+https://newidco-newkid-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",New Kid (CA)
+https://newidco-newkid-1-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",New Kid (MX)
+https://newidco-newkid-1-mx.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",NewkID .CA -TCL
+https://newidco-newkid-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",NewkID -TCL
+https://newidco-newkid-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300006OP_20220928T005311SQUARE.png_20220928005311.png" group-title="39999-Kids",NHRA TV
+https://i.mjh.nz/SamsungTVPlus/CABC2300006OP.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",NHRA TV
+https://ov.ottera.tv/live/master.m3u8?channel=prl_nh
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",NHRA TV
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NHRA.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",NHRA TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=732&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=HJNpAsLWteW2_Q7vbySW&content_series=60aeb5cd87f9b1002ce12323&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=HJNpAsLWteW2_Q7vbySW&custom_7=60aeb5cd87f9b1002ce12323
+#EXTINF:-1  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200019WF_20230125T022114SQUARE.png_20230125022115.png" group-title="39999-Kids",NHRA TV
+https://i.mjh.nz/SamsungTVPlus/USBC3200019WF.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",nick - Rs 6
+http://103.157.210.165:8000/play/a00s/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",nick - Rs 6
+http://103.174.195.4:8000/play/a00q
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",nick - Rs 6
+http://14.102.123.50:8200/play/a05w
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ede448d3d50590007a4419e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=fbbb3638-0714-11eb-aeab-0242ac110002&terminate=false&userId=
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick (720p) [Not 24/7]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca673e0d0bd6c2689c94ce3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=977&terminate=false&userId=
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick (Pluto TV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick (Pluto TV) (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",NICK CENTRAL
+http://200.24.138.131:8000/play/a039/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",NICK CLASICO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=bc342b32-6e53-468c-9a43-1cbc213945ac&clientModelNumber=na&deviceDNT=false&deviceId=bc342b32-6e53-468c-9a43-1cbc213945ac&deviceLat=13.7066&deviceLon=-89.2053&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=d5b8a4f4-6969-11eb-ac8e-0242ac110002&sid=d5b8a4f4-6969-11eb-ac8e-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://i.imgur.com/yxOuiqj.png" group-title="39999-Kids",Nick Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Clássico
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick en español
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick HD
+http://176.10.117.3:5000/play/a00x/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick HD
+http://187.102.208.83:50000/play/a02d/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick HD
+http://190.102.139.243:8999/play/a0t4/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick HD
+http://190.60.32.149:2020/play/a0ez/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick HD
+http://38.25.46.199:4000/play/a02y/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick HD
+http://38.25.46.200:4000/play/a02y/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick HD
+http://38.25.46.201:4000/play/a02y/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick HD
+http://38.25.46.202:4000/play/a02y/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick HD
+http://38.25.46.203:4000/play/a02y/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick HD
+http://38.25.46.204:4000/play/a02y/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick HD
+http://38.252.218.26:4000/play/a02y/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick HD
+http://38.252.218.27:4000/play/a02y/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick HD
+http://38.252.218.28:4000/play/a02y/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",NICK HD INDIA
+http://zeestb1.online/ditto.php?id=240
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",nick HD+- Rs 10
+http://103.157.210.165:8000/play/a01n/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",nick HD+- Rs 10
+http://103.174.195.4:8000/play/a01n
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr
+http://168.232.168.242:4000/play/a02j/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr
+http://173.208.240.90:8000/play/a03j
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr
+http://173.208.240.90:8000/play/a08s
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr
+http://177.93.39.249:45000/play/a028/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr
+http://181.78.74.83:45000/play/a016/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr
+http://181.78.75.83:5013/play/a08p/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr
+http://190.102.139.243:8999/play/a0tr/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr
+http://190.2.213.254:8000/play/a024/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr
+http://190.60.37.154:45000/play/a04r/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr
+http://191.97.6.29:8000/play/a09e/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr
+http://191.97.9.93:8000/play/a07q/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr
+http://209.45.101.38:8889/play/a0bk
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr
+http://45.176.232.114:8000/play/a02m
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr
+http://38.252.238.0:6102/play/a00c/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr (Pluto TV) (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",NICK JR 4K UK
+http://zeestb1.online/ditto.php?id=225
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",NICK JR 4K USA
+http://zeestb1.online/ditto.php?id=226
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",NICK Jr FHD
+http://zeestb1.online/dhoom.php?id=7568
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr HD
+http://161.132.108.74:50001/play/a04j/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",NICK Jr HD
+http://zeestb1.online/dhoom.php?id=7566
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",NICK JR INDIA
+http://zeestb1.online/ditto.php?id=2029
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",NICK JR TOO 4K UK
+http://zeestb1.online/ditto.php?id=227
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr.
+http://88.135.128.20:7272/Jke5tdvCxp2Yhs6
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr. - Rs1
+http://103.157.210.165:8000/play/a00x/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr. - Rs1
+http://103.174.195.4:8000/play/a00u
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr. (720p) [Not 24/7]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca6748a37b88b269472dad9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=978&terminate=false&userId=
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr. Club
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr. Club (Brazil) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f121460b73ac6000719fbaf&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=706&terminate=false&userId=
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr. Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr. Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Jr.- Rs 1
+http://14.102.123.50:8200/play/a063
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Junior HD
+http://142.132.218.83:2086/play/a00p/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Junior HD
+http://161.132.108.74:50001/play/a048/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Latino
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=997&deviceId=5d8d08395f39465da6fb3ec4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Latino (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId=
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000158L_20231024T231611SQUARE.png_20231024231613.png" group-title="39999-Kids",Nick Pluto TV
+https://i.mjh.nz/SamsungTVPlus/USBA3000158L.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick SIM HD
+http://168.232.168.242:4000/play/a02k/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nick.Jn HD
+http://77.247.109.70:14824
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nickelodeon
+http://168.232.168.242:4000/play/a02l/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nickelodeon
+http://173.208.240.90:8000/play/a03l
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nickelodeon
+http://173.208.240.90:8000/play/a08u
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nickelodeon
+http://177.93.39.249:45000/play/a007/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nickelodeon
+http://181.78.74.83:45000/play/a003/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nickelodeon
+http://181.78.75.83:5013/play/a05u/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nickelodeon
+http://190.102.139.243:8999/play/a0k9/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nickelodeon
+http://190.61.40.186:45000/play/a03u
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nickelodeon
+http://190.94.186.158:9981/play/a03h/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nickelodeon
+http://191.97.6.29:8000/play/a09n/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nickelodeon
+http://191.97.9.93:8000/play/a00s/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nickelodeon
+http://209.45.101.38:8889/play/a0c5
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nickelodeon
+http://88.135.128.20:7272/DL3JGiEPHMCY4vy
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nickelodeon
+http://38.252.238.0:6101/play/a02d/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",NICKELODEON 4K
+http://zeestb1.online/dhoom.php?id=7993
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nickelodeon HD
+http://142.132.218.83:2086/play/a00d/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nickelodeon HD
+http://161.132.108.74:50001/play/a00a/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nickelodeon HD
+http://77.247.109.70:14822
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",NICKELODEON HD
+http://zeestb1.online/dhoom.php?id=7565
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",NICKELODEON UK
+http://zeestb1.online/ditto.php?id=239
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",NICKELODEON USA
+http://zeestb1.online/ditto.php?id=229
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",NICKTOON HD USA
+http://zeestb1.online/ditto.php?id=237
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",NICKTOON UK
+http://zeestb1.online/ditto.php?id=238
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Nicktoons HD
+http://142.132.218.83:2086/play/a01m/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Ninja Kidz TV
+https://playworksdigital-ninjakidztv-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Noursat Kids
+http://154.197.91.169:7002/play/a0iw
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Noursat Kids
+http://154.58.202.131:8000/play/a020
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",PBS KIDS
+http://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",PBS KIDS
+http://zeestb1.online/ditto.php?id=242
+#EXTINF:-1  tvg-logo="https://i.imgur.com/YQKf0tq.png" group-title="39999-Kids",Rotana Kids (1080p)
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",RTE Jr FHD
+http://zeestb1.online/dhoom.php?id=8636
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",RTE JUNIOR
+http://zeestb1.online/ditto.php?id=247
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Sasuki
+http://myteve.online:8080/stadnik2/7082341272/300603
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Shaun The Sheep
+http://myteve.online:8080/stadnik2/7082341272/300606
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Shehab Kids
+http://63b03f7689049.streamlock.net:1935/live/67/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",SKY Flix Anime 1
+http://myteve.online:8080/stadnik2/7082341272/283270
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",SONIC- Rs 2
+http://103.157.210.165:8000/play/a00v/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",SONIC- Rs 2
+http://103.174.195.4:8000/play/a00s
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",SONIC- Rs 2
+http://14.102.123.50:8200/play/a05z
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",SPAC TOON
+http://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Spacetoon
+http://iptv.icsnleb.com:25461/live//a/b//80.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="39999-Kids",Spacetoon (1080p)
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="39999-Kids",Spacetoon (1080p)
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1594700958_b1296000_slAR.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Spacetoon Arabic
+http://149.18.45.21:8000/play/a04e/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Spacetoon Arabic
+http://154.197.91.168:7002/play/a0f9
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Spacetoon Arabic
+http://45.65.112.16:8000/play/a043
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",SPACETOON KIDS
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",SPACETOON KIDS
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?@amarnettv.live
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Spongbob
+http://myteve.online:8080/stadnik2/7082341272/300609
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Studio Universal
+http://38.252.238.0:6101/play/a02t/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Studio Universal HD
+http://38.252.238.0:6102/play/a015/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="39999-Kids",Taha
+http://45.65.112.206:8000/play/a096
+#EXTINF:-1  tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="39999-Kids",Taha TV
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/3934
+#EXTINF:-1  tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="39999-Kids",Tahaa
+http://63b03f7689049.streamlock.net:1935/live/37/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="39999-Kids",Tahaa
+http://95.216.180.111:1935/live/37/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="39999-Kids",Tahaa
+http://95.216.180.111:1935/live/37/chunklist_w362928606.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="39999-Kids",Tahaa
+http://95.216.180.111:1935/live/37/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="39999-Kids",Tahaa
+http://95.216.180.111:1935/live/37/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Teen Nick HD
+http://38.252.238.0:6102/play/a014/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Teennick HD
+http://161.132.108.74:50001/play/a047/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Tooncast
+http://186.167.81.106:8126/play/a0f1/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Tooncast
+http://190.60.32.149:2020/play/a0fo/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Tooncast
+http://190.61.40.186:45000/play/a03s
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",TOONCAST
+http://200.24.138.131:8000/play/a042/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Tooncast
+http://38.252.238.0:6101/play/a01h/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Tooncast HD
+http://77.247.109.70:14828
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Tooncast(StarOne)
+http://187.102.208.83:50000/play/a03j/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Toyor Aljanah
+http://149.62.177.103:8000/play/a01a
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Toyor Aljanah
+http://45.65.112.206:8000/play/a057
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Toyor Aljanah
+http://5.253.46.190:7001/play/a0d0/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Toyor Al-Jannah
+https://streamlink-iptv.herokuapp.com/iptv-query?streaming-ip=http://www.youtube.com/user/toyorlive/live
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",US_ NICK JR_HD
+http://zeestb1.online/dhoom.php?id=8981
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",US_ TEEN NICK_HD
+http://zeestb1.online/dhoom.php?id=8983
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",US_BLOOMBERG _HD
+http://zeestb1.online/dhoom.php?id=6129
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",US_BLOOMBERG_FHD
+http://zeestb1.online/dhoom.php?id=6130
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",US_BOOMERANG_FHD
+http://zeestb1.online/dhoom.php?id=6424
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",US_CARTOON NETWORK_FHD
+http://zeestb1.online/dhoom.php?id=6422
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",US_CARTOON NETWORK_HD
+http://zeestb1.online/dhoom.php?id=6423
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",US_DISNEY JR_FHD
+http://zeestb1.online/dhoom.php?id=6426
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",US_DISNEY JR_HD
+http://zeestb1.online/dhoom.php?id=6427
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",US_NICK _FHD
+http://zeestb1.online/dhoom.php?id=8978
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",US_NICK JR_FHD
+http://zeestb1.online/dhoom.php?id=8980
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",US_NICKELODEON_FHD
+http://zeestb1.online/dhoom.php?id=9666
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",US_Starz Kids & Family _FHD
+http://zeestb1.online/dhoom.php?id=9039
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",US_Starz Kids & Family _HD
+http://zeestb1.online/dhoom.php?id=9040
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",US_TEEN NICK_FHD
+http://zeestb1.online/dhoom.php?id=8982
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",USA_NICK _HD
+http://zeestb1.online/dhoom.php?id=8979
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Wanasat Baby
+http://149.18.45.21:8000/play/a0j5/index.m3u8
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" group-title="39999-Kids",Yu-Gi-Oh
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Yu-Gi-Oh
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Yu-Gi-Oh (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Zoo Moo (Australia)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",ZooMoo
+http://168.232.168.242:4000/play/a03b/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",ZooMoo
+http://173.208.240.90:8000/play/a059
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",ZooMoo
+http://173.208.240.90:8000/play/a0ai
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",ZooMoo
+http://38.252.238.0:6101/play/a003/index.m3u8
+#EXTINF:-1  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400019EF_20230125T022558SQUARE.png_20230125022558.png" group-title="39999-Kids",ZooMoo
+https://i.mjh.nz/SamsungTVPlus/USBC2400019EF.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Zoomoo_Kids HD
+http://77.247.109.70:14835
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",ZooPark
+http://188.113.190.15/46/video.m3u8
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Atfal Mawaheb
+http://5.253.46.190:7004/play/a0da
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",SHEHAB TV
+http://5.253.46.190:7004/play/a0dj
+#EXTINF:-1  tvg-logo="" group-title="39999-Kids",SHEHAB TV HD
+http://5.253.46.190:7004/play/a0d9

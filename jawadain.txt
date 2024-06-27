@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11007-AL Jawadain",AL Jawadain
+https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11007-AL Jawadain",AL Jawadain
+https://live.aljawadain.org/live/broadcast/playlist.m3u8

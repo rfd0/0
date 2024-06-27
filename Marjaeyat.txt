@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="11041-AL Marjaeyat",Marjaeyat TV
+http://149.62.177.103:8000/play/a03u
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="11041-AL Marjaeyat",Marjaeyat TV
+http://154.58.202.131:8000/play/a006
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="11041-AL Marjaeyat",Marjaeyat TV
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=260855
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="11041-AL Marjaeyat",Marjaeyat TV
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=260855&extension=ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="11041-AL Marjaeyat",Marjaeyat TV
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=260855&extension=ts&play_token=xS1JQrvDbW#
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="11041-AL Marjaeyat",Marjaeyat TV
+http://activefrance.net/live/YQ28GB8/WE202NG/81311.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="11041-AL Marjaeyat",Marjaeyat TV
+https://livear.marjaeyattv.com/mtv_ar/playlist03/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="11041-AL Marjaeyat",Marjaeyat TV
+https://liveen.marjaeyattv.com/mtv_en/playlist03/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="11041-AL Marjaeyat",Marjaeyat TV
+https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="11041-AL Marjaeyat",Marjaeyat TV
+https://livefa.marjaeyattv.com/mtv_ar/playlist05/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="11041-AL Marjaeyat",Marjaeyat TV
+https://livefa.marjaeyattv.com/mtv_en/playlist05/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="11041-AL Marjaeyat",Marjaeyat TV
+https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="11041-AL Marjaeyat",Marjaeyat TV
+https://livefa.marjaeyattv.com/mtv_fa/playlist03/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="11041-AL Marjaeyat",Marjaeyat TV
+https://livefa.marjaeyattv.com/mtv_fa/playlist05/index.m3u8

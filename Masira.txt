@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="" group-title="11055-Al Masira",Al Masira
+https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/almasiramubacherpublish/almasira/chunks.m3u8
+#EXTINF:-1  tvg-logo="" group-title="11055-Al Masira",Al Masira
+https://live.cdnbridge.tv/AlmasirahTV/Almasirah_all/almasirahpublish/almasirahpublish_720p/chunks.m3u8

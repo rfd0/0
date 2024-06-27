@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11005-Karbala Documentary",Karbala Documentary HD
+http://149.62.177.103:8000/play/a01h
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11005-Karbala Documentary",Karbala Documentary HD
+http://45.65.112.206:8000/play/a0c3

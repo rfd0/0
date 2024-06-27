@@ -1,0 +1,38 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://www.alkawthartv.ir/" group-title="11045-AL Kawther",AL Kawthar
+http://154.58.202.131:8000/play/a08d
+#EXTINF:-1  tvg-logo="https://www.alkawthartv.ir/" group-title="11045-AL Kawther",AL Kawthar
+http://154.58.202.185:8000/play/a04q
+#EXTINF:-1  tvg-logo="https://www.alkawthartv.ir/" group-title="11045-AL Kawther",AL Kawthar
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=23591
+#EXTINF:-1  tvg-logo="https://www.alkawthartv.ir/" group-title="11045-AL Kawther",AL Kawthar
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=23591&extension=m3u8
+#EXTINF:-1  tvg-logo="https://www.alkawthartv.ir/" group-title="11045-AL Kawther",AL Kawthar
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=23591&extension=ts
+#EXTINF:-1  tvg-logo="https://www.alkawthartv.ir/" group-title="11045-AL Kawther",AL Kawthar
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=23591&extension=ts&play_token=TjJaS3iUwN#
+#EXTINF:-1  tvg-logo="https://www.alkawthartv.ir/" group-title="11045-AL Kawther",AL Kawthar
+http://45.65.112.16:8000/play/a00n
+#EXTINF:-1  tvg-logo="https://www.alkawthartv.ir/" group-title="11045-AL Kawther",AL Kawthar
+http://63b03f7689049.streamlock.net:1935/live/118/playlist.m3u8	
+#EXTINF:-1  tvg-logo="https://www.alkawthartv.ir/" group-title="11045-AL Kawther",AL Kawthar
+http://95.216.180.111:1935/live/118/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://www.alkawthartv.ir/" group-title="11045-AL Kawther",AL Kawthar
+http://95.216.180.111:1935/live/118/chunklist_w362928606.m3u8
+#EXTINF:-1  tvg-logo="https://www.alkawthartv.ir/" group-title="11045-AL Kawther",AL Kawthar
+http://95.216.180.111:1935/live/118/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.alkawthartv.ir/" group-title="11045-AL Kawther",AL Kawthar
+http://95.216.180.111:1935/live/118/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.alkawthartv.ir/" group-title="11045-AL Kawther",AL Kawthar
+http://activefrance.net/live/YQ28GB8/WE202NG/646.ts
+#EXTINF:-1  tvg-logo="https://www.alkawthartv.ir/" group-title="11045-AL Kawther",AL Kawthar
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/660386.ts
+#EXTINF:-1  tvg-logo="https://www.alkawthartv.ir/" group-title="11045-AL Kawther",AL Kawthar
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/284873.ts
+#EXTINF:-1  tvg-logo="https://www.alkawthartv.ir/" group-title="11045-AL Kawther",AL Kawthar
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/3961
+#EXTINF:-1  tvg-logo="https://www.alkawthartv.ir/" group-title="11045-AL Kawther",AL Kawthar
+https://hidayat.wpbond.com/live/alkawthar.m3u8
+#EXTINF:-1  tvg-logo="https://www.alkawthartv.ir/" group-title="11045-AL Kawther",الكوثر
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114457.ts
+

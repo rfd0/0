@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="11008-AL Imam Ridha",Imam Ridha
+https://stream01.gaplication.com/hls/Razavi1400bdisosvxpevqy/index.m3u8
+#EXTINF:-1  tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="11008-AL Imam Ridha",Imam Ridha
+https://stream01.gaplication.com/hls/Razavi1400bdisosvxpevqy/index.m3u8?hls_ctx=386ep54u
+#EXTINF:-1  tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="11008-AL Imam Ridha",Imam Ridha
+https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8?auto
+#EXTINF:-1  tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="11008-AL Imam Ridha",Imam Ridha
+https://stream01.nasimrezvan.com/hls/nCqGTHytkVFziVPWBLqkdQYK/index.m3u8
+#EXTINF:-1  tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="11008-AL Imam Ridha",Imam Ridha
+https://stream01.nasimrezvan.com/hls/QkEtXUwaqTiUWfLjGKrscUdR/index.m3u8
+#EXTINF:-1  tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="11008-AL Imam Ridha",Imam Ridha
+https://stream01.nasimrezvan.com/hls/RpnpimQkhQvuAXZrPBbvEJwL/index.m3u8
+#EXTINF:-1  tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="11008-AL Imam Ridha",Imam Ridha
+https://stream01.nasimrezvan.com/hls/XuTYYVjRVYiNNzfSYVrzFLfJ/index.m3u8

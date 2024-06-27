@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/video_thumb/166.jpg" group-title="Kids Movies & Series", Qalam Salman - قلم سلمان (kids)
+https://nx41443.your-storageshare.de/s/wzYTmjQd7bqYpei/download/%D9%81%D9%8A%D9%84%D9%85%20%D9%82%D9%84%D9%85%20%D8%B3%D9%84%D9%85%D8%A7%D9%86%20%D8%A8%D8%B7%D9%88%D9%84%D8%A9%20%D8%A7%D9%84%D9%85%D9%84%D8%A7%20%D8%B9%D8%B7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%AC%D9%85%D8%B1%D9%8A%20%D9%88%D8%A3%D8%A8%D8%A7%D8%B0%D8%B1%20%D8%A7%D9%84%D8%AD%D9%84%D9%88%D8%A7%D8%AC%D9%8A%20%D9%88%D8%A3%D8%A8%D9%86%D8%A7%D8%A6%D9%87%20Film%20Salman%20s%20Pen.mp4
+
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/video_thumb/187.jpg" group-title="Kids Movies & Series", Bilal - A New Breed of Hero (kids)
+https://stream.wpbond.com/kidsislamic1/STBBilal.mp4
+
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/video_thumb/155.jpg" group-title="Kids Movies & Series", Princess of Rome (kids)
+https://nx41443.your-storageshare.de/s/j3RFcDWgi3rafyL/download/princess_english.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="Kids Movies & Series",Habil & Qabil Animated Movie 1
+http://www.qul.org.au/Files/HabilKabil/HabilKabil1.flv
+#EXTINF:-1  tvg-logo="" group-title="Kids Movies & Series",Habil & Qabil Animated Movie 2
+http://www.qul.org.au/Files/HabilKabil/HabilKabil2.flv
+#EXTINF:-1  tvg-logo="" group-title="Kids Movies & Series",Muhammad: The Last Prophet - Kids
+http://www.qul.org.au/Files/Message/ProphetMuhammad.wmv
+#EXTINF:-1  tvg-logo="" group-title="Kids Movies & Series",Stories from the Holy Qur*an - Kids
+http://www.qul.org.au/Files/Stories/Qaroon.flv
+#EXTINF:-1  tvg-logo="" group-title="Kids Movies & Series",Stories from the Holy Qur*an - Kids - Cave
+http://www.qul.org.au/Files/Stories/Cave.flv
+#EXTINF:-1  tvg-logo="" group-title="Kids Movies & Series",Stories from the Holy Qur*an - Kids - CowofIsrael
+http://www.qul.org.au/Files/Stories/CowofIsrael.flv
+#EXTINF:-1  tvg-logo="" group-title="Kids Movies & Series",Stories from the Holy Qur*an - Kids - Elephant2
+http://www.qul.org.au/Files/Stories/Elephant2.flv
+#EXTINF:-1  tvg-logo="" group-title="Kids Movies & Series",Stories from the Holy Qur*an - Kids - ElephantP1
+http://www.qul.org.au/Files/Stories/ElephantP1.flv
+#EXTINF:-1  tvg-logo="" group-title="Kids Movies & Series",Stories from the Holy Qur*an - Kids - HabilQabil
+http://www.qul.org.au/Files/Stories/HabilQabil.flv
+#EXTINF:-1  tvg-logo="" group-title="Kids Movies & Series",Stories from the Holy Qur*an - Kids - Heavens
+http://www.qul.org.au/Files/Stories/Heavens.flv
+#EXTINF:-1  tvg-logo="" group-title="Kids Movies & Series",Stories from the Holy Qur*an - Kids - HeavensPeople
+http://www.qul.org.au/Files/Stories/HeavensPeople.flv
+#EXTINF:-1  tvg-logo="" group-title="Kids Movies & Series",Stories from the Holy Qur*an - Kids - Pharaoh
+http://www.qul.org.au/Files/Stories/Pharaoh.flv
+#EXTINF:-1  tvg-logo="" group-title="Kids Movies & Series",Stories from the Holy Qur*an - Kids - Salih
+http://www.qul.org.au/Files/Stories/Salih.flv
+#EXTINF:-1  tvg-logo="" group-title="Kids Movies & Series",Stories from the Holy Qur*an - Kids - SulaymonsAnt
+http://www.qul.org.au/Files/Stories/SulaymonsAnt.flv
+#EXTINF:-1  tvg-logo="" group-title="Kids Movies & Series",Stories from the Holy Qur*an - Kids - TalotJalout
+http://www.qul.org.au/Files/Stories/TalotJalout.flv
+#EXTINF:-1  tvg-logo="" group-title="Kids Movies & Series",Stories from the Holy Qur*an - Kids - TrenchP1
+http://www.qul.org.au/Files/Stories/TrenchP1.flv
+#EXTINF:-1  tvg-logo="" group-title="Kids Movies & Series",Stories from the Holy Qur*an - Kids - TrenchP2
+http://www.qul.org.au/Files/Stories/TrenchP2.flv
+#EXTINF:-1  tvg-logo="" group-title="Kids Movies & Series",Stories from the Holy Qur*an - Kids - Uzeir
+http://www.qul.org.au/Files/Stories/Uzeir.flv
+#EXTINF:-1  tvg-logo="" group-title="Kids Movies & Series",The Boy and The King - Kids
+http://www.qul.org.au/Files/BoyKing/boyandking.flv
+#EXTINF:-1  tvg-logo="" group-title="Kids Movies & Series",Tuva: The Wealth of Salah - Kids 1
+http://www.qul.org.au/Files/Tuva/TuvaPart1.flv
+#EXTINF:-1  tvg-logo="" group-title="Kids Movies & Series",Tuva: The Wealth of Salah - Kids 2
+http://www.qul.org.au/Files/Tuva/TuvaPart2.flv

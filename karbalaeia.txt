@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11015-AL Karbalaeia",Alkarbalaeia TV
+http://154.58.202.131:8000/play/a09b
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11015-AL Karbalaeia",الكربلائية
+http://fennec.tcode.cc:8080/live/671193600966/378417029480/114463.ts
