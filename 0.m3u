@@ -5339,7 +5339,7 @@ https://nl.livekadeh.com/hls2/alwilayah.tv.hausa_mid.m3u8
 https://nl.livekadeh.com/hls2/alwilayah.tv.hausa_src.m3u8
 #EXTINF:-1  tvg-logo="https://shialivetv.com/shialive/assets/img/YG6LVaxhQ7W3rSLD7KlR_unnamed.png" group-title="59999-Islamic",WIN TV
 https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/chunks.m3u8?nimblesessionid=2349736
-#EXTINF:-1  tvg-logo="" group-title="5999-Islamic",Peace TV English
+#EXTINF:-1  tvg-logo="" group-title="59999-Islamic",Peace TV English
 http://121.91.61.106:8000/play/a01f/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="60001-Ahlulbayt Documentary",Ahlulbayt Documentary
 https://cdn5.iqsat.net/iqb/df78ec671693778b3d40e1a160483dcb.sdp/chunks.m3u8
