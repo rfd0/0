@@ -2377,6 +2377,8 @@ http://ott-protv.com:8080/live/4663893855151056/4663893855151056/285244.ts
 #EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11002-Masjid AL Kufa",Masjid Alkufa
 http://tvsng.com:25461/live/AlkufaFHD/masjed/15.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",Karbala
+https://stream.sok.serverok.in/stream/hls/ch2.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",Karbala
 https://stream.wpbond.com/live/karbalatv.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",Karbala
 http://149.62.177.103:8000/play/a01b
