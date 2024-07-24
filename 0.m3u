@@ -3537,9 +3537,10 @@ https://static.ahlolbait.com/files/ahlolbait/video/b247a995fd9844fc34780a8c7cb9f
 https://static.ahlolbait.com/files/ahlolbait/video/7a5414ea2f143fee5f7b9147f2a76be8.mp4
 #EXTINF:-1 tvg-logo="https://ahlolbait.com/theme/ahlolbait/img/logo.png" group-title="10600-Shorts", مناجات ( یا ربی العفو )
 https://static.ahlolbait.com/files/ahlolbait/old/1001/download/avc_IMG_5272_0.mp4
-
 #EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11001-AL Imam Ali",Imam Ali TV
 https://stream.wpbond.com/live/imamalitv.m3u8
+#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11001-AL Imam Ali",Imam Ali TV
+http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/306427
 #EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11001-AL Imam Ali",Imam Ali TV
 http://149.18.45.21:8000/play/a0g3/index.m3u8
 #EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11001-AL Imam Ali",Imam Ali TV
@@ -3566,6 +3567,9 @@ http://fennec.tcode.cc:8080/live/671193600966/378417029480/114443.ts
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/285244.ts
 #EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11002-Masjid AL Kufa",Masjid Alkufa
 http://tvsng.com:25461/live/AlkufaFHD/masjed/15.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",Karbala
+http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1183
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",Karbala
 https://stream.sok.serverok.in/stream/hls/ch2.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",Karbala
@@ -3637,6 +3641,8 @@ https://stream01.nasimrezvan.com/hls/XuTYYVjRVYiNNzfSYVrzFLfJ/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
 http://149.18.45.21:8000/play/a05x/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
+http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/474808
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
 http://149.18.45.21:8000/play/a0jm/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=260858
@@ -3669,6 +3675,8 @@ https://ir13.livekadeh.com/hls2/almaaref_mid.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
 https://ir13.livekadeh.com/hls2/almaaref_src.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11010-AL Anwar",Alanwar TV
+http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/3913
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11010-AL Anwar",Alanwar TV
 http://149.62.177.103:8000/play/a043
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11010-AL Anwar",Alanwar TV
 http://154.58.202.131:8000/play/a00f
@@ -3684,6 +3692,8 @@ http://ott-protv.com:8080/live/4663893855151056/4663893855151056/284971.ts
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49636
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11010-AL Anwar",الانوار
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114468.ts
+#EXTINF:-1  tvg-logo="https://alaqila.tv/gallery_gen/46aee3e16e86e9747594af1dc7b90e6a.png" group-title="11011-AL Aqila",Al-aqila TV
+http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/3905
 #EXTINF:-1  tvg-logo="https://alaqila.tv/gallery_gen/46aee3e16e86e9747594af1dc7b90e6a.png" group-title="11011-AL Aqila",Al-aqila TV
 http://149.62.177.103:8000/play/a03z
 #EXTINF:-1  tvg-logo="https://alaqila.tv/gallery_gen/46aee3e16e86e9747594af1dc7b90e6a.png" group-title="11011-AL Aqila",Al-aqila TV
@@ -3708,6 +3718,8 @@ http://ott-protv.com:8080/live/4663893855151056/4663893855151056/285021.ts
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/285257.ts
 #EXTINF:-1  tvg-logo="https://alaqila.tv/gallery_gen/46aee3e16e86e9747594af1dc7b90e6a.png" group-title="11011-AL Aqila",العقيلة
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114467.ts
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11012-AL Shaaer",Al-shaaer TV
+http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/144429
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11012-AL Shaaer",Al-shaaer TV
 http://149.62.177.103:8000/play/a045
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" group-title="11012-AL Shaaer",Al-shaaer TV
@@ -3777,6 +3789,8 @@ http://45.65.112.206:8000/play/a0iz
 #EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="11022-Saut AL Aqila",Saout Alaqila
 http://149.18.45.21:8000/play/a032/index.m3u8
 #EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="11022-Saut AL Aqila",Saout Alaqila
+http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/482264
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="11022-Saut AL Aqila",Saout Alaqila
 http://45.65.112.206:8000/play/a0gj
 #EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="11022-Saut AL Aqila",Saout Alaqila
 http://5.253.46.190:7002/play/a0ds
@@ -3843,6 +3857,10 @@ http://ch14.tv/live/ch4teenquran/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11033-Ch4teen Quran",Ch4teen Quran HD
 http://ch14.tv:80/live/ch4teenquran/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://logo.protv.cc/picons/logos/AL-MAHDI.jpg" group-title="11034-AL Mahdi",AL MAHDI TV
+http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191367
+#EXTINF:-1  tvg-logo="http://logo.protv.cc/picons/logos/AL-MAHDI.jpg" group-title="11034-AL Mahdi",AL MAHDI TV
+http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/578651
+#EXTINF:-1  tvg-logo="http://logo.protv.cc/picons/logos/AL-MAHDI.jpg" group-title="11034-AL Mahdi",AL MAHDI TV
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=260864
 #EXTINF:-1  tvg-logo="http://logo.protv.cc/picons/logos/AL-MAHDI.jpg" group-title="11034-AL Mahdi",AL MAHDI TV
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=260864&extension=ts
@@ -3852,6 +3870,8 @@ http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=260864&extens
 https://stream.al-mahdi.tv/hls/1234.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="11035-AL Imam Hussain 2",Imam Hussain 2
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=266356
+#EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="11035-AL Imam Hussain 2",Imam Hussain 2
+http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/218447
 #EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="11035-AL Imam Hussain 2",Imam Hussain 2
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=266356&extension=ts
 #EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="11035-AL Imam Hussain 2",Imam Hussain 2
@@ -3864,6 +3884,8 @@ https://ak.imamhussein.live/imhtv2live/imhtv2.smil/playlist.m3u8
 https://live.imamhossaintv.com/live/ih2.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="11035-AL Imam Hussain 2",Imam Hussain 2
 https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="11035-AL Imam Hussain 2",Imam Hussain
+http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/218442
 #EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="11035-AL Imam Hussain 2",Imam Hussein TV 1 Farsi (720p)
 https://fa.imamhusseintv.com/live/ih1.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="11035-AL Imam Hussain 2",Imam Hussein TV 4 Urdu (720p)
@@ -3893,6 +3915,8 @@ http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/660423.ts
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_awhad_tv.png" group-title="11037-AL Awhad",Al-awhad TV
 http://149.18.45.21:8000/play/a03d/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_awhad_tv.png" group-title="11037-AL Awhad",Al-awhad TV
+http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1189
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_awhad_tv.png" group-title="11037-AL Awhad",Al-awhad TV
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=260860
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_awhad_tv.png" group-title="11037-AL Awhad",Al-awhad TV
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=260860&extension=ts
@@ -3912,6 +3936,12 @@ http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/660387.ts
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1245
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="11039-Al Duaa",Dua
 http://149.18.45.21:8000/play/a05p/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="11039-Al Duaa",Dua
+http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191371
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="11039-Al Duaa",Dua
+http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/3626
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="11039-Al Duaa",Dua
+http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/578649
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="11039-Al Duaa",Dua
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=266355
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="11039-Al Duaa",Dua
@@ -3968,6 +3998,8 @@ https://nl2.livekadeh.com/hls2/alwilayah_tv_mid.m3u8
 https://nl2.livekadeh.com/hls2/alwilayah_tv_src.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="11041-AL Naeem",AL Naeem
 http://149.18.45.21:8000/play/a05v/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="11041-AL Naeem",AL Naeem
+http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1157
 #EXTINF:-1  tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="11041-AL Naeem",AL Naeem
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:B6:42:06&stream=266357
 #EXTINF:-1  tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="11041-AL Naeem",AL Naeem
