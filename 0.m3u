@@ -7423,28 +7423,48 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/2312
 http://zeestb1.online/dhoom.php?id=10304
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11004-Imam Hussain live",Imam Hussain live
 https://ak.imamhussein.live/imhtv6live/imhtv6.smil/imhtv6publish/imhtv6_source/chunks.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png" group-title="11006-AL Kafeel",AL Kafeel
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png" group-title="11005-AL Kafeel",AL Kafeel
 http://45.65.112.206:8000/play/a0gv
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png" group-title="11006-AL Kafeel",AL Kafeel
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png" group-title="11005-AL Kafeel",AL Kafeel
 https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11007-AL Jawadain",AL Jawadain
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png" group-title="11005-AL Kafeel",AL Kafeel
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain
 https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11007-AL Jawadain",AL Jawadain
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain
 https://live.aljawadain.org/live/broadcast/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="11008-AL Imam Ridha",Imam Ridha
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="11007-AL Imam Ridha",Imam Ridha
 https://stream01.gaplication.com/hls/Razavi1400bdisosvxpevqy/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="11008-AL Imam Ridha",Imam Ridha
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="11007-AL Imam Ridha",Imam Ridha
 https://stream01.gaplication.com/hls/Razavi1400bdisosvxpevqy/index.m3u8?hls_ctx=386ep54u
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="11008-AL Imam Ridha",Imam Ridha
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="11007-AL Imam Ridha",Imam Ridha
 https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8?auto
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="11008-AL Imam Ridha",Imam Ridha
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="11007-AL Imam Ridha",Imam Ridha
 https://stream01.nasimrezvan.com/hls/nCqGTHytkVFziVPWBLqkdQYK/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="11008-AL Imam Ridha",Imam Ridha
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="11007-AL Imam Ridha",Imam Ridha
+https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="11007-AL Imam Ridha",Imam Ridha
 https://stream01.nasimrezvan.com/hls/QkEtXUwaqTiUWfLjGKrscUdR/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="11008-AL Imam Ridha",Imam Ridha
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="11007-AL Imam Ridha",Imam Ridha
 https://stream01.nasimrezvan.com/hls/RpnpimQkhQvuAXZrPBbvEJwL/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="11008-AL Imam Ridha",Imam Ridha
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLihhHQIp9vi_VOvYzmBWQHaFj%26pid%3DApi%26h%3D160&f=1&ipt=562c7746718037bb2abf01bb8a85d2872ec3039a9c8e95645beae6dff63df173&ipo=images" group-title="11007-AL Imam Ridha",Imam Ridha
 https://stream01.nasimrezvan.com/hls/XuTYYVjRVYiNNzfSYVrzFLfJ/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://i0.wp.com/www.islamicinsights.com/wp-content/uploads/lady_fatima_masooma.jpg" group-title="11008-Fatima Al Maasoomah",Fatima Al Maasoomah
+https://media.tekye.net/play/sYggPj476DfV5s8xuc5UR27hUNSRIdkT.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://i0.wp.com/www.islamicinsights.com/wp-content/uploads/lady_fatima_masooma.jpg" group-title="11008-Fatima Al Maasoomah",Fatima Al Maasoomah
+https://media.tekye.net/play/sYggPj476DfV5s8xuc5UR27hUNSRIdkT_src/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://www.iranvisitor.com/images/content_images/abdolazim2018.jpg" group-title="11031-Shah Abd-Al-Azeem",Shah Abd-Al-Azeem
+https://live.abdulazim.com/hls/haram.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://www.iranvisitor.com/images/content_images/abdolazim2018.jpg" group-title="11031-Shah Abd-Al-Azeem",Shah Abd-Al-Azeem
+https://ilive.abdulazim.com/hls/marasem.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://www.iranvisitor.com/images/content_images/abdolazim2018.jpg" group-title="11031-Shah Abd-Al-Azeem",Shah Abd-Al-Azeem
+https://live.abdulazim.com/hls/abdulazim.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://www.iranvisitor.com/images/content_images/abdolazim2018.jpg" group-title="11031-Shah Abd-Al-Azeem",Shah Abd-Al-Azeem
+https://live.abdulazim.com/hls/hamzeh.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://www.iranvisitor.com/images/content_images/abdolazim2018.jpg" group-title="11031-Shah Abd-Al-Azeem",Shah Abd-Al-Azeem
+https://live.abdulazim.com/hls/taher.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://apochi.com/wp-content/uploads/2019/05/Jamkaran-Mosque-4.jpg" group-title="11032-Jamkaran Mosque",Jamkaran Mosque
+https://live.asset.aparat.com/b9bec55bfc3c464f980e5050441b7b19/livehls/jamkaran.ir_eCXu7.m3u8?s=NxKt0xuecDmrXvVW9ujaqQ&e=1673280407&ip=5.202.255.122
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
 http://149.18.45.21:8000/play/a05x/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-title="" tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
