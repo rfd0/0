@@ -4775,6 +4775,8 @@ http://ch14.tv/live/ch4teenclip/playlist.m3u8
 http://ch14.tv:80/live/ch4teenclip/playlist.m3u8
 #EXTINF:-1 group-title="11035-AL Imam Hussain 2" tvg-logo="https://i.imgur.com/IXVSPdJ.png",Imam Hussain 2
 https://live.imamhossaintv.com/live/ih2.m3u8
+#EXTINF:-1 group-title="11036-AL Waai Al Shirazi Lebnan" tvg-logo="https://yt3.googleusercontent.com/X0q8smjNr3jmUzapbz_jDAjpvOjGGVLnW-hvty1v80UIqSkRrBRy4zrqdchWs19sw-Ui81S48Q=s160-c-k-c0x00ffffff-no-rj",Alwaai Shirazi Lebnan
+https://ffs3.gulfsat.com/ALWAAI_ALSHIRAZI/index.fmp4.m3u8
 #EXTINF:-1 group-title="11039-Al Duaa" tvg-logo="https://i.imgur.com/Tb1OJQa.png",Dua
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/285269.ts
 #EXTINF:-1 group-title="11039-Al Duaa" tvg-logo="https://i.imgur.com/Tb1OJQa.png",Dua
