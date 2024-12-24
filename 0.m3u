@@ -4733,6 +4733,8 @@ http://95.216.180.111:1935/live/120/chunklist_w362928606.m3u8
 http://95.216.180.111:1935/live/120/index.m3u8
 #EXTINF:-1 group-title="11001-AL Imam Ali" tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp",Imam Ali TV
 http://95.216.180.111:1935/live/120/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp"group-title="11002-Masjid AL Kufa",Masjid Alkufa
+http://tvsng.com:25461/live/AlkufaFHD/masjed/15.m3u8
 #EXTINF:-1 group-title="11003-Karbala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg",Karbala
 https://stream.wpbond.com/live/karbalatv.m3u8
 #EXTINF:-1 group-title="11003-Karbala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg",Karbala
@@ -4747,8 +4749,6 @@ http://95.216.180.111:1935/live/45/index.m3u8
 http://95.216.180.111:1935/live/45/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg"group-title="11004-Imam Hussain live",Imam Hussain live
 https://ak.imamhussein.live/imhtv6live/imhtv6.smil/imhtv6publish/imhtv6_source/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png"group-title="11005-AL Kafeel",AL Kafeel
-http://45.65.112.206:8000/play/a0gv
 #EXTINF:-1 tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png"group-title="11005-AL Kafeel",AL Kafeel
 https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png"group-title="11006-AL Jawadain",AL Jawadain
@@ -4799,8 +4799,38 @@ http://154.58.202.131:8000/play/a00b
 http://149.62.177.103:8000/play/a045
 #EXTINF:-1 group-title="11012-AL Shaaer" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png",Al-shaaer TV
 http://154.58.202.131:8000/play/a00g
+#EXTINF:-1 group-title="11012-AL Shaaer" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png",Al-shaaer TV
+http://185.234.111.64:8000/play/a0c7
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-mahdi-satellite-channel-kw.png"group-title="11014-AL Najaf",Alnajaf Alashraf TV
+http://185.234.111.64:8000/play/a056
 #EXTINF:-1 group-title="11015-AL Karbalaeia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg",Alkarbalaeia TV
 http://154.58.202.131:8000/play/a09b
+#EXTINF:-1 tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png"group-title="11016-AL Jawad",Al-jawad TV
+http://45.65.112.206:8000/play/a0j0
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png"group-title="11017-AL Askari",Al Askari
+http://45.65.112.206:8000/play/a0ix
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png"group-title="11018-AL Kout",Alkout TV
+http://45.65.112.206:8000/play/a0j2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png"group-title="11019-AL Basra",Albasra 1 TV
+http://45.65.112.206:8000/play/a0j1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png"group-title="11020-AL Kuwaitawi",Kuwaitawi TV
+http://45.65.112.206:8000/play/a0iy
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png"group-title="11021-AL Bahrany",AL Bahrany TV
+http://45.65.112.206:8000/play/a0iz
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj"group-title="11022-Saut AL Aqila",Saut Alaqila
+https://nl2.livekadeh.com/hls2/saoutalaqila.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj"group-title="11022-Saut AL Aqila",Saut Alaqila
+https://nl2.livekadeh.com/hls2/saoutalaqila_high.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj"group-title="11022-Saut AL Aqila",Saut Alaqila
+https://nl2.livekadeh.com/hls2/saoutalaqila_low.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj"group-title="11022-Saut AL Aqila",Saut Alaqila
+https://nl2.livekadeh.com/hls2/saoutalaqila_mid.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj"group-title="11022-Saut AL Aqila",Saut Alaqila
+https://nl2.livekadeh.com/hls2/saoutalaqila_src.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj"group-title="11022-Saut AL Aqila",Saut Alaqila
+http://185.234.111.64:8000/play/a059
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/M51zK2by7TBhDuPAwmUtAMwHMCRAfGwt_SVg2dK1WhqOwIbIll7nmcgSWEjndSSyRVJb64EtkA=s160-c-k-c0x00ffffff-no-rj"group-title="11024-Masjid Al Mosawi",Masjid Al Mosawi
+https://cdn3.wowza.com/5/aEtqbDdJeWFiL1lG/live2/myStream/chunklist.m3u8
 #EXTINF:-1 group-title="11025-Ch4teen 1" tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg",Ch4teen 1
 http://ch14.tv/live/ch4teen1/playlist.m3u8
 #EXTINF:-1 group-title="11025-Ch4teen 1" tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg",Ch4teen 1 HD
@@ -4809,6 +4839,10 @@ http://ch14.tv:80/live/ch4teen1/playlist.m3u8
 http://ch14.tv/live/ch4teenclip/playlist.m3u8
 #EXTINF:-1 group-title="11030-Ch4teen Clip" tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg",Ch4teen Clip HD
 http://ch14.tv:80/live/ch4teenclip/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_awhad_tv.png"group-title="11031-AL Awhad",Al-Awhad TV
+http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1189
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_awhad_tv.png"group-title="11031-AL Awhad",Al-Awhad TV
+http://185.234.111.64:8000/play/a05f
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/AL-MAHDI.jpg"group-title="11034-AL Mahdi",AL MAHDI TV
 https://www.al-mahdi.tv/memfs/1ec34c28-3cfd-4f92-8a12-239513e810c4.m3u8
 #EXTINF:-1 group-title="11035-AL Imam Hussain 2" tvg-logo="https://i.imgur.com/IXVSPdJ.png",Imam Hussain 2
@@ -4823,7 +4857,6 @@ https://stream.microwavesoft.com/alabas.m3u8
 https://stream.microwavesoft.com/alabas_hd720/index.m3u8
 #EXTINF:-1 tvg-logo="https://abbasiya-kw.com/storage/89/655081496fa59_56816679.png"group-title="11038-AlAbasia AlHussainia Kuwait",AlHussainia AlAbasia Kuwait
 https://stream.microwavesoft.com/alabas_mid/index.m3u8
-
 #EXTINF:-1 group-title="11039-Al Duaa" tvg-logo="https://i.imgur.com/Tb1OJQa.png",Dua
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/285269.ts
 #EXTINF:-1 group-title="11039-Al Duaa" tvg-logo="https://i.imgur.com/Tb1OJQa.png",Dua
