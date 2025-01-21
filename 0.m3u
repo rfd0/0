@@ -4807,6 +4807,8 @@ http://185.234.111.64:8000/play/a056
 http://154.58.202.131:8000/play/a09b
 #EXTINF:-1 tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png"group-title="11016-AL Jawad",Al-jawad TV
 http://45.65.112.206:8000/play/a0j0
+#EXTINF:-1 tvg-logo="https://alaimma.tv/logo.png"group-title="11016-AL Aimm",Al-Aimma TV
+http://188.166.163.109/hls/alaimma/h3b1rd584cpq8p60okoj01rnfigdcnia.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png"group-title="11017-AL Askari",Al Askari
 http://45.65.112.206:8000/play/a0ix
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png"group-title="11018-AL Kout",Alkout TV
