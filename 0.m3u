@@ -437,6 +437,10 @@ https://nl2.livekadeh.com/hls2/saoutalaqila_mid.m3u8
 https://nl2.livekadeh.com/hls2/saoutalaqila_src.m3u8
 #EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="11022-Saut AL Aqila",Saut Alaqila
 http://185.234.111.64:8000/play/a059
+#EXTINF:-1  tvg-logo="https://mahdawioun.tv/header.jpg" group-title="11023-Mahdawioun",Mahdawioun TV
+https://ffs2.gulfsat.com/Mahdawioun/index.m3u8
+#EXTINF:-1  tvg-logo="https://mahdawioun.tv/header.jpg" group-title="11023-Mahdawioun",Mahdawioun TV
+https://ffs2.gulfsat.com/Mahdawioun/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/M51zK2by7TBhDuPAwmUtAMwHMCRAfGwt_SVg2dK1WhqOwIbIll7nmcgSWEjndSSyRVJb64EtkA=s160-c-k-c0x00ffffff-no-rj" group-title="11024-Masjid Al Mosawi",Masjid Al Mosawi
 https://cdn3.wowza.com/5/aEtqbDdJeWFiL1lG/live2/myStream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen 1",Ch4teen 1
