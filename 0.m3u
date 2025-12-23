@@ -292,8 +292,6 @@ https://qurango.net/radio/yasser_aldosari
 #EXTINF:-1 tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/imam-ali-tv.jpeg"group-title="11001-AL Imam Ali",Imam Ali TV
 https://stream.wpbond.com/live/imamalitv.m3u8
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp"group-title="11001-AL Imam Ali",Imam Ali TV
-http://95.216.180.111:1935/live/120/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp"group-title="11001-AL Imam Ali",Imam Ali TV
 https://media.imamali.net/design/live_amin_allah.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg"group-title="11003-Karbala",Karbala Extra 2
 https://ktvlive.online/stream/hls/ch2.m3u8
@@ -5895,3 +5893,4 @@ https://media.arabicradio.net/original/2023/09/12/638301248093071470video.mp4
 https://vz-be6e02ce-63f.b-cdn.net/22b73ca5-7026-478a-b745-0e9c200996e7/640x360/video.m3u8
 #EXTINF:-1 tvg-logo="https://rasekhoon.net/_files/images/article/de30eaac-4d6e-42b9-80be-53f4b702cbfe.jpg"group-title="Ziyarats-ProphetMuhammed",زيارة رسول الله صلى الله عليه وآله وسلم - Ziyarat RasoolAllah (saww) - Arabic
 https://vz-be6e02ce-63f.b-cdn.net/773772fe-8a6d-43f1-a67e-dbe1645f1c1b/842x480/video.m3u8
+
