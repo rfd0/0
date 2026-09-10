@@ -281,6 +281,8 @@ https://qurango.net/radio/yasser_aldosari
 https://media.imamali.net/design/live_amin_allah.mp3
 #EXTINF:-1 group-title="11001-AL Imam Ali" tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/imam-ali-tv.jpeg",Imam Ali TV
 https://stream.wpbond.com/live/imamalitv.m3u8
+#EXTINF:-1 group-title="11003-Karbala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg",KARBALA TV
+http://149.100.11.252:8000/play/a03o/index.m3u8
 #EXTINF:-1 group-title="11003-Karbala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg",KARBALA TV HD
 http://77.137.40.221:8000/play/a048
 #EXTINF:-1 group-title="11003-Karbala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg",Karbala Doc
@@ -331,6 +333,8 @@ https://672a3a5c8e335.streamlock.net/AlMaaref/smil:almaareflive.smil/playlist.m3
 http://188.166.163.109/hls/alaimma/h3b1rd584cpq8p60okoj01rnfigdcnia.m3u8
 #EXTINF:-1 group-title="11015-AL Aimm" tvg-logo="https://alaimma.tv/logo.png",Al-Aimma TV
 http://stream.alaimma.tv/hls/alaimma/h3b1rd584cpq8p60okoj01rnfigdcnia.m3u8
+#EXTINF:-1 group-title="11016-AL Najaf" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS17u90pr-kXwOc18Bu29iiqu_RNwETYeZn6ojCIFpJ6Q&s=10",Al-Aimma TV
+http://149.100.11.252:8000/play/a00y/index.m3u88
 #EXTINF:-1 group-title="11022-Saut AL Aqila" tvg-logo="https://i.ytimg.com/vi/xv1cilweULY/hqdefault.jpg",صوت العقيلة
 https://nl.livekadeh.com/hls2/saoutalaqila.m3u8
 #EXTINF:-1 group-title="11022-Saut AL Aqila" tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj",Saut Alaqila
