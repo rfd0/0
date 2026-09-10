@@ -285,12 +285,14 @@ https://stream.wpbond.com/live/imamalitv.m3u8
 http://149.100.11.252:8000/play/a03o/index.m3u8
 #EXTINF:-1 group-title="11003-Karbala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg",KARBALA TV HD
 http://77.137.40.221:8000/play/a048
+#EXTINF:-1 group-title="11003-Karbala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg",Karbala Events
+https://ktvlive.online/stream/hls/ch2.m3u8
+#EXTINF:-1 group-title="11003-Karbala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg",Karbala Quran
+https://ktvlive.online/stream/hls/ch1.m3u8
 #EXTINF:-1 group-title="11003-Karbala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg",Karbala Doc
 https://ktvlive.online/stream/hls/ch3.m3u8
 #EXTINF:-1 group-title="11003-Karbala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg",Karbala
 https://stream.wpbond.com/live/karbalatv.m3u8
-#EXTINF:-1 group-title="11003-Karbala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg",Karbala Events
-https://ktvlive.online/stream/hls/ch2.m3u8
 #EXTINF:-1 group-title="11004-Between Haramain live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg",Imam Hussain live
 https://ak.imamhussein.live/imhtv6live/imhtv6.smil/imhtv6publish/imhtv6_source/chunks.m3u8
 #EXTINF:-1 group-title="11005-AL Kafeel" tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png",AL Kafeel
@@ -310,7 +312,7 @@ https://live.aljawadain.org/live/broadcast/playlist.m3u8
 #EXTINF:-1 group-title="11006-AL Jawadain" tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png",AL Jawadain Radio
 https://live.aljawadain.org/live/radioaljawadain/playlist.m3u8
 #EXTINF:-1 group-title="11007-AL Ridha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg",imam Al Ridha Shrine 1
-https://tv.razavi.ir/hls/rozeh.m3u8
+https://newlive.nasimrezvan.com/hls/Haramrazavi/index.m3u8
 #EXTINF:-1 group-title="11007-AL Ridha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg",imam Al Ridha Shrine 2
 https://tv.razavi.ir/hls/enghelab.m3u8
 #EXTINF:-1 group-title="11007-AL Ridha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg",imam Al Ridha Shrine 3
