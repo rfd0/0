@@ -382,49 +382,65 @@ https://media.tekye.net/play/sYggPj476DfV5s8xuc5UR27hUNSRIdkT_src/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
 https://672a3a5c8e335.streamlock.net/AlMaaref/smil:almaareflive.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://alaimma.tv/logo.png" group-title="11015-AL Aimm",Al-Aimma TV
-http://188.166.163.109/hls/alaimma/h3b1rd584cpq8p60okoj01rnfigdcnia.m3u8
+https://alaimma.tv/live/index.m3u8
 #EXTINF:-1  tvg-logo="https://alaimma.tv/logo.png" group-title="11015-AL Aimm",Al-Aimma TV
-http://stream.alaimma.tv/hls/alaimma/h3b1rd584cpq8p60okoj01rnfigdcnia.m3u8
+https://hugh.cdn.rumble.cloud/live/hd37fm8g/live-hls/6emc-iktp/chunklist_480p_i1_DVR.m3u8
+#EXTINF:-1  tvg-logo="https://alaimma.tv/logo.png" group-title="11015-AL Aimm",Al-Aimma TV
+https://hugh.cdn.rumble.cloud/live/hd37fm8g/live-hls/6emc-iktp/chunklist_i1_DVR.m3u8
 #EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/xv1cilweULY/hqdefault.jpg" group-title="11022-Saut AL Aqila",صوت العقيلة
 https://nl.livekadeh.com/hls2/saoutalaqila.m3u8
 #EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="11022-Saut AL Aqila",Saut Alaqila
 https://nl2.livekadeh.com/hls2/saoutalaqila.m3u8
 #EXTINF:-1  tvg-logo="https://mahdawioun.tv/header.jpg" group-title="11023-Mahdawioun",Mahdawioun TV
-https://ffs3.gulfsat.com/Mahdawioun_TV/index.fmp4.m3u8
+https://live2.mylive.pro/stream/mahdawioun/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://mahdawioun.tv/header.jpg" group-title="11023-Mahdawioun",Mahdawioun TV
-https://ffs3.gulfsat.com/Mahdawioun_TV/tracks-a1/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://mahdawioun.tv/header.jpg" group-title="11023-Mahdawioun",Mahdawioun TV
-https://ffs3.gulfsat.com/Mahdawioun_TV/tracks-v1/index.fmp4.m3u8
+https://live2.mylive.pro/stream/mahdawioun/chunklist_1_video_UmQiwPs7_llhls.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen 1",Ch4teen 1
-http://ch14.tv/live/ch4teen1/playlist.m3u8
+https://ch14.tv/live/ch4teen1/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen 1",Ch4teen 1 HD
-http://ch14.tv:80/live/ch4teen1/playlist.m3u8
+https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 1
-http://ch14.tv/live/ch4teenlive1/playlist.m3u8
+https://ch14.tv/live/ch4teenlive1/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 2
-http://ch14.tv/live/ch4teenlive2/playlist.m3u8
+https://ch14.tv/live/ch4teenlive2/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 3
-http://ch14.tv/live/ch4teenlive3/playlist.m3u8
+https://ch14.tv/live/ch4teenlive3/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 4
-http://ch14.tv/live/ch4teenlive4/playlist.m3u8
+https://ch14.tv/live/ch4teenlive4/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 5
-http://ch14.tv/live/ch4teenlive5/playlist.m3u8
+https://ch14.tv/live/ch4teenlive5/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 6
+https://ch14.tv/live/ch4teenlive6/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 1 HD
-http://ch14.tv:80/live/ch4teenlive1/playlist.m3u8
+https://ch14.tv:80/live/ch4teenlive1/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 2 HD
-http://ch14.tv:80/live/ch4teenlive2/playlist.m3u8
+https://ch14.tv:80/live/ch4teenlive2/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 3 HD
-http://ch14.tv:80/live/ch4teenlive3/playlist.m3u8
+https://ch14.tv:80/live/ch4teenlive3/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 4 HD
-http://ch14.tv:80/live/ch4teenlive4/playlist.m3u8
+https://ch14.tv:80/live/ch4teenlive4/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 5 HD
-http://ch14.tv:80/live/ch4teenlive5/playlist.m3u8
+https://ch14.tv:80/live/ch4teenlive5/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 6 HD
+https://ch14.tv:80/live/ch4teenlive6/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="11026-Ch4teen Live",ch4teen
 https://ch14.tv/live/ch4teen1/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11030-Ch4teen Clip",Ch4teen Doc
+https://ch14.tv/live/ch4teendoc/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11030-Ch4teen Clip",Ch4teen Doc HD
+https://ch14.tv:80/live/ch4teendoc/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11030-Ch4teen Clip",Ch4teen Abbassia kafil
+https://ch14.tv/live/abbassia/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11030-Ch4teen Clip",Ch4teen Abbassia kafil HD
+https://ch14.tv:80/live/abbassia/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11030-Ch4teen Clip",Ch4teen Abbassia kafil
+https://1a-1791.com/live/qt9k24wa/live-hls/oo1k-ectv/chunklist_i1_DVR.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11030-Ch4teen Clip",Ch4teen Clip
-http://ch14.tv/live/ch4teenclip/playlist.m3u8
+https://ch14.tv/live/ch4teenclip/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11030-Ch4teen Clip",Ch4teen Clip HD
-http://ch14.tv:80/live/ch4teenclip/playlist.m3u8
+https://ch14.tv:80/live/ch4teenclip/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11030-Ch4teen Clip",Ch4teen Kids
+https://ch14.tv/live/ch4teenkids/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.iranvisitor.com/images/content_images/abdolazim2018.jpg" group-title="11031-Shah Abd-Al-Azeem",Shah Abd-Al-Azeem
 https://live.abdulazim.com/hls/abdulazim.m3u8
 #EXTINF:-1  tvg-logo="https://www.iranvisitor.com/images/content_images/abdolazim2018.jpg" group-title="11031-Shah Abd-Al-Azeem",Shah Abd-Al-Azeem
