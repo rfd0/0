@@ -294,13 +294,21 @@ https://media.imamali.net/design/live_amin_allah.mp3
 #EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/imam-ali-tv.jpeg" group-title="11001-AL Imam Ali",Imam Ali TV
 https://stream.wpbond.com/live/imamalitv.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",KARBALA TV HD
-http://77.137.40.221:8000/play/a048
+https://mediaserver.karbalatv.org/karbalatv_farsi/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",Karbala 720
+https://live.cdn.asset.aparat.com/18fe6da938168779274da0bf9dbeb0c8/livehls/karbala_tvfarsi_ltjnoi1_720p/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",Karbala 480
+https://live.cdn.asset.aparat.com/18fe6da938168779274da0bf9dbeb0c8/livehls/karbala_tvfarsi_ltjnoi1_480p/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",Karbala 360
+https://live.cdn.asset.aparat.com/18fe6da938168779274da0bf9dbeb0c8/livehls/karbala_tvfarsi_ltjnoi1_360p/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",Karbala 240
+https://live.cdn.asset.aparat.com/18fe6da938168779274da0bf9dbeb0c8/livehls/karbala_tvfarsi_ltjnoi1_240p/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",Karbala farsi
+https://mediaserver.karbalatv.org/karbalatv_farsi/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",Karbala Quran
 https://ktvlive.online/stream/hls/ch1.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",Karbala Doc
 https://ktvlive.online/stream/hls/ch3.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",Karbala
-https://stream.wpbond.com/live/karbalatv.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",Karbala Events
 https://ktvlive.online/stream/hls/ch2.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11004-Between Haramain live",Imam Hussain live
@@ -311,6 +319,32 @@ https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot3/manifest.m3u8
 #EXTINF:-1  tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png" group-title="11005-AL Kafeel",AL Kafeel Radio
 https://stream.alkafeel.net/live/radio/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+https://live.cdn.asset.aparat.com/4c228747cb7bac7a501dba3c1d3eea9a/livehls/ImamRezaTVLive_dfwq29q.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+https://live.cdn.asset.aparat.com/4c228747cb7bac7a501dba3c1d3eea9a/livehls/ImamRezaTVLive_dfwq29q_720p/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+https://live.cdn.asset.aparat.com/d8000d4b4eecc1f415754b4a0eee0096/livehls/razavitv_moy8ajd.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+https://live.cdn.asset.aparat.com/d8000d4b4eecc1f415754b4a0eee0096/livehls/razavitv_moy8ajd_240p/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+https://live.cdn.asset.aparat.com/d8000d4b4eecc1f415754b4a0eee0096/livehls/razavitv_moy8ajd_720p/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+https://live.cdn.asset.aparat.com/d8000d4b4eecc1f415754b4a0eee0096/livehls/razavitv_moy8ajd_360p/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+https://live.cdn.asset.aparat.com/d8000d4b4eecc1f415754b4a0eee0096/livehls/razavitv_moy8ajd_480p/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+https://live.cdn.asset.aparat.com/73ddb787b8d0b1231eb2c4286445396e/livehls/bab.alreza_ykd6w28.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+https://live.cdn.asset.aparat.com/73ddb787b8d0b1231eb2c4286445396e/livehls/bab.alreza_ykd6w28_240p/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+https://live.cdn.asset.aparat.com/73ddb787b8d0b1231eb2c4286445396e/livehls/bab.alreza_ykd6w28_720p/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+https://live.cdn.asset.aparat.com/73ddb787b8d0b1231eb2c4286445396e/livehls/bab.alreza_ykd6w28_720p/1790702867400.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+https://live.cdn.asset.aparat.com/73ddb787b8d0b1231eb2c4286445396e/livehls/bab.alreza_ykd6w28_240p/1790702869400.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+https://live.cdn.asset.aparat.com/73ddb787b8d0b1231eb2c4286445396e/livehls/bab.alreza_ykd6w28_720p/1790702873400.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine 1
 https://tv.razavi.ir/hls/rozeh.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine 2
@@ -329,6 +363,10 @@ https://tv.razavi.ir/hls/gonbad.m3u8
 https://eu4.fastcast4u.com/proxy/aabdul00?mp=/1
 #EXTINF:-1  tvg-logo="https://media.alnour.com.lb/uploads/logo-web.png" group-title="11006-AL Jawadain",al nour radio
 https://l3.itworkscdn.net/itwaudio/9066/stream
+#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain
+https://live.aljawadain.org/live/broadcast/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain
+https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain
 https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain
