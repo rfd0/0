@@ -291,20 +291,12 @@ https://qurango.net/radio/shaik_abu_bakr_al_shatri
 https://qurango.net/radio/yasser_aldosari
 #EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/imam-ali-tv.jpeg" group-title="11001-AL Imam Ali",Imam Ali TV
 https://stream.wpbond.com/live/imamalitv.m3u8
-#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11001-AL Imam Ali",Imam Ali TV
+#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11001-AL Imam Ali",Imam Ali Ziyarat
 https://media.imamali.net/design/live_amin_allah.mp3
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",KARBALA Tv
 https://stream.wpbond.com/live/karbalatv.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",KARBALA TV HD
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",KARBALA TV 1
 https://mediaserver.karbalatv.org/karbalatv_farsi/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",Karbala 720
-https://live.cdn.asset.aparat.com/18fe6da938168779274da0bf9dbeb0c8/livehls/karbala_tvfarsi_ltjnoi1_720p/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",Karbala 480
-https://live.cdn.asset.aparat.com/18fe6da938168779274da0bf9dbeb0c8/livehls/karbala_tvfarsi_ltjnoi1_480p/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",Karbala 360
-https://live.cdn.asset.aparat.com/18fe6da938168779274da0bf9dbeb0c8/livehls/karbala_tvfarsi_ltjnoi1_360p/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",Karbala 240
-https://live.cdn.asset.aparat.com/18fe6da938168779274da0bf9dbeb0c8/livehls/karbala_tvfarsi_ltjnoi1_240p/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",Karbala farsi
 https://mediaserver.karbalatv.org/karbalatv_farsi/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",Karbala Quran
@@ -317,35 +309,39 @@ https://ktvlive.online/stream/hls/ch2.m3u8
 https://ak.imamhussein.live/imhtv6live/imhtv6.smil/imhtv6publish/imhtv6_source/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png" group-title="11005-AL Kafeel",AL Kafeel
 https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png" group-title="11005-AL Kafeel",AL Kafeel
+#EXTINF:-1  tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png" group-title="11005-AL Kafeel",AL Kafeel 1
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot3/manifest.m3u8
 #EXTINF:-1  tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png" group-title="11005-AL Kafeel",AL Kafeel Radio
 https://stream.alkafeel.net/live/radio/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 1
+https://newlive.nasimrezvan.com/hls/Haramrazavi/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 2
+https://newlive.nasimrezvan.com/hls/Haramrazavi/720p/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 3
 https://live.cdn.asset.aparat.com/4c228747cb7bac7a501dba3c1d3eea9a/livehls/ImamRezaTVLive_dfwq29q.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 4
 https://live.cdn.asset.aparat.com/4c228747cb7bac7a501dba3c1d3eea9a/livehls/ImamRezaTVLive_dfwq29q_720p/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 5
 https://live.cdn.asset.aparat.com/d8000d4b4eecc1f415754b4a0eee0096/livehls/razavitv_moy8ajd.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 6
 https://live.cdn.asset.aparat.com/d8000d4b4eecc1f415754b4a0eee0096/livehls/razavitv_moy8ajd_240p/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 7
 https://live.cdn.asset.aparat.com/d8000d4b4eecc1f415754b4a0eee0096/livehls/razavitv_moy8ajd_720p/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 8
 https://live.cdn.asset.aparat.com/d8000d4b4eecc1f415754b4a0eee0096/livehls/razavitv_moy8ajd_360p/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 9
 https://live.cdn.asset.aparat.com/d8000d4b4eecc1f415754b4a0eee0096/livehls/razavitv_moy8ajd_480p/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 10
 https://live.cdn.asset.aparat.com/73ddb787b8d0b1231eb2c4286445396e/livehls/bab.alreza_ykd6w28.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 11
 https://live.cdn.asset.aparat.com/73ddb787b8d0b1231eb2c4286445396e/livehls/bab.alreza_ykd6w28_240p/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 12
 https://live.cdn.asset.aparat.com/73ddb787b8d0b1231eb2c4286445396e/livehls/bab.alreza_ykd6w28_720p/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 13
 https://live.cdn.asset.aparat.com/73ddb787b8d0b1231eb2c4286445396e/livehls/bab.alreza_ykd6w28_720p/1790702867400.ts
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 14
 https://live.cdn.asset.aparat.com/73ddb787b8d0b1231eb2c4286445396e/livehls/bab.alreza_ykd6w28_240p/1790702869400.ts
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 15
 https://live.cdn.asset.aparat.com/73ddb787b8d0b1231eb2c4286445396e/livehls/bab.alreza_ykd6w28_720p/1790702873400.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine 1
 https://tv.razavi.ir/hls/rozeh.m3u8
@@ -361,193 +357,191 @@ https://tv.razavi.ir/hls/goharshad.m3u8
 https://tv.razavi.ir/hls/jame.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine 7
 https://tv.razavi.ir/hls/gonbad.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine
-https://newlive.nasimrezvan.com/hls/Haramrazavi/index.m3u8
 #EXTINF:-1  tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/hpcgjgfyfjnv.jpg" group-title="11006-AL Jawadain",al Siraj radio
 https://eu4.fastcast4u.com/proxy/aabdul00?mp=/1
 #EXTINF:-1  tvg-logo="https://media.alnour.com.lb/uploads/logo-web.png" group-title="11006-AL Jawadain",al nour radio
 https://l3.itworkscdn.net/itwaudio/9066/stream
 #EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain tv
 https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain
+#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain 1
 https://live.aljawadain.org/live/broadcast/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain
+#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain 2
 https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain
+#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain 3
 https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain
+#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain 4
 https://live.aljawadain.org/live/broadcast/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain 5
+https://tv.razavi.ir/hls/rozeh.m3u8
 #EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain Radio
 https://live.aljawadain.org/live/radioaljawadain/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain
-https://tv.razavi.ir/hls/rozeh.m3u8
-#EXTINF:-1  tvg-logo="https://i0.wp.com/www.islamicinsights.com/wp-content/uploads/lady_fatima_masooma.jpg" group-title="11008-Fatima Al Maasoomah",Fatima Al Maasoomah
+#EXTINF:-1  tvg-logo="https://i0.wp.com/www.islamicinsights.com/wp-content/uploads/lady_fatima_masooma.jpg" group-title="11008-Fatima Al Maasoomah",Fatima Al Maasoomah 1
 https://media.tekye.net/play/sYggPj476DfV5s8xuc5UR27hUNSRIdkT.m3u8
-#EXTINF:-1  tvg-logo="https://i0.wp.com/www.islamicinsights.com/wp-content/uploads/lady_fatima_masooma.jpg" group-title="11008-Fatima Al Maasoomah",Fatima Al Maasoomah
+#EXTINF:-1  tvg-logo="https://i0.wp.com/www.islamicinsights.com/wp-content/uploads/lady_fatima_masooma.jpg" group-title="11008-Fatima Al Maasoomah",Fatima Al Maasoomah 2
 https://media.tekye.net/play/sYggPj476DfV5s8xuc5UR27hUNSRIdkT_src/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref 1
 https://amsterdam.zeuscdn724.com/CH-AL-MA/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref 2
 https://672a3a5c8e335.streamlock.net/AlMaaref/smil:almaareflive.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref 3
 https://amsterdam.zeuscdn724.com/CH-AL-MA/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref 4
 https://amsterdam.zeuscdn724.com/CH-AL-MA/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="11009-AL Maaref",AL Maaref 5
 https://amsterdam.zeuscdn724.com/CH-AL-MA/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1  tvg-logo="https://alaimma.tv/logo.png" group-title="11015-AL Aimm",Al-Aimma TV
+#EXTINF:-1  tvg-logo="https://alaimma.tv/logo.png" group-title="11015-AL Aimm",Al-Aimma TV 1
 https://alaimma.tv/live/index.m3u8
-#EXTINF:-1  tvg-logo="https://alaimma.tv/logo.png" group-title="11015-AL Aimm",Al-Aimma TV
+#EXTINF:-1  tvg-logo="https://alaimma.tv/logo.png" group-title="11015-AL Aimm",Al-Aimma TV 2
 https://hugh.cdn.rumble.cloud/live/hd37fm8g/live-hls/6emc-iktp/chunklist_480p_i1_DVR.m3u8
-#EXTINF:-1  tvg-logo="https://alaimma.tv/logo.png" group-title="11015-AL Aimm",Al-Aimma TV
+#EXTINF:-1  tvg-logo="https://alaimma.tv/logo.png" group-title="11015-AL Aimm",Al-Aimma TV 3
 https://hugh.cdn.rumble.cloud/live/hd37fm8g/live-hls/6emc-iktp/chunklist_i1_DVR.m3u8
 #EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/xv1cilweULY/hqdefault.jpg" group-title="11022-Saut AL Aqila",صوت العقيلة
 https://nl.livekadeh.com/hls2/saoutalaqila.m3u8
 #EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="11022-Saut AL Aqila",Saut Alaqila
 https://nl2.livekadeh.com/hls2/saoutalaqila.m3u8
-#EXTINF:-1  tvg-logo="https://mahdawioun.tv/header.jpg" group-title="11023-Mahdawioun",Mahdawioun TV
+#EXTINF:-1  tvg-logo="https://mahdawioun.tv/header.jpg" group-title="11023-Mahdawioun",Mahdawioun TV 1
 https://live.mylive.pro/stream/mahdawioun/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://mahdawioun.tv/header.jpg" group-title="11023-Mahdawioun",Mahdawioun TV
+#EXTINF:-1  tvg-logo="https://mahdawioun.tv/header.jpg" group-title="11023-Mahdawioun",Mahdawioun TV 2
 https://live2.mylive.pro/stream/mahdawioun/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://mahdawioun.tv/header.jpg" group-title="11023-Mahdawioun",Mahdawioun TV
+#EXTINF:-1  tvg-logo="https://mahdawioun.tv/header.jpg" group-title="11023-Mahdawioun",Mahdawioun TV 3
 https://live2.mylive.pro/stream/mahdawioun/chunklist_1_video_UmQiwPs7_llhls.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen 1",Ch4teen 1
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen 1
 https://ch14.tv/live/ch4teen1/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen 1",Ch4teen 1 HD
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen 1 HD
 https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 1
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Live 1
 https://ch14.tv/live/ch4teenlive1/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 2
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Live 2
 https://ch14.tv/live/ch4teenlive2/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 3
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Live 3
 https://ch14.tv/live/ch4teenlive3/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 4
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Live 4
 https://ch14.tv/live/ch4teenlive4/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 5
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Live 5
 https://ch14.tv/live/ch4teenlive5/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 6
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Live 6
 https://ch14.tv/live/ch4teenlive6/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 1 HD
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Live 1 HD
 https://ch14.tv:80/live/ch4teenlive1/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 2 HD
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Live 2 HD
 https://ch14.tv:80/live/ch4teenlive2/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 3 HD
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Live 3 HD
 https://ch14.tv:80/live/ch4teenlive3/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 4 HD
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Live 4 HD
 https://ch14.tv:80/live/ch4teenlive4/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 5 HD
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Live 5 HD
 https://ch14.tv:80/live/ch4teenlive5/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11026-Ch4teen Live",Ch4teen Live 6 HD
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Live 6 HD
 https://ch14.tv:80/live/ch4teenlive6/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="11026-Ch4teen Live",ch4teen
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="11025-Ch4teene",ch4teen
 https://ch14.tv/live/ch4teen1/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11030-Ch4teen Clip",Ch4teen Doc
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Doc
 https://ch14.tv/live/ch4teendoc/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11030-Ch4teen Clip",Ch4teen Doc HD
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Doc HD
 https://ch14.tv:80/live/ch4teendoc/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11030-Ch4teen Clip",Ch4teen Abbassia kafil
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Abbassia kafil
 https://ch14.tv/live/abbassia/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11030-Ch4teen Clip",Ch4teen Abbassia kafil HD
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Abbassia kafil HD
 https://ch14.tv:80/live/abbassia/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11030-Ch4teen Clip",Ch4teen Abbassia kafil
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Abbassia kafil
 https://1a-1791.com/live/qt9k24wa/live-hls/oo1k-ectv/chunklist_i1_DVR.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11030-Ch4teen Clip",Ch4teen Clip
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Clip
 https://ch14.tv/live/ch4teenclip/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11030-Ch4teen Clip",Ch4teen Clip HD
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Clip HD
 https://ch14.tv:80/live/ch4teenclip/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11030-Ch4teen Clip",Ch4teen Kids
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Kids
 https://ch14.tv/live/ch4teenkids/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.iranvisitor.com/images/content_images/abdolazim2018.jpg" group-title="11031-Shah Abd-Al-Azeem",Shah Abd-Al-Azeem
+#EXTINF:-1  tvg-logo="https://www.iranvisitor.com/images/content_images/abdolazim2018.jpg" group-title="11031-Shah Abd-Al-Azeem",Shah Abd-Al-Azeem 1
 https://live.abdulazim.com/hls/haram.m3u8
-#EXTINF:-1  tvg-logo="https://www.iranvisitor.com/images/content_images/abdolazim2018.jpg" group-title="11031-Shah Abd-Al-Azeem",Shah Abd-Al-Azeem
+#EXTINF:-1  tvg-logo="https://www.iranvisitor.com/images/content_images/abdolazim2018.jpg" group-title="11031-Shah Abd-Al-Azeem",Shah Abd-Al-Azeem 2
 https://live.abdulazim.com/hls/abdulazim.m3u8
-#EXTINF:-1  tvg-logo="https://www.iranvisitor.com/images/content_images/abdolazim2018.jpg" group-title="11031-Shah Abd-Al-Azeem",Shah Abd-Al-Azeem
+#EXTINF:-1  tvg-logo="https://www.iranvisitor.com/images/content_images/abdolazim2018.jpg" group-title="11031-Shah Abd-Al-Azeem",Shah Abd-Al-Azeem 3
 https://live.abdulazim.com/hls/hamzeh.m3u8
-#EXTINF:-1  tvg-logo="https://www.iranvisitor.com/images/content_images/abdolazim2018.jpg" group-title="11031-Shah Abd-Al-Azeem",Shah Abd-Al-Azeem
+#EXTINF:-1  tvg-logo="https://www.iranvisitor.com/images/content_images/abdolazim2018.jpg" group-title="11031-Shah Abd-Al-Azeem",Shah Abd-Al-Azeem 4
 https://live.abdulazim.com/hls/taher.m3u8
 #EXTINF:-1  tvg-logo="https://imamhussein2.tv/wp-content/uploads/2019/08/logowhite-1.png" group-title="11035-AL Imam Hussain 2",Imam Hussein TV 2
 https://ak.imamhussein.live/imhtv2live/imhtv2.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imamhussein2.tv/wp-content/uploads/2019/08/logowhite-1.png" group-title="11035-AL Imam Hussain 2",Imam Hussein TV 2
+#EXTINF:-1  tvg-logo="https://imamhussein2.tv/wp-content/uploads/2019/08/logowhite-1.png" group-title="11035-AL Imam Hussain 2",Imam Hussein TV 2 HD
 https://ak.imamhussein.live/imhtv2live/imhtv2.smil/imhtv2publish/imhtv2_source/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="11035-AL Imam Hussain 2",Imam Hussain 2
 https://live.imamhossaintv.com/live/ih2.m3u8
-#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/X0q8smjNr3jmUzapbz_jDAjpvOjGGVLnW-hvty1v80UIqSkRrBRy4zrqdchWs19sw-Ui81S48Q=s160-c-k-c0x00ffffff-no-rj" group-title="11036-AL Waai Al Shirazi Lebnan",Alwaai Shirazi Lebnan
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/X0q8smjNr3jmUzapbz_jDAjpvOjGGVLnW-hvty1v80UIqSkRrBRy4zrqdchWs19sw-Ui81S48Q=s160-c-k-c0x00ffffff-no-rj" group-title="11036-AL Waai Al Shirazi Lebnan",Alwaai Shirazi Lebnan 1
 https://vz-bbddacaf-0dc.b-cdn.net/36b9130b-d80f-4f18-ab3a-8477c86693e1/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/X0q8smjNr3jmUzapbz_jDAjpvOjGGVLnW-hvty1v80UIqSkRrBRy4zrqdchWs19sw-Ui81S48Q=s160-c-k-c0x00ffffff-no-rj" group-title="11036-AL Waai Al Shirazi Lebnan",Alwaai Shirazi Lebnan
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/X0q8smjNr3jmUzapbz_jDAjpvOjGGVLnW-hvty1v80UIqSkRrBRy4zrqdchWs19sw-Ui81S48Q=s160-c-k-c0x00ffffff-no-rj" group-title="11036-AL Waai Al Shirazi Lebnan",Alwaai Shirazi Lebnan 2
 https://vz-bbddacaf-0dc.b-cdn.net/36b9130b-d80f-4f18-ab3a-8477c86693e1/240p/video.m3u8
-#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/X0q8smjNr3jmUzapbz_jDAjpvOjGGVLnW-hvty1v80UIqSkRrBRy4zrqdchWs19sw-Ui81S48Q=s160-c-k-c0x00ffffff-no-rj" group-title="11036-AL Waai Al Shirazi Lebnan",Alwaai Shirazi Lebnan
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/X0q8smjNr3jmUzapbz_jDAjpvOjGGVLnW-hvty1v80UIqSkRrBRy4zrqdchWs19sw-Ui81S48Q=s160-c-k-c0x00ffffff-no-rj" group-title="11036-AL Waai Al Shirazi Lebnan",Alwaai Shirazi Lebnan 3
 https://vz-bbddacaf-0dc.b-cdn.net/36b9130b-d80f-4f18-ab3a-8477c86693e1/360p/video.m3u8
-#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/X0q8smjNr3jmUzapbz_jDAjpvOjGGVLnW-hvty1v80UIqSkRrBRy4zrqdchWs19sw-Ui81S48Q=s160-c-k-c0x00ffffff-no-rj" group-title="11036-AL Waai Al Shirazi Lebnan",Alwaai Shirazi Lebnan
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/X0q8smjNr3jmUzapbz_jDAjpvOjGGVLnW-hvty1v80UIqSkRrBRy4zrqdchWs19sw-Ui81S48Q=s160-c-k-c0x00ffffff-no-rj" group-title="11036-AL Waai Al Shirazi Lebnan",Alwaai Shirazi Lebnan 4
 https://ffs3.gulfsat.com/ALWAAI_ALSHIRAZI/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kout-tv-iq.png" group-title="11037-AL Waai Al Shirazi AlKout",Alwaai Shirazi AlKoutTv
 https://ffs.gulfsat.com/AlKoutTV/index.m3u8
-#EXTINF:-1  tvg-logo="https://abbasiya-kw.com/storage/89/655081496fa59_56816679.png" group-title="11038-AlAbasia AlHussainia Kuwait",AlHussainia AlAbasia Kuwait
+#EXTINF:-1  tvg-logo="https://abbasiya-kw.com/storage/89/655081496fa59_56816679.png" group-title="11038-AlAbasia AlHussainia Kuwait",AlHussainia AlAbasia Kuwait 1
 https://stream.cisk.tech/abbasiye/index.m3u8
-#EXTINF:-1  tvg-logo="https://abbasiya-kw.com/storage/89/655081496fa59_56816679.png" group-title="11038-AlAbasia AlHussainia Kuwait",AlHussainia AlAbasia Kuwait
+#EXTINF:-1  tvg-logo="https://abbasiya-kw.com/storage/89/655081496fa59_56816679.png" group-title="11038-AlAbasia AlHussainia Kuwait",AlHussainia AlAbasia Kuwait 2
 https://stream.cisk.tech/abbasiye/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://abbasiya-kw.com/storage/89/655081496fa59_56816679.png" group-title="11038-AlAbasia AlHussainia Kuwait",AlHussainia AlAbasia Kuwait
+#EXTINF:-1  tvg-logo="https://abbasiya-kw.com/storage/89/655081496fa59_56816679.png" group-title="11038-AlAbasia AlHussainia Kuwait",AlHussainia AlAbasia Kuwait 3
 https://stream.cisk.tech/abbasiye/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/al-wilayah-arabic.png" group-title="11034-Al Wilayah",Al Wilayah Arabic
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/al-wilayah-arabic.png" group-title="11034-Al Wilayah",Al Wilayah Arabic 1
 https://stream.wpbond.com/live/dua.m3u8
-#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/al-wilayah-arabic.png" group-title="11034-Al Wilayah",Al Wilayah Arabic
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/al-wilayah-arabic.png" group-title="11034-Al Wilayah",Al Wilayah Arabic 2
 https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
-#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/dua-channel.png" group-title="11033-Dua TV",Dua Channel
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/dua-channel.png" group-title="11033-Dua TV",Dua Channel 1
 https://amsterdam.zeuscdn724.com/H9/index.m3u8
-#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/dua-channel.png" group-title="11033-Dua TV",Dua Channel
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/dua-channel.png" group-title="11033-Dua TV",Dua Channel 2
 https://amsterdam.zeuscdn724.com/H9/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/dua-channel.png" group-title="11033-Dua TV",Dua Channel
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/dua-channel.png" group-title="11033-Dua TV",Dua Channel 3
 https://amsterdam.zeuscdn724.com/H9/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/dua-channel.png" group-title="11033-Dua TV",Dua Channel
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/dua-channel.png" group-title="11033-Dua TV",Dua Channel 4
 https://amsterdam.zeuscdn724.com/H9/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://play-lh.googleusercontent.com/tzr6B3xjOC64qwFtZ3aukl2xN4GdU_oZsgi0W7b_VH8zrskGOuDxJxT-cOCRQnfS44o" group-title="11040-Al Mosawi",الموسوي
 https://6250d12b67a59.streamlock.net/live/_definst_/smil:abr.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11047-AL Thaqalain",AL Thaqalain
 http://77.36.160.160:1935/videolive/thaghalayn/chunklist_w2024874225.m3u8
-#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11047-AL Thaqalain",AL Thaqalain
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11047-AL Thaqalain",AL Thaqalain 2
 http://77.36.160.164:1935/live4/thaghalayn/chunklist_w148808995.m3u8
 #EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11047-AL Thaqalain",Althaqalayn TV
 http://77.36.160.164:1935/live4/thaghalayn/chunklist_w1971075864.m3u8
-#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11047-AL Thaqalain",AL Thaqalain
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11047-AL Thaqalain",AL Thaqalain 3
 http://77.36.160.164:1935/live4/thaghalayn/chunklist_w2013147593.m3u8
-#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11047-AL Thaqalain",Althaqalayn TV
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11047-AL Thaqalain",Althaqalayn TV 4
 http://77.36.160.164:1935/live4/thaghalayn/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/gROQqFD.png" group-title="11048-AL Asil",Asil TV
 https://live.asil.tv/asiltv/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/gROQqFD.png" group-title="11048-AL Asil",Asil TV
+#EXTINF:-1  tvg-logo="https://i.imgur.com/gROQqFD.png" group-title="11048-AL Asil",Asil TV 2
 https://live.asil.tv/asiltv/tracks-v3a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://www.almanar.com.lb/framework/assets/images/logo-tech.png" group-title="11053-AL Manar",المنار
 https://e2.manar.live:9000/live/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11053-AL Manar",Al Manar
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11053-AL Manar",Al Manar 1
 https://edge.fastpublish.me/live/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11053-AL Manar",Al Manar
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11053-AL Manar",Al Manar 2
 https://edge.fastpublish.me/live/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11053-AL Manar",Al Manar
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11053-AL Manar",Al Manar 3
 https://edge.fastpublish.me/live/tracks-a1/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11053-AL Manar",Al Manar
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11053-AL Manar",Al Manar 4
 https://edge.fastpublish.me/live/tracks-a1/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11053-AL Manar",Al Manar
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11053-AL Manar",Al Manar 5
 https://edge.fastpublish.me/live/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11053-AL Manar",Al Manar
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11053-AL Manar",Al Manar 6
 https://edge.fastpublish.me/live/tracks-v1/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11053-AL Manar",Al Manar
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11053-AL Manar",Al Manar 7
 https://edge.fastpublish.me/live/tracks-v2/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11053-AL Manar",Al Manar
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11053-AL Manar",Al Manar 8
 https://edge.fastpublish.me/live/tracks-v2/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11053-AL Manar",Al Manar
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11053-AL Manar",Al Manar 9
 https://edge.fastpublish.me/live/tracks-v3/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11053-AL Manar",Al Manar
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11053-AL Manar",Al Manar 10
 https://edge.fastpublish.me/live/tracks-v3/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11053-AL Manar",Al Manar
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="11053-AL Manar",Al Manar 11
 https://edge.fastpublish.me/live/track-v2a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="11054-AL Mayadeen",Al Mayadeen Tv (Lebanon)
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="11055-AL Mayadeen",ALMAYADEEN PLUS
 http://77.137.40.221:8000/play/l04h
-#EXTINF:-1  tvg-logo="https://i.imgur.com/nFz5rhQ.jpg" group-title="11055-AL Sirat",الصراط
+#EXTINF:-1  tvg-logo="https://i.imgur.com/nFz5rhQ.jpg" group-title="11055-AL Sirat",الصراط 1
 https://svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/nFz5rhQ.jpg" group-title="11055-AL Sirat",الصراط
+#EXTINF:-1  tvg-logo="https://i.imgur.com/nFz5rhQ.jpg" group-title="11055-AL Sirat",الصراط 2
 https://softverse.b-cdn.net/Assirat/assiratobs/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/nFz5rhQ.jpg" group-title="11055-AL Sirat",الصراط
+#EXTINF:-1  tvg-logo="https://i.imgur.com/nFz5rhQ.jpg" group-title="11055-AL Sirat",الصراط 3
 https://softverse.b-cdn.net/Assirat/assiratobs/chunklist_w1430985190.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/nFz5rhQ.jpg" group-title="11056-Al Kawthar",Al Kawthar
 https://stream.wpbond.com/live/alkawthar.m3u8
