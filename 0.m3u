@@ -11,14 +11,10 @@ http://ch14.tv:80/live/ch4teenquran/playlist.m3u8
 http://82.212.74.2:8000/live/7307.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/er5hOK4.png" group-title="10001-Quran-TV",Bahrain Quran (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://qurantv.ir/styles/logo.png" group-title="10001-Quran-TV",IRIB Quran
-https://hidayat.wpbond.com/live/iribquran.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="10001-Quran-TV",Makkah TV (576p)
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w1500649238.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="10001-Quran-TV",Makkah TV (576p)
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/holy-quran-247.jpeg" group-title="10001-Quran-TV",Holy Quran 24/7 - Najaf - Iraq
-https://stream.wpbond.com/live/quran.m3u8
 #EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/2/1563160362.jpg" group-title="10002-Quran-Radio",stream - 96 kbit/s
 http://192.99.170.8:5550/stream/1/
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Quran_cover.jpg" group-title="10002-Quran-Radio",Radio coran
@@ -27,8 +23,6 @@ http://andromeda.shoutca.st:8189/stream
 http://edge.mixlr.com/channel/rwumx
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Quran_cover.jpg" group-title="10002-Quran-Radio",Maher Al Meaqli Radio
 http://live.mp3quran.net:8002/;
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Quran_cover.jpg" group-title="10002-Quran-Radio",Saad AlGhamdi Radio
-http://live.mp3quran.net:8004/;
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Quran_cover.jpg" group-title="10002-Quran-Radio",mp3quran main radio
 http://live.mp3quran.net:8006/;
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Quran_cover.jpg" group-title="10002-Quran-Radio",Ahmad Al ajmi Radio
@@ -281,14 +275,14 @@ https://qurango.net/radio/mohammed_ayyub
 https://qurango.net/radio/nabil_al_rifay
 #EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="10002-Quran-Radio",Nasser Al Qatami
 https://qurango.net/radio/nasser_alqatami
-#EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="10002-Quran-Radio",Saad Al Ghamidi
-https://qurango.net/radio/saad_alghamdi
 #EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="10002-Quran-Radio",Saud Al Shuraim
 https://qurango.net/radio/saud_alshuraim
 #EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="10002-Quran-Radio",Abu Bakr Al Shatri
 https://qurango.net/radio/shaik_abu_bakr_al_shatri
 #EXTINF:-1  tvg-logo="https://www.radio.pervii.com/im/0/1647481530.jpg" group-title="10002-Quran-Radio",Yasser Ad Dossary
 https://qurango.net/radio/yasser_aldosari
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/imam-ali-tv.jpeg" group-title="11001-AL Imam Ali",Imam Ali Shrine
+https://ch14.tv/live/ch4teenlive5/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/imam-ali-tv.jpeg" group-title="11001-AL Imam Ali",Imam Ali TV
 https://stream.wpbond.com/live/imamalitv.m3u8
 #EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/imam-ali-tv-8568.webp" group-title="11001-AL Imam Ali",Imam Ali Ziyarat
@@ -317,32 +311,6 @@ https://stream.alkafeel.net/live/radio/playlist.m3u8
 https://newlive.nasimrezvan.com/hls/Haramrazavi/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 2
 https://newlive.nasimrezvan.com/hls/Haramrazavi/720p/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 3
-https://live.cdn.asset.aparat.com/4c228747cb7bac7a501dba3c1d3eea9a/livehls/ImamRezaTVLive_dfwq29q.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 4
-https://live.cdn.asset.aparat.com/4c228747cb7bac7a501dba3c1d3eea9a/livehls/ImamRezaTVLive_dfwq29q_720p/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 5
-https://live.cdn.asset.aparat.com/d8000d4b4eecc1f415754b4a0eee0096/livehls/razavitv_moy8ajd.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 6
-https://live.cdn.asset.aparat.com/d8000d4b4eecc1f415754b4a0eee0096/livehls/razavitv_moy8ajd_240p/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 7
-https://live.cdn.asset.aparat.com/d8000d4b4eecc1f415754b4a0eee0096/livehls/razavitv_moy8ajd_720p/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 8
-https://live.cdn.asset.aparat.com/d8000d4b4eecc1f415754b4a0eee0096/livehls/razavitv_moy8ajd_360p/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 9
-https://live.cdn.asset.aparat.com/d8000d4b4eecc1f415754b4a0eee0096/livehls/razavitv_moy8ajd_480p/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 10
-https://live.cdn.asset.aparat.com/73ddb787b8d0b1231eb2c4286445396e/livehls/bab.alreza_ykd6w28.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 11
-https://live.cdn.asset.aparat.com/73ddb787b8d0b1231eb2c4286445396e/livehls/bab.alreza_ykd6w28_240p/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 12
-https://live.cdn.asset.aparat.com/73ddb787b8d0b1231eb2c4286445396e/livehls/bab.alreza_ykd6w28_720p/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 13
-https://live.cdn.asset.aparat.com/73ddb787b8d0b1231eb2c4286445396e/livehls/bab.alreza_ykd6w28_720p/1790702867400.ts
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 14
-https://live.cdn.asset.aparat.com/73ddb787b8d0b1231eb2c4286445396e/livehls/bab.alreza_ykd6w28_240p/1790702869400.ts
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 15
-https://live.cdn.asset.aparat.com/73ddb787b8d0b1231eb2c4286445396e/livehls/bab.alreza_ykd6w28_720p/1790702873400.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine 1
 https://tv.razavi.ir/hls/rozeh.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine 2
@@ -365,8 +333,6 @@ https://l3.itworkscdn.net/itwaudio/9066/stream
 https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain 1
 https://live.aljawadain.org/live/broadcast/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain 2
-https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain 3
 https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain 4
@@ -391,10 +357,6 @@ https://amsterdam.zeuscdn724.com/CH-AL-MA/tracks-v3a1/mono.ts.m3u8
 https://amsterdam.zeuscdn724.com/CH-AL-MA/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://alaimma.tv/logo.png" group-title="11015-AL Aimm",Al-Aimma TV 1
 https://alaimma.tv/live/index.m3u8
-#EXTINF:-1  tvg-logo="https://alaimma.tv/logo.png" group-title="11015-AL Aimm",Al-Aimma TV 2
-https://hugh.cdn.rumble.cloud/live/hd37fm8g/live-hls/6emc-iktp/chunklist_480p_i1_DVR.m3u8
-#EXTINF:-1  tvg-logo="https://alaimma.tv/logo.png" group-title="11015-AL Aimm",Al-Aimma TV 3
-https://hugh.cdn.rumble.cloud/live/hd37fm8g/live-hls/6emc-iktp/chunklist_i1_DVR.m3u8
 #EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/xv1cilweULY/hqdefault.jpg" group-title="11022-Saut AL Aqila",صوت العقيلة
 https://nl.livekadeh.com/hls2/saoutalaqila.m3u8
 #EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" group-title="11022-Saut AL Aqila",Saut Alaqila
@@ -407,6 +369,8 @@ https://live2.mylive.pro/stream/mahdawioun/playlist.m3u8
 https://live2.mylive.pro/stream/mahdawioun/chunklist_1_video_UmQiwPs7_llhls.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen 1
 https://ch14.tv/live/ch4teen1/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen 1 DVR
+https://1a-1791.com/live/kd32s8ur/live-hls/ozb3-ar66/chunklist_i1_DVR.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen 1 HD
 https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Live 1
@@ -421,34 +385,18 @@ https://ch14.tv/live/ch4teenlive4/playlist.m3u8
 https://ch14.tv/live/ch4teenlive5/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Live 6
 https://ch14.tv/live/ch4teenlive6/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Live 1 HD
-https://ch14.tv:80/live/ch4teenlive1/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Live 2 HD
-https://ch14.tv:80/live/ch4teenlive2/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Live 3 HD
-https://ch14.tv:80/live/ch4teenlive3/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Live 4 HD
-https://ch14.tv:80/live/ch4teenlive4/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Live 5 HD
-https://ch14.tv:80/live/ch4teenlive5/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Live 6 HD
-https://ch14.tv:80/live/ch4teenlive6/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="11025-Ch4teene",ch4teen
 https://ch14.tv/live/ch4teen1/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Doc
 https://ch14.tv/live/ch4teendoc/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Doc HD
-https://ch14.tv:80/live/ch4teendoc/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Abbassia kafil
 https://ch14.tv/live/abbassia/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Abbassia kafil HD
-https://ch14.tv:80/live/abbassia/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Abbassia kafil
 https://1a-1791.com/live/qt9k24wa/live-hls/oo1k-ectv/chunklist_i1_DVR.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Clip
 https://ch14.tv/live/ch4teenclip/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Clip HD
-https://ch14.tv:80/live/ch4teenclip/playlist.m3u8
+https://1a-1791.com/live/qt9k24wa/live-hls/za4o-wz80/chunklist_i1_DVR.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Kids
 https://ch14.tv/live/ch4teenkids/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.iranvisitor.com/images/content_images/abdolazim2018.jpg" group-title="11031-Shah Abd-Al-Azeem",Shah Abd-Al-Azeem 1
@@ -567,10 +515,6 @@ http://188.113.190.15/28/video.m3u8
 http://188.113.190.15/32/video.m3u8
 #EXTINF:-1  tvg-logo="" group-title="29999-Documentary",viju_History
 http://188.113.190.15/33/video.m3u8
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Space
-http://190.2.213.254:8000/play/a01w/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Discovery Turbo
-http://190.2.213.254:8000/play/a025/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Discovery ID
 http://190.60.37.154:45000/play/a044/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Space
@@ -579,18 +523,6 @@ http://190.60.37.154:45000/play/a04o/index.m3u8
 http://190.60.37.154:45000/play/a059/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Love Nature HD
 http://190.60.37.154:45000/play/a05g/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Discovery_HD
-http://77.137.40.221:8000/play/a00j
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Animal_Planet_HD
-http://77.137.40.221:8000/play/a00l
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Nat Geo Wild HD
-http://77.137.40.221:8000/play/a01t
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Al Jazeera Documentary HD
-http://77.137.40.221:8000/play/f04r
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",History_Channel_HD
-http://77.137.40.221:8000/play/t00m
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",AD Nat Geo HD
-http://77.137.40.221:8000/play/z03i
 #EXTINF:-1  tvg-logo="https://i.imgur.com/zGGeSQg.png" group-title="29999-Documentary",Kaifa TV (576p)
 http://82.212.74.2:8000/live/7311.m3u8
 #EXTINF:-1  tvg-logo="" group-title="29999-Documentary",NEWS 4K
@@ -667,106 +599,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f31fd1b4c510e00071
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36d726234ce10007784f2a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=518&deviceId=5f36d726234ce10007784f2a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Unsolved Mysteries ESP
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d882d5233170007ee880e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=934&deviceId=5f4d882d5233170007ee880e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Cars
-http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",The New Detectives
-http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5aea40b35126c2157123aa64/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Science
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Cars
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Spike Pluto TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Spike Pluto TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",True Crime
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812be1c249444e05d09cc50/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Paranormal
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Paranormal Files
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",The New Detectives
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5aea40b35126c2157123aa64/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Unsolved Mysteries
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",The Pet Collective
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Military
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Dog the Bounty Hunter
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Dog The Bounty Hunter
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Cold Case Files
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c37d6712de254456f7ec340/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Cold Case files
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c37d6712de254456f7ec340/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Spike Outdoors
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",FBI Files
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb6f6f9a461406ffe4022cf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Antiques Roadshow UK
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Investiga
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",5 Cops
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d2c571faeb3e2738ae27933/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",This Old House
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Court TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Lively Place
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc1cb279c91420009db261d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",5 Building Britain
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddf901280e3550009139c86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",COPS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089f23700009d66303/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Cops
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089f23700009d66303/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Full Custom Garage
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e78faa05a0e200007a6f487/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",America*s Test Kitchen
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Crime Investigation
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Smithsonian Channel Selects
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Ghost Hunters
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f27bbe4779de70007a6d1c1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Crime Drama
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",The Bob Ross Channel
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36d726234ce10007784f2a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Misterios sin resolver
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d882d5233170007ee880e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Dog The Bounty Hunter
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6b535a278bfe000799484a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",The Love Boat
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7794a788d29000079d2f07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Crime 360
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6000a5a9e767980007b497ca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Skills + Thrills
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6000a6f4c3f8550008fc9b91/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Tiny House Nation
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/601a0342dcf4370007566891/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Courtroom
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6036e6e7ac69c400072afca2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Mundo viajero
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60511efd71ec430007f50d97/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Dog Whisperer
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e453641239a700071f53a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Beyond Belief: Fact or Fiction
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611f85396abc84000738417b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Antiques Road Trip
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615b8ec39e878900073f419a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Travelxp
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Discover Film
-https://2953c6ed7ab54067823fe467ad9ed80f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_DiscoverFilm/playlist.m3u8?ads.wurl_channel=1009&ads.wurl_name=DiscoverFilm&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=FhW9DySeE_wn6iHN_coa&ads.plex_id=618198fe4e1b6764011b046a&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",discover.film
-https://33e805253f2141d7b493982e8f629523.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_DiscoverFilm/playlist.m3u8?ads.wurl_channel=580&ads.wurl_name=DiscoverFilm&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Law & Crime
-https://4e8223185173454299fbf03581b6dd7b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_LawAndCrime/playlist.m3u8?ads.wurl_channel=226&ads.wurl_name=LawandCrime&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1  tvg-logo="https://i.imgur.com/aX1GkCD.png" group-title="29999-Documentary",Midpen Media Center Government etc Channel 26 (720p)
 https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="29999-Documentary",Midpen Media Center Government etc Channel 29 (720p)
@@ -835,8 +669,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-haunttvaussam
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01597-wnetnewyorkpubl-pbsnature-lgus/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="29999-Documentary",History Film Channel
 https://d3e900fnvjyq99.cloudfront.net/d/DUG4JWOV4D85BJHELBLG/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657329
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",GoUSA TV
-https://d3f5a0c8f3fa46b2be317d584c2fff6b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_GoUSATV/playlist.m3u8?ads.wurl_channel=535&ads.wurl_name=GoUSATV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Unidentified
 https://d3ify425qsio2d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Unidentified-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Deluxe Lounge HD
@@ -871,8 +703,6 @@ https://linear-174.frequency.stream/dist/localnow/174/hls/master/playlist.m3u8
 https://linear-188.frequency.stream/dist/localnow/188/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="29999-Documentary",True History
 https://linear-188.frequency.stream/dist/plex/188/hls/master/playlist.m3u8?ads.plex_token=HJNpAsLWteW2_Q7vbySW&ads.plex_id=614398a08f30fa61e0da7c97&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1  tvg-logo="" group-title="29999-Documentary",True History
-https://linear-188.frequency.stream/dist/vizio/188/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Pursuit Up
 https://linear-205.frequency.stream/dist/localnow/205/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Wired2Fish
@@ -889,8 +719,6 @@ https://petclub-samsungaus.amagi.tv/playlist.m3u8
 https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Wild Earth
 https://wildearth-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/xIc5vKl.png" group-title="29999-Documentary",earthTV (1080p)
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="30001-Ch4teen Kids",Ch4teen Kids
 http://ch14.tv/live/ch4teenkids/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="30001-Ch4teen Kids",Ch4teen Kids HD
@@ -907,10 +735,6 @@ http://188.113.190.15/132/video.m3u8
 http://188.113.190.15/178/video.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv.png" group-title="39999-Kids",ZooPark
 http://188.113.190.15/46/video.m3u8
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv.png" group-title="39999-Kids",Disney Channel
-http://190.2.213.254:8000/play/a00b/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv.png" group-title="39999-Kids",Nick Jr
-http://190.2.213.254:8000/play/a024/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv.png" group-title="39999-Kids",Cartoon Network
 http://190.60.37.154:45000/play/a030/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv.png" group-title="39999-Kids",Discovery Kids
@@ -919,12 +743,6 @@ http://190.60.37.154:45000/play/a035/index.m3u8
 http://190.60.37.154:45000/play/a03a/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv.png" group-title="39999-Kids",Disney Channel
 http://190.60.37.154:45000/play/a03b/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Majd Kids TV HD
-http://77.137.40.221:8000/play/a03e
-#EXTINF:-1  tvg-logo="" group-title="39999-Kids",Toyor Aljanah
-http://77.137.40.221:8000/play/a047
-#EXTINF:-1  tvg-logo="" group-title="39999-Kids",SPACETOON ARABIC
-http://77.137.40.221:8000/play/a058
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv.png" group-title="39999-Kids",Kouka Toon
 http://iptv.icsnleb.com:25461/live//a/b//12.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv.png" group-title="39999-Kids",Kids
@@ -941,30 +759,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv.png" group-title="39999-Kids",Nick Latino
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=997&deviceId=5d8d08395f39465da6fb3ec4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/YCpnnmC3/kidzz.png" group-title="39999-Kids",Kids
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv.png" group-title="39999-Kids",Forever Kids by Pluto TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv.png" group-title="39999-Kids",Anime All Day
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="39999-Kids",Anime All Day
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv.png" group-title="39999-Kids",Nick Pluto TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv.png" group-title="39999-Kids",Nick Pluto TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv.png" group-title="39999-Kids",Nick Jr. Pluto TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv.png" group-title="39999-Kids",Nick Jr. Pluto TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv.png" group-title="39999-Kids",Nick en español
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="39999-Kids",Anime
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" group-title="39999-Kids",Yu-Gi-Oh
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv.png" group-title="39999-Kids",LEGO Kids TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb01a24795a6000762fe83/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv.png" group-title="39999-Kids",EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv.png" group-title="39999-Kids",NHRA TV
@@ -977,8 +771,6 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist_w449457930.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="49999-Iraq",Al Sharqiya (1080p)
 https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w1408191520.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="49999-Iraq",AL Sharqiya News (1080p)
-https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/kyzH3G5.png" group-title="49999-Iraq",Dijlah TV (1080p)
 https://ghaasiflu.online/Dijlah/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/kyzH3G5.png" group-title="49999-Iraq",Dijlah TV (1080p)
@@ -987,238 +779,82 @@ https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 https://ghaasiflu.online/Dijlah/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  tvg-logo="hhttps://i.imgur.com/9lOuzHQ.png" group-title="49999-Iraq",Inews
 https://i.imgur.com/9lOuzHQ.png" group-title="Iraq",Inews
-#EXTINF:-1  tvg-logo="https://i.ibb.co/sWWdpdH/1687955091062.jpg" group-title="49999-Iraq",AL Hurra Iraq
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/tiQp2sR.png" group-title="49999-Iraq",Al hurra (720p)
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/mNnyV1K/alhurra.png" group-title="49999-Iraq",AL HURRA
-https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/tiQp2sR.png" group-title="49999-Iraq",Al Hurra (720p)
-https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/merge.m3u8
 #EXTINF:-1  tvg-logo="https://i1.sndcdn.com/avatars-000321133036-pmaim7-t240x240.jpg" group-title="49999-Iraq",القمر
 https://streamer3.premio.link/alqamar/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="49999-Iraq",AL Sharqiya Min Kabla (1080p)
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="49999-Iraq",AL Sharqiya (1080p)
-https://svs.itworkscdn.net/smc1live/smc1.smil/smc1publish/smc1tvhd_720p/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://shialivetv.com/shialive/assets/img/press.jpg" group-title="50001-Press Eng",Press TV
-https://rumble.com/live-hls/4gdsw9/playlist.m3u8?
-#EXTINF:-1  tvg-logo="https://khojatv.com/img/logo.svg" group-title="50002-Khoja TV",Khoja TV
-https://livecdn.live247stream.com/khoja/tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://shialivetv.com/shialive/assets/img/ibnafrica.jpg" group-title="50005-IBN Eng",Ibn
-http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8
-#EXTINF:-1  tvg-logo="https://shialivetv.com/shialive/assets/img/ibnafrica.jpg" group-title="50005-IBN Eng",IBN Eng
-http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
-#EXTINF:-1  tvg-logo="https://shialivetv.com/shialive/assets/img/ibnafrica.jpg" group-title="50005-IBN Eng",IBN Africa
-http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="50007-Social Media Videos Eng 24/7",Social Media English 24/7
-https://stream.wpbond.com/live/socialenglish.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="50008-Imam Hussain 3 Eng",Imam Hussein TV 3 (1080p) [not 24/7]
-https://live.imamhossaintv.com/live/ih3.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="50009-Imam Hussain 1 farsi",Imam Hussein TV 1 Farsi (720p)
-https://fa.imamhusseintv.com/live/ih1.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="50009-Imam Hussain 1 farsi",Imam Hussein TV 1
-https://live.imamhossaintv.com/live/ih1.m3u8
-#EXTINF:-1  tvg-logo="https://shiachannel.in/livetv/img/channels/win.png" group-title="50010-WIN TV",Channel Win TV
-https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/chunks.m3u8
-#EXTINF:-1  tvg-logo="http://ahlebaittv.net/wp-content/uploads/2017/11/cropped-Ahlebait-Tv-Logo-for-Website.png" group-title="50011-Hidayat TV",Hidayat TV (1080)
-https://hidayat.wpbond.com/live/hidayat1.m3u8
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/bb/beitolabbas-tv-channel-iq.png" group-title="50014-Beitolabbas farsi",Beitolabbas TV Channel (720p)
+#EXTINF:-1  tvg-logo="AlIraqia.iq@SD" group-title="49999-Iraq",Al Iraqia (1080p)
+https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
+#EXTINF:-1  tvg-logo="AlIraqiaKurdish.iq@HD" group-title="49999-Iraq",Al Iraqia Kurdish (720p)
+https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
+#EXTINF:-1  tvg-logo="AlIraqiaNews.iq@SD" group-title="49999-Iraq",Al Iraqia News (720p)
+https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
+#EXTINF:-1  tvg-logo="AlIraqiaSport.iq@SD" group-title="49999-Iraq",Al Iraqia Sport (720p)
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+#EXTINF:-1  tvg-logo="AlJanoubTV.iq@SD" group-title="49999-Iraq",Al Janoub TV
+https://live.alissahost.net/hls/test.m3u8
+#EXTINF:-1  tvg-logo="AlRafidainTV.tr@SD" group-title="49999-Iraq",Al Rafidain (720p) [Not 24/7]
+https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8
+#EXTINF:-1  tvg-logo="AlRasheedTV.iq@SD" group-title="49999-Iraq",Al Rasheed TV (1080p) [Not 24/7]
+https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
+#EXTINF:-1  tvg-logo="AlSharqiya.iq@SD" group-title="49999-Iraq",Al Sharqiya (1080p)
+http://185.9.2.18/chid_144/index.m3u8
+#EXTINF:-1  tvg-logo="AlNaeemTV.iq@SD" group-title="49999-Iraq",Al-Naeem TV
+http://37.238.136.61/hls/stream.m3u8
+#EXTINF:-1  tvg-logo="AlabbassiaTV.iq@HD" group-title="49999-Iraq",Alabbassia TV (1080p)
+https://stream.alabbassia.com/live/alabbassia/index.m3u8
+#EXTINF:-1  tvg-logo="AlawlaTV.iq@SD" group-title="49999-Iraq",Alawla TV
+https://live.alawla.tv/hls/stream.m3u8
+#EXTINF:-1  tvg-logo="AlghadeerTV.iq@SD" group-title="49999-Iraq",Alghadeer TV (1080p)
+https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
+#EXTINF:-1  tvg-logo="AnwarTV2.iq@SD" group-title="49999-Iraq",Anwar TV2 (720p)
+https://cloud.odysee.live/content/f92670235a1ce2bce4cf77671cc4dcc2188baa1d/master.m3u8
+#EXTINF:-1  tvg-logo="BeitolAbbasTVChannel.iq@SD" group-title="49999-Iraq",BeitolAbbas TV Channel (720p)
 https://live.beitolabbas.tv/live/beitolabbastv.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="50017-Imam Hussain 4 Urdu",Imam Hussein TV 4 (1080p) [not 24/7]
+#EXTINF:-1  tvg-logo="EmanTv.iq@HD" group-title="49999-Iraq",EmanTv (1080p)
+https://avr.host247.net/live/emantv/playlist.m3u8
+#EXTINF:-1  tvg-logo="ImamHusseinTV1.iq@SD" group-title="49999-Iraq",Imam Hussein TV 1 (1080p) [Not 24/7]
+https://live.imamhossaintv.com/live/ih1.m3u8
+#EXTINF:-1  tvg-logo="ImamHusseinTV1.iq@SD" group-title="49999-Iraq",Imam Hussein TV 1 (1080p)
+http://fa.imamhossaintv.com/live/ih1.m3u8
+#EXTINF:-1  tvg-logo="ImamHusseinTV2.iq@SD" group-title="49999-Iraq",Imam Hussein TV 2 (1080p)
+http://ar.imamhossaintv.com/live/ih2.m3u8
+#EXTINF:-1  tvg-logo="ImamHusseinTV3.iq@SD" group-title="49999-Iraq",Imam Hussein TV 3 (1080p) [Not 24/7]
+https://live.imamhossaintv.com/live/ih3.m3u8
+#EXTINF:-1  tvg-logo="ImamHusseinTV3.iq@SD" group-title="49999-Iraq",Imam Hussein TV 3 (1080p)
+http://en.imamhossaintv.com/live/ih3.m3u8
+#EXTINF:-1  tvg-logo="ImamHusseinTV4.iq@SD" group-title="49999-Iraq",Imam Hussein TV 4 (1080p) [Not 24/7]
 https://live.imamhossaintv.com/live/ih4.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="50017-Imam Hussain 4 Urdu",Imam Hussein TV 4 Urdu (720p)
-https://ur.imamhusseintv.com/live/ih4.m3u8
-#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/5xdGpN0CtDcQp61QvZZcpWEwaWEbyZDInd63SQ4SkB393oVDRIuudls3Fr_LKeCAqLhSyaTf_k8=s900-c-k-c0x00ffffff-no-rj" group-title="50019-Al Qaim Urdu",Al Qaim Urdu
-http://cdn37.live247stream.com/qaim/tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://shiachannel.in/livetv/img/channels/zainabia.jpg" group-title="50020-Zainab Tv",Zainabia TV
-https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/reHjjRZ.png" group-title="50022-Hyder Urdu",Hyder Urdu
-http://cdn.live247stream.com/hyder/tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/8h4QqMlSLeFpH-cdAtJLAsG0j3yeYkoSGSKhsQHp_tA2ZWOsd2BmGGbQN8rpz-p4Y7Pb_2rziA=s900-c-k-c0x00ffffff-no-rj" group-title="50033-AL Zahra Turkish",الزهراء
-https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://shialivetv.com/shialive/assets/img/alzahratv.jpg" group-title="50033-AL Zahra Turkish",Al-Zahra TV Turkic (1080p)
-https://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://static.tv.ismaili/v2/2023/02/itv-logo-white1.png" group-title="50034-AL Ismaili TV",AL Ismaili TV
-https://stream-214680.castr.net/65dcad91056e0edda4cbce91/live_4a816ff0d7c511eeab33e1cc20aaf5d7/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://shialivetv.com/shialive/assets/img/salaam.jpg" group-title="59999-Islamic",Salaam TV
-https://iptv.salaamtv.org/salaam/playlist2/index.m3u8
-#EXTINF:-1  tvg-logo="https://live.alwafatarim.tv/assets/images/logo.png" group-title="59999-Islamic",AL Istiqama HD
-https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="70002-MBC",MBC 4
-http://154.58.202.18:8080/mbc4/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="70004-Food",Kuhnya
-http://188.113.190.15/314/video.m3u8
-#EXTINF:-1  tvg-logo="" group-title="70004-Food",Kuhnya
-http://188.113.190.15/38/video.m3u8
-#EXTINF:-1  tvg-logo="" group-title="70004-Food",Gordon Ramsay*s Kitchen
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=294&deviceId=5b4e99f4423e067bd6df6903&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1  tvg-logo="" group-title="70004-Food",Gordon Ramsay*s Hell*s Kitchen
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="70004-Food",Tastemade other
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmes16intl-xiaomi/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="70004-Food",Tastemade
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmes8intl-xiaomi/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="70004-Food",Gusto TV (CA)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvca-lgca/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="70004-Food",Planet Eat
-https://d2l54aoo3qropm.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/PlanetEat-DistroTV/262.m3u8
-#EXTINF:-1  tvg-logo="" group-title="70004-Food",Travel & Food TV
-https://d3e900fnvjyq99.cloudfront.net/d/IQIB8I0HHJLUE2S3AVCC/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657305
-#EXTINF:-1  tvg-logo="" group-title="70004-Food",FOOD NETWORK
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADgrhvLPIrtb3v2Tsmfj6md0&auth=d895d8cc4acb05054415f18d96085657ad37c865732b51f2d672e17d5d841f9d
-#EXTINF:-1  tvg-logo="" group-title="70004-Food",QVC
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="70004-Food",So Real
-https://soreal-localnow-cinedigm-com.akamaized.net/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="70004-Food",Tastemade (International)
-https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",MAKAN
-http://77.137.40.221:8000/play/a00y
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Alamwaj 1 HD
-http://77.137.40.221:8000/play/a014
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Alamwaj 2 HD
-http://77.137.40.221:8000/play/a015
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",One
-http://77.137.40.221:8000/play/a01v
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",LBC International
-http://77.137.40.221:8000/play/a01w
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",OTV
-http://77.137.40.221:8000/play/a01y
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",NBN
-http://77.137.40.221:8000/play/a01z
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Al Hadath
-http://77.137.40.221:8000/play/a023
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Al Hadath
-http://77.137.40.221:8000/play/a023
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Egyptian TV HD
-http://77.137.40.221:8000/play/a02f
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Palestine
-http://77.137.40.221:8000/play/a02g
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",AlAraby2
-http://77.137.40.221:8000/play/a02h
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",LIBYA ALHADATH HD
-http://77.137.40.221:8000/play/a02j
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Al Thania
-http://77.137.40.221:8000/play/a02l
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",LTV
-http://77.137.40.221:8000/play/a02p
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",AL Shams
-http://77.137.40.221:8000/play/a02s
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",LBC HD
-http://77.137.40.221:8000/play/a02y
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Ressala HD
-http://77.137.40.221:8000/play/a02z
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",AL JOMHORIA YEMEN TV
-http://77.137.40.221:8000/play/a031
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Al Masryia HD
-http://77.137.40.221:8000/play/a032
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Althanya
-http://77.137.40.221:8000/play/a034
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",AL NADA TV
-http://77.137.40.221:8000/play/a03a
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Al Emarat TV HD
-http://77.137.40.221:8000/play/a03d
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Al Emarat TV HD
-http://77.137.40.221:8000/play/a03d
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Baynounah TV
-http://77.137.40.221:8000/play/a03j
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Maspero Zaman
-http://77.137.40.221:8000/play/a03s
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Jordan HD
-http://77.137.40.221:8000/play/a03y
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",RT ARABIC HD
-http://77.137.40.221:8000/play/a03z
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Almamlaka TV
-http://77.137.40.221:8000/play/a040
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",AJMAN HD
-http://77.137.40.221:8000/play/a042
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",INEWS TV HD
-http://77.137.40.221:8000/play/a049
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Reef Alyemen
-http://77.137.40.221:8000/play/a04e
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Alatawla Hekayat
-http://77.137.40.221:8000/play/a04i
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Almagd TV
-http://77.137.40.221:8000/play/a04k
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Alsay3da
-http://77.137.40.221:8000/play/a04l
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Mosar3a 1
-http://77.137.40.221:8000/play/a04m
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Al Rayyan HD
-http://77.137.40.221:8000/play/a04s
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Al Rayyan Al Qadeem HD
-http://77.137.40.221:8000/play/a04t
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Al-Nahar One
-http://77.137.40.221:8000/play/a051
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",CBC
-http://77.137.40.221:8000/play/a053
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Extra News
-http://77.137.40.221:8000/play/a056
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",HYA
-http://77.137.40.221:8000/play/a05a
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",KAN 11 HD
-http://77.137.40.221:8000/play/a05b
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Nile TV
-http://77.137.40.221:8000/play/c033
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Nile News
-http://77.137.40.221:8000/play/c03l
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Nile Life
-http://77.137.40.221:8000/play/c03n
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Nile Sport
-http://77.137.40.221:8000/play/c03p
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Nile News HD
-http://77.137.40.221:8000/play/c03q
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Al Arabiya
-http://77.137.40.221:8000/play/e024
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Al Arabiya Business
-http://77.137.40.221:8000/play/e02c
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Al Jazeera HD
-http://77.137.40.221:8000/play/f04n
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Al Jazeera Mubasher HD
-http://77.137.40.221:8000/play/f04o
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Al Jazeera Mubasher 2 HD
-http://77.137.40.221:8000/play/f04p
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Al Jazeera English HD
-http://77.137.40.221:8000/play/f04q
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Dubai TV HD
-http://77.137.40.221:8000/play/k04u
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Dubai One HD
-http://77.137.40.221:8000/play/k04w
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",AlBald-Alamwaj
-http://77.137.40.221:8000/play/l00o
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Arabica
-http://77.137.40.221:8000/play/l020
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",AL SABAH
-http://77.137.40.221:8000/play/l02i
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",CN ARABIA
-http://77.137.40.221:8000/play/l02r
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Al Nas
-http://77.137.40.221:8000/play/l039
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Amman TV
-http://77.137.40.221:8000/play/l03v
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",ALJADEED TV HD
-http://77.137.40.221:8000/play/um1x
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Abu Dhabi TV HD
-http://77.137.40.221:8000/play/z03c
-#EXTINF:-1  tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="79999-Arabic",Ajyal TV (720p)
-http://htvmada.mada.ps:8888/ajyal/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",sada-el-arz-tv
-http://iptv.icsnleb.com:25461/live//a/b//1034.m3u8
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",tele Liban
-http://iptv.icsnleb.com:25461/live//a/b//19.m3u8
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",LB Sat
-http://iptv.icsnleb.com:25461/live//a/b//26.m3u8
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",cbc
-http://iptv.icsnleb.com:25461/live//a/b//83.m3u8
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Al-Istiqama
-http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Aljazeera
-http://live-hls-web-aja.getaj.net/AJA/04.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/jLYWYh7/Al-Jazeera.png" group-title="79999-Arabic",AL JAZEERA
-http://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Aljazeera Mubasher
-http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+#EXTINF:-1  tvg-logo="ImamHusseinTV4.iq@SD" group-title="49999-Iraq",Imam Hussein TV 4 (1080p)
+http://ur.imamhossaintv.com/live/ih4.m3u8
+#EXTINF:-1  tvg-logo="ImamHusseinTV5.iq@SD" group-title="49999-Iraq",Imam Hussein TV 5 (720p)
+http://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1  tvg-logo="ImamHusseinTV6.iq@SD" group-title="49999-Iraq",Imam Hussein TV 6 (1080p)
+http://live.imamhossaintv.com/live/ih6.m3u8
+#EXTINF:-1  tvg-logo="INews.iq@SD" group-title="49999-Iraq",iNEWS TV (1080p)
+https://live.i-news.tv/hls/stream.m3u8
+#EXTINF:-1  tvg-logo="IraqFuture.iq@SD" group-title="49999-Iraq",Iraq Future (480p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="IshtarTV.iq@SD" group-title="49999-Iraq",Ishtar TV (1080p)
+https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
+#EXTINF:-1  tvg-logo="MarjaeyatTVArabic.iq@SD" group-title="49999-Iraq",Marjaeyat TV Arabic (1080p)
+https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
+#EXTINF:-1  tvg-logo="MarjaeyatTVEnglish.iq@SD" group-title="49999-Iraq",Marjaeyat TV English (1080p)
+https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8
+#EXTINF:-1  tvg-logo="MarjaeyatTVPersian.iq@SD" group-title="49999-Iraq",Marjaeyat TV Persian (240p) [Not 24/7]
+https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
+#EXTINF:-1  tvg-logo="SamarraTV.iq@SD" group-title="49999-Iraq",Samarra TV
+https://live.bradosti.net/live/samaraweb_playlist.m3u8
+#EXTINF:-1  tvg-logo="SamarraTV.iq@SD" group-title="49999-Iraq",Samarra TV
+https://samarra.tv/proxy.php/hls/main3/playlist.m3u8
+#EXTINF:-1  tvg-logo="ShamsTV.iq@SD" group-title="49999-Iraq",Shams TV (1080p)
+https://stream.shams.tv/hls/stream.m3u8
+#EXTINF:-1  tvg-logo="UTV.iq@SD" group-title="49999-Iraq",UTV (1080p)
+https://utviraqi-live.lg.mncdn.com/utviraqi-live/64c80359/index.m3u8
+#EXTINF:-1  tvg-logo="AlSharqiya.iq@SD" group-title="49999-Iraq",Al Sharqiya (1080p)
+https://indexforce.com/tvhighres/mystream/playlist.m3u8
+#EXTINF:-1  tvg-logo="AlSharqiyaNews.iq@SD" group-title="49999-Iraq",Al Sharqiya News (1080p)
+https://indexforce.com/newshighres/mystream/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Al Horreya TV
 http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Al Horreya TV
@@ -1241,8 +877,6 @@ http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/5l7kw0b.png" group-title="79999-Arabic",Amman TV (720p)
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="79999-Arabic",Asharq News Portrait (1280p)
-https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/1UUjU26.png" group-title="79999-Arabic",Huda TV (720p) [Not 24/7]
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="79999-Arabic",MTA3 Al-Arabia (1080p)
@@ -1251,8 +885,6 @@ https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/740Znb4/ittihad.png" group-title="79999-Arabic",ETIHAD
 https://live.alittihad.tv:444/ittihad/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="79999-Arabic",MusawaChannel (1080p) [Not 24/7]
-https://pbc.furrera.ps/musawahd/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Mussawa
 https://pbc.furrera.ps/musawahd/tracks-v2a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Palestine Satellite Channel (1080p)
@@ -1271,62 +903,6 @@ https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png" group-title="79999-Arabic",BBC NEWS ARABIA
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="79999-Arabic",France 24 Arabic (1080p)
-https://ythls.armelin.one/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/ga6NXb9.png" group-title="79999-Arabic",AL Ghad (720p) [not 24/7]
-https://ythls.armelin.one/channel/UCH4UNKBHSNwstan99YDoCVg.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="79999-Arabic",SKY Arabic
-https://ythls.armelin.one/channel/UCIJXOvggjKtCagMfxvcCzAA.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/fY8UKs7.png" group-title="79999-Arabic",Halab Today TV (480p) [not 24/7]
-https://ythls.armelin.one/channel/UCnh5Faqn_r9HxeNd_dsvGHQ.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/opBXx1K.png" group-title="79999-Arabic",Cnbc Arabia (1080p)
-https://ythls.armelin.one/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
-#EXTINF:-1  tvg-logo="" group-title="89999-Sports",YAS Sports HD
-http://77.137.40.221:8000/play/a03h
-#EXTINF:-1  tvg-logo="" group-title="89999-Sports",SPORT5PLUSHD
-http://77.137.40.221:8000/play/k001
-#EXTINF:-1  tvg-logo="" group-title="89999-Sports",SPORT5LIVEHD
-http://77.137.40.221:8000/play/k00i
-#EXTINF:-1  tvg-logo="" group-title="89999-Sports",SPORT 1 HD
-http://77.137.40.221:8000/play/k016
-#EXTINF:-1  tvg-logo="" group-title="89999-Sports",SPORT 2 HD
-http://77.137.40.221:8000/play/k019
-#EXTINF:-1  tvg-logo="" group-title="89999-Sports",SPORT 3 HD
-http://77.137.40.221:8000/play/k01a
-#EXTINF:-1  tvg-logo="" group-title="89999-Sports",SPORT 4 HD
-http://77.137.40.221:8000/play/k01b
-#EXTINF:-1  tvg-logo="" group-title="89999-Sports",SPORT 5 HD
-http://77.137.40.221:8000/play/k01c
-#EXTINF:-1  tvg-logo="" group-title="89999-Sports",SPORT ONE HD
-http://77.137.40.221:8000/play/k01d
-#EXTINF:-1  tvg-logo="" group-title="89999-Sports",SPORT ONE 2 HD
-http://77.137.40.221:8000/play/k01f
-#EXTINF:-1  tvg-logo="" group-title="89999-Sports",SPORT 6 HD
-http://77.137.40.221:8000/play/k03w
-#EXTINF:-1  tvg-logo="" group-title="89999-Sports",DUBAI SPORTS 1 HD
-http://77.137.40.221:8000/play/k04x
-#EXTINF:-1  tvg-logo="" group-title="89999-Sports",DUBAI SPORTS 2 HD
-http://77.137.40.221:8000/play/k04y
-#EXTINF:-1  tvg-logo="" group-title="89999-Sports",DUBAI RACING 1 HD
-http://77.137.40.221:8000/play/k04z
-#EXTINF:-1  tvg-logo="" group-title="89999-Sports",DUBAI RACING 2 HD
-http://77.137.40.221:8000/play/k050
-#EXTINF:-1  tvg-logo="" group-title="89999-Sports",BEIN SPORT 3 HD
-http://77.137.40.221:8000/play/tjf16
-#EXTINF:-1  tvg-logo="" group-title="89999-Sports",BEIN SPORT 1 HD
-http://77.137.40.221:8000/play/tjf4
-#EXTINF:-1  tvg-logo="" group-title="89999-Sports",BEIN SPORT 2 HD
-http://77.137.40.221:8000/play/tjf5
-#EXTINF:-1  tvg-logo="" group-title="89999-Sports",BEIN SPORT 4 HD
-http://77.137.40.221:8000/play/tjf7
-#EXTINF:-1  tvg-logo="" group-title="89999-Sports",BEIN SPORT 5 HD
-http://77.137.40.221:8000/play/tjf8
-#EXTINF:-1  tvg-logo="" group-title="89999-Sports",BEIN SPORT 6 HD
-http://77.137.40.221:8000/play/tjf9
-#EXTINF:-1  tvg-logo="" group-title="89999-Sports",AD Sport 1 HD
-http://77.137.40.221:8000/play/z03f
-#EXTINF:-1  tvg-logo="" group-title="89999-Sports",AD Sport 2 HD
-http://77.137.40.221:8000/play/z03g
 #EXTINF:-1  tvg-logo="https://www.mp3quran.net/img/logo2.png" group-title="Audio-Qurans",عبدالباسط عبدالصمد - 1
 https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/001.mp3
 #EXTINF:-1  tvg-logo="https://www.mp3quran.net/img/logo2.png" group-title="Audio-Qurans",عبدالباسط عبدالصمد - 2
@@ -2431,8 +2007,6 @@ https://server10.mp3quran.net/ajm/095.mp3
 https://server10.mp3quran.net/ajm/096.mp3
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Quran_cover.jpg" group-title="Audio-Qurans",دابن علي العجمي - 097 القدر
 https://server10.mp3quran.net/ajm/097.mp3
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Quran_cover.jpg" group-title="Audio-Qurans",دابن علي العجمي - 098 البينة
-https://server10.mp3quran.net/ajm/098.mp3
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Quran_cover.jpg" group-title="Audio-Qurans",دابن علي العجمي - 099 الزلزلة
 https://server10.mp3quran.net/ajm/099.mp3
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Quran_cover.jpg" group-title="Audio-Qurans",دابن علي العجمي - 100 العاديات
@@ -6511,8 +6085,6 @@ https://almaareftv.net/Social_Video/Moc-0437.mp4
 https://almaareftv.net/Social_Video/Moc-0438.mp4
 #EXTINF:-1  tvg-logo="https://artic.al3yla.com/wp-content/uploads/almaareftv-1.jpg" group-title="Shorts",Shorts - رجال صدقوا
 https://almaareftv.net/Social_Video/Moc-0439.mp4
-#EXTINF:-1  tvg-logo="https://artic.al3yla.com/wp-content/uploads/almaareftv-1.jpg" group-title="Shorts",Shorts - اوبريت: وحشة يالي
-https://almaareftv.net/Social_Video/Moc-0464.mp4
 #EXTINF:-1  tvg-logo="https://artic.al3yla.com/wp-content/uploads/almaareftv-1.jpg" group-title="Shorts",Shorts - صلاة الأرواح البريئة
 https://almaareftv.net/Social_Video/Moc-0465.mp4
 #EXTINF:-1  tvg-logo="https://artic.al3yla.com/wp-content/uploads/almaareftv-1.jpg" group-title="Shorts",Shorts - فَلَم أرَ مَولى كَريماً أصبَرَ عَلى عَبدٍ لَئيمٍ مِنكَ عَلىَّ، يا رَبِّ
@@ -6619,10 +6191,6 @@ https://media.arabicradio.net/original/2019/08/13/637013188925411113video.mp4
 https://media.arabicradio.net/original/2019/08/18/637017139644896182video.mp4
 #EXTINF:-1  tvg-logo="https://s.cafebazaar.ir/images/icons/arabic.radio-c38b4c3d-b8b7-4932-ab8a-64c1f6c5613a_512x512.png" group-title="Video-Qurans",Video-Qurans-Shaban - سورة يونس.. تلاوة عطرة للقارئ الشيخ شعبان الصياد
 https://media.arabicradio.net/original/2019/08/19/637017999555546191video.mp4
-#EXTINF:-1  tvg-logo="https://s.cafebazaar.ir/images/icons/arabic.radio-c38b4c3d-b8b7-4932-ab8a-64c1f6c5613a_512x512.png" group-title="Video-Qurans",Video-Qurans-Hussary - آية الغدير.. بصوت الشيخ الحصري
-https://media.arabicradio.net/original/2019/08/21/637019765848400498video.mp4
-#EXTINF:-1  tvg-logo="https://s.cafebazaar.ir/images/icons/arabic.radio-c38b4c3d-b8b7-4932-ab8a-64c1f6c5613a_512x512.png" group-title="Video-Qurans",ideo-Qurans-Minshawi - الإنسان والفجر.. تلاوة رائعة للشيخ محمد صديق المنشاوي
-https://media.arabicradio.net/original/2019/09/16/637042181932885453video.mp4
 #EXTINF:-1  tvg-logo="https://s.cafebazaar.ir/images/icons/arabic.radio-c38b4c3d-b8b7-4932-ab8a-64c1f6c5613a_512x512.png" group-title="Video-Qurans",Video-Qurans-Shahat - سورة الملك.. تلاوة رائعة بصوت الشيخ محمود الشحات
 https://media.arabicradio.net/original/2019/09/21/637046506963814855video.mp4
 #EXTINF:-1  tvg-logo="https://s.cafebazaar.ir/images/icons/arabic.radio-c38b4c3d-b8b7-4932-ab8a-64c1f6c5613a_512x512.png" group-title="Video-Qurans",Video-Qurans-Shahat - سورة القيامة.. تلاوة رائعة للشيخ الشحات محمد أنور
