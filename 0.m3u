@@ -299,6 +299,8 @@ https://ktvlive.online/stream/hls/ch1.m3u8
 https://ktvlive.online/stream/hls/ch3.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",Karbala Events
 https://ktvlive.online/stream/hls/ch2.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11003-Karbala",Karbala Radio
+https://www.imamhussain-fm.com/radio/stream
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="11004-Between Haramain live",Imam Hussain live
 https://ak.imamhussein.live/imhtv6live/imhtv6.smil/imhtv6publish/imhtv6_source/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png" group-title="11005-AL Kafeel",AL Kafeel
@@ -307,6 +309,22 @@ https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot3/manifest.m3u8
 #EXTINF:-1  tvg-logo="https://alkafeel.tv/build/assets/logo.3047c6c4.png" group-title="11005-AL Kafeel",AL Kafeel Radio
 https://stream.alkafeel.net/live/radio/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/hpcgjgfyfjnv.jpg" group-title="11006-AL Jawadain",al Siraj radio
+https://eu4.fastcast4u.com/proxy/aabdul00?mp=/1
+#EXTINF:-1  tvg-logo="https://media.alnour.com.lb/uploads/logo-web.png" group-title="11006-AL Jawadain",al nour radio
+https://l3.itworkscdn.net/itwaudio/9066/stream
+#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain tv
+https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain 1
+https://live.aljawadain.org/live/broadcast/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain 3
+https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain 4
+https://live.aljawadain.org/live/broadcast/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain 5
+https://tv.razavi.ir/hls/rozeh.m3u8
+#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain Radio
+https://live.aljawadain.org/live/radioaljawadain/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 1
 https://newlive.nasimrezvan.com/hls/Haramrazavi/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha 2
@@ -325,22 +343,6 @@ https://tv.razavi.ir/hls/goharshad.m3u8
 https://tv.razavi.ir/hls/jame.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RezaShrine.jpg/960px-RezaShrine.jpg" group-title="11007-AL Ridha",imam Al Ridha Shrine 7
 https://tv.razavi.ir/hls/gonbad.m3u8
-#EXTINF:-1  tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/hpcgjgfyfjnv.jpg" group-title="11006-AL Jawadain",al Siraj radio
-https://eu4.fastcast4u.com/proxy/aabdul00?mp=/1
-#EXTINF:-1  tvg-logo="https://media.alnour.com.lb/uploads/logo-web.png" group-title="11006-AL Jawadain",al nour radio
-https://l3.itworkscdn.net/itwaudio/9066/stream
-#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain tv
-https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain 1
-https://live.aljawadain.org/live/broadcast/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain 3
-https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain 4
-https://live.aljawadain.org/live/broadcast/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain 5
-https://tv.razavi.ir/hls/rozeh.m3u8
-#EXTINF:-1  tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" group-title="11006-AL Jawadain",AL Jawadain Radio
-https://live.aljawadain.org/live/radioaljawadain/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i0.wp.com/www.islamicinsights.com/wp-content/uploads/lady_fatima_masooma.jpg" group-title="11008-Fatima Al Maasoomah",Fatima Al Maasoomah 1
 https://media.tekye.net/play/sYggPj476DfV5s8xuc5UR27hUNSRIdkT.m3u8
 #EXTINF:-1  tvg-logo="https://i0.wp.com/www.islamicinsights.com/wp-content/uploads/lady_fatima_masooma.jpg" group-title="11008-Fatima Al Maasoomah",Fatima Al Maasoomah 2
@@ -385,8 +387,6 @@ https://ch14.tv/live/ch4teenlive4/playlist.m3u8
 https://ch14.tv/live/ch4teenlive5/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Live 6
 https://ch14.tv/live/ch4teenlive6/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="11025-Ch4teene",ch4teen
-https://ch14.tv/live/ch4teen1/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Doc
 https://ch14.tv/live/ch4teendoc/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Abbassia kafil
@@ -399,6 +399,8 @@ https://ch14.tv/live/ch4teenclip/playlist.m3u8
 https://1a-1791.com/live/qt9k24wa/live-hls/za4o-wz80/chunklist_i1_DVR.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="11025-Ch4teen",Ch4teen Kids
 https://ch14.tv/live/ch4teenkids/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" group-title="11025-Ch4teene",ch4teen
+https://ch14.tv/live/ch4teen1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.iranvisitor.com/images/content_images/abdolazim2018.jpg" group-title="11031-Shah Abd-Al-Azeem",Shah Abd-Al-Azeem 1
 https://live.abdulazim.com/hls/haram.m3u8
 #EXTINF:-1  tvg-logo="https://www.iranvisitor.com/images/content_images/abdolazim2018.jpg" group-title="11031-Shah Abd-Al-Azeem",Shah Abd-Al-Azeem 2
@@ -407,6 +409,18 @@ https://live.abdulazim.com/hls/abdulazim.m3u8
 https://live.abdulazim.com/hls/hamzeh.m3u8
 #EXTINF:-1  tvg-logo="https://www.iranvisitor.com/images/content_images/abdolazim2018.jpg" group-title="11031-Shah Abd-Al-Azeem",Shah Abd-Al-Azeem 4
 https://live.abdulazim.com/hls/taher.m3u8
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/dua-channel.png" group-title="11033-Dua TV",Dua Channel 1
+https://amsterdam.zeuscdn724.com/H9/index.m3u8
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/dua-channel.png" group-title="11033-Dua TV",Dua Channel 2
+https://amsterdam.zeuscdn724.com/H9/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/dua-channel.png" group-title="11033-Dua TV",Dua Channel 3
+https://amsterdam.zeuscdn724.com/H9/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/dua-channel.png" group-title="11033-Dua TV",Dua Channel 4
+https://amsterdam.zeuscdn724.com/H9/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/al-wilayah-arabic.png" group-title="11034-Al Wilayah",Al Wilayah Arabic 1
+https://stream.wpbond.com/live/dua.m3u8
+#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/al-wilayah-arabic.png" group-title="11034-Al Wilayah",Al Wilayah Arabic 2
+https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
 #EXTINF:-1  tvg-logo="https://imamhussein2.tv/wp-content/uploads/2019/08/logowhite-1.png" group-title="11035-AL Imam Hussain 2",Imam Hussein TV 2
 https://ak.imamhussein.live/imhtv2live/imhtv2.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imamhussein2.tv/wp-content/uploads/2019/08/logowhite-1.png" group-title="11035-AL Imam Hussain 2",Imam Hussein TV 2 HD
@@ -429,18 +443,6 @@ https://stream.cisk.tech/abbasiye/index.m3u8
 https://stream.cisk.tech/abbasiye/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://abbasiya-kw.com/storage/89/655081496fa59_56816679.png" group-title="11038-AlAbasia AlHussainia Kuwait",AlHussainia AlAbasia Kuwait 3
 https://stream.cisk.tech/abbasiye/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/al-wilayah-arabic.png" group-title="11034-Al Wilayah",Al Wilayah Arabic 1
-https://stream.wpbond.com/live/dua.m3u8
-#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/al-wilayah-arabic.png" group-title="11034-Al Wilayah",Al Wilayah Arabic 2
-https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
-#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/dua-channel.png" group-title="11033-Dua TV",Dua Channel 1
-https://amsterdam.zeuscdn724.com/H9/index.m3u8
-#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/dua-channel.png" group-title="11033-Dua TV",Dua Channel 2
-https://amsterdam.zeuscdn724.com/H9/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/dua-channel.png" group-title="11033-Dua TV",Dua Channel 3
-https://amsterdam.zeuscdn724.com/H9/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1  tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/dua-channel.png" group-title="11033-Dua TV",Dua Channel 4
-https://amsterdam.zeuscdn724.com/H9/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://play-lh.googleusercontent.com/tzr6B3xjOC64qwFtZ3aukl2xN4GdU_oZsgi0W7b_VH8zrskGOuDxJxT-cOCRQnfS44o" group-title="11040-Al Mosawi",الموسوي
 https://6250d12b67a59.streamlock.net/live/_definst_/smil:abr.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" group-title="11047-AL Thaqalain",AL Thaqalain
@@ -499,6 +501,66 @@ http://77.137.40.221:8000/play/a04c
 http://ch14.tv/live/ch4teendoc/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://live.multies.net/wp-content/uploads/2021/08/Ch4Teen-TV.jpg" group-title="20003-Ch4teen Documentary",Ch4teen Documentary HD
 http://ch14.tv:80/live/ch4teendoc/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://now.asharq.com/_next/static/media/logo-new.f1e2bddc.svg" group-title="29999-Documentary",Asharq Documentary مباشر
+https://live-documentary.asharq.com/asharq.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/22030/logo_256_1705062195.jpg" group-title="29999-Documentary",Asharq Documentary مباشر
+https://uae.iptv2022.com/Asharq_Documentary/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/22030/logo_256_1705062195.jpg" group-title="29999-Documentary",Asharq Documentary مباشر
+https://uae.iptv2022.com/sh/Asharq_Documentary/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/22030/logo_256_1705062195.jpg" group-title="29999-Documentary",Asharq Documentary مباشر
+https://uae.iptv2022.com/sh/Asharq_Documentary/tracks-v3a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/22030/logo_256_1705062195.jpg" group-title="29999-Documentary",Asharq Discovery
+https://live-discovery.asharq.com/asharq.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/22030/logo_256_1705062195.jpg" group-title="29999-Documentary",Asharq Discovery مباشر
+https://uae.iptv2022.com/Asharq_Discovery/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/22030/logo_256_1705062195.jpg" group-title="29999-Documentary",Asharq Discovery مباشر
+https://uae.iptv2022.com/sh/Aj_TV/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/22030/logo_256_1705062195.jpg" group-title="29999-Documentary",Asharq Discovery مباشر
+https://uae.iptv2022.com/sh/Asharq_Discovery/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/22030/logo_256_1705062195.jpg" group-title="29999-Documentary",Asharq Discovery مباشر
+https://uae.iptv2022.com/sh/Asharq_Discovery/tracks-v3a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/22030/logo_256_1705062195.jpg" group-title="29999-Documentary",thaqafeyah
+https://live-thaqafeyah.asharq.com/asharq.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/22121/logo_256_1705326735.png" group-title="29999-Documentary",RT Eng Doc
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/27252/logo_256_1721648678.png" group-title="29999-Documentary",Al_Jazeera_Documentary
+https://uae.iptv2022.com/Al_Jazeera_Documentary/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/27252/logo_256_1721648678.png" group-title="29999-Documentary",Al_Jazeera_Documentary 1
+https://uae.iptv2022.com/sh/Al_Jazeera_Documentary/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/27252/logo_256_1721648678.png" group-title="29999-Documentary",Al_Jazeera_Documentary 2
+https://uae.iptv2022.com/sh/Al_Jazeera_Documentary/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36590/logo_256.jpeg" group-title="29999-Documentary",Travel Eyes مباشر
+https://helga.iptv2022.com/tourist_eyes/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36590/logo_256.jpeg" group-title="29999-Documentary",Travel Eyes مباشر 1
+https://uae.iptv2022.com/sh/tourist_eyes/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36590/logo_256.jpeg" group-title="29999-Documentary",Travel Eyes مباشر 2
+https://uae.iptv2022.com/sh/tourist_eyes/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36604/logo_256.png" group-title="29999-Documentary",Nature World مباشر
+https://helga.iptv2022.com/livenature/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36604/logo_256.png" group-title="29999-Documentary",Nature World مباشر 1
+https://uae.iptv2022.com/sh/livenature/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36604/logo_256.png" group-title="29999-Documentary",Nature World مباشر 2
+https://uae.iptv2022.com/sh/livenature/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36611/logo_256.webp" group-title="29999-Documentary",Home Living مباشر
+https://helga.iptv2022.com/home_4k/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36611/logo_256.webp" group-title="29999-Documentary",Home Living مباشر 1
+https://uae.iptv2022.com/sh/home_4k/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36611/logo_256.webp" group-title="29999-Documentary",Home Living مباشر 2
+https://uae.iptv2022.com/sh/home_4k/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36597/logo_256.webp" group-title="29999-Documentary",Active Living مباشر
+https://helga.iptv2022.com/zhivi_aktivno/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36597/logo_256.webp" group-title="29999-Documentary",Active Living مباشر 1
+https://uae.iptv2022.com/sh/zhivi_aktivno/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36597/logo_256.webp" group-title="29999-Documentary",Active Living مباشر 2
+https://uae.iptv2022.com/sh/zhivi_aktivno/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/23703/logo_256.png" group-title="29999-Documentary",NHK WORLD-JAPAN مباشر
+https://uae.iptv2022.com/NHK/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/23703/logo_256.png" group-title="29999-Documentary",NHK WORLD-JAPAN مباشر 1
+https://uae.iptv2022.com/sh/NHK/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/23703/logo_256.png" group-title="29999-Documentary",NHK WORLD-JAPAN مباشر 2
+https://uae.iptv2022.com/sh/NHK/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36163/logo_256.png" group-title="29999-Documentary",INTELLIGENCE مباشر
+https://uae.iptv2022.com/INTELLIGENCE/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Relax
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8?cur=tva.org.ua&key=3i277
 #EXTINF:-1  tvg-logo="" group-title="29999-Documentary",Ani
@@ -729,6 +791,30 @@ https://stream.starmenajo.com/hls/app/live/medialist_7806664055920539159_hls.m3u
 https://stream.wpbond.com/live/pooya.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv.png" group-title="30005-Kids Social Media 24/7",Kids Social Media 24/7
 https://stream.wpbond.com/live/socialkids.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36128/logo_256.png" group-title="39999-Kids",NIKKY مباشر
+https://uae.iptv2022.com/NIKKY/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36128/logo_256.png" group-title="39999-Kids",NIKKY مباشر  1
+https://uae.iptv2022.com/sh/NIKKY/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36128/logo_256.png" group-title="39999-Kids",NIKKY مباشر  2
+https://uae.iptv2022.com/sh/NIKKY/tracks-v3a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36135/logo_256.png" group-title="39999-Kids",BUDDY STAR مباشر
+https://uae.iptv2022.com/BUDDY_STAR/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36135/logo_256.png" group-title="39999-Kids",BUDDY STAR مباشر 1
+https://uae.iptv2022.com/sh/BUDDY_STAR/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36135/logo_256.png" group-title="39999-Kids",BUDDY STAR مباشر 2
+https://uae.iptv2022.com/sh/BUDDY_STAR/tracks-v3a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36142/logo_256.png" group-title="39999-Kids",FUNNY JUNIOR مباشر
+https://uae.iptv2022.com/FUNNY_JUNIOR/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36142/logo_256.png" group-title="39999-Kids",FUNNY JUNIOR مباشر  1
+https://uae.iptv2022.com/sh/FUNNY_JUNIOR/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36142/logo_256.png" group-title="39999-Kids",FUNNY JUNIOR مباشر  2
+https://uae.iptv2022.com/sh/FUNNY_JUNIOR/tracks-v3a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36149/logo_256.png" group-title="39999-Kids",SMARTY مباشر
+https://uae.iptv2022.com/DOCU_KIDS/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36149/logo_256.png" group-title="39999-Kids",SMARTY مباشر 1
+https://uae.iptv2022.com/sh/DOCU_KIDS/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36149/logo_256.png" group-title="39999-Kids",SMARTY مباشر 2
+https://uae.iptv2022.com/sh/DOCU_KIDS/tracks-v3a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv.png" group-title="39999-Kids",CTC_Kids
 http://188.113.190.15/132/video.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv.png" group-title="39999-Kids",Baby_Time
@@ -855,6 +941,60 @@ https://utviraqi-live.lg.mncdn.com/utviraqi-live/64c80359/index.m3u8
 https://indexforce.com/tvhighres/mystream/playlist.m3u8
 #EXTINF:-1  tvg-logo="AlSharqiyaNews.iq@SD" group-title="49999-Iraq",Al Sharqiya News (1080p)
 https://indexforce.com/newshighres/mystream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/23206/logo_256_1708409505.webp" group-title="79999-Arabic",alquran live
+https://uae.online/stream/hls/ch1.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/23605/logo_256_1710157236.jpg" group-title="79999-Arabic",alaraby tv
+https://uae.iptv2022.com/Aj_TV/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/23605/logo_256_1710157236.jpg" group-title="79999-Arabic",alaraby tv 1
+https://uae.iptv2022.com/sh/Aj_TV/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/23605/logo_256_1710157236.jpg" group-title="79999-Arabic",alaraby tv 2
+https://uae.iptv2022.com/sh/Aj_TV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/22877/logo_256_1707288924.jpg" group-title="79999-Arabic",DW مباشر
+https://uae.iptv2022.com/DW/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/22877/logo_256_1707288924.jpg" group-title="79999-Arabic",DW مباشر 1
+https://uae.iptv2022.com/sh/DW/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/22877/logo_256_1707288924.jpg" group-title="79999-Arabic",DW مباشر 2
+https://uae.iptv2022.com/sh/DW/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/22898/logo_256_1707292379.png" group-title="79999-Arabic",AL khalej مباشر
+https://uae.iptv2022.com/Al_Khalij_TV/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/22898/logo_256_1707292379.png" group-title="79999-Arabic",AL khalej مباشر 1
+https://uae.iptv2022.com/sh/Al_Khalij_TV/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/22898/logo_256_1707292379.png" group-title="79999-Arabic",AL khalej مباشر 2
+https://uae.iptv2022.com/sh/Al_Khalij_TV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/21862/logo_256_1703843738.jpg" group-title="79999-Arabic",CGTN مباشر
+https://uae.iptv2022.com/CGTN_A/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/21862/logo_256_1703843738.jpg" group-title="79999-Arabic",CGTN مباشر 1
+https://uae.iptv2022.com/sh/CGTN_A/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/21862/logo_256_1703843738.jpg" group-title="79999-Arabic",CGTN مباشر 2
+https://uae.iptv2022.com/sh/CGTN_A/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/22387/logo_256_1705477070.jpg" group-title="79999-Arabic",Al Hiwar مباشر
+https://uae.iptv2022.com/Al_Hiwar_TV/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/22387/logo_256_1705477070.jpg" group-title="79999-Arabic",Al Hiwar مباشر 1
+https://uae.iptv2022.com/sh/Al_Hiwar_TV/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/22387/logo_256_1705477070.jpg" group-title="79999-Arabic",Al Hiwar مباشر 2
+https://uae.iptv2022.com/sh/Al_Hiwar_TV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo=" https://cdn.technettv.com/channel/35512/logo_256.png" group-title="79999-Arabic",KTV Arabe مباشر
+https://uae.iptv2022.com/KTV_Arabe1/index.m3u8
+#EXTINF:-1  tvg-logo=" https://cdn.technettv.com/channel/35512/logo_256.png" group-title="79999-Arabic",KTV Arabe مباشر 1
+https://uae.iptv2022.com/sh/KTV_Arabe1/index.m3u8
+#EXTINF:-1  tvg-logo=" https://cdn.technettv.com/channel/35512/logo_256.png" group-title="79999-Arabic",KTV Arabe مباشر 2
+https://uae.iptv2022.com/sh/KTV_Arabe1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/35533/logo_256.png" group-title="79999-Arabic",KTV 1 مباشر
+https://uae.iptv2022.com/KTV_1/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/35533/logo_256.png" group-title="79999-Arabic",KTV 1 مباشر 1
+https://uae.iptv2022.com/sh/KTV_1/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/35533/logo_256.png" group-title="79999-Arabic",KTV 1 مباشر 2
+https://uae.iptv2022.com/sh/KTV_1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/35498/logo_256.jpg " group-title="79999-Arabic",قناة كويت الاخبارية مباشر KTV News
+https://uae.iptv2022.com/KTV_News/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/35498/logo_256.jpg " group-title="79999-Arabic",قناة كويت الاخبارية مباشر KTV News 1
+https://uae.iptv2022.com/sh/KTV_News/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/35498/logo_256.jpg " group-title="79999-Arabic",قناة كويت الاخبارية مباشر KTV News 2
+https://uae.iptv2022.com/sh/KTV_News/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/35505/logo_256.jpg" group-title="79999-Arabic",KTV Ehraa مباشر
+https://uae.iptv2022.com/KTV_Ehraa/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/35505/logo_256.jpg" group-title="79999-Arabic",KTV Ehraa مباشر 1
+https://uae.iptv2022.com/sh/KTV_Ehraa/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Al Horreya TV
 http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="79999-Arabic",Al Horreya TV
@@ -903,6 +1043,40 @@ https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png" group-title="79999-Arabic",BBC NEWS ARABIA
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/35505/logo_256.jpg" group-title="79999-Arabic",KTV Ehraa مباشر 2
+https://uae.iptv2022.com/sh/KTV_Ehraa/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36163/logo_256.png" group-title="89999-Sports",INTELLIGENCE مباشر 1
+https://uae.iptv2022.com/sh/INTELLIGENCE/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36163/logo_256.png" group-title="89999-Sports",INTELLIGENCE مباشر 2
+https://uae.iptv2022.com/sh/INTELLIGENCE/tracks-v3a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/35484/logo_256.jpg" group-title="89999-Sports",KTV Sport قناة الكويت سبورت مباشر
+https://uae.iptv2022.com/KTV_Sport/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/35484/logo_256.jpg" group-title="89999-Sports",KTV Sport قناة الكويت سبورت مباشر  1
+https://uae.iptv2022.com/sh/KTV_Sport/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/35484/logo_256.jpg" group-title="89999-Sports",KTV Sport قناة الكويت سبورت مباشر  2
+https://uae.iptv2022.com/sh/KTV_Sport/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/35491/logo_256.png" group-title="89999-Sports",KTV Sport Plus قناة كويت سبورت 2 مباشر
+https://uae.iptv2022.com/KTV_SportPlus/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/35491/logo_256.png" group-title="89999-Sports",KTV Sport Plus قناة كويت سبورت 2 مباشر 1
+https://uae.iptv2022.com/sh/KTV_SportPlus/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/35491/logo_256.png" group-title="89999-Sports",KTV Sport Plus قناة كويت سبورت 2 مباشر 2
+https://uae.iptv2022.com/sh/KTV_SportPlus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36100/logo_256.png" group-title="89999-Sports",SPORT RANGE مباشر
+https://uae.iptv2022.com/Sport_Range/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36100/logo_256.png" group-title="89999-Sports",SPORT RANGE مباشر 1
+https://uae.iptv2022.com/sh/Sport_Range/tracks-v3a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36114/logo_256.png" group-title="89999-Sports",FIGHTERS مباشر
+https://uae.iptv2022.com/Fighters/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36114/logo_256.png" group-title="89999-Sports",FIGHTERS مباشر 1
+https://uae.iptv2022.com/sh/Thunder/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36114/logo_256.png" group-title="89999-Sports",FIGHTERS مباشر 2
+https://uae.iptv2022.com/sh/Fighters/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36121/logo_256.png" group-title="89999-Sports",SPORT LEGENDS مباشر
+https://uae.iptv2022.com/Sport_Legends/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36121/logo_256.png" group-title="89999-Sports",SPORT LEGENDS مباشر 1
+https://uae.iptv2022.com/sh/Sport_Legends/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.technettv.com/channel/36121/logo_256.png" group-title="89999-Sports",SPORT LEGENDS مباشر 2
+https://uae.iptv2022.com/sh/Sport_Legends/tracks-v3a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://www.mp3quran.net/img/logo2.png" group-title="Audio-Qurans",عبدالباسط عبدالصمد - 1
 https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/001.mp3
 #EXTINF:-1  tvg-logo="https://www.mp3quran.net/img/logo2.png" group-title="Audio-Qurans",عبدالباسط عبدالصمد - 2
