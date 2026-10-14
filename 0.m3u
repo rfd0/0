@@ -357,12 +357,18 @@ https://media.tekye.net/play/sYggPj476DfV5s8xuc5UR27hUNSRIdkT_src/index.m3u8
 https://672a3a5c8e335.streamlock.net/AlMaaref/smil:almaareflive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QFnztgo.png"group-title="11009-AL Maaref",AL Maaref 1
 https://amsterdam.zeuscdn724.com/CH-AL-MA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QFnztgo.png"group-title="11009-AL Maaref",AL Maaref live
+https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QFnztgo.png"group-title="11009-AL Maaref",AL Maaref 3
 https://amsterdam.zeuscdn724.com/CH-AL-MA/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QFnztgo.png"group-title="11009-AL Maaref",AL Maaref 4
 https://amsterdam.zeuscdn724.com/CH-AL-MA/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QFnztgo.png"group-title="11009-AL Maaref",AL Maaref 5
 https://amsterdam.zeuscdn724.com/CH-AL-MA/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QFnztgo.png"group-title="11009-AL Maaref",AL Maaref live 2
+https://newyork.zeuscdn724.com/CH-AL-MA/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QFnztgo.png"group-title="11009-AL Maaref",AL Maaref live 3
+https://newyork.zeuscdn724.com/CH-AL-MA/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://alaimma.tv/logo.png"group-title="11015-AL Aimm",Al-Aimma TV 1
 https://alaimma.tv/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xv1cilweULY/hqdefault.jpg"group-title="11022-Saut AL Aqila",صوت العقيلة
@@ -447,12 +453,20 @@ https://vz-bbddacaf-0dc.b-cdn.net/36b9130b-d80f-4f18-ab3a-8477c86693e1/playlist.
 https://ffs.gulfsat.com/AlKoutTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://abbasiya-kw.com/storage/89/655081496fa59_56816679.png"group-title="11038-AlAbasia AlHussainia Kuwait",AlHussainia AlAbasia Kuwait 1
 https://stream.cisk.tech/abbasiye/index.m3u8
+#EXTINF:-1 tvg-logo="https://abbasiya-kw.com/storage/89/655081496fa59_56816679.png"group-title="11038-AlAbasia AlHussainia Kuwait",AlHussainia AlAbasia live 1
+https://alabbassia.com/live/alabbassiasecond/main_stream.m3u8
+#EXTINF:-1 tvg-logo="https://abbasiya-kw.com/storage/89/655081496fa59_56816679.png"group-title="11038-AlAbasia AlHussainia Kuwait",AlHussainia AlAbasia live
+https://alabbassia.com/live/alabbassiasecond/index.m3u8
 #EXTINF:-1 tvg-logo="https://abbasiya-kw.com/storage/89/655081496fa59_56816679.png"group-title="11038-AlAbasia AlHussainia Kuwait",AlHussainia AlAbasia Kuwait 2
 https://stream.cisk.tech/abbasiye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://abbasiya-kw.com/storage/89/655081496fa59_56816679.png"group-title="11038-AlAbasia AlHussainia Kuwait",AlHussainia AlAbasia Kuwait 3
 https://stream.cisk.tech/abbasiye/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/tzr6B3xjOC64qwFtZ3aukl2xN4GdU_oZsgi0W7b_VH8zrskGOuDxJxT-cOCRQnfS44o"group-title="11040-Al Mosawi",الموسوي
-https://6250d12b67a59.streamlock.net/live/_definst_/smil:abr.smil/playlist.m3u8
+https://s1.almoosawi.co/redirect/live/_definst_/smil:abr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/tzr6B3xjOC64qwFtZ3aukl2xN4GdU_oZsgi0W7b_VH8zrskGOuDxJxT-cOCRQnfS44o"group-title="11040-Al Mosawi",الموسوي 1
+https://s1.almoosawi.co/live/_definst_/smil:abr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/tzr6B3xjOC64qwFtZ3aukl2xN4GdU_oZsgi0W7b_VH8zrskGOuDxJxT-cOCRQnfS44o"group-title="11040-Al Mosawi",الموسوي 2
+https://s1.almoosawi.co/live/_definst_/smil:abr.smil/chunklist_w1127631930_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj"group-title="11047-AL Thaqalain",AL Thaqalain 2
 https://live.thaqalayn.tv/hls/thaqalayn/1_2/index.m3u8?tkn=1502179988
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj"group-title="11047-AL Thaqalain",Althaqalayn TV
