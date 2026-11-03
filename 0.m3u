@@ -559,6 +559,8 @@ http://149.62.183.134:9981/play/a04i
 http://149.62.183.134:9981/play/a008
 #EXTINF:-1  tvg-logo="" group-title="11058-AL MAYADEEN",|LB| AL MAYADEEN HD
 http://149.62.183.134:9981/play/a06k
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/I/51ktKmHafzL.png" group-title="29998-Relaxation",Merged Relaxation
+https://archive.org/download/merged-relaxations/Merged%20Relaxations.mp4
 #EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/I/51ktKmHafzL.png" group-title="29998-Relaxation",switzerland
 https://archive.org/download/switzerland-4-k-o-relaxation-film-with-beautiful-piano-music-o-relaxation-film-4-k-ultra-hd/SWITZERLAND%204K%20%E2%80%A2%20Relaxation%20Film%20with%20Beautiful%20Piano%20Music%20%E2%80%A2%20Relaxation%20Film%204K%20Ultra%20HD.mp4
 #EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/I/51ktKmHafzL.png" group-title="29998-Relaxation",ITALY
