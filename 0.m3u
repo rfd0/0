@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1  tvg-name="Quran TV" tvg-id="Quran TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" group-title="10001-Quran-TV",Quran
 https://hidayat.wpbond.com/live/iribquran.m3u8
 #EXTINF:-1  tvg-name="Quran TV" tvg-id="Quran TV" tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="10001-Quran-TV",Makkah TV (576p)
@@ -2939,7 +2939,7 @@ https://server13.mp3quran.net/husr/022.mp3
 https://server13.mp3quran.net/husr/021.mp3
 #EXTINF:-1  tvg-name="الحصري" tvg-id="الحصري" tvg-logo="https://www.mp3quran.net/img/logo2.png" group-title="Audio-Qurans",محمود خليل الحصري - 20
 https://server13.mp3quran.net/husr/020.mp3
-#EXTINF:-1  tvg-name="" tvg-id="الحصري" tvg-logo="https://www.mp3quran.net/img/logo2.png" group-title="Audio-Qurans",محمود خليل الحصري - 2
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.mp3quran.net/img/logo2.png" group-title="Audio-Qurans",محمود خليل الحصري - 2
 https://server13.mp3quran.net/husr/002.mp3
 #EXTINF:-1  tvg-name="الحصري" tvg-id="الحصري" tvg-logo="https://www.mp3quran.net/img/logo2.png" group-title="Audio-Qurans",محمود خليل الحصري - 19
 https://server13.mp3quran.net/husr/019.mp3
