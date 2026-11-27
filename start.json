@@ -1,0 +1,5 @@
+﻿{
+  "name": "Shia TV",
+  "version": "1.0.0",
+  "parameter": "menu:request:extended:https://msx.benzac.de/services/m3u.php?url=https%3A%2F%2Fraw.githubusercontent.com%2Frfd0%2F0%2F0%2F0.m3u"
+}
